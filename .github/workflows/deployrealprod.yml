@@ -10,14 +10,14 @@ on:
 jobs:
   deploy:
     name: Deploy real prod
-    runs-on: macos-12
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           ref: main
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
-          node-version: 18.x
+          node-version: 24
           cache: npm
 
 
@@ -70,4 +70,3 @@ jobs:
           git add -A
           git commit -m 'Update'
           git push
-
