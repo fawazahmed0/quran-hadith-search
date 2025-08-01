@@ -14,6 +14,14 @@
 | Arabic No | 6 |
 | Reference | Book 1 Hadith 6 |
 
+عن ابي هريرة رضي الله عنه، قال: سمعت رسول الله صلى الله عليه وسلم يقول: ان اول الناس يقضى يوم القيامة عليه رجل استشهد، فاتي به فعرفه نعمه فعرفها، قال: فما عملت فيها؟ قال قاتلت فيك حتى استشهدت، قال: كذبت، ولكنك قاتلت لان يقال: جريء، فقد قيل، ثم امر به فسحب على وجهه حتى القي في النار. ورجل تعلم العلم وعلمه وقرا القران، فاتي به، فعرفه نعمه فعرفها، قال: فما عملت فيها؟ قال: تعلمت العلم وعلمته، وقرات فيك القران، قال: كذبت، ولكنك تعلمت العلم ليقال: عالم، وقرات القران ليقال: هو قاري، فقد قيل، ثم امر به، فسحب على وجهه حتى القي في النار. ورجل وسع الله عليه، واعطاه من اصناف المال كله، فاتي به، فعرفه نعمه فعرفها، قال: فما عملت فيها؟ قال: ما تركت من سبيل تحب ان ينفق فيها الا انفقت فيها لك، قال: كذبت، ولكنك فعلت ليقال: هو جواد، فقد قيل، ثم امر به فسحب على وجهه، ثم القي في النار .(br)رواه مسلم (وكذلك الترمذي والنسايي)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6 |
+| Arabic No | 6 |
+| Reference | Book 1 Hadith 6 |
+
 ## English
 
 On the authority of Abu Hurayrah (may Allah be pleased with him), who said: I heard the Messenger of Allah (ﷺ) say: The first of people against whom judgment will be pronounced on the Day of Resurrection will be a man who died a martyr. He will be brought and Allah will make known to him His favours and he will recognize them. \[ The Almighty\] will say: And what did you do about them? He will say: I fought for you until I died a martyr. He will say: You have lied - you did but fight that it might be said \[of you\]: He is courageous. And so it was said. Then he will be ordered to be dragged along on his face until he is cast into Hell-fire. \[Another\] will be a man who has studied \[religious\] knowledge and has taught it and who used to recite the Quran. He will be brought and Allah will make known to him His favours and he will recognize them. \[The Almighty\] will say: And what did you do about them? He will say: I studied \[religious\] knowledge and I taught it and I recited the Quran for Your sake. He will say: You have lied - you did but study \[religious\] knowledge that it might be said \[of you\]: He is learned. And you recited the Quran that it might be said \[of you\]: He is a reciter. And so it was said. Then he will be ordered to be dragged along on his face until he is cast into Hell-fire. \[Another\] will be a man whom Allah had made rich and to whom He had given all kinds of wealth. He will be brought and Allah will make known to him His favours and he will recognize them. \[The Almighty\] will say: And what did you do about them? He will say: I left no path \[untrodden\] in which You like money to be spent without spending in it for Your sake. He will say: You have lied - you did but do so that it might be said \[of you\]: He is open-handed. And so it was said. Then he will be ordered to be dragged along on his face until he is cast into Hell-fire. It was related by Muslim (also by at-Tirmidhi and an-Nasa'i)

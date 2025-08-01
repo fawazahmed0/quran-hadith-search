@@ -14,6 +14,14 @@
 | Arabic No | 34 |
 | Reference | Book 1 Hadith 34 |
 
+عن انس رضي الله عنه ، قال : سمعت رسول الله صلى الله عليه و سلم ، يقول : قال الله تعالى : يا ابن ادم ، انك ما دعوتني ورجوتني ، غفرت لك على ما كان منك ولا ابالي . يا ابن ادم :لو بلغت ذنوبك عنان السماء ثم استغفرتني ، غفرت لك . يا ابن ادم : انك لو اتيتني بقراب الارض خطايا ثم لقيتني لا تشرك بي شيا ، لاتيتك بقرابها مغفرة رواه الترمذي (وكذلك احمد) وسنده حسن
+
+| References: |  |
+| --- | --- |
+| Hadith No | 34 |
+| Arabic No | 34 |
+| Reference | Book 1 Hadith 34 |
+
 ## English
 
 On the authority of Anas (may Allah be pleased with him), who said: I heard the Messenger of Allah (ﷺ) say: Allah the Almighty said: O son of Adam, so long as you call upon Me and ask of Me, I shall forgive you for what you have done, and I shall not mind. O son of Adam, were your sins to reach the clouds of the sky and were you then to ask forgiveness of Me, I would forgive you. O son of Adam, were you to come to Me with sins nearly as great as the earth and were you then to face Me, ascribing no partner to Me, I would bring you forgiveness nearly as great as it. It was related by at-Tirmidhi (also by Ahmad ibn Hanbal). Its chain of authorities is sound

@@ -14,6 +14,14 @@
 | Arabic No | 25 |
 | Reference | Book 1 Hadith 25 |
 
+لا شکر الله من لا یشکر الناس
+
+| References: |  |
+| --- | --- |
+| Hadith No | 25 |
+| Arabic No | 25 |
+| Reference | Book 1 Hadith 25 |
+
 ## English
 
 He does not thank Allah who does not thank people

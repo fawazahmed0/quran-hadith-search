@@ -14,6 +14,14 @@
 | Arabic No | 38 |
 | Reference | Book 1 Hadith 38 |
 
+عن ابي هريرة رضي الله عنه عن رسول الله صلى الله عليه و سلم قال لما خلق الله الجنة والنار ارسل جبريل الى الجنة فقال انظر اليها والى ما اعددت لاهلها فيها . قال: فجاءها ونظر اليها و الى ما اعدالله لاهلها فيها. قال: فرجع اليه قال: فوعزتك لا يسمع بها احد الا دخلها فامر بها فحفت بالمكاره فقال: ارجع اليها ، فانظر الى ما اعددت لاهلها فيها ، قال: فرجع اليها ، فاذا هي قد حفت بالمكاره ، فرجع اليه ، فقال: وعزتك لقد خفت ان لا يدخلها احد قال: اذهب الى النار فانظر اليها ، والى ما اعددت لاهلها فيها . فاذا هي يركب بعضها بعضا ، فرجع اليه ، فقال: و عزتك لا يسمع بها احد فيدخلها . فامر بها فحفت بالشهوات ، فقال: ارجع اليها ، فرجع اليها ، فقال: و عزتك لقد خشيت ان لا ينجو منها احد الا دخلها رواه الترمذي و قال حديث حسن صحيح و كذلك ابو داود والنسايي
+
+| References: |  |
+| --- | --- |
+| Hadith No | 38 |
+| Arabic No | 38 |
+| Reference | Book 1 Hadith 38 |
+
 ## English
 
 On the authority of Abu Hurayrah (may Allah be pleased with him), who said that the Messenger of Allah (ﷺ) said: When Allah created Paradise and Hell-fire, He sent Gabriel to Paradise, saying: Look at it and at what I have prepared therein for its inhabitants. The Prophet (ﷺ) said: So he came to it and looked at it and at what Allah had prepared therein for its inhabitants. The Prophet (ﷺ) said: So he returned to Him and said: By your glory, no one hears of it without entering it. So He ordered that it be encompassed by forms of hardship, and He said: Return to it and look at what I have prepared therein for its inhabitants. The Prophet (ﷺ) said: So he returned to it and found that it was encompassed by forms of hardship (1). Then he returned to Him and said: By Your glory, I fear that no one will enter it. He said: Go to Hell-fire and look at it and what I have prepared therein for its inhabitants, and he found that it was in layers, one above the other. Then he returned to Him and said: By Your glory, no one who hears of it will enter it. So He ordered that it be encompassed by lusts. Then He said: Return to it. And he returned to it and said: By Your glory, I am frightened that no one will escape from entering it. (1) The Arabic word used here is "makarih", the literal meaning of which is "things that are disliked". In this context it refers to forms of religious discipline that man usually finds onerous. It was related by Tirmidhi, who said that it was a good and sound Hadith (also by Abu Dawud and an-Nasa'i)

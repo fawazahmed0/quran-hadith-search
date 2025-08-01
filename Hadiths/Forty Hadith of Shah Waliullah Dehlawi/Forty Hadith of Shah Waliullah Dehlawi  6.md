@@ -14,6 +14,14 @@
 | Arabic No | 6 |
 | Reference | Book 1 Hadith 6 |
 
+استعینوا علی الحوايج بالکتمان
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6 |
+| Arabic No | 6 |
+| Reference | Book 1 Hadith 6 |
+
 ## English
 
 Seek help for any needs discreetly

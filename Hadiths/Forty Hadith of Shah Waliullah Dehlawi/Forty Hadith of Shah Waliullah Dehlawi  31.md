@@ -14,6 +14,14 @@
 | Arabic No | 31 |
 | Reference | Book 1 Hadith 31 |
 
+الیمین الفاجرة تدع الدیار البلاقع
+
+| References: |  |
+| --- | --- |
+| Hadith No | 31 |
+| Arabic No | 31 |
+| Reference | Book 1 Hadith 31 |
+
 ## English
 
 False oaths lay waste to home (lands)

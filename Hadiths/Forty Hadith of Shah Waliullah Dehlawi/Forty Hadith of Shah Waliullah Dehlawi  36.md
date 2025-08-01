@@ -14,6 +14,14 @@
 | Arabic No | 36 |
 | Reference | Book 1 Hadith 36 |
 
+اللهم بارك فی امتی فی بکورها یوم الخمیس
+
+| References: |  |
+| --- | --- |
+| Hadith No | 36 |
+| Arabic No | 36 |
+| Reference | Book 1 Hadith 36 |
+
 ## English
 
 O Allah, bless my nation in its early rising on Thursdays

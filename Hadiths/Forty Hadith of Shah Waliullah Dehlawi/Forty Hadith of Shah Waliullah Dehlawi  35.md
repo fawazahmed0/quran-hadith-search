@@ -14,6 +14,14 @@
 | Arabic No | 35 |
 | Reference | Book 1 Hadith 35 |
 
+خیر الامور اوسطها
+
+| References: |  |
+| --- | --- |
+| Hadith No | 35 |
+| Arabic No | 35 |
+| Reference | Book 1 Hadith 35 |
+
 ## English
 
 The best of affairs is that which is balanced

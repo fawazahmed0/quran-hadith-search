@@ -14,6 +14,14 @@
 | Arabic No | 29 |
 | Reference | Book 1 Hadith 29 |
 
+الشاهد یری ما لا یراه الغايب
+
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Arabic No | 29 |
+| Reference | Book 1 Hadith 29 |
+
 ## English
 
 The person who actually witnesses an (event) sees that which one who is absent does not

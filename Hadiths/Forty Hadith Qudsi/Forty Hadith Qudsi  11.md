@@ -14,6 +14,14 @@
 | Arabic No | 11 |
 | Reference | Book 1 Hadith 11 |
 
+عن ابي هريرة رضي الله عنه، ان رسول الله صلى الله عليه وسلم قال: قال الله: انفق يا ابن ادم، انفق عليك
+
+| References: |  |
+| --- | --- |
+| Hadith No | 11 |
+| Arabic No | 11 |
+| Reference | Book 1 Hadith 11 |
+
 ## English
 
 On the authority of Abu Harayrah (may Allah be pleased with him) from the Prophet (ﷺ), who said: Allah (mighty and sublime be He) said: Spend (on charity), O son of Adam, and I shall spend on you. It was related by al-Bukhari (also by Muslim)

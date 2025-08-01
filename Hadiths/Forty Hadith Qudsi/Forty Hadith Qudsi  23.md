@@ -14,6 +14,14 @@
 | Arabic No | 23 |
 | Reference | Book 1 Hadith 23 |
 
+عن ابي هريرة رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم : ان الله تبارك وتعالى يقول يوم القيامة: اين المتحابون بجلالي؟ اليوم اظلهم في ظلي يوم لا ظل الا ظلي رواه البخاري (وكذلك مالك)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 23 |
+| Arabic No | 23 |
+| Reference | Book 1 Hadith 23 |
+
 ## English
 
 On the authority of Abu Hurayrah (may Allah be pleased with him), who said that the Messenger of Allah (ﷺ) said: Allah will say on the Day of Resurrection: Where are those who love one another through My glory? Today I shall give them shade in My shade, it being a day when there is no shade but My shade. It was related by al-Bukhari (also by Malik)

@@ -14,6 +14,14 @@
 | Arabic No | 14 |
 | Reference | Book 1 Hadith 14 |
 
+عن ابي هريرة رضي الله عنه، عن النبي صلى الله عليه وسلم قال: ان لله تبارك وتعالى ملايكة سيارة فضلا(1)، يتتبعون مجالس الذكر، فاذا وجدوا مجلسا فيه ذكر، قعدوا معهم، وحف بعضهم بعضا باجنحتهم، حتى يملاوا ما بينهم وبين السماء الدنيا، فاذاانصرفوا عرجوا وصعدوا الى السماء، قال (2) : فيسالهم الله عز وجل وهو اعلم بهم: من اين جيتم؟ فيقولون: جينا من عند عباد لك في الارض، يسبحونك ويكبرونك ويهللونك ويحمدونك ويسالونك، قال: وما يسالوني؟ قالوا يسالونك جنتك، قال: وهل راوا جنتي؟ قالوا: لا اي رب، قال: فكيف لو راوا جنتي! قالوا: ويستجيرونك، قال: ومم يستجيروني؟ قالوا: من نارك يا رب، قال: وهل راوا ناري؟ قالوا: لا، قال: فكيف لو راوا ناري! قالوا: ويستغفرونك، قال (1) فيقول: قد غفرت لهم، واعطيتهم ما سالوا، واجرتهم مما استجاروا، قال(1) يقولون: رب فيهم فلان، عبد خطاء انما مر فجلس معهم، قال(1): فيقول: وله غفرت؛ هم القوم، لا يشقى بهم جليسهم رواه مسلم وكذلك البخاري والترمذي والنسايي
+
+| References: |  |
+| --- | --- |
+| Hadith No | 14 |
+| Arabic No | 14 |
+| Reference | Book 1 Hadith 14 |
+
 ## English
 
 On the authority of Abu Hurayrah (may Allah be pleased with him) from the Prophet (ﷺ), who said: Allah (glorified and exalted be He) has supernumerary angels who rove about seeking out gatherings in which Allah's name is being invoked: they sit with them and fold their wings round each other, filling that which is between them and between the lowest heaven. When \[the people in the gathering\] depart, \[the angels\] ascend and rise up to heaven. He (the Prophet (ﷺ)) said: Then Allah (mighty and sublime be He) asks them - \[though\] He is most knowing about them: From where have you come? And they say: We have come from some servants of Yours on Earth: they were glorifying You (Subhana llah), exalting you (Allahu akbar), witnessing that there is no god but You (La ilaha illa llah), praising You (Al-Hamdu lillah), and asking \[favours\] of You. He says: And what do they ask of Me? They say: They ask of You Your Paradise. He says: And have they seen My Paradise? They say: No, O Lord. He says: And how would it be were they to have seen My Paradise! They say: And they ask protection of You. He says: From what do they ask protection of Me? They say: From Your Hell-fire, O Lord. He says: And have they seen My Hell-fire? They say: NO. He says: And how would it be were they to have seen My Hell-fire: They say: And they ask for Your forgiveness. He (the Prophet (ﷺ)) said: Then He says: I have forgiven them and I have bestowed upon them what they have asked for, and I have granted them sanctuary from that from which they asked protection. He (the Prophet (ﷺ) ﷺ) said: They say: O Lord, among them is So-and-so, a much sinning servant, who was merely passing by and sat down with them. He (the Prophet (ﷺ) ﷺ) said: And He says: And to him \[too\] I have given forgiveness: he who sits with such people shall not suffer. It was related by Muslim (also by al-Bukhari, at-Tirmidhi, and an-Nasa'i)

@@ -14,6 +14,14 @@
 | Arabic No | 5 |
 | Reference | Book 1 Hadith 5 |
 
+عن ابي هريرة رضي الله عنه، قال: قال رسول الله صلى الله عليه وسلم: قال الله تبارك وتعالى: انا اغنى الشركاء عن الشرك؛ من عمل عملا اشرك معي غيري(1)، تركته وشركه .(br)رواه مسلم (وكذلك ابن ماجه)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5 |
+| Arabic No | 5 |
+| Reference | Book 1 Hadith 5 |
+
 ## English
 
 On the authority of Abu Hurayrah (may Allah be pleased with him), who said that the Messenger of Allah (ﷺ) said: Allah (glorified and exalted be He) said: I am so self-sufficient that I am in no need of having an associate. Thus he who does an action for someone else's sake as well as Mine will have that action renounced by Me to him whom he associated with Me. It was related by Muslim (also by Ibn Majah)

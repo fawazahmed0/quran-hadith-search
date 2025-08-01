@@ -14,6 +14,14 @@
 | Arabic No | 40 |
 | Reference | Book 1 Hadith 40 |
 
+المجالس بالامانة
+
+| References: |  |
+| --- | --- |
+| Hadith No | 40 |
+| Arabic No | 40 |
+| Reference | Book 1 Hadith 40 |
+
 ## English
 
 Meetings are under trust

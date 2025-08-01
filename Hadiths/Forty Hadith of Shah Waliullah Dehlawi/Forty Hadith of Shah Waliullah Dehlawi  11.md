@@ -14,6 +14,14 @@
 | Arabic No | 11 |
 | Reference | Book 1 Hadith 11 |
 
+لا یحل لمومن ان یجهر اخاه فوق ثلاثة ایام
+
+| References: |  |
+| --- | --- |
+| Hadith No | 11 |
+| Arabic No | 11 |
+| Reference | Book 1 Hadith 11 |
+
 ## English
 
 It is unlawful for a believer to sever relations with his brother for more than three days

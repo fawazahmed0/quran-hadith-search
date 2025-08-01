@@ -14,6 +14,14 @@
 | Arabic No | 9 |
 | Reference | Book 1 Hadith 9 |
 
+الحیاء خیر کله
+
+| References: |  |
+| --- | --- |
+| Hadith No | 9 |
+| Arabic No | 9 |
+| Reference | Book 1 Hadith 9 |
+
 ## English
 
 Modesty is entirely good

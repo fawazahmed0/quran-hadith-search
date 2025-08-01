@@ -14,6 +14,14 @@
 | Arabic No | 23 |
 | Reference | Book 1 Hadith 23 |
 
+الولد للفراش و للعاهر الحجر
+
+| References: |  |
+| --- | --- |
+| Hadith No | 23 |
+| Arabic No | 23 |
+| Reference | Book 1 Hadith 23 |
+
 ## English
 
 The child belongs to the bed and stoning is for the adulterer

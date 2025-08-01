@@ -14,6 +14,14 @@
 | Arabic No | 12 |
 | Reference | Book 1 Hadith 12 |
 
+لیس منا من غشنا
+
+| References: |  |
+| --- | --- |
+| Hadith No | 12 |
+| Arabic No | 12 |
+| Reference | Book 1 Hadith 12 |
+
 ## English
 
 He is not one of us who cheats us

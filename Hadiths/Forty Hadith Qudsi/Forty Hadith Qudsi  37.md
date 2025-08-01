@@ -14,6 +14,14 @@
 | Arabic No | 37 |
 | Reference | Book 1 Hadith 37 |
 
+عن ابي هريرة رضي الله عنه قال : قال رسول الله صلى الله عليه و سلم قال الله اعددت لعبادي الصالحين ما لا عين رات و لا اذن سمعت ولا خطر على قلب بشر فاقراوا ان شيتم : فلا تعلم نفس ما اخفي لهم من قرة اعين رواه البخاري و مسلم والترمذي وابن ماجه
+
+| References: |  |
+| --- | --- |
+| Hadith No | 37 |
+| Arabic No | 37 |
+| Reference | Book 1 Hadith 37 |
+
 ## English
 
 On the authority of Abu Hurayrah (may Allah be pleased with him), who said that the Messenger of Allah (ﷺ) said: Allah said: I have prepared for My righteous servants what no eye has seen and no ear has heard, not has it occurred to human heart. Thus recite if you wish (1): And no soul knows what joy for them (the inhabitants of Paradise) has been kept hidden (Quran 32:17). (1) The words "Thus recite if you wish" are those of Abu Harayrah. It was related by al-Bukhari, Muslim, at-Tirmidhi and Ibn Majah

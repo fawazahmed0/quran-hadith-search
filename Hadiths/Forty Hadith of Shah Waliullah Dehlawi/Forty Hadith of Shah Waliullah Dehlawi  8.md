@@ -14,6 +14,14 @@
 | Arabic No | 8 |
 | Reference | Book 1 Hadith 8 |
 
+الدنیا سجن المومن و جنة الکافر
+
+| References: |  |
+| --- | --- |
+| Hadith No | 8 |
+| Arabic No | 8 |
+| Reference | Book 1 Hadith 8 |
+
 ## English
 
 The world is the believer’s prison and the disbeliever’s paradise

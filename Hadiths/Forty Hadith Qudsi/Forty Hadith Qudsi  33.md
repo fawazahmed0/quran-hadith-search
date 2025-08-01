@@ -14,6 +14,14 @@
 | Arabic No | 33 |
 | Reference | Book 1 Hadith 33 |
 
+عن ابي هريرة ، رضي الله عنه ، عن النبي صلى الله عليه و سلم ، فيما يحكي عن ربه عز وجل ، قال : اذنب عبد ذنبا ، فقال : اللهم اغفر لي ذنبي . فقال تبارك وتعالى : اذنب عبدي ذنبا ، فعلم ان له ربا ، يغفر الذنب ، وياخذ به . ثم عاد فاذنب ، فقال : اي رب ، اغفر لي ذنبي ، فقال تبارك وتعالى : عبدي اذنب ذنبا . فعلم ان له ربا يغفر الذنب ، وياخذ به . ثم عاد فاذنب ، فقال : اي رب ، اغفر لي ذنبي : فقال تبارك وتعالى : اذنب عبدي ذنبا ، فعلم ان له ربا ، يغفر الذنب ، وياخذ بالذنب . اعمل ما شيت ، فقد غفرت لك . رواه مسلم (وكذلك البخاري)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 33 |
+| Arabic No | 33 |
+| Reference | Book 1 Hadith 33 |
+
 ## English
 
 On the authority of Abu Hurayrah (may Allah be pleased with him) that the Prophet (ﷺ), from among the things he reports from his Lord (mighty and sublime be He), is that he said: A servant \[of Allah's\] committed a sin and said: O Allah, forgive me my sin. And He (glorified and exalted be He) said: My servant has committed a sin and has known that he has a Lord who forgives sins and punishes for them. Then he sinned again and said: O Lord, forgive me my sin. And He (glorified and exalted be He) said: My servant has committed a sin and has known that he has a Lord who forgives sins and punishes for them. Then he sinned again and said: O Lord, forgive me my sin. And He (glorified and exalted be He) said: My servant has committed a sin and has known that he has a Lord who forgives sins and punishes for sins. Do what you wish, for I have forgiven you. It was related by Muslim (also by al-Bukhari)

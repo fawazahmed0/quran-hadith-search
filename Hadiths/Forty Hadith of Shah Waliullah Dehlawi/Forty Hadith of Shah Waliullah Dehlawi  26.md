@@ -14,6 +14,14 @@
 | Arabic No | 26 |
 | Reference | Book 1 Hadith 26 |
 
+حبك الشيء یعمي و یصم
+
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |
+
 ## English
 
 Your love of something can blind and deafen (you)

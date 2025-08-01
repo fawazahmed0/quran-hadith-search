@@ -14,6 +14,14 @@
 | Arabic No | 21 |
 | Reference | Book 1 Hadith 21 |
 
+المرء مع من احب
+
+| References: |  |
+| --- | --- |
+| Hadith No | 21 |
+| Arabic No | 21 |
+| Reference | Book 1 Hadith 21 |
+
 ## English
 
 A man will be with whom he loves

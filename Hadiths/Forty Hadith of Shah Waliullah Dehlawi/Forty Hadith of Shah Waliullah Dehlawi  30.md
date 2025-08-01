@@ -14,6 +14,14 @@
 | Arabic No | 30 |
 | Reference | Book 1 Hadith 30 |
 
+اذا جاءکم کریم قوم فاکرموه
+
+| References: |  |
+| --- | --- |
+| Hadith No | 30 |
+| Arabic No | 30 |
+| Reference | Book 1 Hadith 30 |
+
 ## English
 
 If the nobleman of a people comes to you, honour him

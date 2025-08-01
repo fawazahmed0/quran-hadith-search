@@ -14,6 +14,14 @@
 | Arabic No | 1 |
 | Reference | Book 1 Hadith 1 |
 
+عن ابي هريرة قال: قال رسول الله صلى الله عليه وسلم: لما قضى الله الخلق، كتب في كتابه على نفسه، فهو موضوع عنده: ان رحمتي تغلب غضبي رواه مسلم (وكذلك البخاري والنسايي وابن ماجه)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1 |
+| Arabic No | 1 |
+| Reference | Book 1 Hadith 1 |
+
 ## English
 
 On the authority of Abu Hurayrah (may Allah be pleased with him), who said that the Messenger of Allah (ﷺ) said: When Allah decreed the Creation He pledged Himself by writing in His book which is laid down with Him: My mercy prevails over my wrath. It was related by Muslim (also by al-Bukhari, an-Nasa'i and Ibn Majah)

@@ -14,6 +14,14 @@
 | Arabic No | 5 |
 | Reference | Book 1 Hadith 5 |
 
+الدال علی الخیر کفاعله
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5 |
+| Arabic No | 5 |
+| Reference | Book 1 Hadith 5 |
+
 ## English
 
 The person guiding (someone) to do a good deed, is like the one performing the good deed

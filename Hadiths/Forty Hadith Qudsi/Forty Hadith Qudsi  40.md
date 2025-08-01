@@ -14,6 +14,14 @@
 | Arabic No | 40 |
 | Reference | Book 1 Hadith 40 |
 
+عن ابي سعيد الخدري رضي الله عنه قال: قال النبى صلى الله عليه وسلم(br)ان الله يقول لاهل الجنة : يا اهل الجنة . فيقولون : لبيك ربنا وسعديك ، والخير في يديك. فيقول : هل رضيتم ؟ فيقولون : وما لنا لا نرضىى يا رب ، وقد اعطيتنا ما لم تعط احدا من خلقك . فيقول : الا اعطيكم افضل من ذلك ؟ فيقولون : يا رب واي شيء افضل من ذلك ؟ فيقول : احل عليكم رضواني ، فلا اسخط عليكم بعده ابدا(br)رواه البخاري (وكذلك مسلم والترمذي)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 40 |
+| Arabic No | 40 |
+| Reference | Book 1 Hadith 40 |
+
 ## English
 
 On the authority of Abu Sa'id al-Khudri (may Allah be pleased with him), who said that the Messenger of Allah (ﷺ) said: Allah will say to the inhabitants of Paradise: O inhabitants of Paradise! They will say: O our Lord, we present ourselves and are at Your pleasure, and goodness rests in Your hands. Then He will say: Are you contented? And they will say: And how should we not be contented, O Lord, when You have given to us that which You have given to no one else of Your creation? Then He will say: Would you not like Me to give you something better than that? And they will say: O Lord and what thing is better than that? And He will say: I shall cause My favour to descend upon you and thereafter shall never be displeased with you. It was related by al-Bukhari (also by Muslim and at-Tirmidhi)

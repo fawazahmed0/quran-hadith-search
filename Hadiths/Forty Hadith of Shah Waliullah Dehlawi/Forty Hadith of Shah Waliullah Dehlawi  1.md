@@ -14,6 +14,14 @@
 | Arabic No | 1 |
 | Reference | Book 1 Hadith 1 |
 
+لیس الخبر کالمعاینة
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1 |
+| Arabic No | 1 |
+| Reference | Book 1 Hadith 1 |
+
 ## English
 
 The report is not like witnessing

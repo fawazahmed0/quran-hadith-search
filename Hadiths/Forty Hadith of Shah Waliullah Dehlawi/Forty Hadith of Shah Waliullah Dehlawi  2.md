@@ -14,6 +14,14 @@
 | Arabic No | 2 |
 | Reference | Book 1 Hadith 2 |
 
+الحرب خدعة
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2 |
+| Arabic No | 2 |
+| Reference | Book 1 Hadith 2 |
+
 ## English
 
 War is deception

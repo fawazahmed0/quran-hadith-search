@@ -14,6 +14,14 @@
 | Arabic No | 22 |
 | Reference | Book 1 Hadith 22 |
 
+عن ابي سعيد رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم: لا يحقر احدكم نفسه، قالوا: يا رسول الله كيف يحقر احدنا نفسه؟ قال: يرى امر الله عليه فيه مقال، ثم لا يقول فيه، فيقول الله عز وجل له يوم القيامة: ما منعك ان تقول في كذا وكذا؟ فيقول: خشية الناس، فيقول: فاياي كنت احق ان تخشى رواه ابن ماجه بسند صحيح
+
+| References: |  |
+| --- | --- |
+| Hadith No | 22 |
+| Arabic No | 22 |
+| Reference | Book 1 Hadith 22 |
+
 ## English
 
 On the authority of Abu Sa'id (may Allah be pleased with him), who said that the Messenger of Allah (ﷺ) said: Let not any one of you belittle himself. They said: O Messenger of Allah, how can any one of us belittle himself? He said: He finds a matter concerning Allah about which he should say something, and he does not say \[it\], so Allah (mighty and sublime be He) says to him on the Day of Resurrection: What prevented you from saying something about such-and-such and such-and-such? He say: \[It was\] out of fear of people. Then He says: Rather it is I whom you should more properly fear. It was related by Ibn Majah with a sound chain of authorities

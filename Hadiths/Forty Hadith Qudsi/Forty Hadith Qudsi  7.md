@@ -14,6 +14,14 @@
 | Arabic No | 7 |
 | Reference | Book 1 Hadith 7 |
 
+عن عقبة بن عامر، رضي الله عنه، قال: سمعت رسول الله صلى الله عليه وسلم يقول: يعجب ربك من راعي غنم، في راس شظية الجبل(1)، يوذن بالصلاة ويصلي، فيقول الله، عز وجل: انظروا الى عبدي هذا، يوذن ويقيم الصلاة، يخاف مني، قد غفرت لعبدي، وادخلته الجنة .(br)رواه النسايي بسند صحيح
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7 |
+| Arabic No | 7 |
+| Reference | Book 1 Hadith 7 |
+
 ## English
 
 On the authority of Uqbah ibn Amir (may Allah be pleased with him), who said: I heard the messenger of Allah (ﷺ) say: Your Lord delights at a shepherd who, on the peak of a mountain crag, gives the call to prayer and prays. Then Allah (glorified and exalted be He) say: Look at this servant of Mine, he gives the call to prayer and performs the prayers; he is in awe of Me. I have forgiven My servant \[his sins\] and have admitted him to Paradise. It was related by an-Nasa'i with a good chain of authorities

@@ -14,6 +14,14 @@
 | Arabic No | 7 |
 | Reference | Book 1 Hadith 7 |
 
+اتقوا النار ولو بشق تمرة
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7 |
+| Arabic No | 7 |
+| Reference | Book 1 Hadith 7 |
+
 ## English
 
 Protect yourself from the fire even with a part of a date

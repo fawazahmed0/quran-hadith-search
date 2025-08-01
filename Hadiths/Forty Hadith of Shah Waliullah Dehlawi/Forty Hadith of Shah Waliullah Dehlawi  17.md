@@ -14,6 +14,14 @@
 | Arabic No | 17 |
 | Reference | Book 1 Hadith 17 |
 
+الغنى غنى النفس
+
+| References: |  |
+| --- | --- |
+| Hadith No | 17 |
+| Arabic No | 17 |
+| Reference | Book 1 Hadith 17 |
+
 ## English
 
 Richness lies in the richness of the soul

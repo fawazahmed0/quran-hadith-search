@@ -14,6 +14,14 @@
 | Arabic No | 39 |
 | Reference | Book 1 Hadith 39 |
 
+عن ابي سعيد الخدري رضي الله عنه عن النبي صلى الله عليه و سلم قال : احتجت الجنة والنار فقالت النار : في الجبارون والمتكبرون وقالت الجنة : في ضعفاء الناس ومساكينهم فقضى الله بينهما : انك الجنة رحمتي ارحم بك من اشاء، وانك النار عذابي ، اعذب بك من اشاء ، ولكليكما علي ملوها (رواه مسلم (وكذلك البخاري والترمذي)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 39 |
+| Arabic No | 39 |
+| Reference | Book 1 Hadith 39 |
+
 ## English
 
 On the authority of Abu Sa'id al-Khudri (may Allah be pleased with him), who said that the Messenger of Allah (ﷺ) said: Paradise and Hell-fire disputed together, and Hell-fire said: In me are the mighty and the haughty. Paradise said: In me are the weak and the poor. So Allah judged between them, \[saying\]: You are Paradise, My mercy; through you I show mercy to those I wish. And you are Hell-fire, My punishment; through you I punish those I wish, and it is incumbent upon Me that each of you shall have its fill. It was related by Muslim (also by al-Bukhari and at-Tirmidhi)

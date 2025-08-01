@@ -14,6 +14,14 @@
 | Arabic No | 32 |
 | Reference | Book 1 Hadith 32 |
 
+عن ابي هريرة ، رضي الله عنه ، عن النبي صلى الله عليه و سلم ، قال : اسرف رجل علي نفسه ، فلما حضره الموت اوصى بنيه ، فقال : اذا انا مت فاحرقوني ، ثم اسحقوني ، ثم اذروني في البحر فوالله لين قدر علي ربي ليعذبني عذابا ، ما عذبه احدا ، ففعلوا ذلك به . فقال للارض : ادي ما اخذت ، فاذا هو قايم ، فقال له : ما حملك علي ما صنعت ؟ قال : خشيتك يا رب ، او مخافتك . فغفر له بذلك . رواه مسلم (وكذلك البخاري والنسايي وابن ماجه)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 32 |
+| Arabic No | 32 |
+| Reference | Book 1 Hadith 32 |
+
 ## English
 
 On the authority of Abu Hurayrah (may Allah be pleased with him), who said that the Messenger of Allah (ﷺ) said: A man sinned greatly against himself, and when death came to him he charged his sons, saying: When I have died, burn me, then crush me and scatter \[my ashes\] into the sea, for, by Allah, if my Lord takes possession of me, He will punish me in a manner in which He has punished no one \[else\]. So they did that to him. Then He said to the earth: Produce what you have taken-and there he was! And He said to him: What induced you to do what you did? He said: Being afraid of You, O my Lord (or he said: Being frightened of You) and because of that He forgave him. It was related by Muslim (also by al-Bukhari, an-Nasa'i and Ibn Majah)

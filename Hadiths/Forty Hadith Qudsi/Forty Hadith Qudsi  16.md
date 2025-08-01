@@ -14,6 +14,14 @@
 | Arabic No | 16 |
 | Reference | Book 1 Hadith 16 |
 
+عن ابن عباس رضي الله عنهما، عن النبي صلى الله عليه وسلم، فيما يروي عن ربه عز وجل، قال: ان الله كتب الحسنات والسييات، ثم بين ذلك: فمن هم بحسنة فلم يعملها، كتبها الله له عنده حسنة كاملة، فان هو هم بها فعملها، كتبها الله له عنده عشر حسنات، الى سبعماية ضعف، الى اضعاف كثيرة، ومن هم بسيية فلم يعملها، كتبها الله له عنده حسنة كاملة، فان هو هم بها فعملها، كتبها الله سيية واحدة .(br)رواه البخاري ومسلم
+
+| References: |  |
+| --- | --- |
+| Hadith No | 16 |
+| Arabic No | 16 |
+| Reference | Book 1 Hadith 16 |
+
 ## English
 
 On the authority of son of Abbas (may Allah be pleased with them both), from the Messenger of Allah (ﷺ), among the sayings he related from his Lord (glorified and exalted be He) is that He said: Allah has written down the good deeds and the bad ones. Then He explained it \[by saying that\] he who has intended a good deed and has not done it, Allah writes it down with Himself as a full good deed, but if he has intended it and has done it, Allah writes it down with Himself as from ten good deeds to seven hundred times, or many times over. But if he has intended a bad deed and has not done it, Allah writes it down with Himself as a full good deed, but if he has intended it and has done it, Allah writes it down as one bad deed. It was related by al-Bukhari and Muslim

@@ -14,6 +14,14 @@
 | Arabic No | 29 |
 | Reference | Book 1 Hadith 29 |
 
+عن ابي هريرة رضي الله عنه ان رسول الله صلى الله عليه و سلم قال يقول الله تعالى : ما لعبدي المومن عندي جزاء، اذا قبضت صفيه، من اهل الدنيا، ثم احتسبه، الا الجنة(br)رواه البخاري
+
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Arabic No | 29 |
+| Reference | Book 1 Hadith 29 |
+
 ## English
 
 On the authority of Abu Hurayrah (may Allah be pleased with him), who said that the Messenger of Allah (ﷺ) said: Allah (mighty and sublime be He) says: My faithful servant's reward from Me, if I have taken to Me his best friend from amongst the inhabitants of the world and he has then borne it patiently for My sake, shall be nothing less than Paradise. It was related by al-Bukhari

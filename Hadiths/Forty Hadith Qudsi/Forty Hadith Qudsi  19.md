@@ -14,6 +14,14 @@
 | Arabic No | 19 |
 | Reference | Book 1 Hadith 19 |
 
+عن ابي هريرة رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم: قال الله عز وجل: الكبرياء ردايي، والعظمة ازاري، فمن نازعني واحدا منهما، قذفته في النار .(br)رواه ابو داود(وكذلك ابن ماجه واحمد) باسانيد صحيحة
+
+| References: |  |
+| --- | --- |
+| Hadith No | 19 |
+| Arabic No | 19 |
+| Reference | Book 1 Hadith 19 |
+
 ## English
 
 On the authority of Abu Hurayrah (may Allah be pleased with him), who said that the Messenger of Allah (ﷺ) said: Allah (mighty and sublime be He) said: Pride is my cloak and greatness My robe, and he who competes with Me in respect of either of them I shall cast into Hell-fire. It was related by Abu Dawud (also by Ibn Majah and Ahmad) with sound chains of authority. This Hadith also appears in Muslim in another version

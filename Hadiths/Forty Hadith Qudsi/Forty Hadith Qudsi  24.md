@@ -14,6 +14,14 @@
 | Arabic No | 24 |
 | Reference | Book 1 Hadith 24 |
 
+عن ابي هريرة رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم: ان الله اذا احب عبدا دعا جبريل، فقال: اني احب فلانا فاحبه، قال: فيحبه جبريل، ثم ينادي في السماء فيقول: ان الله يحب فلانا فاحبوه، فيحبه اهل السماء، قال: ثم يوضع له القبول في الارض. واذا الله ابغض عبدا، دعا جبريل فيقول: اني ابغض فلانا فابغضه، فيبغضه جبريل ثم ينادي في اهل السماء: ان الله يبغض فلانا فابغضوه، قال: فيبغضونه، ثم توضع له البغضاء في الارض .(br)رواه مسلم (وكذلك البخاري ومالك والترمذي)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 24 |
+| Arabic No | 24 |
+| Reference | Book 1 Hadith 24 |
+
 ## English
 
 On the authority of Abu Hurayrah (may Allah be pleased with him), who said that the Messenger of Allah (ﷺ) said: If Allah has loved a servant \[of His\] He calls Gabriel (on whom be peace) and says: I love So-and-so, therefore love him. He (the Prophet (ﷺ) ﷺ) said: So Gabriel loves him. Then he (Gabriel) calls out in heaven, saying: Allah loves So-and-so, therefore love him. And the inhabitants of heaven love him. He (the Prophet (ﷺ) ﷺ) said: Then acceptance is established for him on earth. And if Allah has abhorred a servant \[of His\], He calls Gabriel and says: I abhor So-and-so, therefore abhor him. So Gabriel abhors him. Then Gabriel calls out to the inhabitants of heaven: Allah abhors So-and-so, therefore abhor him. He (the Prophet (ﷺ) ﷺ) said: So they abhor him, and abhorrence is established for him on earth. It was related by Muslim (also by al-Bukhari, Malik, and at-Tirmidhi)

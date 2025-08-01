@@ -14,6 +14,14 @@
 | Arabic No | 13 |
 | Reference | Book 1 Hadith 13 |
 
+عن عدي بن حاتم رضي الله عنه يقول: كنت عند رسول الله، صلى الله عليه وسلم، فجاءه رجلان: احدهما يشكو العيلة(1)، والاخر يشكو قطع السبيل(2)، فقال رسول الله صلى الله عليه وسلم: اما قطع السبيل فانه لا ياتي عليك الا قليل، حتى تخرج العير الى مكة بغير خفير. واما العيلة، فان الساعة لا تقوم حتى يطوف احدكم بصدقته، لا يجد من يقبلها منه، ثم ليقفن احدكم بين يدي الله، ليس بينه وبينه حجاب ولا ترجمان يترجم له، ثم ليقولن له: الم اوتك مالا؟ فليقولن: بلى، ثم ليقولن: الم ارسل اليك رسولا؟ فليقولن: بلى، فينظر عن يمينه، فلا يرى الا النار، ثم ينظر عن شماله، فلا يرى الا النار، فليتقين احدكم النار ولو بشق تمرة، فان لم يجد فبكلمة طيبة .(br)رواه البخاري
+
+| References: |  |
+| --- | --- |
+| Hadith No | 13 |
+| Arabic No | 13 |
+| Reference | Book 1 Hadith 13 |
+
 ## English
 
 On the authority of Adiyy ibn Hatim (may Allah be pleased with him), who said: I was with the Messenger of Allah (ﷺ) and there came to him two men: one of them was complaining of penury (being very poor), while the other was complaining of brigandry (robbery). The Messenger of Allah (ﷺ) said: As for brigandry, it will be but a short time before a caravan will \[be able to\] go out of Mecca without a guard. As for penury, the Hour (Day of Judgement) will not arrive before one of you takes his charity around without finding anyone to accept it from him. Then (1) one of you will surely stand before Allah, there being no screen between Him and him, nor an interpreter to translate for him. Then He will say to him: Did I not bring you wealth? And he will say: Yes. Then He will say: Did I not send to you a messenger? And he will say: Yes. And he will look to his right and will see nothing but Hell-fire, then he will look to his left and will see nothing but Hell-fire, so let each of you protect himself against Hell-fire, be it with even half a date - and if he finds it not, then with a kind word. (1) i.e. at the time of the Hour. It was related by al-Bukhari

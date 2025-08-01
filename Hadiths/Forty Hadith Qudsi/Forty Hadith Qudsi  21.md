@@ -14,6 +14,14 @@
 | Arabic No | 21 |
 | Reference | Book 1 Hadith 21 |
 
+عن ابي هريرة رضي الله عنه، عن النبي صلى الله عليه وسلم قال: قال الله تعالى: ثلاثة انا خصمهم يوم القيامة: رجل اعطى بي ثم غدر (1)، ورجل باع حرا فاكل ثمنه، ورجل استاجر اجيرا فاستوفى منه ولم يعطه اجره رواه البخاري (وكذلك ابن ماجه واحمد)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 21 |
+| Arabic No | 21 |
+| Reference | Book 1 Hadith 21 |
+
 ## English
 
 On the authority of Abu Hurayrah (may Allah be pleased with him), who said that the Messenger of Allah (ﷺ) said that Allah the Almighty said: There are three (1) whose adversary I shall be on the Day of Resurrection: a man who has given his word by Me and has broken it; a man who has sold a free man (2) and has consumed the price; and a man who has hired a workman, has exacted his due in full from him and has not given him his wage. (1) i.e. types of men. (2) i.e. a man who has made a slave of another and has sold him. It was related by al-Bukhari (also by Ibn Majah and Ahmad ibn Hanbal)

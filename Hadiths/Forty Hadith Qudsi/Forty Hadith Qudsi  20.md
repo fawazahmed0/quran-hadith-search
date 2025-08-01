@@ -14,6 +14,14 @@
 | Arabic No | 20 |
 | Reference | Book 1 Hadith 20 |
 
+عن ابي هريرة رضي الله عنه ،ان رسول الله صلى الله عليه وسلم قال: تفتح ابواب الجنة يوم الاثنين، ويوم الخميس، فيغفر لكل عبد لا يشرك بالله شييا، الا رجلا كانت بينه وبين اخيه شحناء، فيقال: (1) انظروا (2) هذين حتى يصطلحا، انظروا هذين حتى يصطلحا، انظروا هذين حتى يصطلحا رواه مسلم (وكذلك مالك وابو داود)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 20 |
+| Arabic No | 20 |
+| Reference | Book 1 Hadith 20 |
+
 ## English
 
 On the authority of Abu Hurayrah (may Allah be pleased with him), who said that the Messenger of Allah (ﷺ) said: The gates of Paradise will be opened on Mondays and on Thursdays, and every servant \[of Allah\] who associates nothing with Allah will be forgiven, except for the man who has a grudge against his brother. \[About them\] it will be said: Delay these two until they are reconciled; delay these two until they are reconciled. It was related by Muslim (also by Malik and Abu Dawud)

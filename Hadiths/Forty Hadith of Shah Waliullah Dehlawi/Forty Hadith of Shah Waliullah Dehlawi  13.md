@@ -14,6 +14,14 @@
 | Arabic No | 13 |
 | Reference | Book 1 Hadith 13 |
 
+ما قل وكفى خير مما كثر والهى
+
+| References: |  |
+| --- | --- |
+| Hadith No | 13 |
+| Arabic No | 13 |
+| Reference | Book 1 Hadith 13 |
+
 ## English
 
 A little that suffices is better than an abundance that distracts

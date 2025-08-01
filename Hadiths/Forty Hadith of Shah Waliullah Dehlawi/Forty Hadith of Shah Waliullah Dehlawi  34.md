@@ -14,6 +14,14 @@
 | Arabic No | 34 |
 | Reference | Book 1 Hadith 34 |
 
+سید القوم خادمهم
+
+| References: |  |
+| --- | --- |
+| Hadith No | 34 |
+| Arabic No | 34 |
+| Reference | Book 1 Hadith 34 |
+
 ## English
 
 The leader of a people is their servant

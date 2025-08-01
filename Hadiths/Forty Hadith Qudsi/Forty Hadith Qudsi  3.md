@@ -14,6 +14,14 @@
 | Arabic No | 3 |
 | Reference | Book 1 Hadith 3 |
 
+عن زيد بن خالد الجهني، رضي الله عنه قال: "صلى لنا رسول الله صلى الله عليه وسلم صلاة الصبح بالحديبية، على اثر سماء (1) كانت من الليلة، فلما انصرف النبي صلى الله عليه وسلم اقبل على الناس، فقال لهم: "هل تدرون ماذا قال ربكم؟ قالوا: الله ورسوله اعلم، قال: اصبح من عبادي مومن بي وكافر، فاما من قال: مطرنا بفضل الله ورحمته، فذلك مومن بي، كافر بالكوكب، واما من قال: مطرنا بنوء(1) كذا وكذا، فذلك كافر بي، مومن بالكوكب"(br)رواه البخاري (وكذلك مالك والنسايي)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3 |
+| Arabic No | 3 |
+| Reference | Book 1 Hadith 3 |
+
 ## English
 
 On the authority of Zayd ibn Khalid al-Juhaniyy (may Allah be pleased with him), who said: The Messenger of Allah (ﷺ) led the morning prayer for us at al-Hudaybiyah following rainfall during the night. When the Prophet (ﷺ) finished, he faced the people and said to them: Do you know what your Lord has said? They said: Allah and his Messenger know best. He said: This morning one of my servants became a believer in Me and one a disbeliever. As for him who said: We have been given rain by virtue of Allah and His mercy, that one is a believer in Me, a disbeliever in the stars (2); and as for him who said: We have been given rain by such-and-such a star, that one is a disbeliever in Me, a believer in the stars. (2) The pre-Islamic Arabs believed that rain was brought about by the movement of stars. This Hadith draws attention to the fact that whatever be the direct cause of such natural phenomena as rain, it is Allah the Almighty who is the Disposer of all things. It was related by al-Bukhari (also by Malik and an-Nasa'i)

@@ -14,6 +14,14 @@
 | Arabic No | 31 |
 | Reference | Book 1 Hadith 31 |
 
+عن جندب رضي الله عنه : ان رسول الله صلى الله عليه و سلم حدث (ان رجلا قال : والله لا يغفر الله لفلان وان الله تعالى قال : من ذا الذي يتالى علي ان لا اغفر لفلان،فاني قد غفرت لفلان، واحبطت عملك (او كما قال(br)رواه مسلم
+
+| References: |  |
+| --- | --- |
+| Hadith No | 31 |
+| Arabic No | 31 |
+| Reference | Book 1 Hadith 31 |
+
 ## English
 
 On the authority of Jundub (may Allah be pleased with him), who said that the Messenger of Allah (ﷺ) related: A man said: By Allah, Allah will not forgive So-and-so. At this Allah the Almighty said: Who is he who swears by Me that I will not forgive So-and-so? Verily I have forgiven So-and-so and have nullified your \[own good\] deeds (1) (or as he said \[it\]). (1) A similar Hadith, which is given by Abu Dawud, indicates that the person referred to was a goldly man whose previous good deeds were brought to nought through presuming to declare that Allah would not forgive someone's bad deeds. It was related by Muslim
