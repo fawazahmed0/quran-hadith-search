@@ -452,6 +452,18 @@ Liman Shā'a Minkum 'An Yastaqīma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِمَنْ شَاءَ مِنْكُمْ أَنْ يَسْتَقِيمَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لمن شاء منكم ان يستقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِمَن شَاۤءَ مِنكُمۡ أَن یَسۡتَقِیمَ
 
 | Details |  |

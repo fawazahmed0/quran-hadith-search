@@ -452,6 +452,18 @@ Am Lahum 'Ilahun Ghayru Allāhi Subĥāna Allāhi 'Ammā Yushrikūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ لَهُمْ إِلَهٌ غَيْرُ اللَّهِ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام لهم اله غير الله سبحان الله عما يشركون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ لَهُمۡ إِلَـٰهٌ غَیۡرُ ٱللَّهِۚ سُبۡحَـٰنَ ٱللَّهِ عَمَّا یُشۡرِكُونَ
 
 | Details |  |

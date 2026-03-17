@@ -452,6 +452,18 @@ Wa Lā Takūnū Kālladhīna Qālū Sami'nā Wa Hum Lā Yasma'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تَكُونُوا كَالَّذِينَ قَالُوا سَمِعْنَا وَهُمْ لَا يَسْمَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تكونوا كالذين قالوا سمعنا وهم لا يسمعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تَكُونُوا۟ كَٱلَّذِینَ قَالُوا۟ سَمِعۡنَا وَهُمۡ لَا یَسۡمَعُونَ
 
 | Details |  |

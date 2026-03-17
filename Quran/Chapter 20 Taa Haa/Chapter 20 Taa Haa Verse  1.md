@@ -452,6 +452,18 @@ Taha
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+طه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+طه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ طه
 
 | Details |  |

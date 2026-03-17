@@ -452,6 +452,18 @@ Wa Qālat Li'khtihi Quşşīhi Fabaşurat Bihi 'An Junubin Wa Hum Lā Yash'urūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَتْ لِأُخْتِهِ قُصِّيهِ فَبَصُرَتْ بِهِ عَنْ جُنُبٍ وَهُمْ لَا يَشْعُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالت لاخته قصيه فبصرت به عن جنب وهم لا يشعرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَتۡ لِأُخۡتِهِۦ قُصِّیهِۖ فَبَصُرَتۡ بِهِۦ عَن جُنُبࣲ وَهُمۡ لَا یَشۡعُرُونَ
 
 | Details |  |

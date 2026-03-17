@@ -452,6 +452,18 @@ Wa Hadaynāhumā Aş-Şirāţa Al-Mustaqīma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهَدَيْنَاهُمَا الصِّرَاطَ الْمُسْتَقِيمَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهديناهما الصراط المستقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهَدَیۡنَـٰهُمَا ٱلصِّرَ ٰطَ ٱلۡمُسۡتَقِیمَ
 
 | Details |  |

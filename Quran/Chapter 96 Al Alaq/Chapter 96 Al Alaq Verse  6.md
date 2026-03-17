@@ -452,6 +452,18 @@ Kallā 'Inna Al-'Insāna Layaţghá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا ان الانسان ليطغى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّاۤ إِنَّ ٱلۡإِنسَـٰنَ لَیَطۡغَىٰۤ
 
 | Details |  |

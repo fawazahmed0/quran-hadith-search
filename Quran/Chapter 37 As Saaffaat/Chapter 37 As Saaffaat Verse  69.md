@@ -452,6 +452,18 @@ Innahum 'Alfaw 'Ābā'ahum Đāllīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُمْ أَلْفَوْا آبَاءَهُمْ ضَالِّينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انهم الفوا اباءهم ضالين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُمۡ أَلۡفَوۡا۟ ءَابَاۤءَهُمۡ ضَاۤلِّینَ
 
 | Details |  |

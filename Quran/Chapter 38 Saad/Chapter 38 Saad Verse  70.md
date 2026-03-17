@@ -452,6 +452,18 @@ In Yūĥá 'Ilayya 'Illā 'Annamā 'Anā Nadhīrun Mubīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ يُوحَى إِلَيَّ إِلَّا أَنَّمَا أَنَا نَذِيرٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان يوحى الي الا انما انا نذير مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِن یُوحَىٰۤ إِلَیَّ إِلَّاۤ أَنَّمَاۤ أَنَا۠ نَذِیرࣱ مُّبِینٌ
 
 | Details |  |

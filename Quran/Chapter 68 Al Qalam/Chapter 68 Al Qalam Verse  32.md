@@ -452,6 +452,18 @@ Asá Rabbunā 'An Yubdilanā Khayrāan Minhā 'Innā 'Ilá Rabbinā Rāghibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَسَى رَبُّنَا أَنْ يُبْدِلَنَا خَيْرًا مِنْهَا إِنَّا إِلَى رَبِّنَا رَاغِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عسى ربنا ان يبدلنا خيرا منها انا الى ربنا راغبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَسَىٰ رَبُّنَاۤ أَن یُبۡدِلَنَا خَیۡرࣰا مِّنۡهَاۤ إِنَّاۤ إِلَىٰ رَبِّنَا رَ ٰغِبُونَ
 
 | Details |  |

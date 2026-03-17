@@ -452,6 +452,18 @@ Innā Fataĥnā Laka Fatĥāan Mubīnāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا فتحنا لك فتحا مبينا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا فَتَحۡنَا لَكَ فَتۡحࣰا مُّبِینࣰا
 
 | Details |  |

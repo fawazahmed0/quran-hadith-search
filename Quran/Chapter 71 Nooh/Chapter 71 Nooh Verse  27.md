@@ -452,6 +452,18 @@ Innaka 'In Tadharhum Yuđillū 'Ibādaka Wa Lā Yalidū 'Illā Fājirāan Kaffā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّكَ إِنْ تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انك ان تذرهم يضلوا عبادك ولا يلدوا الا فاجرا كفارا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّكَ إِن تَذَرۡهُمۡ یُضِلُّوا۟ عِبَادَكَ وَلَا یَلِدُوۤا۟ إِلَّا فَاجِرࣰا كَفَّارࣰا
 
 | Details |  |

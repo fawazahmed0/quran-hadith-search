@@ -452,6 +452,18 @@ Fasatadhkurūna Mā 'Aqūlu Lakum Wa 'Ufawwiđu 'Amrī 'Ilá Allāhi 'Inna Allā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَسَتَذْكُرُونَ مَا أَقُولُ لَكُمْ وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ إِنَّ اللَّهَ بَصِيرٌ بِالْعِبَادِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فستذكرون ما اقول لكم وافوض امري الى الله ان الله بصير بالعباد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَسَتَذۡكُرُونَ مَاۤ أَقُولُ لَكُمۡۚ وَأُفَوِّضُ أَمۡرِیۤ إِلَى ٱللَّهِۚ إِنَّ ٱللَّهَ بَصِیرُۢ بِٱلۡعِبَادِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Kadhabat Qablahum Qawmu Nūĥin Wa 'Ādun Wa Fir'awnu Dhū Al-'Awtādi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَفِرْعَوْنُ ذُو الْأَوْتَادِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذبت قبلهم قوم نوح وعاد وفرعون ذو الاوتاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحࣲ وَعَادࣱ وَفِرۡعَوۡنُ ذُو ٱلۡأَوۡتَادِ
 
 | Details |  |

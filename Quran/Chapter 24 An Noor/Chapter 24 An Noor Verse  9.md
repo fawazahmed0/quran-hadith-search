@@ -452,6 +452,18 @@ Wa Al-Khāmisata 'Anna Ghađaba Allāhi 'Alayhā 'In Kāna Mina Aş-Şādiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْخَامِسَةَ أَنَّ غَضَبَ اللَّهِ عَلَيْهَا إِنْ كَانَ مِنَ الصَّادِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والخامسة ان غضب الله عليها ان كان من الصادقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡخَـٰمِسَةَ أَنَّ غَضَبَ ٱللَّهِ عَلَیۡهَاۤ إِن كَانَ مِنَ ٱلصَّـٰدِقِینَ
 
 | Details |  |

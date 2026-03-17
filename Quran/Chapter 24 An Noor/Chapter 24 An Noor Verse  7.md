@@ -452,6 +452,18 @@ Wa Al-Khāmisatu 'Anna La'nata Allāhi 'Alayhi 'In Kāna Mina Al-Kādhibīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْخَامِسَةُ أَنَّ لَعْنَتَ اللَّهِ عَلَيْهِ إِنْ كَانَ مِنَ الْكَاذِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والخامسة ان لعنت الله عليه ان كان من الكاذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡخَـٰمِسَةُ أَنَّ لَعۡنَتَ ٱللَّهِ عَلَیۡهِ إِن كَانَ مِنَ ٱلۡكَـٰذِبِینَ
 
 | Details |  |

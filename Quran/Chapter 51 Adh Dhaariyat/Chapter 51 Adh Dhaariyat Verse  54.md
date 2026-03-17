@@ -452,6 +452,18 @@ Fatawalla 'Anhum Famā 'Anta Bimalūmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَتَوَلَّ عَنْهُمْ فَمَا أَنْتَ بِمَلُومٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فتول عنهم فما انت بملوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَتَوَلَّ عَنۡهُمۡ فَمَاۤ أَنتَ بِمَلُومࣲ
 
 | Details |  |

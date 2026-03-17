@@ -452,6 +452,18 @@ Quţūfuhā Dāniyahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُطُوفُهَا دَانِيَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قطوفها دانية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُطُوفُهَا دَانِیَةࣱ
 
 | Details |  |

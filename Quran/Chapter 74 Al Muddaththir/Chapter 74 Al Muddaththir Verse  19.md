@@ -452,6 +452,18 @@ Faqutila Kayfa Qaddara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقُتِلَ كَيْفَ قَدَّرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقتل كيف قدر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقُتِلَ كَیۡفَ قَدَّرَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Tajrī Bi'a'yuninā Jazā'an Liman Kāna Kufira
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَجْرِي بِأَعْيُنِنَا جَزَاءً لِمَنْ كَانَ كُفِرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تجري باعيننا جزاء لمن كان كفر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَجۡرِی بِأَعۡیُنِنَا جَزَاۤءࣰ لِّمَن كَانَ كُفِرَ
 
 | Details |  |

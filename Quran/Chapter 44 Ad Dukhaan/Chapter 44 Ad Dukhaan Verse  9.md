@@ -452,6 +452,18 @@ Bal Hum Fī Shakkin Yal'abūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ هُمْ فِي شَكٍّ يَلْعَبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل هم في شك يلعبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ هُمۡ فِی شَكࣲّ یَلۡعَبُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fa'ammā 'In Kāna Mina Al-Muqarrabīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَمَّا إِنْ كَانَ مِنَ الْمُقَرَّبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاما ان كان من المقربين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَمَّاۤ إِن كَانَ مِنَ ٱلۡمُقَرَّبِینَ
 
 | Details |  |

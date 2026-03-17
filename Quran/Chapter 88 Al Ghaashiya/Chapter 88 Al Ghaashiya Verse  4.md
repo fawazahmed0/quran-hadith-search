@@ -452,6 +452,18 @@ Taşlá Nārāan Ĥāmiyahan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَصْلَى نَارًا حَامِيَةً
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تصلى نارا حامية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَصۡلَىٰ نَارًا حَامِیَةࣰ
 
 | Details |  |

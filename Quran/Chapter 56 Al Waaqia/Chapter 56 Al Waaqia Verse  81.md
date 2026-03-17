@@ -452,6 +452,18 @@ Afabihadhā Al-Ĥadīthi 'Antum Mud/hinūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَبِهَذَا الْحَدِيثِ أَنْتُمْ مُدْهِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افبهذا الحديث انتم مدهنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَبِهَـٰذَا ٱلۡحَدِیثِ أَنتُم مُّدۡهِنُونَ
 
 | Details |  |

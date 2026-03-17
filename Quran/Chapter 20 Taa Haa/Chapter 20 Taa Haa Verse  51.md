@@ -452,6 +452,18 @@ Qāla Famā Bālu Al-Qurūni Al-'Ūlá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ فَمَا بَالُ الْقُرُونِ الْأُولَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال فما بال القرون الاولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ فَمَا بَالُ ٱلۡقُرُونِ ٱلۡأُولَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Idhā Tutlá 'Alayhi 'Āyātunā Qāla 'Asāţīru Al-'Awwalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذَا تُتْلَى عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذا تتلى عليه اياتنا قال اساطير الاولين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذَا تُتۡلَىٰ عَلَیۡهِ ءَایَـٰتُنَا قَالَ أَسَـٰطِیرُ ٱلۡأَوَّلِینَ
 
 | Details |  |

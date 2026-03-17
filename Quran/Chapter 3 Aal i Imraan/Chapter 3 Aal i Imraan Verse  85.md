@@ -452,6 +452,18 @@ Wa Man Yabtaghi Ghayra Al-'Islāmi Dīnāan Falan Yuqbala Minhu Wa Huwa Fī Al-'
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَنْ يُقْبَلَ مِنْهُ وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن يبتغ غير الاسلام دينا فلن يقبل منه وهو في الاخرة من الخاسرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن یَبۡتَغِ غَیۡرَ ٱلۡإِسۡلَـٰمِ دِینࣰا فَلَن یُقۡبَلَ مِنۡهُ وَهُوَ فِی ٱلۡءَاخِرَةِ مِنَ ٱلۡخَـٰسِرِینَ
 
 | Details |  |

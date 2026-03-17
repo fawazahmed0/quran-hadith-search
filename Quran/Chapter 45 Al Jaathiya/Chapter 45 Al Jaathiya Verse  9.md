@@ -452,6 +452,18 @@ Wa 'Idhā 'Alima Min 'Āyātinā Shay'āan Attakhadhahā Huzūan 'Ūlā'ika Lahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا عَلِمَ مِنْ آيَاتِنَا شَيْئًا اتَّخَذَهَا هُزُوًا أُولَئِكَ لَهُمْ عَذَابٌ مُهِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا علم من اياتنا شييا اتخذها هزوا اوليك لهم عذاب مهين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا عَلِمَ مِنۡ ءَایَـٰتِنَا شَیۡءًا ٱتَّخَذَهَا هُزُوًاۚ أُو۟لَـٰۤئِكَ لَهُمۡ عَذَابࣱ مُّهِینࣱ
 
 | Details |  |

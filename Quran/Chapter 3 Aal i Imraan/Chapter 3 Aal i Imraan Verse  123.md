@@ -452,6 +452,18 @@ Wa Laqad Naşarakumu Allāhu Bibadrin Wa 'Antum 'Adhillatun Fa Attaqū Allāha L
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ نَصَرَكُمُ اللَّهُ بِبَدْرٍ وَأَنْتُمْ أَذِلَّةٌ فَاتَّقُوا اللَّهَ لَعَلَّكُمْ تَشْكُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد نصركم الله ببدر وانتم اذلة فاتقوا الله لعلكم تشكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ نَصَرَكُمُ ٱللَّهُ بِبَدۡرࣲ وَأَنتُمۡ أَذِلَّةࣱۖ فَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمۡ تَشۡكُرُونَ
 
 | Details |  |

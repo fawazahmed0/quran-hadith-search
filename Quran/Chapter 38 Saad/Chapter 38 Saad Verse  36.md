@@ -452,6 +452,18 @@ Fasakhkharnā Lahu Ar-Rīĥa Tajrī Bi'amrihi Rukhā'an Ĥaythu 'Aşāba
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَسَخَّرْنَا لَهُ الرِّيحَ تَجْرِي بِأَمْرِهِ رُخَاءً حَيْثُ أَصَابَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فسخرنا له الريح تجري بامره رخاء حيث اصاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَسَخَّرۡنَا لَهُ ٱلرِّیحَ تَجۡرِی بِأَمۡرِهِۦ رُخَاۤءً حَیۡثُ أَصَابَ
 
 | Details |  |

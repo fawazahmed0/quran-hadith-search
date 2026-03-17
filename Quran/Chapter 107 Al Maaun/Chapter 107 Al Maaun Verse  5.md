@@ -452,6 +452,18 @@ Al-Ladhīna Hum 'An Şalātihim Sāhūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين هم عن صلاتهم ساهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ هُمۡ عَن صَلَاتِهِمۡ سَاهُونَ
 
 | Details |  |

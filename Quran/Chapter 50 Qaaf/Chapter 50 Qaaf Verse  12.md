@@ -452,6 +452,18 @@ Kadhabat Qablahum Qawmu Nūĥin Wa 'Aşĥābu Ar-Rassi Wa Thamūdu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَابُ الرَّسِّ وَثَمُودُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذبت قبلهم قوم نوح واصحاب الرس وثمود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحࣲ وَأَصۡحَـٰبُ ٱلرَّسِّ وَثَمُودُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna Al-Ladhīna 'Āmanū Wa 'Amilū Aş-Şāliĥāti Sayaj'alu Lahumu Ar-Raĥm�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ الرَّحْمَنُ وُدًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين امنوا وعملوا الصالحات سيجعل لهم الرحمن ودا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَیَجۡعَلُ لَهُمُ ٱلرَّحۡمَـٰنُ وُدࣰّا
 
 | Details |  |

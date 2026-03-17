@@ -452,6 +452,18 @@ Wa 'Idhā Al-Kawākibu Antatharat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا الْكَوَاكِبُ انْتَثَرَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا الكواكب انتثرت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ
 
 | Details |  |

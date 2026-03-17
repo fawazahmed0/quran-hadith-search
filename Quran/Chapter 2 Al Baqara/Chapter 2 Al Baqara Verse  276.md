@@ -452,6 +452,18 @@ Yamĥaqu Allāhu Ar-Ribā Wa Yurbī Aş-Şadaqāti Wa Allāhu Lā Yuĥibbu Kulla
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَمْحَقُ اللَّهُ الرِّبَا وَيُرْبِي الصَّدَقَاتِ وَاللَّهُ لَا يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يمحق الله الربا ويربي الصدقات والله لا يحب كل كفار اثيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَمۡحَقُ ٱللَّهُ ٱلرِّبَوٰا۟ وَیُرۡبِی ٱلصَّدَقَـٰتِۗ وَٱللَّهُ لَا یُحِبُّ كُلَّ كَفَّارٍ أَثِیمٍ
 
 | Details |  |

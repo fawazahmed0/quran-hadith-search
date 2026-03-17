@@ -452,6 +452,18 @@ Qāla Fāhbiţ Minhā Famā Yakūnu Laka 'An Tatakabbara Fīhā Fākhruj 'Innaka
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ فَاهْبِطْ مِنْهَا فَمَا يَكُونُ لَكَ أَنْ تَتَكَبَّرَ فِيهَا فَاخْرُجْ إِنَّكَ مِنَ الصَّاغِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال فاهبط منها فما يكون لك ان تتكبر فيها فاخرج انك من الصاغرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ فَٱهۡبِطۡ مِنۡهَا فَمَا یَكُونُ لَكَ أَن تَتَكَبَّرَ فِیهَا فَٱخۡرُجۡ إِنَّكَ مِنَ ٱلصَّـٰغِرِینَ
 
 | Details |  |

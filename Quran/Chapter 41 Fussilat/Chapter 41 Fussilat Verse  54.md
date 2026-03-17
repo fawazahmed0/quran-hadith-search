@@ -452,6 +452,18 @@ Alā 'Innahum Fī Miryatin Min Liqā'i Rabbihim 'Alā 'Innahu Bikulli Shay'in Mu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَا إِنَّهُمْ فِي مِرْيَةٍ مِنْ لِقَاءِ رَبِّهِمْ أَلَا إِنَّهُ بِكُلِّ شَيْءٍ مُحِيطٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا انهم في مرية من لقاء ربهم الا انه بكل شيء محيط
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَاۤ إِنَّهُمۡ فِی مِرۡیَةࣲ مِّن لِّقَاۤءِ رَبِّهِمۡۗ أَلَاۤ إِنَّهُۥ بِكُلِّ شَیۡءࣲ مُّحِیطُۢ
 
 | Details |  |

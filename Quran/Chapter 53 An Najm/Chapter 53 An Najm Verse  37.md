@@ -452,6 +452,18 @@ Wa 'Ibrāhīma Al-Ladhī Wa Ffá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِبْرَاهِيمَ الَّذِي وَفَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وابراهيم الذي وفى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِبۡرَ ٰهِیمَ ٱلَّذِی وَفَّىٰۤ
 
 | Details |  |

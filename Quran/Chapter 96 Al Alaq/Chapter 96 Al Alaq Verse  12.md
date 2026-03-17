@@ -452,6 +452,18 @@ Aw 'Amara Bit-Taqwá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْ أَمَرَ بِالتَّقْوَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+او امر بالتقوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوۡ أَمَرَ بِٱلتَّقۡوَىٰۤ
 
 | Details |  |

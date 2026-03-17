@@ -452,6 +452,18 @@ Uballighukum Risālāti Rabbī Wa 'Anā Lakum Nāşiĥun 'Amīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُبَلِّغُكُمْ رِسَالَاتِ رَبِّي وَأَنَا لَكُمْ نَاصِحٌ أَمِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ابلغكم رسالات ربي وانا لكم ناصح امين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُبَلِّغُكُمۡ رِسَـٰلَـٰتِ رَبِّی وَأَنَا۠ لَكُمۡ نَاصِحٌ أَمِینٌ
 
 | Details |  |

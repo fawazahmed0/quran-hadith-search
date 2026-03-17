@@ -452,6 +452,18 @@ Yursalu 'Alaykumā Shuwāžun Min Nārin Wa Nuĥāsun Falā Tantaşirāni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِنْ نَارٍ وَنُحَاسٌ فَلَا تَنْتَصِرَانِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يرسل عليكما شواظ من نار ونحاس فلا تنتصران
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُرۡسَلُ عَلَیۡكُمَا شُوَاظࣱ مِّن نَّارࣲ وَنُحَاسࣱ فَلَا تَنتَصِرَانِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Famāli'ūna Minhā Al-Buţūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَالِئُونَ مِنْهَا الْبُطُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فماليون منها البطون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَالِءُونَ مِنۡهَا ٱلۡبُطُونَ
 
 | Details |  |

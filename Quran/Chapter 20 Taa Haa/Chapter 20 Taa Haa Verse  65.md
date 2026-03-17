@@ -452,6 +452,18 @@ Qālū Yā Mūsá 'Immā 'An Tulqiya Wa 'Immā 'An Nakūna 'Awwala Man 'Alqá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا يَا مُوسَى إِمَّا أَنْ تُلْقِيَ وَإِمَّا أَنْ نَكُونَ أَوَّلَ مَنْ أَلْقَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا يا موسى اما ان تلقي واما ان نكون اول من القى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ یَـٰمُوسَىٰۤ إِمَّاۤ أَن تُلۡقِیَ وَإِمَّاۤ أَن نَّكُونَ أَوَّلَ مَنۡ أَلۡقَىٰ
 
 | Details |  |

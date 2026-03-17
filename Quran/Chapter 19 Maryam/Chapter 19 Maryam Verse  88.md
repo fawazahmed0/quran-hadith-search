@@ -452,6 +452,18 @@ Wa Qālū Attakhadha Ar-Raĥmānu Waladāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا اتَّخَذَ الرَّحْمَنُ وَلَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا اتخذ الرحمن ولدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحۡمَـٰنُ وَلَدࣰا
 
 | Details |  |

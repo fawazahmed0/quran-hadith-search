@@ -452,6 +452,18 @@ Wa Man Ya'mal Sū'āan 'Aw Yažlim Nafsahu Thumma Yastaghfiri Allāha Yajidi All
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَحِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن يعمل سوءا او يظلم نفسه ثم يستغفر الله يجد الله غفورا رحيما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن یَعۡمَلۡ سُوۤءًا أَوۡ یَظۡلِمۡ نَفۡسَهُۥ ثُمَّ یَسۡتَغۡفِرِ ٱللَّهَ یَجِدِ ٱللَّهَ غَفُورࣰا رَّحِیمࣰا
 
 | Details |  |

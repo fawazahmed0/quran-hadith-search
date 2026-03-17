@@ -452,6 +452,18 @@ Qālū Yā Waylanā 'Innā Kunnā Žālimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا يَا وَيْلَنَا إِنَّا كُنَّا ظَالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا يا ويلنا انا كنا ظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ یَـٰوَیۡلَنَاۤ إِنَّا كُنَّا ظَـٰلِمِینَ
 
 | Details |  |

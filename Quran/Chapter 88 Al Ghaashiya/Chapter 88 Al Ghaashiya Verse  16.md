@@ -452,6 +452,18 @@ Wa Zarābīyu Mabthūthahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَزَرَابِيُّ مَبْثُوثَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وزرابي مبثوثة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَزَرَابِیُّ مَبۡثُوثَةٌ
 
 | Details |  |

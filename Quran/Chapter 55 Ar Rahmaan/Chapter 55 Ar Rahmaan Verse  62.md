@@ -452,6 +452,18 @@ Wa Min Dūnihimā Jannatāni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنْ دُونِهِمَا جَنَّتَانِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن دونهما جنتان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِن دُونِهِمَا جَنَّتَانِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fānţalaqū Wa Hum Yatakhāfatūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَانْطَلَقُوا وَهُمْ يَتَخَافَتُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانطلقوا وهم يتخافتون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱنطَلَقُوا۟ وَهُمۡ یَتَخَـٰفَتُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Lakum Fīhā Jamālun Ĥīna Turīĥūna Wa Ĥīna Tasraĥūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولكم فيها جمال حين تريحون وحين تسرحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَكُمۡ فِیهَا جَمَالٌ حِینَ تُرِیحُونَ وَحِینَ تَسۡرَحُونَ
 
 | Details |  |

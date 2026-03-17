@@ -452,6 +452,18 @@ Wa Yuţāfu 'Alayhim Bi'āniyatin Min Fiđđatin Wa 'Akwābin Kānat Qawārīra
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيُطَافُ عَلَيْهِمْ بِآنِيَةٍ مِنْ فِضَّةٍ وَأَكْوَابٍ كَانَتْ قَوَارِيرَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويطاف عليهم بانية من فضة واكواب كانت قواريرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیُطَافُ عَلَیۡهِم بِءَانِیَةࣲ مِّن فِضَّةࣲ وَأَكۡوَابࣲ كَانَتۡ قَوَارِیرَا۠
 
 | Details |  |

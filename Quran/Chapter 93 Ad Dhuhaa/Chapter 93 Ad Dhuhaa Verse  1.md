@@ -452,6 +452,18 @@ Wa Ađ-Đuĥá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالضُّحَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والضحى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلضُّحَىٰ
 
 | Details |  |

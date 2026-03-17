@@ -452,6 +452,18 @@ Afara'aytum Mā Taĥruthūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَرَأَيْتُمْ مَا تَحْرُثُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افرايتم ما تحرثون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَرَءَیۡتُم مَّا تَحۡرُثُونَ
 
 | Details |  |

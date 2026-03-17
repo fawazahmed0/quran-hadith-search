@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ ابْنِ مَسْعُودٍ رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه و سلم لَا يَحِلُّ دَمُ امْرِئٍ مُسْلِمٍ \[ يشهد أن لا إله إلا الله، وأني رسول الله\] إلَّا بِإِحْدَى ثَلَاثٍ: الثَّيِّبُ الزَّانِي، وَالنَّفْسُ بِالنَّفْسِ، وَالتَّارِكُ لِدِينِهِ الْمُفَارِقُ لِلْجَمَاعَةِ .(br)\[رَوَاهُ الْبُخَارِيُّ\] ، \[وَمُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of Ibn Masood (may Allah be pleased with him) who said: The Mes
 ## French
 
 Selon Ibn Mas’oud (qu’Allah l’agrée), qui a dit : Le Messager d’Allah (ﷺ) a dit : « Il n’est pas permis de verser le sang d’un musulman sauf dans trois cas : la personne mariée qui commet l’adultère, le meurtre (la loi du talion), et celui qui abandonne sa religion et se sépare de la communauté. » \[Boukhari\] \[Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 14 |
+| Arabic No | 14 |
+| Reference | Book 1 Hadith 14 |
+
+## Turkish
+
+İbn Mes'ud (ra) anlatıyor: Resulullah (ﷺ) şöyle buyurdu: "Müslüman bir kimsenin kanı ancak şu üç durumdan biriyle helal olur: Zina eden evli kişi, cana karşılık can (kısas) ve dinini terk edip cemaatten ayrılan kişi." \[Buhari ve Müslim\]
 
 | References: |  |
 | --- | --- |

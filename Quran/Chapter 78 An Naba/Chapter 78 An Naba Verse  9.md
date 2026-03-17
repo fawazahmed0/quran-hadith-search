@@ -452,6 +452,18 @@ Wa Ja'alnā Nawmakum Subātāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلنا نومكم سباتا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلۡنَا نَوۡمَكُمۡ سُبَاتࣰا
 
 | Details |  |

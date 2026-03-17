@@ -452,6 +452,18 @@ Athumma 'Idhā Mā Waqa'a 'Āmantum Bihi 'Āl'āna Wa Qad Kuntum Bihi Tasta'jil�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَثُمَّ إِذَا مَا وَقَعَ آمَنْتُمْ بِهِ آلْآنَ وَقَدْ كُنْتُمْ بِهِ تَسْتَعْجِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اثم اذا ما وقع امنتم به الان وقد كنتم به تستعجلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَثُمَّ إِذَا مَا وَقَعَ ءَامَنتُم بِهِۦۤۚ ءَاۤلۡءَـٰنَ وَقَدۡ كُنتُم بِهِۦ تَسۡتَعۡجِلُونَ
 
 | Details |  |

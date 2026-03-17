@@ -452,6 +452,18 @@ Wa Minhum Man Yastami'ūna 'Ilayka 'Afa'anta Tusmi'u Aş-Şumma Wa Law Kānū L�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنْهُمْ مَنْ يَسْتَمِعُونَ إِلَيْكَ أَفَأَنْتَ تُسْمِعُ الصُّمَّ وَلَوْ كَانُوا لَا يَعْقِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومنهم من يستمعون اليك افانت تسمع الصم ولو كانوا لا يعقلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِنۡهُم مَّن یَسۡتَمِعُونَ إِلَیۡكَۚ أَفَأَنتَ تُسۡمِعُ ٱلصُّمَّ وَلَوۡ كَانُوا۟ لَا یَعۡقِلُونَ
 
 | Details |  |

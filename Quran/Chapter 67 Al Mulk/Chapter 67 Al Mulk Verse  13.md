@@ -452,6 +452,18 @@ Wa 'Asirrū Qawlakum 'Aw Ajharū Bihi 'Innahu 'Alīmun Bidhāti Aş-Şudūri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَسِرُّوا قَوْلَكُمْ أَوِ اجْهَرُوا بِهِ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واسروا قولكم او اجهروا به انه عليم بذات الصدور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَسِرُّوا۟ قَوۡلَكُمۡ أَوِ ٱجۡهَرُوا۟ بِهِۦۤۖ إِنَّهُۥ عَلِیمُۢ بِذَاتِ ٱلصُّدُورِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Lā Tuţī'ū 'Amra Al-Musrifīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تُطِيعُوا أَمْرَ الْمُسْرِفِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تطيعوا امر المسرفين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تُطِیعُوۤا۟ أَمۡرَ ٱلۡمُسۡرِفِینَ
 
 | Details |  |

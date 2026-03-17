@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي مَالِكٍ الْحَارِثِ بْنِ عَاصِمٍ الْأَشْعَرِيِّ رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه و سلم الطَّهُورُ شَطْرُ الْإِيمَانِ، وَالْحَمْدُ لِلَّهِ تَمْلَأُ الْمِيزَانَ، وَسُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ تَمْلَآنِ -أَوْ: تَمْلَأُ- مَا بَيْنَ السَّمَاءِ وَالْأَرْضِ، وَالصَّلَاةُ نُورٌ، وَالصَّدَقَةُ بُرْهَانٌ، وَالصَّبْرُ ضِيَاءٌ، وَالْقُرْآنُ حُجَّةٌ لَك أَوْ عَلَيْك، كُلُّ النَّاسِ يَغْدُو، فَبَائِعٌ نَفْسَهُ فَمُعْتِقُهَا أَوْ مُوبِقُهَا . \[رَوَاهُ مُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of Abu Malik al-Harith bin Asim al-Asharee (may Allah be please
 ## French
 
 Selon Abou Malik al-Harith ibn Asim al-Achari (qu’Allah l’agrée), le Messager d’Allah (ﷺ) a dit : « La pureté est la moitié de la foi. “Alhamdoulillah” (louange à Allah) remplit la balance, et “SubhanAllah” (gloire à Allah) et “Alhamdoulillah” remplissent ce qui est entre le ciel et la terre. La prière est une lumière, l’aumône est une preuve, la patience est une illumination, et le Coran est un argument en ta faveur ou contre toi. Chaque personne commence sa journée en marchand de son âme : soit il la libère, soit il la cause à sa perte. » \[Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 23 |
+| Arabic No | 23 |
+| Reference | Book 1 Hadith 23 |
+
+## Turkish
+
+Ebu Malik el-Eş’ari (ra) anlatıyor: Resulullah (ﷺ) şöyle buyurdu: "Temizlik imanın yarısıdır. 'Elhamdülillah' mizanı doldurur. 'Sübhanallahi ve’l-hamdülillahi' ise göklerle yer arasını doldurur. Namaz bir nurdur, sadaka bir burhandır (delildir), sabır bir ziyadır (ışıktır). Kur’an ise ya lehine ya da aleyhine bir delildir. Herkes sabah kalkar ve nefsini satar; kimisi onu azat eder, kimisi de helak eder." \[Müslim\]
 
 | References: |  |
 | --- | --- |

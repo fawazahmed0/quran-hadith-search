@@ -452,6 +452,18 @@ Wa Mā 'Alayka 'Allā Yazzakká
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا عَلَيْكَ أَلَّا يَزَّكَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما عليك الا يزكى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا عَلَیۡكَ أَلَّا یَزَّكَّىٰ
 
 | Details |  |

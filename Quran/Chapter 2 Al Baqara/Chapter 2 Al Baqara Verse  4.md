@@ -452,6 +452,18 @@ Wa Al-Ladhīna Yu'uminūna Bimā 'Unzila 'Ilayka Wa Mā 'Unzila Min Qablika Wa B
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين يومنون بما انزل اليك وما انزل من قبلك وبالاخرة هم يوقنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ یُؤۡمِنُونَ بِمَاۤ أُنزِلَ إِلَیۡكَ وَمَاۤ أُنزِلَ مِن قَبۡلِكَ وَبِٱلۡءَاخِرَةِ هُمۡ یُوقِنُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Lalabitha Fī Baţnihi 'Ilá Yawmi Yub'athūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَلَبِثَ فِي بَطْنِهِ إِلَى يَوْمِ يُبْعَثُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+للبث في بطنه الى يوم يبعثون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَلَبِثَ فِی بَطۡنِهِۦۤ إِلَىٰ یَوۡمِ یُبۡعَثُونَ
 
 | Details |  |

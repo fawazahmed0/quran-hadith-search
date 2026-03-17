@@ -452,6 +452,18 @@ Illā Amra'atahu Qaddarnā 'Innahā Lamina Al-Ghābirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا امْرَأَتَهُ قَدَّرْنَا إِنَّهَا لَمِنَ الْغَابِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا امراته قدرنا انها لمن الغابرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا ٱمۡرَأَتَهُۥ قَدَّرۡنَاۤ إِنَّهَا لَمِنَ ٱلۡغَـٰبِرِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Asta'īnū Biş-Şabri Wa Aş-Şalāati Wa 'Innahā Lakabīratun 'Illā 'Alá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى الْخَاشِعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واستعينوا بالصبر والصلاة وانها لكبيرة الا على الخاشعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱسۡتَعِینُوا۟ بِٱلصَّبۡرِ وَٱلصَّلَوٰةِۚ وَإِنَّهَا لَكَبِیرَةٌ إِلَّا عَلَى ٱلۡخَـٰشِعِینَ
 
 | Details |  |

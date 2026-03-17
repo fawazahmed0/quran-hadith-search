@@ -452,6 +452,18 @@ Wa As-Sābiĥāti Sabĥāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالسَّابِحَاتِ سَبْحًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والسابحات سبحا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلسَّـٰبِحَـٰتِ سَبۡحࣰا
 
 | Details |  |

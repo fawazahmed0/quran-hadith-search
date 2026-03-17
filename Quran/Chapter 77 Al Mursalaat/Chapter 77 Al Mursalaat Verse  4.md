@@ -452,6 +452,18 @@ Fālfāriqāti Farqāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَالْفَارِقَاتِ فَرْقًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالفارقات فرقا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱلۡفَـٰرِقَـٰتِ فَرۡقࣰا
 
 | Details |  |

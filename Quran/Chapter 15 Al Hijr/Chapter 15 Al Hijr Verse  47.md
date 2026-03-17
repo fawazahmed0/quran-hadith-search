@@ -452,6 +452,18 @@ Wa Naza'nā Mā Fī Şudūrihim Min Ghillin 'Ikhwānāan 'Alá Sururin Mutaqābi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَزَعْنَا مَا فِي صُدُورِهِمْ مِنْ غِلٍّ إِخْوَانًا عَلَى سُرُرٍ مُتَقَابِلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونزعنا ما في صدورهم من غل اخوانا على سرر متقابلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَزَعۡنَا مَا فِی صُدُورِهِم مِّنۡ غِلٍّ إِخۡوَ ٰنًا عَلَىٰ سُرُرࣲ مُّتَقَـٰبِلِینَ
 
 | Details |  |

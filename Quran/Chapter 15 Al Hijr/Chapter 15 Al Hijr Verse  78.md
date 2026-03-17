@@ -452,6 +452,18 @@ Wa 'In Kāna 'Aşĥābu Al-'Aykati Lažālimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ كَانَ أَصْحَابُ الْأَيْكَةِ لَظَالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان كان اصحاب الايكة لظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن كَانَ أَصۡحَـٰبُ ٱلۡأَیۡكَةِ لَظَـٰلِمِینَ
 
 | Details |  |

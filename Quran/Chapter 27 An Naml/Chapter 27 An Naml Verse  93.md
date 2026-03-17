@@ -452,6 +452,18 @@ Wa Quli Al-Ĥamdu Lillāhi Sayurīkum 'Āyātihi Fata'rifūnahā Wa Mā Rabbuka 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقُلِ الْحَمْدُ لِلَّهِ سَيُرِيكُمْ آيَاتِهِ فَتَعْرِفُونَهَا وَمَا رَبُّكَ بِغَافِلٍ عَمَّا تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقل الحمد لله سيريكم اياته فتعرفونها وما ربك بغافل عما تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقُلِ ٱلۡحَمۡدُ لِلَّهِ سَیُرِیكُمۡ ءَایَـٰتِهِۦ فَتَعۡرِفُونَهَاۚ وَمَا رَبُّكَ بِغَـٰفِلٍ عَمَّا تَعۡمَلُونَ
 
 | Details |  |

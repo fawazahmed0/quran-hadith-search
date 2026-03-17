@@ -452,6 +452,18 @@ Wa Najjaynāhumā Wa Qawmahumā Mina Al-Karbi Al-'Ažīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَجَّيْنَاهُمَا وَقَوْمَهُمَا مِنَ الْكَرْبِ الْعَظِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونجيناهما وقومهما من الكرب العظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَجَّیۡنَـٰهُمَا وَقَوۡمَهُمَا مِنَ ٱلۡكَرۡبِ ٱلۡعَظِیمِ
 
 | Details |  |

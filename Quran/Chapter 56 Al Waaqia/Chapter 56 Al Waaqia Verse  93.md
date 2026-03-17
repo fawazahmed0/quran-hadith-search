@@ -452,6 +452,18 @@ Fanuzulun Min Ĥamīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَنُزُلٌ مِنْ حَمِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فنزل من حميم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَنُزُلࣱ مِّنۡ حَمِیمࣲ
 
 | Details |  |

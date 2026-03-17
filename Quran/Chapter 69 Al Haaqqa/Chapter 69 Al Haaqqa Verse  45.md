@@ -452,6 +452,18 @@ La'akhadhnā Minhu Bil-Yamīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَأَخَذْنَا مِنْهُ بِالْيَمِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لاخذنا منه باليمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَأَخَذۡنَا مِنۡهُ بِٱلۡیَمِینِ
 
 | Details |  |

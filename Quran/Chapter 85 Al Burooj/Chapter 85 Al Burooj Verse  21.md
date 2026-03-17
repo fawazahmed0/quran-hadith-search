@@ -452,6 +452,18 @@ Bal Huwa Qur'ānun Majīdun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ هُوَ قُرْآنٌ مَجِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل هو قران مجيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ هُوَ قُرۡءَانࣱ مَّجِیدࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Idhi Anba'atha 'Ashqāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذِ انْبَعَثَ أَشْقَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ انبعث اشقاها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذِ ٱنۢبَعَثَ أَشۡقَىٰهَا
 
 | Details |  |

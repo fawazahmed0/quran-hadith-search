@@ -452,6 +452,18 @@ Qālā Rabbanā 'Innanā Nakhāfu 'An Yafruţa 'Alaynā 'Aw 'An Yaţghá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَا رَبَّنَا إِنَّنَا نَخَافُ أَنْ يَفْرُطَ عَلَيْنَا أَوْ أَنْ يَطْغَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالا ربنا اننا نخاف ان يفرط علينا او ان يطغى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَا رَبَّنَاۤ إِنَّنَا نَخَافُ أَن یَفۡرُطَ عَلَیۡنَاۤ أَوۡ أَن یَطۡغَىٰ
 
 | Details |  |

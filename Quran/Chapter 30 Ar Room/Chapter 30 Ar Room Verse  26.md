@@ -452,6 +452,18 @@ Wa Lahu Man Fī As-Samāwāti Wa Al-'Arđi Kullun Lahu Qānitūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ كُلٌّ لَهُ قَانِتُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وله من في السماوات والارض كل له قانتون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَهُۥ مَن فِی ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۖ كُلࣱّ لَّهُۥ قَـٰنِتُونَ
 
 | Details |  |

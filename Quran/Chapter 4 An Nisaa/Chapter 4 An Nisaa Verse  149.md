@@ -452,6 +452,18 @@ In Tubdū Khayrāan 'Aw Tukhfūhu 'Aw Ta'fū 'An Sū'in Fa'inna Allāha Kāna 'A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ تُبْدُوا خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُوا عَنْ سُوءٍ فَإِنَّ اللَّهَ كَانَ عَفُوًّا قَدِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان تبدوا خيرا او تخفوه او تعفوا عن سوء فان الله كان عفوا قديرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِن تُبۡدُوا۟ خَیۡرًا أَوۡ تُخۡفُوهُ أَوۡ تَعۡفُوا۟ عَن سُوۤءࣲ فَإِنَّ ٱللَّهَ كَانَ عَفُوࣰّا قَدِیرًا
 
 | Details |  |

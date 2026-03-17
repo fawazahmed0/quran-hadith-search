@@ -452,6 +452,18 @@ Fa'idhā Qara'nāhu Fa Attabi' Qur'ānahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاذا قراناه فاتبع قرانه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِذَا قَرَأۡنَـٰهُ فَٱتَّبِعۡ قُرۡءَانَهُۥ
 
 | Details |  |

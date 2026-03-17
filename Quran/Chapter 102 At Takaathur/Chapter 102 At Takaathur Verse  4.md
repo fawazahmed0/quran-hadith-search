@@ -452,6 +452,18 @@ Thumma Kallā Sawfa Ta'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم كلا سوف تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Lammā Balagha 'Ashuddahu Wa Astawá 'Ātaynāhu Ĥukmāan Wa 'Ilmāan Wa Kad
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَمَّا بَلَغَ أَشُدَّهُ وَاسْتَوَى آتَيْنَاهُ حُكْمًا وَعِلْمًا وَكَذَلِكَ نَجْزِي الْمُحْسِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولما بلغ اشده واستوى اتيناه حكما وعلما وكذلك نجزي المحسنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَمَّا بَلَغَ أَشُدَّهُۥ وَٱسۡتَوَىٰۤ ءَاتَیۡنَـٰهُ حُكۡمࣰا وَعِلۡمࣰاۚ وَكَذَ ٰلِكَ نَجۡزِی ٱلۡمُحۡسِنِینَ
 
 | Details |  |

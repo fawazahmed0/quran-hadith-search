@@ -452,6 +452,18 @@ Alimi Al-Ghaybi Wa Ash-Shahadati Fata'ala 'Amma Yushrikuna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَتَعَالَى عَمَّا يُشْرِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عالم الغيب والشهادة فتعالى عما يشركون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَـٰلِمِ ٱلۡغَیۡبِ وَٱلشَّهَـٰدَةِ فَتَعَـٰلَىٰ عَمَّا یُشۡرِكُونَ
 
 | Details |  |

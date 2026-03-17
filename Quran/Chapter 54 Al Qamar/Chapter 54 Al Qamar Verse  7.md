@@ -452,6 +452,18 @@ Khusha'āan 'Abşāruhum Yakhrujūna Mina Al-'Ajdāthi Ka'annahum Jarādun Munta
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خُشَّعًا أَبْصَارُهُمْ يَخْرُجُونَ مِنَ الْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُنْتَشِرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خشعا ابصارهم يخرجون من الاجداث كانهم جراد منتشر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خُشَّعًا أَبۡصَـٰرُهُمۡ یَخۡرُجُونَ مِنَ ٱلۡأَجۡدَاثِ كَأَنَّهُمۡ جَرَادࣱ مُّنتَشِرࣱ
 
 | Details |  |

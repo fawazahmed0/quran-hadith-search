@@ -452,6 +452,18 @@ Al-Ladhīna Yufsidūna Fī Al-'Arđi Wa Lā Yuşliĥūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين يفسدون في الارض ولا يصلحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ یُفۡسِدُونَ فِی ٱلۡأَرۡضِ وَلَا یُصۡلِحُونَ
 
 | Details |  |

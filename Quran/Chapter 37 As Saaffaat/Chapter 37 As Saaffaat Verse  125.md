@@ -452,6 +452,18 @@ Atad'ūna Ba'lāan Wa Tadharūna 'Aĥsana Al-Khāliqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ الْخَالِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اتدعون بعلا وتذرون احسن الخالقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَتَدۡعُونَ بَعۡلࣰا وَتَذَرُونَ أَحۡسَنَ ٱلۡخَـٰلِقِینَ
 
 | Details |  |

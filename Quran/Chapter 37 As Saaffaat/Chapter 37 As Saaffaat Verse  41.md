@@ -452,6 +452,18 @@ Ula'ika Lahum Rizqun Ma'lumun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ لَهُمْ رِزْقٌ مَعْلُومٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك لهم رزق معلوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ لَهُمۡ رِزۡقࣱ مَّعۡلُومࣱ
 
 | Details |  |

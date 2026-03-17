@@ -452,6 +452,18 @@ Kamā 'Akhrajaka Rabbuka Min Baytika Bil-Ĥaqqi Wa 'Inna Farīqāan Mina Al-Mu'u
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَمَا أَخْرَجَكَ رَبُّكَ مِنْ بَيْتِكَ بِالْحَقِّ وَإِنَّ فَرِيقًا مِنَ الْمُؤْمِنِينَ لَكَارِهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كما اخرجك ربك من بيتك بالحق وان فريقا من المومنين لكارهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَمَاۤ أَخۡرَجَكَ رَبُّكَ مِنۢ بَیۡتِكَ بِٱلۡحَقِّ وَإِنَّ فَرِیقࣰا مِّنَ ٱلۡمُؤۡمِنِینَ لَكَـٰرِهُونَ
 
 | Details |  |

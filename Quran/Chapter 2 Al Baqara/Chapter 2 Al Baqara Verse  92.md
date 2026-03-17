@@ -452,6 +452,18 @@ Wa Laqad Jā'akum Mūsá Bil-Bayyināti Thumma Attakhadhtumu Al-'Ijla Min Ba'dih
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ جَاءَكُمْ مُوسَى بِالْبَيِّنَاتِ ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِنْ بَعْدِهِ وَأَنْتُمْ ظَالِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد جاءكم موسى بالبينات ثم اتخذتم العجل من بعده وانتم ظالمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَلَقَدۡ جَاۤءَكُم مُّوسَىٰ بِٱلۡبَیِّنَـٰتِ ثُمَّ ٱتَّخَذۡتُمُ ٱلۡعِجۡلَ مِنۢ بَعۡدِهِۦ وَأَنتُمۡ ظَـٰلِمُونَ
 
 | Details |  |

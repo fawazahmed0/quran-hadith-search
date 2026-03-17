@@ -452,6 +452,18 @@ Yawma Naĥshuru Al-Muttaqīna 'Ilá Ar-Raĥmāni Wafdāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ نَحْشُرُ الْمُتَّقِينَ إِلَى الرَّحْمَنِ وَفْدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم نحشر المتقين الى الرحمن وفدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ نَحۡشُرُ ٱلۡمُتَّقِینَ إِلَى ٱلرَّحۡمَـٰنِ وَفۡدࣰا
 
 | Details |  |

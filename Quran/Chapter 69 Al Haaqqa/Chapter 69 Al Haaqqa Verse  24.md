@@ -452,6 +452,18 @@ Kulū Wa Ashrabū Hanī'āan Bimā 'Aslaftum Fī Al-'Ayyāmi Al-Khāliyahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ الْخَالِيَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلوا واشربوا هنييا بما اسلفتم في الايام الخالية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كُلُوا۟ وَٱشۡرَبُوا۟ هَنِیۤءَۢا بِمَاۤ أَسۡلَفۡتُمۡ فِی ٱلۡأَیَّامِ ٱلۡخَالِیَةِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Innī Wajjahtu Wajhiya Lilladhī Faţara As-Samāwāti Wa Al-'Arđa Ĥanīfāan 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اني وجهت وجهي للذي فطر السماوات والارض حنيفا وما انا من المشركين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنِّی وَجَّهۡتُ وَجۡهِیَ لِلَّذِی فَطَرَ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضَ حَنِیفࣰاۖ وَمَاۤ أَنَا۠ مِنَ ٱلۡمُشۡرِكِینَ
 
 | Details |  |

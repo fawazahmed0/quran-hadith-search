@@ -452,6 +452,18 @@ Qul Lā Tus'alūna 'Ammā 'Ajramnā Wa Lā Nus'alu 'Ammā Ta'malūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ لَا تُسْأَلُونَ عَمَّا أَجْرَمْنَا وَلَا نُسْأَلُ عَمَّا تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل لا تسالون عما اجرمنا ولا نسال عما تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُل لَّا تُسۡءَلُونَ عَمَّاۤ أَجۡرَمۡنَا وَلَا نُسۡءَلُ عَمَّا تَعۡمَلُونَ
 
 | Details |  |

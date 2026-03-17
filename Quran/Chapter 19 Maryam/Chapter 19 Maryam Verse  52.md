@@ -452,6 +452,18 @@ Wa Nādaynāhu Min Jānibi Aţ-Ţūri Al-'Aymani Wa Qarrabnāhu Najīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَادَيْنَاهُ مِنْ جَانِبِ الطُّورِ الْأَيْمَنِ وَقَرَّبْنَاهُ نَجِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وناديناه من جانب الطور الايمن وقربناه نجيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَـٰدَیۡنَـٰهُ مِن جَانِبِ ٱلطُّورِ ٱلۡأَیۡمَنِ وَقَرَّبۡنَـٰهُ نَجِیࣰّا
 
 | Details |  |

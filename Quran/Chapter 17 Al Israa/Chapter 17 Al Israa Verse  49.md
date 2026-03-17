@@ -452,6 +452,18 @@ Wa Qālū 'A'idhā Kunnā 'Ižāmāan Wa Rufātāan 'A'innā Lamab'ūthūna Khal
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا ااذا كنا عظاما ورفاتا اانا لمبعوثون خلقا جديدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوۤا۟ أَءِذَا كُنَّا عِظَـٰمࣰا وَرُفَـٰتًا أَءِنَّا لَمَبۡعُوثُونَ خَلۡقࣰا جَدِیدࣰا
 
 | Details |  |

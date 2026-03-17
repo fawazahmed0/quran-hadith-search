@@ -452,6 +452,18 @@ Qālū Lam Naku Mina Al-Muşallīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا لم نك من المصلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ لَمۡ نَكُ مِنَ ٱلۡمُصَلِّینَ
 
 | Details |  |

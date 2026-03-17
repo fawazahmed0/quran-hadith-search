@@ -452,6 +452,18 @@ Atawāşaw Bihi Bal Hum Qawmun Ţāghūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَتَوَاصَوْا بِهِ بَلْ هُمْ قَوْمٌ طَاغُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اتواصوا به بل هم قوم طاغون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَتَوَاصَوۡا۟ بِهِۦۚ بَلۡ هُمۡ قَوۡمࣱ طَاغُونَ
 
 | Details |  |

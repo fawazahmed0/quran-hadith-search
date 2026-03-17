@@ -452,6 +452,18 @@ Wa Adhkur Fī Al-Kitābi Mūsá 'Innahu Kāna Mukhlaşāan Wa Kāna Rasūlāan N
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاذْكُرْ فِي الْكِتَابِ مُوسَى إِنَّهُ كَانَ مُخْلَصًا وَكَانَ رَسُولًا نَبِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذكر في الكتاب موسى انه كان مخلصا وكان رسولا نبيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱذۡكُرۡ فِی ٱلۡكِتَـٰبِ مُوسَىٰۤۚ إِنَّهُۥ كَانَ مُخۡلَصࣰا وَكَانَ رَسُولࣰا نَّبِیࣰّا
 
 | Details |  |

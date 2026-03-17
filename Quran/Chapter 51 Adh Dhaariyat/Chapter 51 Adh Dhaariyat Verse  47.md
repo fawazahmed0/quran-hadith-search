@@ -452,6 +452,18 @@ Wa As-Samā'a Banaynāhā Bi'ayydin Wa 'Innā Lamūsi'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والسماء بنيناها بايد وانا لموسعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلسَّمَاۤءَ بَنَیۡنَـٰهَا بِأَیۡی۟دࣲ وَإِنَّا لَمُوسِعُونَ
 
 | Details |  |

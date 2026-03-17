@@ -452,6 +452,18 @@ Inna Hādhā Mā Kuntum Bihi Tamtarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ هَذَا مَا كُنْتُمْ بِهِ تَمْتَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هذا ما كنتم به تمترون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ هَـٰذَا مَا كُنتُم بِهِۦ تَمۡتَرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Kāna Fī Al-Madīnati Tis'atu Rahţin Yufsidūna Fī Al-'Arđi Wa Lā Yuşli
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكان في المدينة تسعة رهط يفسدون في الارض ولا يصلحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَانَ فِی ٱلۡمَدِینَةِ تِسۡعَةُ رَهۡطࣲ یُفۡسِدُونَ فِی ٱلۡأَرۡضِ وَلَا یُصۡلِحُونَ
 
 | Details |  |

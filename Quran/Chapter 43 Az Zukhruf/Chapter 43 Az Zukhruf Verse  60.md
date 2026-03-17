@@ -452,6 +452,18 @@ Wa Law Nashā'u Laja'alnā Minkum Malā'ikatan Fī Al-'Arđi Yakhlufūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْ نَشَاءُ لَجَعَلْنَا مِنْكُمْ مَلَائِكَةً فِي الْأَرْضِ يَخْلُفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولو نشاء لجعلنا منكم ملايكة في الارض يخلفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡ نَشَاۤءُ لَجَعَلۡنَا مِنكُم مَّلَـٰۤئِكَةࣰ فِی ٱلۡأَرۡضِ یَخۡلُفُونَ
 
 | Details |  |

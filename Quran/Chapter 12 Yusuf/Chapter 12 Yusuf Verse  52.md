@@ -452,6 +452,18 @@ Dhālika Liya'lama 'Annī Lam 'Akhunhu Bil-Ghaybi Wa 'Anna Allāha Lā Yahdī Ka
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ لِيَعْلَمَ أَنِّي لَمْ أَخُنْهُ بِالْغَيْبِ وَأَنَّ اللَّهَ لَا يَهْدِي كَيْدَ الْخَائِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك ليعلم اني لم اخنه بالغيب وان الله لا يهدي كيد الخاينين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ لِیَعۡلَمَ أَنِّی لَمۡ أَخُنۡهُ بِٱلۡغَیۡبِ وَأَنَّ ٱللَّهَ لَا یَهۡدِی كَیۡدَ ٱلۡخَاۤئِنِینَ
 
 | Details |  |

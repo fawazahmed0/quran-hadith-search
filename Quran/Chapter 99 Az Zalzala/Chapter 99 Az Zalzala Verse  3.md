@@ -452,6 +452,18 @@ Wa Qāla Al-'Insānu Mā Lahā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ الْإِنْسَانُ مَا لَهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال الانسان ما لها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ ٱلۡإِنسَـٰنُ مَا لَهَا
 
 | Details |  |

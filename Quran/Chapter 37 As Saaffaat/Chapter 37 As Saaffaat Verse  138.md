@@ -452,6 +452,18 @@ Wa Bil-Layli 'Afalā Ta'qilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَبِاللَّيْلِ أَفَلَا تَعْقِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وبالليل افلا تعقلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَبِٱلَّیۡلِۚ أَفَلَا تَعۡقِلُونَ
 
 | Details |  |

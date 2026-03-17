@@ -452,6 +452,18 @@ Wa Kullu Shay'in Fa'alūhu Fī Az-Zuburi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكُلُّ شَيْءٍ فَعَلُوهُ فِي الزُّبُرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكل شيء فعلوه في الزبر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكُلُّ شَیۡءࣲ فَعَلُوهُ فِی ٱلزُّبُرِ
 
 | Details |  |

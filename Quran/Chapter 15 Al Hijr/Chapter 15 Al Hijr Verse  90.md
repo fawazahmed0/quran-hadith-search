@@ -452,6 +452,18 @@ Kamā 'Anzalnā 'Alá Al-Muqtasimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَمَا أَنْزَلْنَا عَلَى الْمُقْتَسِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كما انزلنا على المقتسمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَمَاۤ أَنزَلۡنَا عَلَى ٱلۡمُقۡتَسِمِینَ
 
 | Details |  |

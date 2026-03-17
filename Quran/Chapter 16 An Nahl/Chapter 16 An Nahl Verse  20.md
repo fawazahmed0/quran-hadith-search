@@ -452,6 +452,18 @@ Wa Al-Ladhīna Yad'ūna Min Dūni Allāhi Lā Yakhluqūna Shay'āan Wa Hum Yukhl
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ يَدْعُونَ مِنْ دُونِ اللَّهِ لَا يَخْلُقُونَ شَيْئًا وَهُمْ يُخْلَقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين يدعون من دون الله لا يخلقون شييا وهم يخلقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ یَدۡعُونَ مِن دُونِ ٱللَّهِ لَا یَخۡلُقُونَ شَیۡءࣰا وَهُمۡ یُخۡلَقُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qul 'Inna Al-'Awwalīna Wa Al-'Ākhirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ إِنَّ الْأَوَّلِينَ وَالْآخِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل ان الاولين والاخرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ إِنَّ ٱلۡأَوَّلِینَ وَٱلۡءَاخِرِینَ
 
 | Details |  |

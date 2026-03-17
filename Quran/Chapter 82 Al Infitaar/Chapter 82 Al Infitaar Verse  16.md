@@ -452,6 +452,18 @@ Wa Mā Hum 'Anhā Bighā'ibīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا هُمْ عَنْهَا بِغَائِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما هم عنها بغايبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا هُمۡ عَنۡهَا بِغَاۤئِبِینَ
 
 | Details |  |

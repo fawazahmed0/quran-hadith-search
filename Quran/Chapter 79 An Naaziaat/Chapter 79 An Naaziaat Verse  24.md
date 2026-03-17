@@ -452,6 +452,18 @@ Faqāla 'Anā Rabbukumu Al-'A'lá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقَالَ أَنَا رَبُّكُمُ الْأَعْلَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقال انا ربكم الاعلى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقَالَ أَنَا۠ رَبُّكُمُ ٱلۡأَعۡلَىٰ
 
 | Details |  |

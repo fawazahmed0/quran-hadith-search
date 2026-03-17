@@ -452,6 +452,18 @@ Fāţţala'a Fara'āhu Fī Sawā'i Al-Jaĥīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاطَّلَعَ فَرَآهُ فِي سَوَاءِ الْجَحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاطلع فراه في سواء الجحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱطَّلَعَ فَرَءَاهُ فِی سَوَاۤءِ ٱلۡجَحِیمِ
 
 | Details |  |

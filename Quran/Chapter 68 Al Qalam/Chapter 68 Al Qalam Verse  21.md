@@ -452,6 +452,18 @@ Fatanādaw Muşbiĥīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَتَنَادَوْا مُصْبِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فتنادوا مصبحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَتَنَادَوۡا۟ مُصۡبِحِینَ
 
 | Details |  |

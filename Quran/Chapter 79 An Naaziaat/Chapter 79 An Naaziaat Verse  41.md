@@ -452,6 +452,18 @@ Fa'inna Al-Jannata Hiya Al-Ma'wá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فان الجنة هي الماوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِنَّ ٱلۡجَنَّةَ هِیَ ٱلۡمَأۡوَىٰ
 
 | Details |  |

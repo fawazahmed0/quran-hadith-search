@@ -452,6 +452,18 @@ Ula'ika Jaza'uuhum 'Anna 'Alayhim La'nata Allahi Wa Al-Mala'ikati Wa An-Nasi 'Aj
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ جَزَاؤُهُمْ أَنَّ عَلَيْهِمْ لَعْنَةَ اللَّهِ وَالْمَلَائِكَةِ وَالنَّاسِ أَجْمَعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك جزاوهم ان عليهم لعنة الله والملايكة والناس اجمعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ جَزَاۤؤُهُمۡ أَنَّ عَلَیۡهِمۡ لَعۡنَةَ ٱللَّهِ وَٱلۡمَلَـٰۤئِكَةِ وَٱلنَّاسِ أَجۡمَعِینَ
 
 | Details |  |

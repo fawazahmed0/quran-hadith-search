@@ -452,6 +452,18 @@ Qul 'Inna Rabbī Yabsuţu Ar-Rizqa Liman Yashā'u Wa Yaqdiru Wa Lakinna 'Akthara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ إِنَّ رَبِّي يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل ان ربي يبسط الرزق لمن يشاء ويقدر ولكن اكثر الناس لا يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ إِنَّ رَبِّی یَبۡسُطُ ٱلرِّزۡقَ لِمَن یَشَاۤءُ وَیَقۡدِرُ وَلَـٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا یَعۡلَمُونَ
 
 | Details |  |

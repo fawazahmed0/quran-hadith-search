@@ -452,6 +452,18 @@ Wa Rafa'nāhu Makānāan 'Alīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَرَفَعْنَاهُ مَكَانًا عَلِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ورفعناه مكانا عليا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَرَفَعۡنَـٰهُ مَكَانًا عَلِیًّا
 
 | Details |  |

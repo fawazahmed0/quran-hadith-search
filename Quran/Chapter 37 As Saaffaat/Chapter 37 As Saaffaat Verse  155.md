@@ -452,6 +452,18 @@ Afalā Tadhakkarūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَلَا تَذَكَّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افلا تذكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَلَا تَذَكَّرُونَ
 
 | Details |  |

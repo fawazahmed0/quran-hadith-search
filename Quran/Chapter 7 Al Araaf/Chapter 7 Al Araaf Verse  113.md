@@ -452,6 +452,18 @@ Wa Jā'a As-Saĥaratu Fir'awna Qālū 'Inna Lanā La'ajrāan 'In Kunnā Naĥnu A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَاءَ السَّحَرَةُ فِرْعَوْنَ قَالُوا إِنَّ لَنَا لَأَجْرًا إِنْ كُنَّا نَحْنُ الْغَالِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجاء السحرة فرعون قالوا ان لنا لاجرا ان كنا نحن الغالبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَاۤءَ ٱلسَّحَرَةُ فِرۡعَوۡنَ قَالُوۤا۟ إِنَّ لَنَا لَأَجۡرًا إِن كُنَّا نَحۡنُ ٱلۡغَـٰلِبِینَ
 
 | Details |  |

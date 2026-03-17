@@ -452,6 +452,18 @@ In Kānat 'Illā Şayĥatan Wāĥidatan Fa'idhā Hum Jamī'un Ladaynā Muĥđar�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ جَمِيعٌ لَدَيْنَا مُحْضَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان كانت الا صيحة واحدة فاذا هم جميع لدينا محضرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِن كَانَتۡ إِلَّا صَیۡحَةࣰ وَ ٰحِدَةࣰ فَإِذَا هُمۡ جَمِیعࣱ لَّدَیۡنَا مُحۡضَرُونَ
 
 | Details |  |

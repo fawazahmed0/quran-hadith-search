@@ -452,6 +452,18 @@ Wa Al-Ladhīna Yuşaddiqūna Biyawmi Ad-Dīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ يُصَدِّقُونَ بِيَوْمِ الدِّينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين يصدقون بيوم الدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ یُصَدِّقُونَ بِیَوۡمِ ٱلدِّینِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Akuffārukum Khayrun Min 'Ūla'ikum 'Am Lakum Barā'atun Fī Az-Zuburi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَكُفَّارُكُمْ خَيْرٌ مِنْ أُولَئِكُمْ أَمْ لَكُمْ بَرَاءَةٌ فِي الزُّبُرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اكفاركم خير من اوليكم ام لكم براءة في الزبر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَكُفَّارُكُمۡ خَیۡرࣱ مِّنۡ أُو۟لَـٰۤئِكُمۡ أَمۡ لَكُم بَرَاۤءَةࣱ فِی ٱلزُّبُرِ
 
 | Details |  |

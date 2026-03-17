@@ -452,6 +452,18 @@ Ani Aghdū 'Alá Ĥarthikum 'In Kuntum Şārimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَنِ اغْدُوا عَلَى حَرْثِكُمْ إِنْ كُنْتُمْ صَارِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان اغدوا على حرثكم ان كنتم صارمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَنِ ٱغۡدُوا۟ عَلَىٰ حَرۡثِكُمۡ إِن كُنتُمۡ صَـٰرِمِینَ
 
 | Details |  |

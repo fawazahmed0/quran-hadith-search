@@ -452,6 +452,18 @@ Yawma Yarawna Al-Malā'ikata Lā Bushrá Yawma'idhin Lilmujrimīna Wa Yaqūlūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ يَرَوْنَ الْمَلَائِكَةَ لَا بُشْرَى يَوْمَئِذٍ لِلْمُجْرِمِينَ وَيَقُولُونَ حِجْرًا مَحْجُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم يرون الملايكة لا بشرى يوميذ للمجرمين ويقولون حجرا محجورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ یَرَوۡنَ ٱلۡمَلَـٰۤئِكَةَ لَا بُشۡرَىٰ یَوۡمَئِذࣲ لِّلۡمُجۡرِمِینَ وَیَقُولُونَ حِجۡرࣰا مَّحۡجُورࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna Lilmuttaqīna Mafāzāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ لِلْمُتَّقِينَ مَفَازًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان للمتقين مفازا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ لِلۡمُتَّقِینَ مَفَازًا
 
 | Details |  |

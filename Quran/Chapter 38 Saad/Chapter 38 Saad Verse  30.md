@@ -452,6 +452,18 @@ Wa Wahabnā Lidāwūda Sulaymāna Ni'ma Al-'Abdu 'Innahu 'Awwābun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَوَهَبْنَا لِدَاوُودَ سُلَيْمَانَ نِعْمَ الْعَبْدُ إِنَّهُ أَوَّابٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ووهبنا لداوود سليمان نعم العبد انه اواب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَوَهَبۡنَا لِدَاوُۥدَ سُلَیۡمَـٰنَۚ نِعۡمَ ٱلۡعَبۡدُ إِنَّهُۥۤ أَوَّابٌ
 
 | Details |  |

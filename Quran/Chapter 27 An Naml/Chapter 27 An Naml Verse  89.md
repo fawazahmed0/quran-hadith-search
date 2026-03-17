@@ -452,6 +452,18 @@ Man Jā'a Bil-Ĥasanati Falahu Khayrun Minhā Wa Hum Min Faza'in Yawma'idhin 'Ā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا وَهُمْ مِنْ فَزَعٍ يَوْمَئِذٍ آمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من جاء بالحسنة فله خير منها وهم من فزع يوميذ امنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَن جَاۤءَ بِٱلۡحَسَنَةِ فَلَهُۥ خَیۡرࣱ مِّنۡهَا وَهُم مِّن فَزَعࣲ یَوۡمَئِذٍ ءَامِنُونَ
 
 | Details |  |

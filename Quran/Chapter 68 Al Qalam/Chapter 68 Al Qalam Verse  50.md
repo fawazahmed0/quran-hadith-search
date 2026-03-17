@@ -452,6 +452,18 @@ Fājtabāhu Rabbuhu Faja'alahu Mina Aş-Şāliĥīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاجْتَبَاهُ رَبُّهُ فَجَعَلَهُ مِنَ الصَّالِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاجتباه ربه فجعله من الصالحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱجۡتَبَـٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّـٰلِحِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Falammā Kashafnā 'Anhumu Ar-Rijza 'Ilá 'Ajalin Hum Bālighūhu 'Idhā Hum Yan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا كَشَفْنَا عَنْهُمُ الرِّجْزَ إِلَى أَجَلٍ هُمْ بَالِغُوهُ إِذَا هُمْ يَنْكُثُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما كشفنا عنهم الرجز الى اجل هم بالغوه اذا هم ينكثون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّا كَشَفۡنَا عَنۡهُمُ ٱلرِّجۡزَ إِلَىٰۤ أَجَلٍ هُم بَـٰلِغُوهُ إِذَا هُمۡ یَنكُثُونَ
 
 | Details |  |

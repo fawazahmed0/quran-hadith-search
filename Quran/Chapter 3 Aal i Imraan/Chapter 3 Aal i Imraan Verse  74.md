@@ -452,6 +452,18 @@ Yakhtaşşu Biraĥmatihi Man Yashā'u Wa Allāhu Dhū Al-Fađli Al-'Ažīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَخْتَصُّ بِرَحْمَتِهِ مَنْ يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يختص برحمته من يشاء والله ذو الفضل العظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَخۡتَصُّ بِرَحۡمَتِهِۦ مَن یَشَاۤءُۗ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِیمِ
 
 | Details |  |

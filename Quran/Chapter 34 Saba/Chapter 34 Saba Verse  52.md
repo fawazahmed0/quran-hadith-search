@@ -452,6 +452,18 @@ Wa Qālū 'Āmannā Bihi Wa 'Anná Lahumu At-Tanāwushu Min Makānin Ba'īdin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا آمَنَّا بِهِ وَأَنَّى لَهُمُ التَّنَاوُشُ مِنْ مَكَانٍ بَعِيدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا امنا به وانى لهم التناوش من مكان بعيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوۤا۟ ءَامَنَّا بِهِۦ وَأَنَّىٰ لَهُمُ ٱلتَّنَاوُشُ مِن مَّكَانِۭ بَعِیدࣲ
 
 | Details |  |

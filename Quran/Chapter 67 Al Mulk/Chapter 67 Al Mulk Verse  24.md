@@ -452,6 +452,18 @@ Qul Huwa Al-Ladhī Dhara'akum Fī Al-'Arđi Wa 'Ilayhi Tuĥsharūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ هُوَ الَّذِي ذَرَأَكُمْ فِي الْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل هو الذي ذراكم في الارض واليه تحشرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ هُوَ ٱلَّذِی ذَرَأَكُمۡ فِی ٱلۡأَرۡضِ وَإِلَیۡهِ تُحۡشَرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Annahum Yaqūlūna Mā Lā Yaf'alūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّهُمْ يَقُولُونَ مَا لَا يَفْعَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانهم يقولون ما لا يفعلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّهُمۡ یَقُولُونَ مَا لَا یَفۡعَلُونَ
 
 | Details |  |

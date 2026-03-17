@@ -452,6 +452,18 @@ Wa Mā Yadhkurūna 'Illā 'An Yashā'a Allāhu Huwa 'Ahlu At-Taqwá Wa 'Ahlu Al-
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا يَذْكُرُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ هُوَ أَهْلُ التَّقْوَى وَأَهْلُ الْمَغْفِرَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما يذكرون الا ان يشاء الله هو اهل التقوى واهل المغفرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا یَذۡكُرُونَ إِلَّاۤ أَن یَشَاۤءَ ٱللَّهُۚ هُوَ أَهۡلُ ٱلتَّقۡوَىٰ وَأَهۡلُ ٱلۡمَغۡفِرَةِ
 
 | Details |  |

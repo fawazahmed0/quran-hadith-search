@@ -452,6 +452,18 @@ Innahu Laqawlun Faşlun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُ لَقَوْلٌ فَصْلٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انه لقول فصل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُۥ لَقَوۡلࣱ فَصۡلࣱ
 
 | Details |  |

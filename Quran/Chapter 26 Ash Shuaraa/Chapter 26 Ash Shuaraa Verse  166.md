@@ -452,6 +452,18 @@ Wa Tadharūna Mā Khalaqa Lakum Rabbukum Min 'Azwājikum Bal 'Antum Qawmun 'Ād�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُمْ مِنْ أَزْوَاجِكُمْ بَلْ أَنْتُمْ قَوْمٌ عَادُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتذرون ما خلق لكم ربكم من ازواجكم بل انتم قوم عادون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَذَرُونَ مَا خَلَقَ لَكُمۡ رَبُّكُم مِّنۡ أَزۡوَ ٰجِكُمۚ بَلۡ أَنتُمۡ قَوۡمٌ عَادُونَ
 
 | Details |  |

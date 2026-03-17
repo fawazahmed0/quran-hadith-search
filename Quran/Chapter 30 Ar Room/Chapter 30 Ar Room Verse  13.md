@@ -452,6 +452,18 @@ Wa Lam Yakun Lahum Min Shurakā'ihim Shufa'ā'u Wa Kānū Bishurakā'ihim Kāfir
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَمْ يَكُنْ لَهُمْ مِنْ شُرَكَائِهِمْ شُفَعَاءُ وَكَانُوا بِشُرَكَائِهِمْ كَافِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولم يكن لهم من شركايهم شفعاء وكانوا بشركايهم كافرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَمۡ یَكُن لَّهُم مِّن شُرَكَاۤئِهِمۡ شُفَعَـٰۤؤُا۟ وَكَانُوا۟ بِشُرَكَاۤئِهِمۡ كَـٰفِرِینَ
 
 | Details |  |

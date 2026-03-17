@@ -452,6 +452,18 @@ Innā 'Arsalnā Nūĥāan 'Ilá Qawmihi 'An 'Andhir Qawmaka Min Qabli 'An Ya'tiy
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا أَرْسَلْنَا نُوحًا إِلَى قَوْمِهِ أَنْ أَنْذِرْ قَوْمَكَ مِنْ قَبْلِ أَنْ يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا ارسلنا نوحا الى قومه ان انذر قومك من قبل ان ياتيهم عذاب اليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّاۤ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦۤ أَنۡ أَنذِرۡ قَوۡمَكَ مِن قَبۡلِ أَن یَأۡتِیَهُمۡ عَذَابٌ أَلِیمࣱ
 
 | Details |  |

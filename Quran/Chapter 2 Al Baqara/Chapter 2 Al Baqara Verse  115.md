@@ -452,6 +452,18 @@ Wa Lillahi Al-Mashriqu Wa Al-Maghribu Fa'aynamā Tuwallū Fathamma Wajhu Allāhi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ إِنَّ اللَّهَ وَاسِعٌ عَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولله المشرق والمغرب فاينما تولوا فثم وجه الله ان الله واسع عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِلَّهِ ٱلۡمَشۡرِقُ وَٱلۡمَغۡرِبُۚ فَأَیۡنَمَا تُوَلُّوا۟ فَثَمَّ وَجۡهُ ٱللَّهِۚ إِنَّ ٱللَّهَ وَ ٰسِعٌ عَلِیمࣱ
 
 | Details |  |

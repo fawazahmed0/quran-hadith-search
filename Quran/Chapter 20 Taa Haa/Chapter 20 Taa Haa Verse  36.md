@@ -452,6 +452,18 @@ Qāla Qad 'Ūtīta Su'ulaka Yā Mūsá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَا مُوسَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال قد اوتيت سولك يا موسى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ قَدۡ أُوتِیتَ سُؤۡلَكَ یَـٰمُوسَىٰ
 
 | Details |  |

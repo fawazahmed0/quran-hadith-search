@@ -452,6 +452,18 @@ Wa Al-Ladhīna 'Idhā Dhukkirū Bi'āyāti Rabbihim Lam Yakhirrū 'Alayhā Şumm
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ إِذَا ذُكِّرُوا بِآيَاتِ رَبِّهِمْ لَمْ يَخِرُّوا عَلَيْهَا صُمًّا وَعُمْيَانًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين اذا ذكروا بايات ربهم لم يخروا عليها صما وعميانا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ إِذَا ذُكِّرُوا۟ بِءَایَـٰتِ رَبِّهِمۡ لَمۡ یَخِرُّوا۟ عَلَیۡهَا صُمࣰّا وَعُمۡیَانࣰا
 
 | Details |  |

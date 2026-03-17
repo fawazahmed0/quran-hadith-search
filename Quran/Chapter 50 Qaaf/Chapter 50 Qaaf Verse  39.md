@@ -452,6 +452,18 @@ Fāşbir 'Alá Mā Yaqūlūna Wa Sabbiĥ Biĥamdi Rabbika Qabla Ţulū'i Ash-Sha
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاصبر على ما يقولون وسبح بحمد ربك قبل طلوع الشمس وقبل الغروب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱصۡبِرۡ عَلَىٰ مَا یَقُولُونَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ قَبۡلَ طُلُوعِ ٱلشَّمۡسِ وَقَبۡلَ ٱلۡغُرُوبِ
 
 | Details |  |

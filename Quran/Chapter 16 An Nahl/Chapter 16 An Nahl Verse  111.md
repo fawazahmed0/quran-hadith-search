@@ -452,6 +452,18 @@ Yawma Ta'tī Kullu Nafsin Tujādilu 'An Nafsihā Wa Tuwaffá Kullu Nafsin Mā 'A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ تَأْتِي كُلُّ نَفْسٍ تُجَادِلُ عَنْ نَفْسِهَا وَتُوَفَّى كُلُّ نَفْسٍ مَا عَمِلَتْ وَهُمْ لَا يُظْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم تاتي كل نفس تجادل عن نفسها وتوفى كل نفس ما عملت وهم لا يظلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ یَوۡمَ تَأۡتِی كُلُّ نَفۡسࣲ تُجَـٰدِلُ عَن نَّفۡسِهَا وَتُوَفَّىٰ كُلُّ نَفۡسࣲ مَّا عَمِلَتۡ وَهُمۡ لَا یُظۡلَمُونَ
 
 | Details |  |

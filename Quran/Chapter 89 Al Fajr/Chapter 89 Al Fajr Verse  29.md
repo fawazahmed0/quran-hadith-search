@@ -452,6 +452,18 @@ Fādkhulī Fī 'Ibādī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَادْخُلِي فِي عِبَادِي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فادخلي في عبادي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱدۡخُلِی فِی عِبَـٰدِی
 
 | Details |  |

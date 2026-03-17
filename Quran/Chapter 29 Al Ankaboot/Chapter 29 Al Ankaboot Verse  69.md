@@ -452,6 +452,18 @@ Wa Al-Ladhīna Jāhadū Fīnā Lanahdiyannahum Subulanā Wa 'Inna Allāha Lama'a
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين جاهدوا فينا لنهدينهم سبلنا وان الله لمع المحسنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ جَـٰهَدُوا۟ فِینَا لَنَهۡدِیَنَّهُمۡ سُبُلَنَاۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلۡمُحۡسِنِینَ
 
 | Details |  |

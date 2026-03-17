@@ -452,6 +452,18 @@ Sabbiĥi Asma Rabbika Al-'A'lá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سبح اسم ربك الاعلى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ سَبِّحِ ٱسۡمَ رَبِّكَ ٱلۡأَعۡلَى
 
 | Details |  |

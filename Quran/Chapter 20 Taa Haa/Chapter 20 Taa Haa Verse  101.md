@@ -452,6 +452,18 @@ Khālidīna Fīhi Wa Sā'a Lahum Yawma Al-Qiyāmati Ĥimlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خَالِدِينَ فِيهِ وَسَاءَ لَهُمْ يَوْمَ الْقِيَامَةِ حِمْلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خالدين فيه وساء لهم يوم القيامة حملا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خَـٰلِدِینَ فِیهِۖ وَسَاۤءَ لَهُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِ حِمۡلࣰا
 
 | Details |  |

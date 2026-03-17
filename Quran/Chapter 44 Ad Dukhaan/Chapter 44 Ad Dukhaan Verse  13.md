@@ -452,6 +452,18 @@ Anná Lahumu Adh-Dhikrá Wa Qad Jā'ahum Rasūlun Mubīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَنَّى لَهُمُ الذِّكْرَى وَقَدْ جَاءَهُمْ رَسُولٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انى لهم الذكرى وقد جاءهم رسول مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَنَّىٰ لَهُمُ ٱلذِّكۡرَىٰ وَقَدۡ جَاۤءَهُمۡ رَسُولࣱ مُّبِینࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qālū Yā Mūsá 'Immā 'An Tulqiya Wa 'Immā 'An Nakūna Naĥnu Al-Mulqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا يَا مُوسَى إِمَّا أَنْ تُلْقِيَ وَإِمَّا أَنْ نَكُونَ نَحْنُ الْمُلْقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا يا موسى اما ان تلقي واما ان نكون نحن الملقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ یَـٰمُوسَىٰۤ إِمَّاۤ أَن تُلۡقِیَ وَإِمَّاۤ أَن نَّكُونَ نَحۡنُ ٱلۡمُلۡقِینَ
 
 | Details |  |

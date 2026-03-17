@@ -452,6 +452,18 @@ Ayaĥsabu Al-'Insānu 'An Yutraka Sudáan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَيَحْسَبُ الْإِنْسَانُ أَنْ يُتْرَكَ سُدًى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ايحسب الانسان ان يترك سدى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَیَحۡسَبُ ٱلۡإِنسَـٰنُ أَن یُتۡرَكَ سُدًى
 
 | Details |  |

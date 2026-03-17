@@ -452,6 +452,18 @@ Wa Qāla Al-Ladhīna Fī An-Nāri Likhazanati Jahannama Ad'ū Rabbakum Yukhaffif
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ الَّذِينَ فِي النَّارِ لِخَزَنَةِ جَهَنَّمَ ادْعُوا رَبَّكُمْ يُخَفِّفْ عَنَّا يَوْمًا مِنَ الْعَذَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال الذين في النار لخزنة جهنم ادعوا ربكم يخفف عنا يوما من العذاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ ٱلَّذِینَ فِی ٱلنَّارِ لِخَزَنَةِ جَهَنَّمَ ٱدۡعُوا۟ رَبَّكُمۡ یُخَفِّفۡ عَنَّا یَوۡمࣰا مِّنَ ٱلۡعَذَابِ
 
 | Details |  |

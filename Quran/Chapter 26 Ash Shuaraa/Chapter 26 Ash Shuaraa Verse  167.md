@@ -452,6 +452,18 @@ Qālū La'in Lam Tantahi Yā Lūţu Latakūnanna Mina Al-Mukhrajīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا لَئِنْ لَمْ تَنْتَهِ يَا لُوطُ لَتَكُونَنَّ مِنَ الْمُخْرَجِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا لين لم تنته يا لوط لتكونن من المخرجين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ لَئِن لَّمۡ تَنتَهِ یَـٰلُوطُ لَتَكُونَنَّ مِنَ ٱلۡمُخۡرَجِینَ
 
 | Details |  |

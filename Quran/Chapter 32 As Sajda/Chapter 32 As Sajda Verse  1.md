@@ -452,6 +452,18 @@ Alif-Lām-Mīm
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 الۤمۤ
 
 | Details |  |

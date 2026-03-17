@@ -452,6 +452,18 @@ Yakhruju Minhumā Al-Lu'ulu'uu Wa Al-Marjānu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يخرج منهما اللولو والمرجان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَخۡرُجُ مِنۡهُمَا ٱللُّؤۡلُؤُ وَٱلۡمَرۡجَانُ
 
 | Details |  |

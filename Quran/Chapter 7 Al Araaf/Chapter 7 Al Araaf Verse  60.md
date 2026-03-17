@@ -452,6 +452,18 @@ Qāla Al-Mala'u Min Qawmihi 'Innā Lanarāka Fī Đalālin Mubīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ الْمَلَأُ مِنْ قَوْمِهِ إِنَّا لَنَرَاكَ فِي ضَلَالٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال الملا من قومه انا لنراك في ضلال مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ ٱلۡمَلَأُ مِن قَوۡمِهِۦۤ إِنَّا لَنَرَىٰكَ فِی ضَلَـٰلࣲ مُّبِینࣲ
 
 | Details |  |

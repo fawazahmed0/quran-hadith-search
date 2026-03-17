@@ -452,6 +452,18 @@ Afa'ayīnā Bil-Khalqi Al-'Awwali Bal Hum Fī Labsin Min Khalqin Jadīdin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَعَيِينَا بِالْخَلْقِ الْأَوَّلِ بَلْ هُمْ فِي لَبْسٍ مِنْ خَلْقٍ جَدِيدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افعيينا بالخلق الاول بل هم في لبس من خلق جديد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَعَیِینَا بِٱلۡخَلۡقِ ٱلۡأَوَّلِۚ بَلۡ هُمۡ فِی لَبۡسࣲ مِّنۡ خَلۡقࣲ جَدِیدࣲ
 
 | Details |  |

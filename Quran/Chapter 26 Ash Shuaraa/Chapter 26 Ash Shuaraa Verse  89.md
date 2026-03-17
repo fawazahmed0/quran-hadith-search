@@ -452,6 +452,18 @@ Illā Man 'Atá Allāha Biqalbin Salīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا من اتى الله بقلب سليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا مَنۡ أَتَى ٱللَّهَ بِقَلۡبࣲ سَلِیمࣲ
 
 | Details |  |

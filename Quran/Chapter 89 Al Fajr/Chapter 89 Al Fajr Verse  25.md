@@ -452,6 +452,18 @@ Fayawma'idhin Lā Yu'adhibu 'Adhābahu 'Aĥadun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَيَوْمَئِذٍ لَا يُعَذِّبُ عَذَابَهُ أَحَدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيوميذ لا يعذب عذابه احد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَیَوۡمَئِذࣲ لَّا یُعَذِّبُ عَذَابَهُۥۤ أَحَدࣱ
 
 | Details |  |

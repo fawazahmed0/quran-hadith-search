@@ -452,6 +452,18 @@ Fāstaftihim 'Alirabbika Al-Banātu Wa Lahumu Al-Banūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاسْتَفْتِهِمْ أَلِرَبِّكَ الْبَنَاتُ وَلَهُمُ الْبَنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاستفتهم الربك البنات ولهم البنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱسۡتَفۡتِهِمۡ أَلِرَبِّكَ ٱلۡبَنَاتُ وَلَهُمُ ٱلۡبَنُونَ
 
 | Details |  |

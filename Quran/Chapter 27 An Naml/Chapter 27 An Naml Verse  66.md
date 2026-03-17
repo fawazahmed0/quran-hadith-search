@@ -452,6 +452,18 @@ Bal Addāraka 'Ilmuhum Fī Al-'Ākhirati Bal Hum Fī Shakkin Minhā Bal Hum Minh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلِ ادَّارَكَ عِلْمُهُمْ فِي الْآخِرَةِ بَلْ هُمْ فِي شَكٍّ مِنْهَا بَلْ هُمْ مِنْهَا عَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل ادارك علمهم في الاخرة بل هم في شك منها بل هم منها عمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلِ ٱدَّ ٰرَكَ عِلۡمُهُمۡ فِی ٱلۡءَاخِرَةِۚ بَلۡ هُمۡ فِی شَكࣲّ مِّنۡهَاۖ بَلۡ هُم مِّنۡهَا عَمُونَ
 
 | Details |  |

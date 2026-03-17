@@ -452,6 +452,18 @@ Wa Yassir Lī 'Amrī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَسِّرْ لِي أَمْرِي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويسر لي امري
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَسِّرۡ لِیۤ أَمۡرِی
 
 | Details |  |

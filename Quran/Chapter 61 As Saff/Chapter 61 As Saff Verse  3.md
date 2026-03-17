@@ -452,6 +452,18 @@ Kabura Maqtāan 'Inda Allāhi 'An Taqūlū Mā Lā Taf'alūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَبُرَ مَقْتًا عِنْدَ اللَّهِ أَنْ تَقُولُوا مَا لَا تَفْعَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كبر مقتا عند الله ان تقولوا ما لا تفعلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَبُرَ مَقۡتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفۡعَلُونَ
 
 | Details |  |

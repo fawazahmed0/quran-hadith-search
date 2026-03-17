@@ -452,6 +452,18 @@ Qutila Al-Kharrāşūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُتِلَ الْخَرَّاصُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قتل الخراصون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُتِلَ ٱلۡخَرَّ ٰصُونَ
 
 | Details |  |

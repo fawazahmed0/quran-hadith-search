@@ -452,6 +452,18 @@ Wa 'Innī Laghaffārun Liman Tāba Wa 'Āmana Wa 'Amila Şāliĥāan Thumma Ahta
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنِّي لَغَفَّارٌ لِمَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ اهْتَدَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واني لغفار لمن تاب وامن وعمل صالحا ثم اهتدى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنِّی لَغَفَّارࣱ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحࣰا ثُمَّ ٱهۡتَدَىٰ
 
 | Details |  |

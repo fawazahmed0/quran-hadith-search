@@ -452,6 +452,18 @@ Inna Ma'a Al-'Usri Yusrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ مَعَ الْعُسْرِ يُسْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان مع العسر يسرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ مَعَ ٱلۡعُسۡرِ یُسۡرࣰا
 
 | Details |  |

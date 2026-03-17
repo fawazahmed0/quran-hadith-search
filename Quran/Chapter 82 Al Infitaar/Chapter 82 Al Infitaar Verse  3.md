@@ -452,6 +452,18 @@ Wa 'Idhā Al-Biĥāru Fujjirat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا الْبِحَارُ فُجِّرَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا البحار فجرت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱلۡبِحَارُ فُجِّرَتۡ
 
 | Details |  |

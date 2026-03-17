@@ -452,6 +452,18 @@ Bal 'Īyāhu Tad'ūna Fayakshifu Mā Tad'ūna 'Ilayhi 'In Shā'a Wa Tansawna Mā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ إِيَّاهُ تَدْعُونَ فَيَكْشِفُ مَا تَدْعُونَ إِلَيْهِ إِنْ شَاءَ وَتَنْسَوْنَ مَا تُشْرِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل اياه تدعون فيكشف ما تدعون اليه ان شاء وتنسون ما تشركون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ إِیَّاهُ تَدۡعُونَ فَیَكۡشِفُ مَا تَدۡعُونَ إِلَیۡهِ إِن شَاۤءَ وَتَنسَوۡنَ مَا تُشۡرِكُونَ
 
 | Details |  |

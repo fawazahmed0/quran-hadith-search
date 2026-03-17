@@ -452,6 +452,18 @@ Law Nashā'u Laja'alnāhu Ĥuţāmāan Fažalaltum Tafakkahūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَوْ نَشَاءُ لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ تَفَكَّهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لو نشاء لجعلناه حطاما فظلتم تفكهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَوۡ نَشَاۤءُ لَجَعَلۡنَـٰهُ حُطَـٰمࣰا فَظَلۡتُمۡ تَفَكَّهُونَ
 
 | Details |  |

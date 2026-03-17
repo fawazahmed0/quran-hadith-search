@@ -452,6 +452,18 @@ Yawma'idhin Tu'rađūna Lā Takhfá Minkum Khāfiyahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَى مِنْكُمْ خَافِيَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوميذ تعرضون لا تخفى منكم خافية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَئِذࣲ تُعۡرَضُونَ لَا تَخۡفَىٰ مِنكُمۡ خَافِیَةࣱ
 
 | Details |  |

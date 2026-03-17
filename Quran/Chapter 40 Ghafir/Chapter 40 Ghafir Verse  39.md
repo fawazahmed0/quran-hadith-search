@@ -452,6 +452,18 @@ Yā Qawmi 'Innamā Hadhihi Al-Ĥayā Atu Ad-Dunyā Matā'un Wa 'Inna Al-'Ākhira
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا قَوْمِ إِنَّمَا هَذِهِ الْحَيَاةُ الدُّنْيَا مَتَاعٌ وَإِنَّ الْآخِرَةَ هِيَ دَارُ الْقَرَارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا قوم انما هذه الحياة الدنيا متاع وان الاخرة هي دار القرار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰقَوۡمِ إِنَّمَا هَـٰذِهِ ٱلۡحَیَوٰةُ ٱلدُّنۡیَا مَتَـٰعࣱ وَإِنَّ ٱلۡءَاخِرَةَ هِیَ دَارُ ٱلۡقَرَارِ
 
 | Details |  |

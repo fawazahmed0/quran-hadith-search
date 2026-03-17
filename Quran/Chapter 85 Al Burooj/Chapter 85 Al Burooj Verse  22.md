@@ -452,6 +452,18 @@ Fī Lawĥin Maĥfūžin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي لَوْحٍ مَحْفُوظٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في لوح محفوظ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِی لَوۡحࣲ مَّحۡفُوظِۭ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Ja'alahā Kalimatan Bāqiyatan Fī 'Aqibihi La'allahum Yarji'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ لَعَلَّهُمْ يَرْجِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلها كلمة باقية في عقبه لعلهم يرجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلَهَا كَلِمَةَۢ بَاقِیَةࣰ فِی عَقِبِهِۦ لَعَلَّهُمۡ یَرۡجِعُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Al-Ladhīna Yuqīmūna Aş-Şalāata Wa Yu'utūna Az-Zakāata Wa Hum Bil-'Ākhir
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ بِالْآخِرَةِ هُمْ يُوقِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين يقيمون الصلاة ويوتون الزكاة وهم بالاخرة هم يوقنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ یُقِیمُونَ ٱلصَّلَوٰةَ وَیُؤۡتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلۡءَاخِرَةِ هُمۡ یُوقِنُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla Fabi'izzatika La'ughwiyannahum 'Ajma'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال فبعزتك لاغوينهم اجمعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ فَبِعِزَّتِكَ لَأُغۡوِیَنَّهُمۡ أَجۡمَعِینَ
 
 | Details |  |

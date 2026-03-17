@@ -452,6 +452,18 @@ Bilisānin 'Arabīyin Mubīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بِلِسَانٍ عَرَبِيٍّ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بلسان عربي مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بِلِسَانٍ عَرَبِیࣲّ مُّبِینࣲ
 
 | Details |  |

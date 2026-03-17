@@ -452,6 +452,18 @@ Faja'alahum Judhādhāan 'Illā Kabīrāan Lahum La'allahum 'Ilayhi Yarji'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَجَعَلَهُمْ جُذَاذًا إِلَّا كَبِيرًا لَهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فجعلهم جذاذا الا كبيرا لهم لعلهم اليه يرجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَجَعَلَهُمۡ جُذَ ٰذًا إِلَّا كَبِیرࣰا لَّهُمۡ لَعَلَّهُمۡ إِلَیۡهِ یَرۡجِعُونَ
 
 | Details |  |

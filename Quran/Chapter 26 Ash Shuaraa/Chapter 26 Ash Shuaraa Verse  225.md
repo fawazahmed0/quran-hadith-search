@@ -452,6 +452,18 @@ Alam Tará 'Annahum Fī Kulli Wādin Yahīmūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ تَرَ أَنَّهُمْ فِي كُلِّ وَادٍ يَهِيمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم تر انهم في كل واد يهيمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ تَرَ أَنَّهُمۡ فِی كُلِّ وَادࣲ یَهِیمُونَ
 
 | Details |  |

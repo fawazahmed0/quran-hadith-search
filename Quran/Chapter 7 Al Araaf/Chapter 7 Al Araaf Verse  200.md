@@ -452,6 +452,18 @@ Wa 'Immā Yanzaghannaka Mina Ash-Shayţāni Nazghun Fāsta'idh Billāhi 'Innahu 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِمَّا يَنْزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّهِ إِنَّهُ سَمِيعٌ عَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما ينزغنك من الشيطان نزغ فاستعذ بالله انه سميع عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِمَّا یَنزَغَنَّكَ مِنَ ٱلشَّیۡطَـٰنِ نَزۡغࣱ فَٱسۡتَعِذۡ بِٱللَّهِۚ إِنَّهُۥ سَمِیعٌ عَلِیمٌ
 
 | Details |  |

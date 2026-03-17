@@ -452,6 +452,18 @@ Adkhulūhā Bisalāmin Dhālika Yawmu Al-Khulūdi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ادْخُلُوهَا بِسَلَامٍ ذَلِكَ يَوْمُ الْخُلُودِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ادخلوها بسلام ذلك يوم الخلود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱدۡخُلُوهَا بِسَلَـٰمࣲۖ ذَ ٰلِكَ یَوۡمُ ٱلۡخُلُودِ
 
 | Details |  |

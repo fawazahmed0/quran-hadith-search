@@ -452,6 +452,18 @@ Am 'Anā Khayrun Min Hādhā Al-Ladhī Huwa Mahīnun Wa Lā Yakādu Yubīnu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ أَنَا خَيْرٌ مِنْ هَذَا الَّذِي هُوَ مَهِينٌ وَلَا يَكَادُ يُبِينُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام انا خير من هذا الذي هو مهين ولا يكاد يبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ أَنَا۠ خَیۡرࣱ مِّنۡ هَـٰذَا ٱلَّذِی هُوَ مَهِینࣱ وَلَا یَكَادُ یُبِینُ
 
 | Details |  |

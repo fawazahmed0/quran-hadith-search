@@ -452,6 +452,18 @@ Wa Lā Až-Žillu Wa Lā Al-Ĥarūru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا الظِّلُّ وَلَا الْحَرُورُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا الظل ولا الحرور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا ٱلظِّلُّ وَلَا ٱلۡحَرُورُ
 
 | Details |  |

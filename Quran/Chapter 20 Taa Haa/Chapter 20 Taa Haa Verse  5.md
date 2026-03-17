@@ -452,6 +452,18 @@ Ar-Raĥmānu 'Alá Al-'Arshi Astawá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الرَّحْمَنُ عَلَى الْعَرْشِ اسْتَوَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الرحمن على العرش استوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلرَّحۡمَـٰنُ عَلَى ٱلۡعَرۡشِ ٱسۡتَوَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Alá 'An Nubaddila 'Amthālakum Wa Nunshi'akum Fī Mā Lā Ta'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَلَى أَنْ نُبَدِّلَ أَمْثَالَكُمْ وَنُنْشِئَكُمْ فِي مَا لَا تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+على ان نبدل امثالكم وننشيكم في ما لا تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَلَىٰۤ أَن نُّبَدِّلَ أَمۡثَـٰلَكُمۡ وَنُنشِئَكُمۡ فِی مَا لَا تَعۡلَمُونَ
 
 | Details |  |

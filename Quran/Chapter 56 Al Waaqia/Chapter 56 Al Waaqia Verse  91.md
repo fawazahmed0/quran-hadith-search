@@ -452,6 +452,18 @@ Fasalāmun Laka Min 'Aşĥābi Al-Yamīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَسَلَامٌ لَكَ مِنْ أَصْحَابِ الْيَمِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فسلام لك من اصحاب اليمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَسَلَـٰمࣱ لَّكَ مِنۡ أَصۡحَـٰبِ ٱلۡیَمِینِ
 
 | Details |  |

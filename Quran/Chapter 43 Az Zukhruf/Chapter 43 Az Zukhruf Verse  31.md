@@ -452,6 +452,18 @@ Wa Qālū Lawlā Nuzzila Hādhā Al-Qur'ānu 'Alá Rajulin Mina Al-Qaryatayni 'A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا لَوْلَا نُزِّلَ هَذَا الْقُرْآنُ عَلَى رَجُلٍ مِنَ الْقَرْيَتَيْنِ عَظِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا لولا نزل هذا القران على رجل من القريتين عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ لَوۡلَا نُزِّلَ هَـٰذَا ٱلۡقُرۡءَانُ عَلَىٰ رَجُلࣲ مِّنَ ٱلۡقَرۡیَتَیۡنِ عَظِیمٍ
 
 | Details |  |

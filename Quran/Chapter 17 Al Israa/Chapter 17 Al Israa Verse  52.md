@@ -452,6 +452,18 @@ Yawma Yad'ūkum Fatastajībūna Biĥamdihi Wa Tažunnūna 'In Labithtum 'Illā Q
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِ وَتَظُنُّونَ إِنْ لَبِثْتُمْ إِلَّا قَلِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم يدعوكم فتستجيبون بحمده وتظنون ان لبثتم الا قليلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ یَدۡعُوكُمۡ فَتَسۡتَجِیبُونَ بِحَمۡدِهِۦ وَتَظُنُّونَ إِن لَّبِثۡتُمۡ إِلَّا قَلِیلࣰا
 
 | Details |  |

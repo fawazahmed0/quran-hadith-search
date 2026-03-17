@@ -452,6 +452,18 @@ Innī 'Anā Rabbuka Fākhla' Na'layka 'Innaka Bil-Wādi Al-Muqaddasi Ţūáan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنِّي أَنَا رَبُّكَ فَاخْلَعْ نَعْلَيْكَ إِنَّكَ بِالْوَادِ الْمُقَدَّسِ طُوًى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اني انا ربك فاخلع نعليك انك بالواد المقدس طوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنِّیۤ أَنَا۠ رَبُّكَ فَٱخۡلَعۡ نَعۡلَیۡكَ إِنَّكَ بِٱلۡوَادِ ٱلۡمُقَدَّسِ طُوࣰى
 
 | Details |  |

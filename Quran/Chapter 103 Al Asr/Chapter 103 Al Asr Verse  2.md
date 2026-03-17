@@ -452,6 +452,18 @@ Inna Al-'Insāna Lafī Khusrin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الانسان لفي خسر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلۡإِنسَـٰنَ لَفِی خُسۡرٍ
 
 | Details |  |

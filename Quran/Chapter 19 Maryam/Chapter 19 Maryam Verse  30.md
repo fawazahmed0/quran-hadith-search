@@ -452,6 +452,18 @@ Qāla 'Innī 'Abdu Allāhi 'Ātāniya Al-Kitāba Wa Ja'alanī Nabīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال اني عبد الله اتاني الكتاب وجعلني نبيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ إِنِّی عَبۡدُ ٱللَّهِ ءَاتَىٰنِیَ ٱلۡكِتَـٰبَ وَجَعَلَنِی نَبِیࣰّا
 
 | Details |  |

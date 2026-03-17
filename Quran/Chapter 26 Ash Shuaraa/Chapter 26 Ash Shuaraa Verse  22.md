@@ -452,6 +452,18 @@ Wa Tilka Ni'matun Tamunnuhā 'Alayya 'An 'Abbadta Banī 'Isrā'īla
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَيَّ أَنْ عَبَّدْتَ بَنِي إِسْرَائِيلَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتلك نعمة تمنها علي ان عبدت بني اسراييل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتِلۡكَ نِعۡمَةࣱ تَمُنُّهَا عَلَیَّ أَنۡ عَبَّدتَّ بَنِیۤ إِسۡرَ ٰۤءِیلَ
 
 | Details |  |

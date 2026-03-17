@@ -452,6 +452,18 @@ Fa'ammā Al-Ladhīna 'Āmanū Wa 'Amilū Aş-Şāliĥāti Fahum Fī Rawđatin Yu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَهُمْ فِي رَوْضَةٍ يُحْبَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاما الذين امنوا وعملوا الصالحات فهم في روضة يحبرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَمَّا ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَهُمۡ فِی رَوۡضَةࣲ یُحۡبَرُونَ
 
 | Details |  |

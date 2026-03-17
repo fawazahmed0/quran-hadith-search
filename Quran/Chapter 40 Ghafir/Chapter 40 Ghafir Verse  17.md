@@ -452,6 +452,18 @@ Al-Yawma Tujzá Kullu Nafsin Bimā Kasabat Lā Žulma Al-Yawma 'Inna Allāha Sar
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الْيَوْمَ تُجْزَى كُلُّ نَفْسٍ بِمَا كَسَبَتْ لَا ظُلْمَ الْيَوْمَ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اليوم تجزى كل نفس بما كسبت لا ظلم اليوم ان الله سريع الحساب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلۡیَوۡمَ تُجۡزَىٰ كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡۚ لَا ظُلۡمَ ٱلۡیَوۡمَۚ إِنَّ ٱللَّهَ سَرِیعُ ٱلۡحِسَابِ
 
 | Details |  |

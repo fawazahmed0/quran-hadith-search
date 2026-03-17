@@ -452,6 +452,18 @@ Dhikru Raĥmati Rabbika 'Abdahu Zakarīyā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُ زَكَرِيَّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذكر رحمت ربك عبده زكريا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذِكۡرُ رَحۡمَتِ رَبِّكَ عَبۡدَهُۥ زَكَرِیَّاۤ
 
 | Details |  |

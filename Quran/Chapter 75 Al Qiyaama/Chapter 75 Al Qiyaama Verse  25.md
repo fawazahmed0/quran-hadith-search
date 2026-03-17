@@ -452,6 +452,18 @@ Tažunnu 'An Yuf'ala Bihā Fāqirahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَظُنُّ أَنْ يُفْعَلَ بِهَا فَاقِرَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تظن ان يفعل بها فاقرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَظُنُّ أَن یُفۡعَلَ بِهَا فَاقِرَةࣱ
 
 | Details |  |

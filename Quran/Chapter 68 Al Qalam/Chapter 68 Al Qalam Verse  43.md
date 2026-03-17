@@ -452,6 +452,18 @@ Khāshi'atan 'Abşāruhum Tarhaquhum Dhillatun Wa Qad Kānū Yud'awna 'Ilá As-S
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ وَقَدْ كَانُوا يُدْعَوْنَ إِلَى السُّجُودِ وَهُمْ سَالِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خاشعة ابصارهم ترهقهم ذلة وقد كانوا يدعون الى السجود وهم سالمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خَـٰشِعَةً أَبۡصَـٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةࣱۖ وَقَدۡ كَانُوا۟ یُدۡعَوۡنَ إِلَى ٱلسُّجُودِ وَهُمۡ سَـٰلِمُونَ
 
 | Details |  |

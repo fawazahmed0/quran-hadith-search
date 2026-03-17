@@ -452,6 +452,18 @@ Ula'ika Al-Muqarrabuna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ الْمُقَرَّبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك المقربون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ ٱلۡمُقَرَّبُونَ
 
 | Details |  |

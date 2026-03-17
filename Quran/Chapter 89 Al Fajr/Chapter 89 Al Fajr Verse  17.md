@@ -452,6 +452,18 @@ Kallā Bal Lā Tukrimūna Al-Yatīma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا بَلْ لَا تُكْرِمُونَ الْيَتِيمَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا بل لا تكرمون اليتيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّاۖ بَل لَّا تُكۡرِمُونَ ٱلۡیَتِیمَ
 
 | Details |  |

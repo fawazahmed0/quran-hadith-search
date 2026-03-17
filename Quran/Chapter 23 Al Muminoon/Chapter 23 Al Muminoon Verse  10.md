@@ -452,6 +452,18 @@ Ula'ika Humu Al-Warithuna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ هُمُ الْوَارِثُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك هم الوارثون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ هُمُ ٱلۡوَ ٰرِثُونَ
 
 | Details |  |

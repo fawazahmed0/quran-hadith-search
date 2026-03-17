@@ -452,6 +452,18 @@ Qul 'Innamā 'Anā Mundhirun Wa Mā Min 'Ilahin 'Illā Allāhu Al-Wāĥidu Al-Qa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ إِنَّمَا أَنَا مُنْذِرٌ وَمَا مِنْ إِلَهٍ إِلَّا اللَّهُ الْوَاحِدُ الْقَهَّارُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل انما انا منذر وما من اله الا الله الواحد القهار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ إِنَّمَاۤ أَنَا۠ مُنذِرࣱۖ وَمَا مِنۡ إِلَـٰهٍ إِلَّا ٱللَّهُ ٱلۡوَ ٰحِدُ ٱلۡقَهَّارُ
 
 | Details |  |

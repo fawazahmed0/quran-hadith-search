@@ -452,6 +452,18 @@ Jazā'an Bimā Kānū Ya'malūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+جَزَاءً بِمَا كَانُوا يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+جزاء بما كانوا يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 جَزَاۤءَۢ بِمَا كَانُوا۟ یَعۡمَلُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qālat 'Iĥdāhumā Yā 'Abati Asta'jirhu 'Inna Khayra Mani Asta'jarta Al-Qawīy
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَتْ إِحْدَاهُمَا يَا أَبَتِ اسْتَأْجِرْهُ إِنَّ خَيْرَ مَنِ اسْتَأْجَرْتَ الْقَوِيُّ الْأَمِينُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالت احداهما يا ابت استاجره ان خير من استاجرت القوي الامين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَتۡ إِحۡدَىٰهُمَا یَـٰۤأَبَتِ ٱسۡتَءۡجِرۡهُۖ إِنَّ خَیۡرَ مَنِ ٱسۡتَءۡجَرۡتَ ٱلۡقَوِیُّ ٱلۡأَمِینُ
 
 | Details |  |

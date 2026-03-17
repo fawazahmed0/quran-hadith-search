@@ -452,6 +452,18 @@ Bali Al-Ladhīna Kafarū Fī 'Izzatin Wa Shiqāqin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلِ الَّذِينَ كَفَرُوا فِي عِزَّةٍ وَشِقَاقٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل الذين كفروا في عزة وشقاق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلِ ٱلَّذِینَ كَفَرُوا۟ فِی عِزَّةࣲ وَشِقَاقࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Lillahi Junūdu As-Samāwāti Wa Al-'Arđi Wa Kāna Allāhu 'Azīzāan Ĥakī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِلَّهِ جُنُودُ السَّمَاوَاتِ وَالْأَرْضِ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولله جنود السماوات والارض وكان الله عزيزا حكيما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِلَّهِ جُنُودُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۚ وَكَانَ ٱللَّهُ عَزِیزًا حَكِیمًا
 
 | Details |  |

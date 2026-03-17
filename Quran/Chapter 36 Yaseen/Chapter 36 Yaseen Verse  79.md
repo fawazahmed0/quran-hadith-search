@@ -452,6 +452,18 @@ Qul Yuĥyīhā Al-Ladhī 'Ansha'ahā 'Awwala Marratin Wa Huwa Bikulli Khalqin 'A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ يُحْيِيهَا الَّذِي أَنْشَأَهَا أَوَّلَ مَرَّةٍ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل يحييها الذي انشاها اول مرة وهو بكل خلق عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ یُحۡیِیهَا ٱلَّذِیۤ أَنشَأَهَاۤ أَوَّلَ مَرَّةࣲۖ وَهُوَ بِكُلِّ خَلۡقٍ عَلِیمٌ
 
 | Details |  |

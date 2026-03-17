@@ -452,6 +452,18 @@ Qālū 'Arjihi Wa 'Akhāhu Wa Ab'ath Fī Al-Madā'ini Ĥāshirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا أَرْجِهْ وَأَخَاهُ وَابْعَثْ فِي الْمَدَائِنِ حَاشِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا ارجه واخاه وابعث في المداين حاشرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوۤا۟ أَرۡجِهۡ وَأَخَاهُ وَٱبۡعَثۡ فِی ٱلۡمَدَاۤئِنِ حَـٰشِرِینَ
 
 | Details |  |

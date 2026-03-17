@@ -452,6 +452,18 @@ IdhÄ As-SamÄ'u Anshaqqat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذَا السَّمَاءُ انْشَقَّتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذا السماء انشقت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ إِذَا ٱلسَّمَاۤءُ ٱنشَقَّتۡ
 
 | Details |  |

@@ -452,6 +452,18 @@ Khāfiđatun Rāfi'ahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خَافِضَةٌ رَافِعَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خافضة رافعة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خَافِضَةࣱ رَّافِعَةٌ
 
 | Details |  |

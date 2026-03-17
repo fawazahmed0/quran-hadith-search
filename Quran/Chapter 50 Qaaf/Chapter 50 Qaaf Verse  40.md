@@ -452,6 +452,18 @@ Wa Mina Al-Layli Fasabbiĥhu Wa 'Adbāra As-Sujūdi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَأَدْبَارَ السُّجُودِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن الليل فسبحه وادبار السجود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِنَ ٱلَّیۡلِ فَسَبِّحۡهُ وَأَدۡبَـٰرَ ٱلسُّجُودِ
 
 | Details |  |

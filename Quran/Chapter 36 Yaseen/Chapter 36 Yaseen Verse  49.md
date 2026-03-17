@@ -452,6 +452,18 @@ Mā Yanžurūna 'Illā Şayĥatan Wāĥidatan Ta'khudhuhum Wa Hum Yakhişşimūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا يَنْظُرُونَ إِلَّا صَيْحَةً وَاحِدَةً تَأْخُذُهُمْ وَهُمْ يَخِصِّمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما ينظرون الا صيحة واحدة تاخذهم وهم يخصمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا یَنظُرُونَ إِلَّا صَیۡحَةࣰ وَ ٰحِدَةࣰ تَأۡخُذُهُمۡ وَهُمۡ یَخِصِّمُونَ
 
 | Details |  |

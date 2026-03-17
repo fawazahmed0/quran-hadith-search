@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي الْعَبَّاسِ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيّ رَضِيَ اللهُ عَنْهُ قَالَ: جَاءَ رَجُلٌ إلَى النَّبِيِّ صلى الله عليه و سلم فَقَالَ: يَا رَسُولَ اللهِ! دُلَّنِي عَلَى عَمَلٍ إذَا عَمِلْتُهُ أَحَبَّنِي اللهُ وَأَحَبَّنِي النَّاسُ؛ فَقَالَ: ازْهَدْ فِي الدُّنْيَا يُحِبَّك اللهُ، وَازْهَدْ فِيمَا عِنْدَ النَّاسِ يُحِبَّك النَّاسُ . حديث حسن، رَوَاهُ ابْنُ مَاجَهْ \[رقم:4102\]، وَغَيْرُهُ بِأَسَانِيدَ حَسَنَةٍ
@@ -47,6 +49,16 @@ On the authority of Abu al-’Abbas Sahl bin Sa’ad as-Sa’idee (may Allah be 
 ## French
 
 Selon Abou al-‘Abbas Sahl ibn Sa’d as-Sa’idi (qu’Allah l’agrée), qui a dit : Un homme est venu voir le Prophète (ﷺ) et a dit : « Ô Messager d’Allah, montre-moi une œuvre qui fera que Dieu m’aime et que les gens m’aiment. » Il (ﷺ) répondit : « Détache-toi du monde, Allah t’aimera. Détache-toi de ce que possèdent les gens, les gens t’aimeront. » Un hadith bon rapporté par Ibn Majah et d’autres, avec une bonne chaîne
+
+| References: |  |
+| --- | --- |
+| Hadith No | 31 |
+| Arabic No | 31 |
+| Reference | Book 1 Hadith 31 |
+
+## Turkish
+
+Ebu’l-Abbas Sehl bin Sa’d (ra) anlatıyor: Bir adam Peygamber'e (ﷺ) gelip: "Ey Allah’ın Resulü! Öyle bir amel göster ki, onu yaptığımda beni hem Allah sevsin hem de insanlar" dedi. Buyurdu ki: "Dünyaya karşı zahit ol (önem verme), Allah seni sevsin. İnsanların elindekine karşı zahit ol, insanlar seni sevsin." \[İbn Mace\]
 
 | References: |  |
 | --- | --- |

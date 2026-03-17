@@ -452,6 +452,18 @@ Wa As-Samā'i Dhāti Al-Burūji
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالسَّمَاءِ ذَاتِ الْبُرُوجِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والسماء ذات البروج
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلسَّمَاۤءِ ذَاتِ ٱلۡبُرُوجِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna Al-Munāfiqīna Fī Ad-Darki Al-'Asfali Mina An-Nāri Wa Lan Tajida Lahum N
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ وَلَنْ تَجِدَ لَهُمْ نَصِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان المنافقين في الدرك الاسفل من النار ولن تجد لهم نصيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلۡمُنَـٰفِقِینَ فِی ٱلدَّرۡكِ ٱلۡأَسۡفَلِ مِنَ ٱلنَّارِ وَلَن تَجِدَ لَهُمۡ نَصِیرًا
 
 | Details |  |

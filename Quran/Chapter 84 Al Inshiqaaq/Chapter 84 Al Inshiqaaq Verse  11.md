@@ -452,6 +452,18 @@ Fasawfa Yad'Å« ThubÅ«rÄan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَسَوْفَ يَدْعُو ثُبُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فسوف يدعو ثبورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَسَوۡفَ یَدۡعُوا۟ ثُبُورࣰا
 
 | Details |  |

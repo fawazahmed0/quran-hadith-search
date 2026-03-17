@@ -452,6 +452,18 @@ Wa An-Nakhla Bāsiqātin Lahā Ţal'un Nađīdun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالنَّخْلَ بَاسِقَاتٍ لَهَا طَلْعٌ نَضِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والنخل باسقات لها طلع نضيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلنَّخۡلَ بَاسِقَـٰتࣲ لَّهَا طَلۡعࣱ نَّضِیدࣱ
 
 | Details |  |

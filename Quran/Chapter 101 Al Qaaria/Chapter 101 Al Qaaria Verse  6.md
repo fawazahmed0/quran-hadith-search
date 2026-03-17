@@ -452,6 +452,18 @@ Fa'ammā Man Thaqulat Mawāzīnuhu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاما من ثقلت موازينه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَمَّا مَن ثَقُلَتۡ مَوَ ٰزِینُهُۥ
 
 | Details |  |

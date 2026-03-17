@@ -452,6 +452,18 @@ Aw Yadhakkaru Fatanfa'ahu Adh-Dhikrá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+او يذكر فتنفعه الذكرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوۡ یَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكۡرَىٰۤ
 
 | Details |  |

@@ -452,6 +452,18 @@ Lam Yaţmithhunna 'Insun Qablahum Wa Lā Jānnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لم يطمثهن انس قبلهم ولا جان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَمۡ یَطۡمِثۡهُنَّ إِنسࣱ قَبۡلَهُمۡ وَلَا جَاۤنࣱّ
 
 | Details |  |

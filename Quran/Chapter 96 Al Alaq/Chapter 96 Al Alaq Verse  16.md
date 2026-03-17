@@ -452,6 +452,18 @@ Nāşiyatin Kādhibatin Khāţi'ahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ناصية كاذبة خاطية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نَاصِیَةࣲ كَـٰذِبَةٍ خَاطِئَةࣲ
 
 | Details |  |

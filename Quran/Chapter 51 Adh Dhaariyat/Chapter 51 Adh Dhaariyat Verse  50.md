@@ -452,6 +452,18 @@ Fafirrū 'Ilá Allāhi 'Innī Lakum Minhu Nadhīrun Mubīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَفِرُّوا إِلَى اللَّهِ إِنِّي لَكُمْ مِنْهُ نَذِيرٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ففروا الى الله اني لكم منه نذير مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَفِرُّوۤا۟ إِلَى ٱللَّهِۖ إِنِّی لَكُم مِّنۡهُ نَذِیرࣱ مُّبِینࣱ
 
 | Details |  |

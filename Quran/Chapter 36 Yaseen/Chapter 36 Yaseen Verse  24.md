@@ -452,6 +452,18 @@ Innī 'Idhāan Lafī Đalālin Mubīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنِّي إِذًا لَفِي ضَلَالٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اني اذا لفي ضلال مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنِّیۤ إِذࣰا لَّفِی ضَلَـٰلࣲ مُّبِینٍ
 
 | Details |  |

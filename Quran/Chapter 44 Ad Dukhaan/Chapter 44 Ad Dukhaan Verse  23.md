@@ -452,6 +452,18 @@ Fa'asri Bi'ibādī Laylāan 'Innakum Muttaba'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَسْرِ بِعِبَادِي لَيْلًا إِنَّكُمْ مُتَّبَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاسر بعبادي ليلا انكم متبعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَسۡرِ بِعِبَادِی لَیۡلًا إِنَّكُم مُّتَّبَعُونَ
 
 | Details |  |

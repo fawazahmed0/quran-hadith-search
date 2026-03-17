@@ -452,6 +452,18 @@ Inna Allāha 'Ālimu Ghaybi As-Samāwāti Wa Al-'Arđi 'Innahu 'Alīmun Bidhāti
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ اللَّهَ عَالِمُ غَيْبِ السَّمَاوَاتِ وَالْأَرْضِ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الله عالم غيب السماوات والارض انه عليم بذات الصدور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱللَّهَ عَـٰلِمُ غَیۡبِ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۚ إِنَّهُۥ عَلِیمُۢ بِذَاتِ ٱلصُّدُورِ
 
 | Details |  |

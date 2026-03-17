@@ -452,6 +452,18 @@ Wa Sabbiĥūhu Bukratan Wa 'Aşīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وسبحوه بكرة واصيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَسَبِّحُوهُ بُكۡرَةࣰ وَأَصِیلًا
 
 | Details |  |

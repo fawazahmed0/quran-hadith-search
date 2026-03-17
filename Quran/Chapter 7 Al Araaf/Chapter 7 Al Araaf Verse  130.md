@@ -452,6 +452,18 @@ Wa Laqad 'Akhadhnā 'Āla Fir'awna Bis-Sinīna Wa Naqşin Mina Ath-Thamarāti La
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ أَخَذْنَا آلَ فِرْعَوْنَ بِالسِّنِينَ وَنَقْصٍ مِنَ الثَّمَرَاتِ لَعَلَّهُمْ يَذَّكَّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد اخذنا ال فرعون بالسنين ونقص من الثمرات لعلهم يذكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ أَخَذۡنَاۤ ءَالَ فِرۡعَوۡنَ بِٱلسِّنِینَ وَنَقۡصࣲ مِّنَ ٱلثَّمَرَ ٰتِ لَعَلَّهُمۡ یَذَّكَّرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Salhum 'Ayyuhum Bidhālika Za'īmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَلْهُمْ أَيُّهُمْ بِذَلِكَ زَعِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سلهم ايهم بذلك زعيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَلۡهُمۡ أَیُّهُم بِذَ ٰلِكَ زَعِیمٌ
 
 | Details |  |

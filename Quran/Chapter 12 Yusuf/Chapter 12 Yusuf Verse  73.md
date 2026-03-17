@@ -452,6 +452,18 @@ Qālū Ta-Allāhi Laqad 'Alimtum Mā Ji'nā Linufsida Fī Al-'Arđi Wa Mā Kunn�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا تَاللَّهِ لَقَدْ عَلِمْتُمْ مَا جِئْنَا لِنُفْسِدَ فِي الْأَرْضِ وَمَا كُنَّا سَارِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا تالله لقد علمتم ما جينا لنفسد في الارض وما كنا سارقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ تَٱللَّهِ لَقَدۡ عَلِمۡتُم مَّا جِئۡنَا لِنُفۡسِدَ فِی ٱلۡأَرۡضِ وَمَا كُنَّا سَـٰرِقِینَ
 
 | Details |  |

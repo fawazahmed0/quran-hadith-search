@@ -452,6 +452,18 @@ Innamā 'Anta Mundhiru Man Yakhshāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّمَا أَنْتَ مُنْذِرُ مَنْ يَخْشَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انما انت منذر من يخشاها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّمَاۤ أَنتَ مُنذِرُ مَن یَخۡشَىٰهَا
 
 | Details |  |

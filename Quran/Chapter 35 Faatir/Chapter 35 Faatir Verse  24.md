@@ -452,6 +452,18 @@ Innā 'Arsalnāka Bil-Ĥaqqi Bashīrāan Wa Nadhīrāan Wa 'In Min 'Ummatin 'Ill
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا أَرْسَلْنَاكَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا وَإِنْ مِنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا ارسلناك بالحق بشيرا ونذيرا وان من امة الا خلا فيها نذير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّاۤ أَرۡسَلۡنَـٰكَ بِٱلۡحَقِّ بَشِیرࣰا وَنَذِیرࣰاۚ وَإِن مِّنۡ أُمَّةٍ إِلَّا خَلَا فِیهَا نَذِیرࣱ
 
 | Details |  |

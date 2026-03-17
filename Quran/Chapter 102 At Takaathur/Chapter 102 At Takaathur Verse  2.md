@@ -452,6 +452,18 @@ Hatta Zurtumu Al-Maqabira
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+حَتَّى زُرْتُمُ الْمَقَابِرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+حتى زرتم المقابر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ
 
 | Details |  |

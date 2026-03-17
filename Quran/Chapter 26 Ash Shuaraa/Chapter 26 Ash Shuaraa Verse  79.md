@@ -452,6 +452,18 @@ Wa Al-Ladhī Huwa Yuţ'imunī Wa Yasqīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِي هُوَ يُطْعِمُنِي وَيَسْقِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذي هو يطعمني ويسقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِی هُوَ یُطۡعِمُنِی وَیَسۡقِینِ
 
 | Details |  |

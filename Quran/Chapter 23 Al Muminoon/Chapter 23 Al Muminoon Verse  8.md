@@ -452,6 +452,18 @@ Wa Al-Ladhīna Hum Li'mānātihim Wa 'Ahdihim Rā'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين هم لاماناتهم وعهدهم راعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ هُمۡ لِأَمَـٰنَـٰتِهِمۡ وَعَهۡدِهِمۡ رَ ٰعُونَ
 
 | Details |  |

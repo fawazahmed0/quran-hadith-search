@@ -452,6 +452,18 @@ Hal 'Atāka Ĥadīthu Al-Ghāshiyahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هل اتاك حديث الغاشية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَلۡ أَتَىٰكَ حَدِیثُ ٱلۡغَـٰشِیَةِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Famā Žannukum Birabbi Al-'Ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَا ظَنُّكُمْ بِرَبِّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فما ظنكم برب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَا ظَنُّكُم بِرَبِّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

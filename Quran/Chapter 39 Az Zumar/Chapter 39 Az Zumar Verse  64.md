@@ -452,6 +452,18 @@ Qul 'Afaghayra Allāhi Ta'murūnnī 'A'budu 'Ayyuhā Al-Jāhilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ أَفَغَيْرَ اللَّهِ تَأْمُرُونِّي أَعْبُدُ أَيُّهَا الْجَاهِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل افغير الله تامروني اعبد ايها الجاهلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ أَفَغَیۡرَ ٱللَّهِ تَأۡمُرُوۤنِّیۤ أَعۡبُدُ أَیُّهَا ٱلۡجَـٰهِلُونَ
 
 | Details |  |

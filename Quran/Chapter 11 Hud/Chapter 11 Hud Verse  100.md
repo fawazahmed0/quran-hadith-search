@@ -452,6 +452,18 @@ Dhālika Min 'Anbā'i Al-Qurá Naquşşuhu 'Alayka Minhā Qā'imun Wa Ĥaşīdun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ مِنْ أَنْبَاءِ الْقُرَى نَقُصُّهُ عَلَيْكَ مِنْهَا قَائِمٌ وَحَصِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك من انباء القرى نقصه عليك منها قايم وحصيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ مِنۡ أَنۢبَاۤءِ ٱلۡقُرَىٰ نَقُصُّهُۥ عَلَیۡكَۖ مِنۡهَا قَاۤئِمࣱ وَحَصِیدࣱ
 
 | Details |  |

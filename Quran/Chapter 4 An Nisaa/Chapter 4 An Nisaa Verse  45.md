@@ -452,6 +452,18 @@ Wa Allāhu 'A'lamu Bi'a'dā'ikum Wa Kafá Billāhi Walīyāan Wa Kafá Billāhi 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاللَّهُ أَعْلَمُ بِأَعْدَائِكُمْ وَكَفَى بِاللَّهِ وَلِيًّا وَكَفَى بِاللَّهِ نَصِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والله اعلم باعدايكم وكفى بالله وليا وكفى بالله نصيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱللَّهُ أَعۡلَمُ بِأَعۡدَاۤئِكُمۡۚ وَكَفَىٰ بِٱللَّهِ وَلِیࣰّا وَكَفَىٰ بِٱللَّهِ نَصِیرࣰا
 
 | Details |  |

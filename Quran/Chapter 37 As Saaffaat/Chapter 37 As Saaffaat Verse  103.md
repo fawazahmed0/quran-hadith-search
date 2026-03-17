@@ -452,6 +452,18 @@ Falammā 'Aslamā Wa Tallahu Liljabīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا أَسْلَمَا وَتَلَّهُ لِلْجَبِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما اسلما وتله للجبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّاۤ أَسۡلَمَا وَتَلَّهُۥ لِلۡجَبِینِ
 
 | Details |  |

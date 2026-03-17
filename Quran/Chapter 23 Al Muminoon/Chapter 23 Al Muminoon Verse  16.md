@@ -452,6 +452,18 @@ Thumma 'Innakum Yawma Al-Qiyāmati Tub'athūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ إِنَّكُمْ يَوْمَ الْقِيَامَةِ تُبْعَثُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم انكم يوم القيامة تبعثون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ إِنَّكُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِ تُبۡعَثُونَ
 
 | Details |  |

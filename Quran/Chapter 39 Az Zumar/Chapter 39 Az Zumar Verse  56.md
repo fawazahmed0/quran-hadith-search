@@ -452,6 +452,18 @@ An Taqūla Nafsun Yā Ĥasratā 'Alá Mā Farraţtu Fī Janbi Allāhi Wa 'In Kun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَنْ تَقُولَ نَفْسٌ يَا حَسْرَتَا عَلَى مَا فَرَّطْتُ فِي جَنْبِ اللَّهِ وَإِنْ كُنْتُ لَمِنَ السَّاخِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان تقول نفس يا حسرتا على ما فرطت في جنب الله وان كنت لمن الساخرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَن تَقُولَ نَفۡسࣱ یَـٰحَسۡرَتَىٰ عَلَىٰ مَا فَرَّطتُ فِی جَنۢبِ ٱللَّهِ وَإِن كُنتُ لَمِنَ ٱلسَّـٰخِرِینَ
 
 | Details |  |

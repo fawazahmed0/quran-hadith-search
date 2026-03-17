@@ -452,6 +452,18 @@ Wa Junūdu 'Iblīsa 'Ajma'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجُنُودُ إِبْلِيسَ أَجْمَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجنود ابليس اجمعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجُنُودُ إِبۡلِیسَ أَجۡمَعُونَ
 
 | Details |  |

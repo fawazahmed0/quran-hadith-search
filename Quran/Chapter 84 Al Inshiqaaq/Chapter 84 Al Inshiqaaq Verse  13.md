@@ -452,6 +452,18 @@ Innahu KÄna FÄ« 'Ahlihi MasrÅ«rÄan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انه كان في اهله مسرورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُۥ كَانَ فِیۤ أَهۡلِهِۦ مَسۡرُورًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Kunūzin Wa Maqāmin Karīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكنوز ومقام كريم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكُنُوزࣲ وَمَقَامࣲ كَرِیمࣲ
 
 | Details |  |

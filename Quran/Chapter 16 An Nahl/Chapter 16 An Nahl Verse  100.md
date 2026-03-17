@@ -452,6 +452,18 @@ Innamā Sulţānuhu 'Alá Al-Ladhīna Yatawallawnahu Wa Al-Ladhīna Hum Bihi Mus
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّمَا سُلْطَانُهُ عَلَى الَّذِينَ يَتَوَلَّوْنَهُ وَالَّذِينَ هُمْ بِهِ مُشْرِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انما سلطانه على الذين يتولونه والذين هم به مشركون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّمَا سُلۡطَـٰنُهُۥ عَلَى ٱلَّذِینَ یَتَوَلَّوۡنَهُۥ وَٱلَّذِینَ هُم بِهِۦ مُشۡرِكُونَ
 
 | Details |  |

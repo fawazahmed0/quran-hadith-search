@@ -452,6 +452,18 @@ Utullin Ba'da Dhālika Zanīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عُتُلٍّ بَعْدَ ذَلِكَ زَنِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عتل بعد ذلك زنيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عُتُلِّۭ بَعۡدَ ذَ ٰلِكَ زَنِیمٍ
 
 | Details |  |

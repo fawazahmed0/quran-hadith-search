@@ -452,6 +452,18 @@ Ammā Kānū Ya'malūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَمَّا كَانُوا يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عما كانوا يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَمَّا كَانُوا۟ یَعۡمَلُونَ
 
 | Details |  |

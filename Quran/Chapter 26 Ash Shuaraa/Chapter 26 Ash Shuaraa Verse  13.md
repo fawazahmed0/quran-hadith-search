@@ -452,6 +452,18 @@ Wa Yađīqu Şadrī Wa Lā Yanţaliqu Lisānī Fa'arsil 'Ilá Hārūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَضِيقُ صَدْرِي وَلَا يَنْطَلِقُ لِسَانِي فَأَرْسِلْ إِلَى هَارُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويضيق صدري ولا ينطلق لساني فارسل الى هارون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَضِیقُ صَدۡرِی وَلَا یَنطَلِقُ لِسَانِی فَأَرۡسِلۡ إِلَىٰ هَـٰرُونَ
 
 | Details |  |

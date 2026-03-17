@@ -452,6 +452,18 @@ Innaka Mayyitun Wa 'Innahum Mayyitūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّكَ مَيِّتٌ وَإِنَّهُمْ مَيِّتُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انك ميت وانهم ميتون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّكَ مَیِّتࣱ وَإِنَّهُم مَّیِّتُونَ
 
 | Details |  |

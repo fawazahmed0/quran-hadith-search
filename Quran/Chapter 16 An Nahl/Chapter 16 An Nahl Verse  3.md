@@ -452,6 +452,18 @@ Khalaqa As-Samāwāti Wa Al-'Arđa Bil-Ĥaqqi Ta'ālá 'Ammā Yushrikūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ تَعَالَى عَمَّا يُشْرِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خلق السماوات والارض بالحق تعالى عما يشركون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خَلَقَ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّۚ تَعَـٰلَىٰ عَمَّا یُشۡرِكُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Afalā Yatūbūna 'Ilá Allāhi Wa Yastaghfirūnahu Wa Allāhu Ghafūrun Raĥīm
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَلَا يَتُوبُونَ إِلَى اللَّهِ وَيَسْتَغْفِرُونَهُ وَاللَّهُ غَفُورٌ رَحِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افلا يتوبون الى الله ويستغفرونه والله غفور رحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَلَا یَتُوبُونَ إِلَى ٱللَّهِ وَیَسۡتَغۡفِرُونَهُۥۚ وَٱللَّهُ غَفُورࣱ رَّحِیمࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla Hal 'Antum Muţţali'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ هَلْ أَنْتُمْ مُطَّلِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال هل انتم مطلعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ هَلۡ أَنتُم مُّطَّلِعُونَ
 
 | Details |  |

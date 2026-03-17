@@ -452,6 +452,18 @@ Alam Nuhliki Al-'Awwalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ نُهْلِكِ الْأَوَّلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم نهلك الاولين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ نُهۡلِكِ ٱلۡأَوَّلِینَ
 
 | Details |  |

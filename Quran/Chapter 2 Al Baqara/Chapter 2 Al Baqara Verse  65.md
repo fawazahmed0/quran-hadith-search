@@ -452,6 +452,18 @@ Wa Laqad 'Alimtumu Al-Ladhīna A'tadaw Minkum Fī As-Sabti Faqulnā Lahum Kūnū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ عَلِمْتُمُ الَّذِينَ اعْتَدَوْا مِنْكُمْ فِي السَّبْتِ فَقُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد علمتم الذين اعتدوا منكم في السبت فقلنا لهم كونوا قردة خاسيين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ عَلِمۡتُمُ ٱلَّذِینَ ٱعۡتَدَوۡا۟ مِنكُمۡ فِی ٱلسَّبۡتِ فَقُلۡنَا لَهُمۡ كُونُوا۟ قِرَدَةً خَـٰسِءِینَ
 
 | Details |  |

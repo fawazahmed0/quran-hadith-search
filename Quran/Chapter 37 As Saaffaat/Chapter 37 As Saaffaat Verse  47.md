@@ -452,6 +452,18 @@ Lā Fīhā Ghawlun Wa Lā Hum 'Anhā Yunzafūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا فِيهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنْزَفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا فيها غول ولا هم عنها ينزفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا فِیهَا غَوۡلࣱ وَلَا هُمۡ عَنۡهَا یُنزَفُونَ
 
 | Details |  |

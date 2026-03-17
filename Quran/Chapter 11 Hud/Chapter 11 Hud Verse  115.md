@@ -452,6 +452,18 @@ Wa Aşbir Fa'inna Allāha Lā Yuđī'u 'Ajra Al-Muĥsinīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واصبر فان الله لا يضيع اجر المحسنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱصۡبِرۡ فَإِنَّ ٱللَّهَ لَا یُضِیعُ أَجۡرَ ٱلۡمُحۡسِنِینَ
 
 | Details |  |

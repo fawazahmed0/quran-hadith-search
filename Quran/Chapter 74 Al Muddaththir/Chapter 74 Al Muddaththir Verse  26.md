@@ -452,6 +452,18 @@ Sa'uşlīhi Saqara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَأُصْلِيهِ سَقَرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ساصليه سقر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَأُصۡلِیهِ سَقَرَ
 
 | Details |  |

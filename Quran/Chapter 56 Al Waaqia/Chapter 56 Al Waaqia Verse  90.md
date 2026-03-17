@@ -452,6 +452,18 @@ Wa 'Ammā 'In Kāna Min 'Aşĥābi Al-Yamīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمَّا إِنْ كَانَ مِنْ أَصْحَابِ الْيَمِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما ان كان من اصحاب اليمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمَّاۤ إِن كَانَ مِنۡ أَصۡحَـٰبِ ٱلۡیَمِینِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Afara'ayta 'In Matta'nāhum Sinīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَرَأَيْتَ إِنْ مَتَّعْنَاهُمْ سِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افرايت ان متعناهم سنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَرَءَیۡتَ إِن مَّتَّعۡنَـٰهُمۡ سِنِینَ
 
 | Details |  |

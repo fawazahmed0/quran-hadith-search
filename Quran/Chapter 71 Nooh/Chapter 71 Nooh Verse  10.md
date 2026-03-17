@@ -452,6 +452,18 @@ Faqultu Astaghfirū Rabbakum 'Innahu Kāna Ghaffārāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقلت استغفروا ربكم انه كان غفارا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقُلۡتُ ٱسۡتَغۡفِرُوا۟ رَبَّكُمۡ إِنَّهُۥ كَانَ غَفَّارࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Idhi Al-'Aghlālu Fī 'A'nāqihim Wa As-Salāsilu Yusĥabūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذِ الْأَغْلَالُ فِي أَعْنَاقِهِمْ وَالسَّلَاسِلُ يُسْحَبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ الاغلال في اعناقهم والسلاسل يسحبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذِ ٱلۡأَغۡلَـٰلُ فِیۤ أَعۡنَـٰقِهِمۡ وَٱلسَّلَـٰسِلُ یُسۡحَبُونَ
 
 | Details |  |

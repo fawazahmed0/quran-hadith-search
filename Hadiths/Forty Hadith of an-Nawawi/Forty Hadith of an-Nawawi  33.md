@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ رَسُولَ اللَّهِ صلى الله عليه و سلم قَالَ: "لَوْ يُعْطَى النَّاسُ بِدَعْوَاهُمْ لَادَّعَى رِجَالٌ أَمْوَالَ قَوْمٍ وَدِمَاءَهُمْ، لَكِنَّ الْبَيِّنَةَ عَلَى الْمُدَّعِي، وَالْيَمِينَ عَلَى مَنْ أَنْكَرَ" . حَدِيثٌ حَسَنٌ، رَوَاهُ الْبَيْهَقِيّ \[في"السنن" 10/252\]، وَغَيْرُهُ هَكَذَا، وَبَعْضُهُ فِي "الصَّحِيحَيْنِ
@@ -47,6 +49,16 @@ On the authority of Ibn Abbas (may Allah be pleased with him), that the Messenge
 ## French
 
 Selon Ibn Abbas (qu’Allah l’agrée), le Messager d’Allah (ﷺ) a dit : « Si les gens recevaient tout ce qu’ils réclamaient, certains s’approprieraient les biens et les vies d’autrui. Mais la preuve revient à celui qui revendique, et le serment à celui qui nie. » Un hadith bon rapporté par al-Bayhaqi et d’autres sous cette forme, une partie se trouvant dans les deux Sahih
+
+| References: |  |
+| --- | --- |
+| Hadith No | 33 |
+| Arabic No | 33 |
+| Reference | Book 1 Hadith 33 |
+
+## Turkish
+
+İbn Abbas (ra) anlatıyor: Resulullah (ﷺ) şöyle buyurdu: "Eğer insanlara sadece iddialarına bakılarak (istedikleri) verilseydi, bazı adamlar başka kavimlerin mallarını ve canlarını talep ederlerdi. Fakat delil getirmek davacıya, yemin etmek ise inkar edene düşer." \[Beyhaki\]
 
 | References: |  |
 | --- | --- |

@@ -452,6 +452,18 @@ Ula'ika Humu Al-Kafiruna Haqqaan Wa 'A'tadna Lilkafirina 'Adhabaan Muhinaan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ هُمُ الْكَافِرُونَ حَقًّا وَأَعْتَدْنَا لِلْكَافِرِينَ عَذَابًا مُهِينًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك هم الكافرون حقا واعتدنا للكافرين عذابا مهينا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ هُمُ ٱلۡكَـٰفِرُونَ حَقࣰّاۚ وَأَعۡتَدۡنَا لِلۡكَـٰفِرِینَ عَذَابࣰا مُّهِینࣰا
 
 | Details |  |

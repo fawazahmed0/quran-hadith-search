@@ -452,6 +452,18 @@ Wa Mā Yulaqqāhā 'Illā Al-Ladhīna Şabarū Wa Mā Yulaqqāhā 'Illā Dhū Ĥ
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا ذُو حَظٍّ عَظِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما يلقاها الا الذين صبروا وما يلقاها الا ذو حظ عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا یُلَقَّىٰهَاۤ إِلَّا ٱلَّذِینَ صَبَرُوا۟ وَمَا یُلَقَّىٰهَاۤ إِلَّا ذُو حَظٍّ عَظِیمࣲ
 
 | Details |  |

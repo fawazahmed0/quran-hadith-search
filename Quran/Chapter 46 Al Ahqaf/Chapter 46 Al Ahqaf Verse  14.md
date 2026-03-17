@@ -452,6 +452,18 @@ Ula'ika 'Ashabu Al-Jannati Khalidina Fiha Jaza'an Bima Kanu Ya'maluna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ أَصْحَابُ الْجَنَّةِ خَالِدِينَ فِيهَا جَزَاءً بِمَا كَانُوا يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك اصحاب الجنة خالدين فيها جزاء بما كانوا يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ أَصۡحَـٰبُ ٱلۡجَنَّةِ خَـٰلِدِینَ فِیهَا جَزَاۤءَۢ بِمَا كَانُوا۟ یَعۡمَلُونَ
 
 | Details |  |

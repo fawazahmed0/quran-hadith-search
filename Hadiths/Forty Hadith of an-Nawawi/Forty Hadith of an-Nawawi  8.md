@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا، أَنَّ رَسُولَ اللَّهِ صلى الله عليه و سلم قَالَ: أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَشْهَدُوا أَنْ لَا إلَهَ إلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَيُقِيمُوا الصَّلَاةَ، وَيُؤْتُوا الزَّكَاةَ؛ فَإِذَا فَعَلُوا ذَلِكَ عَصَمُوا مِنِّي دِمَاءَهُمْ وَأَمْوَالَهُمْ إلَّا بِحَقِّ الْإِسْلَامِ، وَحِسَابُهُمْ عَلَى اللَّهِ تَعَالَى .(br)\[رَوَاهُ الْبُخَارِيُّ\] ،\[وَمُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of Abdullah ibn Umar (ra): The Messenger of Allah (ﷺ) said, "
 ## French
 
 Selon Abdallah ibn ‘Omar (qu’Allah l’agrée) : Le Messager d’Allah (ﷺ) a dit : « Il m’a été ordonné de combattre les gens jusqu’à ce qu’ils attestent qu’il n’y a de divinité digne d’adoration qu’Allah et que Muhammad est le Messager d’Allah, qu’ils accomplissent la prière et qu’ils versent la zakat. S’ils font cela, alors ils préservent de moi leur vie et leurs biens, sauf pour ce que l’islam prévoit, et leur compte revient à Allah. » \[Boukhari & Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 8 |
+| Arabic No | 8 |
+| Reference | Book 1 Hadith 8 |
+
+## Turkish
+
+Abdullah bin Ömer (ra) anlatıyor: Resulullah (ﷺ) şöyle buyurdu: "İnsanlar Allah’tan başka ilah olmadığına ve Muhammed’in O’nun elçisi olduğuna şehadet edinceye, namazı kılıp zekatı verinceye kadar onlarla savaşmakla emrolundum. Bunları yaparlarsa —İslam’ın hakkı hariç— kanlarını ve mallarını benden korumuş olurlar. Hesapları ise Allah’a aittir." \[Buhari ve Müslim\]
 
 | References: |  |
 | --- | --- |

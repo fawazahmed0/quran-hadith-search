@@ -452,6 +452,18 @@ Fabasharnāhu Bighulāmin Ĥalīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَبَشَّرْنَاهُ بِغُلَامٍ حَلِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فبشرناه بغلام حليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَبَشَّرۡنَـٰهُ بِغُلَـٰمٍ حَلِیمࣲ
 
 | Details |  |

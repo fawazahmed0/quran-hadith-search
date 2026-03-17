@@ -452,6 +452,18 @@ Wa Anţalaqa Al-Mala'u Minhum 'Ani Amshū Wa Aşbirū 'Alá 'Ālihatikum 'Inna H
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَانْطَلَقَ الْمَلَأُ مِنْهُمْ أَنِ امْشُوا وَاصْبِرُوا عَلَى آلِهَتِكُمْ إِنَّ هَذَا لَشَيْءٌ يُرَادُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانطلق الملا منهم ان امشوا واصبروا على الهتكم ان هذا لشيء يراد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱنطَلَقَ ٱلۡمَلَأُ مِنۡهُمۡ أَنِ ٱمۡشُوا۟ وَٱصۡبِرُوا۟ عَلَىٰۤ ءَالِهَتِكُمۡۖ إِنَّ هَـٰذَا لَشَیۡءࣱ یُرَادُ
 
 | Details |  |

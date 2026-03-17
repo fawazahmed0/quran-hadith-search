@@ -452,6 +452,18 @@ Nārun Ĥāmiyahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نَارٌ حَامِيَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نار حامية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نَارٌ حَامِیَةُۢ
 
 | Details |  |

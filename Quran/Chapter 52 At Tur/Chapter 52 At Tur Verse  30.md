@@ -452,6 +452,18 @@ Am Yaqūlūna Shā'irun Natarabbaşu Bihi Rayba Al-Manūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ يَقُولُونَ شَاعِرٌ نَتَرَبَّصُ بِهِ رَيْبَ الْمَنُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام يقولون شاعر نتربص به ريب المنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ یَقُولُونَ شَاعِرࣱ نَّتَرَبَّصُ بِهِۦ رَیۡبَ ٱلۡمَنُونِ
 
 | Details |  |

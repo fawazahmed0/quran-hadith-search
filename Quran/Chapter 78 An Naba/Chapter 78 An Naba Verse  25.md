@@ -452,6 +452,18 @@ Illā Ĥamīmāan Wa Ghassāqāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا حَمِيمًا وَغَسَّاقًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا حميما وغساقا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا حَمِیمࣰا وَغَسَّاقࣰا
 
 | Details |  |

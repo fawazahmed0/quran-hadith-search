@@ -452,6 +452,18 @@ Fasajada Al-Malā'ikatu Kulluhum 'Ajma'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَسَجَدَ الْمَلَائِكَةُ كُلُّهُمْ أَجْمَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فسجد الملايكة كلهم اجمعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَسَجَدَ ٱلۡمَلَـٰۤئِكَةُ كُلُّهُمۡ أَجۡمَعُونَ
 
 | Details |  |

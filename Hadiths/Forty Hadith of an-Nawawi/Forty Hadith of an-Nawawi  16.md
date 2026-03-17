@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ أَنَّ رَجُلًا قَالَ لِلنَّبِيِّ صلى الله عليه و سلم أَوْصِنِي. قَالَ: لَا تَغْضَبْ، فَرَدَّدَ مِرَارًا، قَالَ: لَا تَغْضَبْ" .(br)\[رَوَاهُ الْبُخَارِيُّ\]
@@ -47,6 +49,16 @@ On the authority of Abu Hurayrah (may Allah be pleased with him): A man said to 
 ## French
 
 Selon Abou Hourayra (qu’Allah l’agrée) : Un homme a dit au Prophète (ﷺ) : « Donne-moi un conseil. » Le Prophète (ﷺ) lui a dit : « Ne te mets pas en colère. » L’homme a réitéré plusieurs fois sa demande, et à chaque fois il (ﷺ) a répondu : « Ne te mets pas en colère. » \[Boukhari\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 16 |
+| Arabic No | 16 |
+| Reference | Book 1 Hadith 16 |
+
+## Turkish
+
+Ebu Hureyre (ra) anlatıyor: Bir adam Peygamber’e (ﷺ) "Bana tavsiyede bulun" dedi. Efendimiz: "Öfkelenme" buyurdu. Adam isteğini birkaç kez tekrarladı, Efendimiz her defasında: "Öfkelenme" buyurdu. \[Buhari\]
 
 | References: |  |
 | --- | --- |

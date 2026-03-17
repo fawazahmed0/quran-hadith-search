@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه و سلم قَالَ: مَنْ كَانَ يُؤْمِنُ بِاَللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ، وَمَنْ كَانَ يُؤْمِنُ بِاَللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيُكْرِمْ جَارَهُ، وَمَنْ كَانَ يُؤْمِنُ بِاَللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيُكْرِمْ ضَيْفَهُ .(br)\[رَوَاهُ الْبُخَارِيُّ\] ، \[وَمُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of Abu Hurayrah (may Allah be pleased with him), that the Messe
 ## French
 
 Selon Abou Hourayra (qu’Allah l’agrée), le Messager d’Allah (ﷺ) a dit : « Que celui qui croit en Allah et au Jour Dernier dise du bien ou se taise ; que celui qui croit en Allah et au Jour Dernier soit généreux envers son voisin ; et que celui qui croit en Allah et au Jour Dernier soit généreux envers son invité. » \[Boukhari\] \[Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 15 |
+| Arabic No | 15 |
+| Reference | Book 1 Hadith 15 |
+
+## Turkish
+
+Ebu Hureyre (ra) anlatıyor: Resulullah (ﷺ) şöyle buyurdu: "Allah’a ve ahiret gününe iman eden ya hayır söylesin ya da sussun. Allah’a ve ahiret gününe iman eden komşusuna ikram etsin. Allah’a ve ahiret gününe iman eden misafirine ikram etsin." \[Buhari ve Müslim\]
 
 | References: |  |
 | --- | --- |

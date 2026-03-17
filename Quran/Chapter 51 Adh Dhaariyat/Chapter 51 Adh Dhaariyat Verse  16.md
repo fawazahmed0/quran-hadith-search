@@ -452,6 +452,18 @@ Akhidhina Ma 'Atahum Rabbuhum 'Innahum Kanu Qabla Dhalika Muhsinina
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+آخِذِينَ مَا آتَاهُمْ رَبُّهُمْ إِنَّهُمْ كَانُوا قَبْلَ ذَلِكَ مُحْسِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اخذين ما اتاهم ربهم انهم كانوا قبل ذلك محسنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ءَاخِذِینَ مَاۤ ءَاتَىٰهُمۡ رَبُّهُمۡۚ إِنَّهُمۡ كَانُوا۟ قَبۡلَ ذَ ٰلِكَ مُحۡسِنِینَ
 
 | Details |  |

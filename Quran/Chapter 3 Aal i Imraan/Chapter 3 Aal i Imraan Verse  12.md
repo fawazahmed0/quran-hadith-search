@@ -452,6 +452,18 @@ Qul Lilladhīna Kafarū Satughlabūna Wa Tuĥsharūna 'Ilá Jahannama Wa Bi'sa A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ لِلَّذِينَ كَفَرُوا سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَى جَهَنَّمَ وَبِئْسَ الْمِهَادُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل للذين كفروا ستغلبون وتحشرون الى جهنم وبيس المهاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُل لِّلَّذِینَ كَفَرُوا۟ سَتُغۡلَبُونَ وَتُحۡشَرُونَ إِلَىٰ جَهَنَّمَۖ وَبِئۡسَ ٱلۡمِهَادُ
 
 | Details |  |

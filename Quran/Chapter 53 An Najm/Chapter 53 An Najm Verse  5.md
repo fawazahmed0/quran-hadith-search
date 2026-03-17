@@ -452,6 +452,18 @@ Allamahu Shadīdu Al-Quwá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَلَّمَهُ شَدِيدُ الْقُوَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+علمه شديد القوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَلَّمَهُۥ شَدِیدُ ٱلۡقُوَىٰ
 
 | Details |  |

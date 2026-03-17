@@ -452,6 +452,18 @@ Falammā Jā'a As-Saĥaratu Qāla Lahum Mūsá 'Alqū Mā 'Antum Mulqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا جَاءَ السَّحَرَةُ قَالَ لَهُمْ مُوسَى أَلْقُوا مَا أَنْتُمْ مُلْقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما جاء السحرة قال لهم موسى القوا ما انتم ملقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّا جَاۤءَ ٱلسَّحَرَةُ قَالَ لَهُم مُّوسَىٰۤ أَلۡقُوا۟ مَاۤ أَنتُم مُّلۡقُونَ
 
 | Details |  |

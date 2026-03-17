@@ -452,6 +452,18 @@ Wa At-Tīni Wa Az-Zaytūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالتِّينِ وَالزَّيْتُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والتين والزيتون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلتِّینِ وَٱلزَّیۡتُونِ
 
 | Details |  |

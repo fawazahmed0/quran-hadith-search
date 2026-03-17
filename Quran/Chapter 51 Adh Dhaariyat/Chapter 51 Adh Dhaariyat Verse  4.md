@@ -452,6 +452,18 @@ Fālmuqassimāti 'Amrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَالْمُقَسِّمَاتِ أَمْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالمقسمات امرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱلۡمُقَسِّمَـٰتِ أَمۡرًا
 
 | Details |  |

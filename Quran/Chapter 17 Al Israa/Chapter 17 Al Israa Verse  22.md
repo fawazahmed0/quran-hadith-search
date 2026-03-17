@@ -452,6 +452,18 @@ Lā Taj'al Ma'a Allāhi 'Ilahāan 'Ākhara Fataq'uda Madhmūmāan Makhdhūlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا تَجْعَلْ مَعَ اللَّهِ إِلَهًا آخَرَ فَتَقْعُدَ مَذْمُومًا مَخْذُولًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا تجعل مع الله الها اخر فتقعد مذموما مخذولا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا تَجۡعَلۡ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَتَقۡعُدَ مَذۡمُومࣰا مَّخۡذُولࣰا
 
 | Details |  |

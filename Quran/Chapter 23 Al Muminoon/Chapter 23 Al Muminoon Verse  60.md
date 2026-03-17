@@ -452,6 +452,18 @@ Wa Al-Ladhīna Yu'utūna Mā 'Ātaw Wa Qulūbuhum Wa Jilatun 'Annahum 'Ilá Rabb
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ يُؤْتُونَ مَا آتَوْا وَقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ إِلَى رَبِّهِمْ رَاجِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين يوتون ما اتوا وقلوبهم وجلة انهم الى ربهم راجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ یُؤۡتُونَ مَاۤ ءَاتَوا۟ وَّقُلُوبُهُمۡ وَجِلَةٌ أَنَّهُمۡ إِلَىٰ رَبِّهِمۡ رَ ٰجِعُونَ
 
 | Details |  |

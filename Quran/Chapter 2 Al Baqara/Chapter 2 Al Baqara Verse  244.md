@@ -452,6 +452,18 @@ Wa Qātilū Fī Sabīli Allāhi Wa A'lamū 'Anna Allāha Samī'un 'Alīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَاتِلُوا فِي سَبِيلِ اللَّهِ وَاعْلَمُوا أَنَّ اللَّهَ سَمِيعٌ عَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقاتلوا في سبيل الله واعلموا ان الله سميع عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَـٰتِلُوا۟ فِی سَبِیلِ ٱللَّهِ وَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ سَمِیعٌ عَلِیمࣱ
 
 | Details |  |

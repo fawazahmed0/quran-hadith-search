@@ -452,6 +452,18 @@ Kulū Wa Ar'aw 'An'āmakum 'Inna Fī Dhālika La'āyātin Li'wlī An-Nuhá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كُلُوا وَارْعَوْا أَنْعَامَكُمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِأُولِي النُّهَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلوا وارعوا انعامكم ان في ذلك لايات لاولي النهى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كُلُوا۟ وَٱرۡعَوۡا۟ أَنۡعَـٰمَكُمۡۚ إِنَّ فِی ذَ ٰلِكَ لَءَایَـٰتࣲ لِّأُو۟لِی ٱلنُّهَىٰ
 
 | Details |  |

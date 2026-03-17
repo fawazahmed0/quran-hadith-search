@@ -452,6 +452,18 @@ Falammā Kashafnā 'Anhumu Al-'Adhāba 'Idhā Hum Yankuthūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا كَشَفْنَا عَنْهُمُ الْعَذَابَ إِذَا هُمْ يَنْكُثُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما كشفنا عنهم العذاب اذا هم ينكثون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّا كَشَفۡنَا عَنۡهُمُ ٱلۡعَذَابَ إِذَا هُمۡ یَنكُثُونَ
 
 | Details |  |

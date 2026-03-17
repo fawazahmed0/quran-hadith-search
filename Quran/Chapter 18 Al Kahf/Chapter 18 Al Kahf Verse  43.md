@@ -452,6 +452,18 @@ Wa Lam Takun Lahu Fi'atun Yanşurūnahu Min Dūni Allāhi Wa Mā Kāna Muntaşir
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَمْ تَكُنْ لَهُ فِئَةٌ يَنْصُرُونَهُ مِنْ دُونِ اللَّهِ وَمَا كَانَ مُنْتَصِرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولم تكن له فية ينصرونه من دون الله وما كان منتصرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَمۡ تَكُن لَّهُۥ فِئَةࣱ یَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مُنتَصِرًا
 
 | Details |  |

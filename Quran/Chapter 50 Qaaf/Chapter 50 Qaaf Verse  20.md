@@ -452,6 +452,18 @@ Wa Nufikha Fī Aş-Şūri Dhālika Yawmu Al-Wa'īdi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنُفِخَ فِي الصُّورِ ذَلِكَ يَوْمُ الْوَعِيدِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونفخ في الصور ذلك يوم الوعيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنُفِخَ فِی ٱلصُّورِۚ ذَ ٰلِكَ یَوۡمُ ٱلۡوَعِیدِ
 
 | Details |  |

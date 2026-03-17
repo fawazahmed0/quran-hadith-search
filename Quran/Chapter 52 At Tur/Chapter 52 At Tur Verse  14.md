@@ -452,6 +452,18 @@ Hadhihi An-Nāru Allatī Kuntum Bihā Tukadhibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذِهِ النَّارُ الَّتِي كُنْتُمْ بِهَا تُكَذِّبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذه النار التي كنتم بها تكذبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذِهِ ٱلنَّارُ ٱلَّتِی كُنتُم بِهَا تُكَذِّبُونَ
 
 | Details |  |

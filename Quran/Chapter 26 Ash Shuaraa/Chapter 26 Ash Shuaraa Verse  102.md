@@ -452,6 +452,18 @@ Falaw 'Anna Lanā Karratan Fanakūna Mina Al-Mu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَوْ أَنَّ لَنَا كَرَّةً فَنَكُونَ مِنَ الْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلو ان لنا كرة فنكون من المومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَوۡ أَنَّ لَنَا كَرَّةࣰ فَنَكُونَ مِنَ ٱلۡمُؤۡمِنِینَ
 
 | Details |  |

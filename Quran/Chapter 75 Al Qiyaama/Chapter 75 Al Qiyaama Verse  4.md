@@ -452,6 +452,18 @@ Balá Qādirīna 'Alá 'An Nusawwiya Banānahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلَى قَادِرِينَ عَلَى أَنْ نُسَوِّيَ بَنَانَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بلى قادرين على ان نسوي بنانه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلَىٰ قَـٰدِرِینَ عَلَىٰۤ أَن نُّسَوِّیَ بَنَانَهُۥ
 
 | Details |  |

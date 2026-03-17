@@ -452,6 +452,18 @@ Mākithīna Fīhi 'Abadāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَاكِثِينَ فِيهِ أَبَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ماكثين فيه ابدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّـٰكِثِینَ فِیهِ أَبَدࣰا
 
 | Details |  |

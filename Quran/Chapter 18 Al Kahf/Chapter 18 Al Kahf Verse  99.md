@@ -452,6 +452,18 @@ Wa Taraknā Ba'đahum Yawma'idhin Yamūju Fī Ba'đin Wa Nufikha Fī Aş-Şūri 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِي بَعْضٍ وَنُفِخَ فِي الصُّورِ فَجَمَعْنَاهُمْ جَمْعًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتركنا بعضهم يوميذ يموج في بعض ونفخ في الصور فجمعناهم جمعا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَتَرَكۡنَا بَعۡضَهُمۡ یَوۡمَئِذࣲ یَمُوجُ فِی بَعۡضࣲۖ وَنُفِخَ فِی ٱلصُّورِ فَجَمَعۡنَـٰهُمۡ جَمۡعࣰا
 
 | Details |  |

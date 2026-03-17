@@ -452,6 +452,18 @@ Qālū Lan Nabraĥa 'Alayhi 'Ākifīna Ĥattá Yarji'a 'Ilaynā Mūsá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا لَنْ نَبْرَحَ عَلَيْهِ عَاكِفِينَ حَتَّى يَرْجِعَ إِلَيْنَا مُوسَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا لن نبرح عليه عاكفين حتى يرجع الينا موسى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ لَن نَّبۡرَحَ عَلَیۡهِ عَـٰكِفِینَ حَتَّىٰ یَرۡجِعَ إِلَیۡنَا مُوسَىٰ
 
 | Details |  |

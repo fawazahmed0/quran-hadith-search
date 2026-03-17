@@ -452,6 +452,18 @@ Fatawallá Biruknihi Wa Qāla Sāĥirun 'Aw Majnūnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَتَوَلَّى بِرُكْنِهِ وَقَالَ سَاحِرٌ أَوْ مَجْنُونٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فتولى بركنه وقال ساحر او مجنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَتَوَلَّىٰ بِرُكۡنِهِۦ وَقَالَ سَـٰحِرٌ أَوۡ مَجۡنُونࣱ
 
 | Details |  |

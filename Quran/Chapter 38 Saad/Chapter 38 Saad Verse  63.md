@@ -452,6 +452,18 @@ Attakhadhnahum Sikhriyaan 'Am Zaghat 'Anhumu Al-'Absaru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَتَّخَذْنَاهُمْ سِخْرِيًّا أَمْ زَاغَتْ عَنْهُمُ الْأَبْصَارُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اتخذناهم سخريا ام زاغت عنهم الابصار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَتَّخَذۡنَـٰهُمۡ سِخۡرِیًّا أَمۡ زَاغَتۡ عَنۡهُمُ ٱلۡأَبۡصَـٰرُ
 
 | Details |  |

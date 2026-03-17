@@ -452,6 +452,18 @@ Thumma Ya'tī Min Ba'di Dhālika 'Āmun Fīhi Yughāthu An-Nāsu Wa Fīhi Ya'şi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ يَأْتِي مِنْ بَعْدِ ذَلِكَ عَامٌ فِيهِ يُغَاثُ النَّاسُ وَفِيهِ يَعْصِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم ياتي من بعد ذلك عام فيه يغاث الناس وفيه يعصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ یَأۡتِی مِنۢ بَعۡدِ ذَ ٰلِكَ عَامࣱ فِیهِ یُغَاثُ ٱلنَّاسُ وَفِیهِ یَعۡصِرُونَ
 
 | Details |  |

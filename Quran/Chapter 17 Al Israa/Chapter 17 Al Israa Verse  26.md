@@ -452,6 +452,18 @@ Wa 'Āti Dhā Al-Qurbá Ĥaqqahu Wa Al-Miskīna Wa Abna As-Sabīli Wa Lā Tubadh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَآتِ ذَا الْقُرْبَى حَقَّهُ وَالْمِسْكِينَ وَابْنَ السَّبِيلِ وَلَا تُبَذِّرْ تَبْذِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وات ذا القربى حقه والمسكين وابن السبيل ولا تبذر تبذيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَءَاتِ ذَا ٱلۡقُرۡبَىٰ حَقَّهُۥ وَٱلۡمِسۡكِینَ وَٱبۡنَ ٱلسَّبِیلِ وَلَا تُبَذِّرۡ تَبۡذِیرًا
 
 | Details |  |

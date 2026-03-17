@@ -452,6 +452,18 @@ Wa Shajaratan Takhruju Min Ţūri Saynā'a Tanbutu Bid-Duhni Wa Şibghin Lil'āk
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَشَجَرَةً تَخْرُجُ مِنْ طُورِ سَيْنَاءَ تَنْبُتُ بِالدُّهْنِ وَصِبْغٍ لِلْآكِلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وشجرة تخرج من طور سيناء تنبت بالدهن وصبغ للاكلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَشَجَرَةࣰ تَخۡرُجُ مِن طُورِ سَیۡنَاۤءَ تَنۢبُتُ بِٱلدُّهۡنِ وَصِبۡغࣲ لِّلۡءَاكِلِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Laqad Kadhaba 'Aşĥābu Al-Ĥijri Al-Mursalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ كَذَّبَ أَصْحَابُ الْحِجْرِ الْمُرْسَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد كذب اصحاب الحجر المرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ كَذَّبَ أَصۡحَـٰبُ ٱلۡحِجۡرِ ٱلۡمُرۡسَلِینَ
 
 | Details |  |

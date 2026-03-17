@@ -452,6 +452,18 @@ Wa Al-Ladhī 'Akhraja Al-Mar'á
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِي أَخْرَجَ الْمَرْعَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذي اخرج المرعى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِیۤ أَخۡرَجَ ٱلۡمَرۡعَىٰ
 
 | Details |  |

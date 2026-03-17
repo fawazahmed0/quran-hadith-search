@@ -452,6 +452,18 @@ Inna Rabbaka Huwa Al-Khallāqu Al-'Alīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ رَبَّكَ هُوَ الْخَلَّاقُ الْعَلِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان ربك هو الخلاق العليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ رَبَّكَ هُوَ ٱلۡخَلَّـٰقُ ٱلۡعَلِیمُ
 
 | Details |  |

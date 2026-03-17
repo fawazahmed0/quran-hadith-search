@@ -452,6 +452,18 @@ Kadhālika Naquşşu 'Alayka Min 'Anbā'i Mā Qad Sabaqa Wa Qad 'Ātaynāka Min 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَلِكَ نَقُصُّ عَلَيْكَ مِنْ أَنْبَاءِ مَا قَدْ سَبَقَ وَقَدْ آتَيْنَاكَ مِنْ لَدُنَّا ذِكْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذلك نقص عليك من انباء ما قد سبق وقد اتيناك من لدنا ذكرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَ ٰلِكَ نَقُصُّ عَلَیۡكَ مِنۡ أَنۢبَاۤءِ مَا قَدۡ سَبَقَۚ وَقَدۡ ءَاتَیۡنَـٰكَ مِن لَّدُنَّا ذِكۡرࣰا
 
 | Details |  |

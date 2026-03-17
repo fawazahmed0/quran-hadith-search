@@ -452,6 +452,18 @@ Wa Na'matin Kānū Fīhā Fākihīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَعْمَةٍ كَانُوا فِيهَا فَاكِهِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونعمة كانوا فيها فاكهين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَعۡمَةࣲ كَانُوا۟ فِیهَا فَـٰكِهِینَ
 
 | Details |  |

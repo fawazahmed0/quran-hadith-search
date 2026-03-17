@@ -452,6 +452,18 @@ Wa 'Ani A'budūnī Hādhā Şirāţun Mustaqīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنِ اعْبُدُونِي هَذَا صِرَاطٌ مُسْتَقِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان اعبدوني هذا صراط مستقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنِ ٱعۡبُدُونِیۚ هَـٰذَا صِرَ ٰطࣱ مُّسۡتَقِیمࣱ
 
 | Details |  |

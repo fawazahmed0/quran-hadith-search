@@ -452,6 +452,18 @@ Wa Amra'atuhu Ĥammālata Al-Ĥaţabi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وامراته حمالة الحطب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ
 
 | Details |  |

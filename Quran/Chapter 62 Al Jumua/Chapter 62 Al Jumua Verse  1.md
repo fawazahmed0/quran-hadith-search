@@ -452,6 +452,18 @@ Yusabbiĥu Lillāhi Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Al-Maliki Al-Qudd
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ الْمَلِكِ الْقُدُّوسِ الْعَزِيزِ الْحَكِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يسبح لله ما في السماوات وما في الارض الملك القدوس العزيز الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ یُسَبِّحُ لِلَّهِ مَا فِی ٱلسَّمَـٰوَ ٰتِ وَمَا فِی ٱلۡأَرۡضِ ٱلۡمَلِكِ ٱلۡقُدُّوسِ ٱلۡعَزِیزِ ٱلۡحَكِیمِ
 
 | Details |  |

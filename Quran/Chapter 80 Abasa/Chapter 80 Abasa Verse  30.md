@@ -452,6 +452,18 @@ Wa Ĥadā'iqa Ghulbāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَحَدَائِقَ غُلْبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وحدايق غلبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَحَدَاۤئِقَ غُلۡبࣰا
 
 | Details |  |

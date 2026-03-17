@@ -452,6 +452,18 @@ Fa'aghwaynākum 'Innā Kunnā Ghāwīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَغْوَيْنَاكُمْ إِنَّا كُنَّا غَاوِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاغويناكم انا كنا غاوين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَغۡوَیۡنَـٰكُمۡ إِنَّا كُنَّا غَـٰوِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Yusqawna Fīhā Ka'sāan Kāna Mizājuhā Zanjabīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيُسْقَوْنَ فِيهَا كَأْسًا كَانَ مِزَاجُهَا زَنْجَبِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويسقون فيها كاسا كان مزاجها زنجبيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیُسۡقَوۡنَ فِیهَا كَأۡسࣰا كَانَ مِزَاجُهَا زَنجَبِیلًا
 
 | Details |  |

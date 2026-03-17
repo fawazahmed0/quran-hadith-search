@@ -452,6 +452,18 @@ Mal'ūnīna 'Aynamā Thuqifū 'Ukhidhū Wa Quttilū Taqtīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَلْعُونِينَ أَيْنَمَا ثُقِفُوا أُخِذُوا وَقُتِّلُوا تَقْتِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ملعونين اينما ثقفوا اخذوا وقتلوا تقتيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّلۡعُونِینَۖ أَیۡنَمَا ثُقِفُوۤا۟ أُخِذُوا۟ وَقُتِّلُوا۟ تَقۡتِیلࣰا
 
 | Details |  |

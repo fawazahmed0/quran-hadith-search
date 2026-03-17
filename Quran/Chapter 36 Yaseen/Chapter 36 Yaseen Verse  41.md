@@ -452,6 +452,18 @@ Wa 'Āyatun Lahum 'Annā Ĥamalnā Dhurrīyatahum Fī Al-Fulki Al-Mashĥūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَآيَةٌ لَهُمْ أَنَّا حَمَلْنَا ذُرِّيَّتَهُمْ فِي الْفُلْكِ الْمَشْحُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واية لهم انا حملنا ذريتهم في الفلك المشحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَءَایَةࣱ لَّهُمۡ أَنَّا حَمَلۡنَا ذُرِّیَّتَهُمۡ فِی ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna 'Awwala Baytin Wuđi'a Lilnnāsi Lalladhī Bibakkata Mubārakāan Wa Hudáa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكًا وَهُدًى لِلْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان اول بيت وضع للناس للذي ببكة مباركا وهدى للعالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ أَوَّلَ بَیۡتࣲ وُضِعَ لِلنَّاسِ لَلَّذِی بِبَكَّةَ مُبَارَكࣰا وَهُدࣰى لِّلۡعَـٰلَمِینَ
 
 | Details |  |

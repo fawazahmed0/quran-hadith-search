@@ -452,6 +452,18 @@ Wa Qāla Mūsá 'In Takfurū 'Antum Wa Man Fī Al-'Arđi Jamī'āan Fa'inna All�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ مُوسَى إِنْ تَكْفُرُوا أَنْتُمْ وَمَنْ فِي الْأَرْضِ جَمِيعًا فَإِنَّ اللَّهَ لَغَنِيٌّ حَمِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال موسى ان تكفروا انتم ومن في الارض جميعا فان الله لغني حميد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ مُوسَىٰۤ إِن تَكۡفُرُوۤا۟ أَنتُمۡ وَمَن فِی ٱلۡأَرۡضِ جَمِیعࣰا فَإِنَّ ٱللَّهَ لَغَنِیٌّ حَمِیدٌ
 
 | Details |  |

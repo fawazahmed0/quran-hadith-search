@@ -452,6 +452,18 @@ Fa'aqarūhā Faqāla Tamatta'ū Fī Dārikum Thalāthata 'Ayyāmin Dhālika Wa'd
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا فِي دَارِكُمْ ثَلَاثَةَ أَيَّامٍ ذَلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فعقروها فقال تمتعوا في داركم ثلاثة ايام ذلك وعد غير مكذوب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا۟ فِی دَارِكُمۡ ثَلَـٰثَةَ أَیَّامࣲۖ ذَ ٰلِكَ وَعۡدٌ غَیۡرُ مَكۡذُوبࣲ
 
 | Details |  |

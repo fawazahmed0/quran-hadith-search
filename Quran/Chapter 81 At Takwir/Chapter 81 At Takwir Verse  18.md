@@ -452,6 +452,18 @@ Wa Aş-Şubĥi 'Idhā Tanaffasa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالصُّبْحِ إِذَا تَنَفَّسَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والصبح اذا تنفس
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلصُّبۡحِ إِذَا تَنَفَّسَ
 
 | Details |  |

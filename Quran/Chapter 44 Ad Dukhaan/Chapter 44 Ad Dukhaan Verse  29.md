@@ -452,6 +452,18 @@ Famā Bakat 'Alayhimu As-Samā'u Wa Al-'Arđu Wa Mā Kānū Munžarīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالْأَرْضُ وَمَا كَانُوا مُنْظَرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فما بكت عليهم السماء والارض وما كانوا منظرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَا بَكَتۡ عَلَیۡهِمُ ٱلسَّمَاۤءُ وَٱلۡأَرۡضُ وَمَا كَانُوا۟ مُنظَرِینَ
 
 | Details |  |

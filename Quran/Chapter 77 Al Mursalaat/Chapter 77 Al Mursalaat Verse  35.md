@@ -452,6 +452,18 @@ Hādhā Yawmu Lā Yanţiqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذَا يَوْمُ لَا يَنْطِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذا يوم لا ينطقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذَا یَوۡمُ لَا یَنطِقُونَ
 
 | Details |  |

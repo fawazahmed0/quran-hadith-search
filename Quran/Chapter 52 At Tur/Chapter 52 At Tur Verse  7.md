@@ -452,6 +452,18 @@ Inna 'Adhāba Rabbika Lawāqi'un
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ عَذَابَ رَبِّكَ لَوَاقِعٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان عذاب ربك لواقع
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ عَذَابَ رَبِّكَ لَوَ ٰقِعࣱ
 
 | Details |  |

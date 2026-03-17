@@ -452,6 +452,18 @@ Wa Qālū Yā 'Ayyuhā Al-Ladhī Nuzzila 'Alayhi Adh-Dhikru 'Innaka Lamajnūnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا يَا أَيُّهَا الَّذِي نُزِّلَ عَلَيْهِ الذِّكْرُ إِنَّكَ لَمَجْنُونٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا يا ايها الذي نزل عليه الذكر انك لمجنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ یَـٰۤأَیُّهَا ٱلَّذِی نُزِّلَ عَلَیۡهِ ٱلذِّكۡرُ إِنَّكَ لَمَجۡنُونࣱ
 
 | Details |  |

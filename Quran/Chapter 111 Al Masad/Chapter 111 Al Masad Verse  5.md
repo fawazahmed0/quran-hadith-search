@@ -452,6 +452,18 @@ Fī Jīdihā Ĥablun Min Masadin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في جيدها حبل من مسد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِی جِیدِهَا حَبۡلࣱ مِّن مَّسَدِۭ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Laqadi Astuhzi'a Birusulin Min Qablika Faĥāqa Bial-Ladhīna Sakhirū Minhum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِنْ قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد استهزي برسل من قبلك فحاق بالذين سخروا منهم ما كانوا به يستهزيون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدِ ٱسۡتُهۡزِئَ بِرُسُلࣲ مِّن قَبۡلِكَ فَحَاقَ بِٱلَّذِینَ سَخِرُوا۟ مِنۡهُم مَّا كَانُوا۟ بِهِۦ یَسۡتَهۡزِءُونَ
 
 | Details |  |

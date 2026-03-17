@@ -452,6 +452,18 @@ Am Lam Ya'rifū Rasūlahum Fahum Lahu Munkirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ لَمْ يَعْرِفُوا رَسُولَهُمْ فَهُمْ لَهُ مُنْكِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام لم يعرفوا رسولهم فهم له منكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ لَمۡ یَعۡرِفُوا۟ رَسُولَهُمۡ فَهُمۡ لَهُۥ مُنكِرُونَ
 
 | Details |  |

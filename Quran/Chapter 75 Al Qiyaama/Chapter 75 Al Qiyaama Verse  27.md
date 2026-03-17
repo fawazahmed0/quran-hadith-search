@@ -452,6 +452,18 @@ Wa Qīla Man Rāqin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقِيلَ مَنْ رَاقٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقيل من راق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقِیلَ مَنۡۜ رَاقࣲ
 
 | Details |  |

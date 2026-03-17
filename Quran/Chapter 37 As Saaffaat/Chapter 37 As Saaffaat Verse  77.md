@@ -452,6 +452,18 @@ Wa Ja'alnā Dhurrīyatahu Humu Al-Bāqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلْنَا ذُرِّيَّتَهُ هُمُ الْبَاقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلنا ذريته هم الباقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلۡنَا ذُرِّیَّتَهُۥ هُمُ ٱلۡبَاقِینَ
 
 | Details |  |

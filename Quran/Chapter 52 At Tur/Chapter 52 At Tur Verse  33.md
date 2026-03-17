@@ -452,6 +452,18 @@ Am Yaqūlūna Taqawwalahu Bal Lā Yu'uminūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ يَقُولُونَ تَقَوَّلَهُ بَلْ لَا يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام يقولون تقوله بل لا يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ یَقُولُونَ تَقَوَّلَهُۥۚ بَل لَّا یُؤۡمِنُونَ
 
 | Details |  |

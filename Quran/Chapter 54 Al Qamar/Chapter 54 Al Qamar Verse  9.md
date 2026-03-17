@@ -452,6 +452,18 @@ Kadhabat Qablahum Qawmu Nūĥin Fakadhabū 'Abdanā Wa Qālū Majnūnun Wa Azduj
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَكَذَّبُوا عَبْدَنَا وَقَالُوا مَجْنُونٌ وَازْدُجِرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذبت قبلهم قوم نوح فكذبوا عبدنا وقالوا مجنون وازدجر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحࣲ فَكَذَّبُوا۟ عَبۡدَنَا وَقَالُوا۟ مَجۡنُونࣱ وَٱزۡدُجِرَ
 
 | Details |  |

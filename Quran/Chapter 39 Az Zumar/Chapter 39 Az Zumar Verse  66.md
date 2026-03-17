@@ -452,6 +452,18 @@ Bali Allāha Fā'bud Wa Kun Mina Ash-Shākirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلِ اللَّهَ فَاعْبُدْ وَكُنْ مِنَ الشَّاكِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل الله فاعبد وكن من الشاكرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلِ ٱللَّهَ فَٱعۡبُدۡ وَكُن مِّنَ ٱلشَّـٰكِرِینَ
 
 | Details |  |

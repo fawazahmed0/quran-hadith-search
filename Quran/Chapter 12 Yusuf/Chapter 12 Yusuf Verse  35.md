@@ -452,6 +452,18 @@ Thumma Badā Lahum Min Ba'di Mā Ra'aw Al-'Āyāti Layasjununnahu Ĥattá Ĥīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ بَدَا لَهُمْ مِنْ بَعْدِ مَا رَأَوُا الْآيَاتِ لَيَسْجُنُنَّهُ حَتَّى حِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم بدا لهم من بعد ما راوا الايات ليسجننه حتى حين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ بَدَا لَهُم مِّنۢ بَعۡدِ مَا رَأَوُا۟ ٱلۡءَایَـٰتِ لَیَسۡجُنُنَّهُۥ حَتَّىٰ حِینࣲ
 
 | Details |  |

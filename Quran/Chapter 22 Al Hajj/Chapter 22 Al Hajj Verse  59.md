@@ -452,6 +452,18 @@ Layudkhilannahum Mudkhalāan Yarđawnahu Wa 'Inna Allāha La'alīmun Ĥalīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَيُدْخِلَنَّهُمْ مُدْخَلًا يَرْضَوْنَهُ وَإِنَّ اللَّهَ لَعَلِيمٌ حَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ليدخلنهم مدخلا يرضونه وان الله لعليم حليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَیُدۡخِلَنَّهُم مُّدۡخَلࣰا یَرۡضَوۡنَهُۥۚ وَإِنَّ ٱللَّهَ لَعَلِیمٌ حَلِیمࣱ
 
 | Details |  |

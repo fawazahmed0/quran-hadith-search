@@ -452,6 +452,18 @@ Innamā Ya'murukum Bis-Sū'i Wa Al-Faĥshā'i Wa 'An Taqūlū 'Alá Allāhi Mā 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّمَا يَأْمُرُكُمْ بِالسُّوءِ وَالْفَحْشَاءِ وَأَنْ تَقُولُوا عَلَى اللَّهِ مَا لَا تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انما يامركم بالسوء والفحشاء وان تقولوا على الله ما لا تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّمَا یَأۡمُرُكُم بِٱلسُّوۤءِ وَٱلۡفَحۡشَاۤءِ وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ
 
 | Details |  |

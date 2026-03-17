@@ -452,6 +452,18 @@ Allā Ta'budū 'Illā Allāha 'Innanī Lakum Minhu Nadhīrun Wa Bashīrun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَّا تَعْبُدُوا إِلَّا اللَّهَ إِنَّنِي لَكُمْ مِنْهُ نَذِيرٌ وَبَشِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا تعبدوا الا الله انني لكم منه نذير وبشير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَّا تَعۡبُدُوۤا۟ إِلَّا ٱللَّهَۚ إِنَّنِی لَكُم مِّنۡهُ نَذِیرࣱ وَبَشِیرࣱ
 
 | Details |  |

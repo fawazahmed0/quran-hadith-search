@@ -452,6 +452,18 @@ Huwa Yuĥyī Wa Yumītu Wa 'Ilayhi Turja'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُوَ يُحْيِي وَيُمِيتُ وَإِلَيْهِ تُرْجَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هو يحيي ويميت واليه ترجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُوَ یُحۡیِۦ وَیُمِیتُ وَإِلَیۡهِ تُرۡجَعُونَ
 
 | Details |  |

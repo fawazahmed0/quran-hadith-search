@@ -452,6 +452,18 @@ Fa'innahum Yawma'idhin Fī Al-'Adhābi Mushtarikūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنَّهُمْ يَوْمَئِذٍ فِي الْعَذَابِ مُشْتَرِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانهم يوميذ في العذاب مشتركون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِنَّهُمۡ یَوۡمَئِذࣲ فِی ٱلۡعَذَابِ مُشۡتَرِكُونَ
 
 | Details |  |

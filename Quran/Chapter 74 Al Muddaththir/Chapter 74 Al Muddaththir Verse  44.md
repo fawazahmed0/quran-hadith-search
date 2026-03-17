@@ -452,6 +452,18 @@ Wa Lam Naku Nuţ'imu Al-Miskīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَمْ نَكُ نُطْعِمُ الْمِسْكِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولم نك نطعم المسكين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَمۡ نَكُ نُطۡعِمُ ٱلۡمِسۡكِینَ
 
 | Details |  |

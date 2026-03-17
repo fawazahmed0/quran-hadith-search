@@ -452,6 +452,18 @@ Wa Mimman Khalaqnā 'Ummatun Yahdūna Bil-Ĥaqqi Wa Bihi Ya'dilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِمَّنْ خَلَقْنَا أُمَّةٌ يَهْدُونَ بِالْحَقِّ وَبِهِ يَعْدِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وممن خلقنا امة يهدون بالحق وبه يعدلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِمَّنۡ خَلَقۡنَاۤ أُمَّةࣱ یَهۡدُونَ بِٱلۡحَقِّ وَبِهِۦ یَعۡدِلُونَ
 
 | Details |  |

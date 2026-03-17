@@ -452,6 +452,18 @@ Wa 'In Yakun Lahumu Al-Ĥaqqu Ya'tū 'Ilayhi Mudh'inīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ يَكُنْ لَهُمُ الْحَقُّ يَأْتُوا إِلَيْهِ مُذْعِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان يكن لهم الحق ياتوا اليه مذعنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن یَكُن لَّهُمُ ٱلۡحَقُّ یَأۡتُوۤا۟ إِلَیۡهِ مُذۡعِنِینَ
 
 | Details |  |

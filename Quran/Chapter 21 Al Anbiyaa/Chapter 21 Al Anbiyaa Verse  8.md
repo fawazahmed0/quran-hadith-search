@@ -452,6 +452,18 @@ Wa Mā Ja'alnāhum Jasadāan Lā Ya'kulūna Aţ-Ţa'āma Wa Mā Kānū Khālidī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا جَعَلْنَاهُمْ جَسَدًا لَا يَأْكُلُونَ الطَّعَامَ وَمَا كَانُوا خَالِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما جعلناهم جسدا لا ياكلون الطعام وما كانوا خالدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا جَعَلۡنَـٰهُمۡ جَسَدࣰا لَّا یَأۡكُلُونَ ٱلطَّعَامَ وَمَا كَانُوا۟ خَـٰلِدِینَ
 
 | Details |  |

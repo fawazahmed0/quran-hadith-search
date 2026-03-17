@@ -452,6 +452,18 @@ Idh 'Uriđa 'Alayhi Bil-'Ashīyi Aş-Şāfinātu Al-Jiyādu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ عُرِضَ عَلَيْهِ بِالْعَشِيِّ الصَّافِنَاتُ الْجِيَادُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ عرض عليه بالعشي الصافنات الجياد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ عُرِضَ عَلَیۡهِ بِٱلۡعَشِیِّ ٱلصَّـٰفِنَـٰتُ ٱلۡجِیَادُ
 
 | Details |  |

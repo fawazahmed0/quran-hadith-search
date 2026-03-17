@@ -452,6 +452,18 @@ Allāhu Yastahzi'u Bihim Wa Yamudduhum Fī Ţughyānihim Ya'mahūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الله يستهزي بهم ويمدهم في طغيانهم يعمهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱللَّهُ یَسۡتَهۡزِئُ بِهِمۡ وَیَمُدُّهُمۡ فِی طُغۡیَـٰنِهِمۡ یَعۡمَهُونَ
 
 | Details |  |

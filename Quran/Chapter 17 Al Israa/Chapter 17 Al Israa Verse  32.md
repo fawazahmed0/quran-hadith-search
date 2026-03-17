@@ -452,6 +452,18 @@ Wa Lā Taqrabū Az-Ziná 'Innahu Kāna Fāĥishatan Wa Sā'a Sabīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تَقْرَبُوا الزِّنَا إِنَّهُ كَانَ فَاحِشَةً وَسَاءَ سَبِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تقربوا الزنا انه كان فاحشة وساء سبيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تَقۡرَبُوا۟ ٱلزِّنَىٰۤۖ إِنَّهُۥ كَانَ فَـٰحِشَةࣰ وَسَاۤءَ سَبِیلࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Faqadarnā Fani'ma Al-Qādirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقَدَرْنَا فَنِعْمَ الْقَادِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقدرنا فنعم القادرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقَدَرۡنَا فَنِعۡمَ ٱلۡقَـٰدِرُونَ
 
 | Details |  |

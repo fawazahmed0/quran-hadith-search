@@ -452,6 +452,18 @@ Waylun Likulli 'Affākin 'Athīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيْلٌ لِكُلِّ أَفَّاكٍ أَثِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويل لكل افاك اثيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیۡلࣱ لِّكُلِّ أَفَّاكٍ أَثِیمࣲ
 
 | Details |  |

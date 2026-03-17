@@ -452,6 +452,18 @@ Wa As-Sābiqūna As-Sābiqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالسَّابِقُونَ السَّابِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والسابقون السابقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ
 
 | Details |  |

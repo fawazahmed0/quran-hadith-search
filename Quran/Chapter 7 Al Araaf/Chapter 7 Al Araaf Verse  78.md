@@ -452,6 +452,18 @@ Fa'akhadhat/humu Ar-Rajfatu Fa'aşbaĥū Fī Dārihim Jāthimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَخَذَتْهُمُ الرَّجْفَةُ فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاخذتهم الرجفة فاصبحوا في دارهم جاثمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَخَذَتۡهُمُ ٱلرَّجۡفَةُ فَأَصۡبَحُوا۟ فِی دَارِهِمۡ جَـٰثِمِینَ
 
 | Details |  |

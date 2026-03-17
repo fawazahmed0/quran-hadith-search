@@ -452,6 +452,18 @@ Ruddūhā 'Alayya Faţafiqa Masĥāan Bis-Sūqi Wa Al-'A'nāqi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رُدُّوهَا عَلَيَّ فَطَفِقَ مَسْحًا بِالسُّوقِ وَالْأَعْنَاقِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ردوها علي فطفق مسحا بالسوق والاعناق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رُدُّوهَا عَلَیَّۖ فَطَفِقَ مَسۡحَۢا بِٱلسُّوقِ وَٱلۡأَعۡنَاقِ
 
 | Details |  |

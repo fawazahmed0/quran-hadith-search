@@ -452,6 +452,18 @@ Kallā Wa Al-Qamari
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا وَالْقَمَرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا والقمر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّا وَٱلۡقَمَرِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Kirāmin Bararahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كِرَامٍ بَرَرَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كرام بررة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كِرَامِۭ بَرَرَةࣲ
 
 | Details |  |

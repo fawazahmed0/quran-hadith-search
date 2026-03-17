@@ -452,6 +452,18 @@ Wa Mā Kāna Allāhu Liyu'adhibahum Wa 'Anta Fīhim Wa Mā Kāna Allāhu Mu'adhi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا كَانَ اللَّهُ لِيُعَذِّبَهُمْ وَأَنْتَ فِيهِمْ وَمَا كَانَ اللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما كان الله ليعذبهم وانت فيهم وما كان الله معذبهم وهم يستغفرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا كَانَ ٱللَّهُ لِیُعَذِّبَهُمۡ وَأَنتَ فِیهِمۡۚ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمۡ وَهُمۡ یَسۡتَغۡفِرُونَ
 
 | Details |  |

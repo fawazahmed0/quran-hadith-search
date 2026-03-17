@@ -452,6 +452,18 @@ Wa Lā Yakhāfu 'Uqbāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا يَخَافُ عُقْبَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا يخاف عقباها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا یَخَافُ عُقۡبَـٰهَا
 
 | Details |  |

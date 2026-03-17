@@ -452,6 +452,18 @@ Wa 'Innā Lanaĥnu Nuĥyī Wa Numītu Wa Naĥnu Al-Wārithūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّا لَنَحْنُ نُحْيِي وَنُمِيتُ وَنَحْنُ الْوَارِثُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانا لنحن نحيي ونميت ونحن الوارثون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّا لَنَحۡنُ نُحۡیِۦ وَنُمِیتُ وَنَحۡنُ ٱلۡوَ ٰرِثُونَ
 
 | Details |  |

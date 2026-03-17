@@ -452,6 +452,18 @@ Inna Hādhā Lahuwa Ĥaqqu Al-Yaqīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ هَذَا لَهُوَ حَقُّ الْيَقِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هذا لهو حق اليقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ هَـٰذَا لَهُوَ حَقُّ ٱلۡیَقِینِ
 
 | Details |  |

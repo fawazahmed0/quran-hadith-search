@@ -452,6 +452,18 @@ Fāljāriyāti Yusrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَالْجَارِيَاتِ يُسْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالجاريات يسرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱلۡجَـٰرِیَـٰتِ یُسۡرࣰا
 
 | Details |  |

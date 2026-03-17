@@ -452,6 +452,18 @@ Falammā Jā'ahum Bi'āyātinā 'Idhā Hum Minhā Yađĥakūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا جَاءَهُمْ بِآيَاتِنَا إِذَا هُمْ مِنْهَا يَضْحَكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما جاءهم باياتنا اذا هم منها يضحكون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّا جَاۤءَهُم بِءَایَـٰتِنَاۤ إِذَا هُم مِّنۡهَا یَضۡحَكُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Naza'a Yadahu Fa'idhā Hiya Bayđā'u Lilnnāžirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَزَعَ يَدَهُ فَإِذَا هِيَ بَيْضَاءُ لِلنَّاظِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونزع يده فاذا هي بيضاء للناظرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَزَعَ یَدَهُۥ فَإِذَا هِیَ بَیۡضَاۤءُ لِلنَّـٰظِرِینَ
 
 | Details |  |

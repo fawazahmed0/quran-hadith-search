@@ -452,6 +452,18 @@ Wa Laqad Khalaqnā Fawqakum Sab'a Ţarā'iqa Wa Mā Kunnā 'Ani Al-Khalqi Ghāfi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ خَلَقْنَا فَوْقَكُمْ سَبْعَ طَرَائِقَ وَمَا كُنَّا عَنِ الْخَلْقِ غَافِلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد خلقنا فوقكم سبع طرايق وما كنا عن الخلق غافلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ خَلَقۡنَا فَوۡقَكُمۡ سَبۡعَ طَرَاۤئِقَ وَمَا كُنَّا عَنِ ٱلۡخَلۡقِ غَـٰفِلِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Qāla 'Innī Dhāhibun 'Ilá Rabbī Sayahdīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ إِنِّي ذَاهِبٌ إِلَى رَبِّي سَيَهْدِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال اني ذاهب الى ربي سيهدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ إِنِّی ذَاهِبٌ إِلَىٰ رَبِّی سَیَهۡدِینِ
 
 | Details |  |

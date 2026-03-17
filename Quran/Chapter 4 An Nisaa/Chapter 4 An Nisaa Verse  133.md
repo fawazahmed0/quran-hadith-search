@@ -452,6 +452,18 @@ In Yasha' Yudh/hibkum 'Ayyuhā An-Nāsu Wa Ya'ti Bi'ākharīna Wa Kāna Allāhu 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ يَشَأْ يُذْهِبْكُمْ أَيُّهَا النَّاسُ وَيَأْتِ بِآخَرِينَ وَكَانَ اللَّهُ عَلَى ذَلِكَ قَدِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان يشا يذهبكم ايها الناس ويات باخرين وكان الله على ذلك قديرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِن یَشَأۡ یُذۡهِبۡكُمۡ أَیُّهَا ٱلنَّاسُ وَیَأۡتِ بِءَاخَرِینَۚ وَكَانَ ٱللَّهُ عَلَىٰ ذَ ٰلِكَ قَدِیرࣰا
 
 | Details |  |

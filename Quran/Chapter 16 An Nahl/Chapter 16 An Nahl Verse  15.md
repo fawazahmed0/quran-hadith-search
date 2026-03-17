@@ -452,6 +452,18 @@ Wa 'Alqá Fī Al-'Arđi Rawāsiya 'An Tamīda Bikum Wa 'Anhārāan Wa Subulāan 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَلْقَى فِي الْأَرْضِ رَوَاسِيَ أَنْ تَمِيدَ بِكُمْ وَأَنْهَارًا وَسُبُلًا لَعَلَّكُمْ تَهْتَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والقى في الارض رواسي ان تميد بكم وانهارا وسبلا لعلكم تهتدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَلۡقَىٰ فِی ٱلۡأَرۡضِ رَوَ ٰسِیَ أَن تَمِیدَ بِكُمۡ وَأَنۡهَـٰرࣰا وَسُبُلࣰا لَّعَلَّكُمۡ تَهۡتَدُونَ
 
 | Details |  |

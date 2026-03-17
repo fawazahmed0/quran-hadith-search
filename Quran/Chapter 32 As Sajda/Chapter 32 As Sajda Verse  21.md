@@ -452,6 +452,18 @@ Wa Lanudhīqannahum Mina Al-'Adhābi Al-'Adná Dūna Al-'Adhābi Al-'Akbari La'a
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَنُذِيقَنَّهُمْ مِنَ الْعَذَابِ الْأَدْنَى دُونَ الْعَذَابِ الْأَكْبَرِ لَعَلَّهُمْ يَرْجِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولنذيقنهم من العذاب الادنى دون العذاب الاكبر لعلهم يرجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَنُذِیقَنَّهُم مِّنَ ٱلۡعَذَابِ ٱلۡأَدۡنَىٰ دُونَ ٱلۡعَذَابِ ٱلۡأَكۡبَرِ لَعَلَّهُمۡ یَرۡجِعُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Ani A'mal Sābighātin Wa Qaddir Fī As-Sardi Wa A'malū Şāliĥāan 'Innī Bim
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَنِ اعْمَلْ سَابِغَاتٍ وَقَدِّرْ فِي السَّرْدِ وَاعْمَلُوا صَالِحًا إِنِّي بِمَا تَعْمَلُونَ بَصِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان اعمل سابغات وقدر في السرد واعملوا صالحا اني بما تعملون بصير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَنِ ٱعۡمَلۡ سَـٰبِغَـٰتࣲ وَقَدِّرۡ فِی ٱلسَّرۡدِۖ وَٱعۡمَلُوا۟ صَـٰلِحًاۖ إِنِّی بِمَا تَعۡمَلُونَ بَصِیرࣱ
 
 | Details |  |

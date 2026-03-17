@@ -452,6 +452,18 @@ Wa Astaftaĥū Wa Khāba Kullu Jabbārin 'Anīdin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاسْتَفْتَحُوا وَخَابَ كُلُّ جَبَّارٍ عَنِيدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واستفتحوا وخاب كل جبار عنيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱسۡتَفۡتَحُوا۟ وَخَابَ كُلُّ جَبَّارٍ عَنِیدࣲ
 
 | Details |  |

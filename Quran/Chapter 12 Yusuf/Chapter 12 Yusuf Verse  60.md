@@ -452,6 +452,18 @@ Fa'in Lam Ta'tūnī Bihi Falā Kayla Lakum 'Indī Wa Lā Taqrabūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنْ لَمْ تَأْتُونِي بِهِ فَلَا كَيْلَ لَكُمْ عِنْدِي وَلَا تَقْرَبُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فان لم تاتوني به فلا كيل لكم عندي ولا تقربون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِن لَّمۡ تَأۡتُونِی بِهِۦ فَلَا كَیۡلَ لَكُمۡ عِندِی وَلَا تَقۡرَبُونِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Al-Ladhī Khalaqa Fasawwá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي خَلَقَ فَسَوَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي خلق فسوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِی خَلَقَ فَسَوَّىٰ
 
 | Details |  |

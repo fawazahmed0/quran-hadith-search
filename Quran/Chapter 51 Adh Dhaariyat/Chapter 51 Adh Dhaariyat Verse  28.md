@@ -452,6 +452,18 @@ Fa'awjasa Minhum Khīfatan Qālū Lā Takhaf Wa Basharūhu Bighulāmin 'Alīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا لَا تَخَفْ وَبَشَّرُوهُ بِغُلَامٍ عَلِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاوجس منهم خيفة قالوا لا تخف وبشروه بغلام عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَوۡجَسَ مِنۡهُمۡ خِیفَةࣰۖ قَالُوا۟ لَا تَخَفۡۖ وَبَشَّرُوهُ بِغُلَـٰمٍ عَلِیمࣲ
 
 | Details |  |

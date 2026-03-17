@@ -452,6 +452,18 @@ Yā 'Ayyuhā An-Nāsu 'Antumu Al-Fuqarā'u 'Ilá Allāhi Wa Allāhu Huwa Al-Ghan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيُّهَا النَّاسُ أَنْتُمُ الْفُقَرَاءُ إِلَى اللَّهِ وَاللَّهُ هُوَ الْغَنِيُّ الْحَمِيدُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايها الناس انتم الفقراء الى الله والله هو الغني الحميد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ یَـٰۤأَیُّهَا ٱلنَّاسُ أَنتُمُ ٱلۡفُقَرَاۤءُ إِلَى ٱللَّهِۖ وَٱللَّهُ هُوَ ٱلۡغَنِیُّ ٱلۡحَمِیدُ
 
 | Details |  |

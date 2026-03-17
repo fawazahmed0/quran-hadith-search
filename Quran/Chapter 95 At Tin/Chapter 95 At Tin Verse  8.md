@@ -452,6 +452,18 @@ Alaysa Allāhu Bi'aĥkami Al-Ĥākimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اليس الله باحكم الحاكمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَیۡسَ ٱللَّهُ بِأَحۡكَمِ ٱلۡحَـٰكِمِینَ
 
 | Details |  |

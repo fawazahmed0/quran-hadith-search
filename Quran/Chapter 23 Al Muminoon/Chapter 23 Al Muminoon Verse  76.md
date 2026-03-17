@@ -452,6 +452,18 @@ Wa Laqad 'Akhadhnāhum Bil-'Adhābi Famā Astakānū Lirabbihim Wa Mā Yatađarr
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ أَخَذْنَاهُمْ بِالْعَذَابِ فَمَا اسْتَكَانُوا لِرَبِّهِمْ وَمَا يَتَضَرَّعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد اخذناهم بالعذاب فما استكانوا لربهم وما يتضرعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ أَخَذۡنَـٰهُم بِٱلۡعَذَابِ فَمَا ٱسۡتَكَانُوا۟ لِرَبِّهِمۡ وَمَا یَتَضَرَّعُونَ
 
 | Details |  |

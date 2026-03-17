@@ -452,6 +452,18 @@ Wa Qadimnā 'Ilá Mā 'Amilū Min 'Amalin Faja'alnāhu Habā'an Manthūrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَدِمْنَا إِلَى مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَنْثُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقدمنا الى ما عملوا من عمل فجعلناه هباء منثورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَدِمۡنَاۤ إِلَىٰ مَا عَمِلُوا۟ مِنۡ عَمَلࣲ فَجَعَلۡنَـٰهُ هَبَاۤءࣰ مَّنثُورًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Fa'andhartukum Nārāan Talažžá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَنْذَرْتُكُمْ نَارًا تَلَظَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانذرتكم نارا تلظى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَنذَرۡتُكُمۡ نَارࣰا تَلَظَّىٰ
 
 | Details |  |

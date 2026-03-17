@@ -452,6 +452,18 @@ Thumma Qabađnāhu 'Ilaynā Qabđāan Yasīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ قَبَضْنَاهُ إِلَيْنَا قَبْضًا يَسِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم قبضناه الينا قبضا يسيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ قَبَضۡنَـٰهُ إِلَیۡنَا قَبۡضࣰا یَسِیرࣰا
 
 | Details |  |

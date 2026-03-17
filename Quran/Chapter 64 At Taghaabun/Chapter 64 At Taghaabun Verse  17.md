@@ -452,6 +452,18 @@ In Tuqriđū Allāha Qarđāan Ĥasanāan Yuđā'ifhu Lakum Wa Yaghfir Lakum Wa 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ تُقْرِضُوا اللَّهَ قَرْضًا حَسَنًا يُضَاعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْ وَاللَّهُ شَكُورٌ حَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان تقرضوا الله قرضا حسنا يضاعفه لكم ويغفر لكم والله شكور حليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِن تُقۡرِضُوا۟ ٱللَّهَ قَرۡضًا حَسَنࣰا یُضَـٰعِفۡهُ لَكُمۡ وَیَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ شَكُورٌ حَلِیمٌ
 
 | Details |  |

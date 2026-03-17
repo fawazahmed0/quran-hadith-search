@@ -452,6 +452,18 @@ Khālidīna Fīhā Lā Yukhaffafu 'Anhumu Al-'Adhābu Wa Lā Hum Yunžarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنْظَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خالدين فيها لا يخفف عنهم العذاب ولا هم ينظرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خَـٰلِدِینَ فِیهَا لَا یُخَفَّفُ عَنۡهُمُ ٱلۡعَذَابُ وَلَا هُمۡ یُنظَرُونَ
 
 | Details |  |

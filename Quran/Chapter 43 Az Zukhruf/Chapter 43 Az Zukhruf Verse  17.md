@@ -452,6 +452,18 @@ Wa 'Idhā Bushira 'Aĥaduhum Bimā Đaraba Lilrraĥmani Mathalāan Žalla Wajhuh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا بُشِّرَ أَحَدُهُمْ بِمَا ضَرَبَ لِلرَّحْمَنِ مَثَلًا ظَلَّ وَجْهُهُ مُسْوَدًّا وَهُوَ كَظِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا بشر احدهم بما ضرب للرحمن مثلا ظل وجهه مسودا وهو كظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا بُشِّرَ أَحَدُهُم بِمَا ضَرَبَ لِلرَّحۡمَـٰنِ مَثَلࣰا ظَلَّ وَجۡهُهُۥ مُسۡوَدࣰّا وَهُوَ كَظِیمٌ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Mā 'Arsalnāka 'Illā Raĥmatan Lil'ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِلْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ارسلناك الا رحمة للعالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَرۡسَلۡنَـٰكَ إِلَّا رَحۡمَةࣰ لِّلۡعَـٰلَمِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Afatumārūnahu 'Alá Mā Yará
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَتُمَارُونَهُ عَلَى مَا يَرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افتمارونه على ما يرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَتُمَـٰرُونَهُۥ عَلَىٰ مَا یَرَىٰ
 
 | Details |  |

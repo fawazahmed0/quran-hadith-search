@@ -452,6 +452,18 @@ Qālū 'Awalam Nanhaka 'Ani Al-'Ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا أَوَلَمْ نَنْهَكَ عَنِ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا اولم ننهك عن العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوۤا۟ أَوَ لَمۡ نَنۡهَكَ عَنِ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

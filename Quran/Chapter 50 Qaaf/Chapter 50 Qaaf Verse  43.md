@@ -452,6 +452,18 @@ Innā Naĥnu Nuĥyī Wa Numītu Wa 'Ilaynā Al-Maşīru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا نَحْنُ نُحْيِي وَنُمِيتُ وَإِلَيْنَا الْمَصِيرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا نحن نحيي ونميت والينا المصير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا نَحۡنُ نُحۡیِۦ وَنُمِیتُ وَإِلَیۡنَا ٱلۡمَصِیرُ
 
 | Details |  |

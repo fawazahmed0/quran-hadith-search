@@ -452,6 +452,18 @@ Innī Wa Jadttu Amra'atan Tamlikuhum Wa 'Ūtiyat Min Kulli Shay'in Wa Lahā 'Ars
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنِّي وَجَدْتُ امْرَأَةً تَمْلِكُهُمْ وَأُوتِيَتْ مِنْ كُلِّ شَيْءٍ وَلَهَا عَرْشٌ عَظِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اني وجدت امراة تملكهم واوتيت من كل شيء ولها عرش عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنِّی وَجَدتُّ ٱمۡرَأَةࣰ تَمۡلِكُهُمۡ وَأُوتِیَتۡ مِن كُلِّ شَیۡءࣲ وَلَهَا عَرۡشٌ عَظِیمࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Azlafnā Thamma Al-'Ākharīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَزْلَفْنَا ثَمَّ الْآخَرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وازلفنا ثم الاخرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَزۡلَفۡنَا ثَمَّ ٱلۡءَاخَرِینَ
 
 | Details |  |

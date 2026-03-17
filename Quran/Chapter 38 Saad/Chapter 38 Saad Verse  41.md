@@ -452,6 +452,18 @@ Wa Adhkur 'Abdanā 'Ayyūba 'Idh Nādá Rabbahu 'Annī Massanī Ash-Shayţānu B
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاذْكُرْ عَبْدَنَا أَيُّوبَ إِذْ نَادَى رَبَّهُ أَنِّي مَسَّنِيَ الشَّيْطَانُ بِنُصْبٍ وَعَذَابٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذكر عبدنا ايوب اذ نادى ربه اني مسني الشيطان بنصب وعذاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱذۡكُرۡ عَبۡدَنَاۤ أَیُّوبَ إِذۡ نَادَىٰ رَبَّهُۥۤ أَنِّی مَسَّنِیَ ٱلشَّیۡطَـٰنُ بِنُصۡبࣲ وَعَذَابٍ
 
 | Details |  |

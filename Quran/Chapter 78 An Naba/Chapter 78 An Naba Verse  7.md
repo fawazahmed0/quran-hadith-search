@@ -452,6 +452,18 @@ Wa Al-Jibāla 'Awtādāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْجِبَالَ أَوْتَادًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والجبال اوتادا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡجِبَالَ أَوۡتَادࣰا
 
 | Details |  |

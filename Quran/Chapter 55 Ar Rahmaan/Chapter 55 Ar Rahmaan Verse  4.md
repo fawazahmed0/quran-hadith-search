@@ -452,6 +452,18 @@ Allamahu Al-Bayāna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَلَّمَهُ الْبَيَانَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+علمه البيان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَلَّمَهُ ٱلۡبَیَانَ
 
 | Details |  |

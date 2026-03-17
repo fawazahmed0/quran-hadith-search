@@ -452,6 +452,18 @@ Ayaĥsabu 'An Lam Yarahu 'Aĥadun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَيَحْسَبُ أَنْ لَمْ يَرَهُ أَحَدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ايحسب ان لم يره احد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَیَحۡسَبُ أَن لَّمۡ یَرَهُۥۤ أَحَدٌ
 
 | Details |  |

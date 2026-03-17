@@ -452,6 +452,18 @@ Dhalikumu Allāhu Rabbukum Khāliqu Kulli Shay'in Lā 'Ilāha 'Illā Huwa Fa'ann
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكُمُ اللَّهُ رَبُّكُمْ خَالِقُ كُلِّ شَيْءٍ لَا إِلَهَ إِلَّا هُوَ فَأَنَّى تُؤْفَكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلكم الله ربكم خالق كل شيء لا اله الا هو فانى توفكون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكُمُ ٱللَّهُ رَبُّكُمۡ خَـٰلِقُ كُلِّ شَیۡءࣲ لَّاۤ إِلَـٰهَ إِلَّا هُوَۖ فَأَنَّىٰ تُؤۡفَكُونَ
 
 | Details |  |

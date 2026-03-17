@@ -452,6 +452,18 @@ Yā Şāĥibayi As-Sijni 'A'arbābun Mutafarriqūna Khayrun 'Ami Allāhu Al-Wā�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا صَاحِبَيِ السِّجْنِ أَأَرْبَابٌ مُتَفَرِّقُونَ خَيْرٌ أَمِ اللَّهُ الْوَاحِدُ الْقَهَّارُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا صاحبي السجن اارباب متفرقون خير ام الله الواحد القهار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰصَـٰحِبَیِ ٱلسِّجۡنِ ءَأَرۡبَابࣱ مُّتَفَرِّقُونَ خَیۡرٌ أَمِ ٱللَّهُ ٱلۡوَ ٰحِدُ ٱلۡقَهَّارُ
 
 | Details |  |

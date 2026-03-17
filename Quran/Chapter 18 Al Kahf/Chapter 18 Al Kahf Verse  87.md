@@ -452,6 +452,18 @@ Qāla 'Ammā Man Žalama Fasawfa Nu'adhibuhu Thumma Yuraddu 'Ilá Rabbihi Fayu'a
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ أَمَّا مَنْ ظَلَمَ فَسَوْفَ نُعَذِّبُهُ ثُمَّ يُرَدُّ إِلَى رَبِّهِ فَيُعَذِّبُهُ عَذَابًا نُكْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال اما من ظلم فسوف نعذبه ثم يرد الى ربه فيعذبه عذابا نكرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ أَمَّا مَن ظَلَمَ فَسَوۡفَ نُعَذِّبُهُۥ ثُمَّ یُرَدُّ إِلَىٰ رَبِّهِۦ فَیُعَذِّبُهُۥ عَذَابࣰا نُّكۡرࣰا
 
 | Details |  |

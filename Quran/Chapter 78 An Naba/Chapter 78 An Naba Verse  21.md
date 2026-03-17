@@ -452,6 +452,18 @@ Inna Jahannama Kānat Mirşādāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان جهنم كانت مرصادا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ جَهَنَّمَ كَانَتۡ مِرۡصَادࣰا
 
 | Details |  |

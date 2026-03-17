@@ -452,6 +452,18 @@ Qul Fa'tū Bikitābin Min 'Indi Allāhi Huwa 'Ahdá Minhumā 'Attabi'hu 'In Kunt
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ فَأْتُوا بِكِتَابٍ مِنْ عِنْدِ اللَّهِ هُوَ أَهْدَى مِنْهُمَا أَتَّبِعْهُ إِنْ كُنْتُمْ صَادِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل فاتوا بكتاب من عند الله هو اهدى منهما اتبعه ان كنتم صادقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ فَأۡتُوا۟ بِكِتَـٰبࣲ مِّنۡ عِندِ ٱللَّهِ هُوَ أَهۡدَىٰ مِنۡهُمَاۤ أَتَّبِعۡهُ إِن كُنتُمۡ صَـٰدِقِینَ
 
 | Details |  |

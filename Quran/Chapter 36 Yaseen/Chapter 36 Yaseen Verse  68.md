@@ -452,6 +452,18 @@ Wa Man Nu'ammirhu Nunakkis/hu Fī Al-Khalqi 'Afalā Ya'qilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ نُعَمِّرْهُ نُنَكِّسْهُ فِي الْخَلْقِ أَفَلَا يَعْقِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن نعمره ننكسه في الخلق افلا يعقلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن نُّعَمِّرۡهُ نُنَكِّسۡهُ فِی ٱلۡخَلۡقِۚ أَفَلَا یَعۡقِلُونَ
 
 | Details |  |

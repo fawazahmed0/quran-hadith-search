@@ -452,6 +452,18 @@ Fashāribūna 'Alayhi Mina Al-Ĥamīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَشَارِبُونَ عَلَيْهِ مِنَ الْحَمِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فشاربون عليه من الحميم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَشَـٰرِبُونَ عَلَیۡهِ مِنَ ٱلۡحَمِیمِ
 
 | Details |  |

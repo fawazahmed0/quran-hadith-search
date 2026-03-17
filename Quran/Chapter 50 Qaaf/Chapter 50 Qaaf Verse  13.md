@@ -452,6 +452,18 @@ Wa 'Ādun Wa Fir'awnu Wa 'Ikhwānu Lūţin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَعَادٌ وَفِرْعَوْنُ وَإِخْوَانُ لُوطٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وعاد وفرعون واخوان لوط
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَعَادࣱ وَفِرۡعَوۡنُ وَإِخۡوَ ٰنُ لُوطࣲ
 
 | Details |  |

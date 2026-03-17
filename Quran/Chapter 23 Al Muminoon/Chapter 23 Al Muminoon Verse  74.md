@@ -452,6 +452,18 @@ Wa 'Inna Al-Ladhīna Lā Yu'uminūna Bil-'Ākhirati 'Ani Aş-Şirāţi Lanākib�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ عَنِ الصِّرَاطِ لَنَاكِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان الذين لا يومنون بالاخرة عن الصراط لناكبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ ٱلَّذِینَ لَا یُؤۡمِنُونَ بِٱلۡءَاخِرَةِ عَنِ ٱلصِّرَ ٰطِ لَنَـٰكِبُونَ
 
 | Details |  |

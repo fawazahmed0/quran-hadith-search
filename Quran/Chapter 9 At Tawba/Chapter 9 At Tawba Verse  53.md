@@ -452,6 +452,18 @@ Qul 'Anfiqū Ţaw'āan 'Aw Karhāan Lan Yutaqabbala Minkum 'Innakum Kuntum Qawm�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ أَنْفِقُوا طَوْعًا أَوْ كَرْهًا لَنْ يُتَقَبَّلَ مِنْكُمْ إِنَّكُمْ كُنْتُمْ قَوْمًا فَاسِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل انفقوا طوعا او كرها لن يتقبل منكم انكم كنتم قوما فاسقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ أَنفِقُوا۟ طَوۡعًا أَوۡ كَرۡهࣰا لَّن یُتَقَبَّلَ مِنكُمۡ إِنَّكُمۡ كُنتُمۡ قَوۡمࣰا فَـٰسِقِینَ
 
 | Details |  |

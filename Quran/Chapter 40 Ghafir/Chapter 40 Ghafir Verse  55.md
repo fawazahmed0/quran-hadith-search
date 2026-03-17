@@ -452,6 +452,18 @@ Fāşbir 'Inna Wa'da Allāhi Ĥaqqun Wa Astaghfir Lidhanbika Wa Sabbiĥ Biĥamdi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَاسْتَغْفِرْ لِذَنْبِكَ وَسَبِّحْ بِحَمْدِ رَبِّكَ بِالْعَشِيِّ وَالْإِبْكَارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاصبر ان وعد الله حق واستغفر لذنبك وسبح بحمد ربك بالعشي والابكار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱصۡبِرۡ إِنَّ وَعۡدَ ٱللَّهِ حَقࣱّ وَٱسۡتَغۡفِرۡ لِذَنۢبِكَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ بِٱلۡعَشِیِّ وَٱلۡإِبۡكَـٰرِ
 
 | Details |  |

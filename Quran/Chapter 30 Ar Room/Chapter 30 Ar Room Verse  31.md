@@ -452,6 +452,18 @@ Munībīna 'Ilayhi Wa Attaqūhu Wa 'Aqīmū Aş-Şalāata Wa Lā Takūnū Mina A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مُنِيبِينَ إِلَيْهِ وَاتَّقُوهُ وَأَقِيمُوا الصَّلَاةَ وَلَا تَكُونُوا مِنَ الْمُشْرِكِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+منيبين اليه واتقوه واقيموا الصلاة ولا تكونوا من المشركين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ مُنِیبِینَ إِلَیۡهِ وَٱتَّقُوهُ وَأَقِیمُوا۟ ٱلصَّلَوٰةَ وَلَا تَكُونُوا۟ مِنَ ٱلۡمُشۡرِكِینَ
 
 | Details |  |

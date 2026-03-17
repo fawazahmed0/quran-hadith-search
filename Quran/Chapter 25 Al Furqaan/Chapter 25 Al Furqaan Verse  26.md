@@ -452,6 +452,18 @@ Al-Mulku Yawma'idhin Al-Ĥaqqu Lilrraĥmani Wa Kāna Yawmāan 'Alá Al-Kāfirīn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الْمُلْكُ يَوْمَئِذٍ الْحَقُّ لِلرَّحْمَنِ وَكَانَ يَوْمًا عَلَى الْكَافِرِينَ عَسِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الملك يوميذ الحق للرحمن وكان يوما على الكافرين عسيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلۡمُلۡكُ یَوۡمَئِذٍ ٱلۡحَقُّ لِلرَّحۡمَـٰنِۚ وَكَانَ یَوۡمًا عَلَى ٱلۡكَـٰفِرِینَ عَسِیرࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Dhī Qūwatin 'Inda Dhī Al-'Arshi Makīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذي قوة عند ذي العرش مكين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذِی قُوَّةٍ عِندَ ذِی ٱلۡعَرۡشِ مَكِینࣲ
 
 | Details |  |

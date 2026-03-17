@@ -452,6 +452,18 @@ Wa 'Akhadha Al-Ladhīna Žalamū Aş-Şayĥatu Fa'aşbaĥū Fī Diyārihim Jāth
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واخذ الذين ظلموا الصيحة فاصبحوا في ديارهم جاثمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَخَذَ ٱلَّذِینَ ظَلَمُوا۟ ٱلصَّیۡحَةُ فَأَصۡبَحُوا۟ فِی دِیَـٰرِهِمۡ جَـٰثِمِینَ
 
 | Details |  |

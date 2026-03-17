@@ -452,6 +452,18 @@ Ula'ika Lahum Nasibun Mimma Kasabu Wa Allahu Sari'u Al-Hisabi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ لَهُمْ نَصِيبٌ مِمَّا كَسَبُوا وَاللَّهُ سَرِيعُ الْحِسَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك لهم نصيب مما كسبوا والله سريع الحساب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ لَهُمۡ نَصِیبࣱ مِّمَّا كَسَبُوا۟ۚ وَٱللَّهُ سَرِیعُ ٱلۡحِسَابِ
 
 | Details |  |

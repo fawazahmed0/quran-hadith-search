@@ -452,6 +452,18 @@ Ilahi An-Nāsi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَهِ النَّاسِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اله الناس
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَـٰهِ ٱلنَّاسِ
 
 | Details |  |

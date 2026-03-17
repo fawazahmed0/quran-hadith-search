@@ -452,6 +452,18 @@ Wa Şaddaqa Bil-Ĥusná
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَصَدَّقَ بِالْحُسْنَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وصدق بالحسنى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَصَدَّقَ بِٱلۡحُسۡنَىٰ
 
 | Details |  |

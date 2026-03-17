@@ -452,6 +452,18 @@ Inna 'Ilaynā 'Īābahum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ إِلَيْنَا إِيَابَهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الينا ايابهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ إِلَیۡنَاۤ إِیَابَهُمۡ
 
 | Details |  |

@@ -452,6 +452,18 @@ Innā 'Arsalnā 'Ilaykum Rasūlāan Shāhidāan 'Alaykum Kamā 'Arsalnā 'Ilá F
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا أَرْسَلْنَا إِلَيْكُمْ رَسُولًا شَاهِدًا عَلَيْكُمْ كَمَا أَرْسَلْنَا إِلَى فِرْعَوْنَ رَسُولًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا ارسلنا اليكم رسولا شاهدا عليكم كما ارسلنا الى فرعون رسولا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّاۤ أَرۡسَلۡنَاۤ إِلَیۡكُمۡ رَسُولࣰا شَـٰهِدًا عَلَیۡكُمۡ كَمَاۤ أَرۡسَلۡنَاۤ إِلَىٰ فِرۡعَوۡنَ رَسُولࣰا
 
 | Details |  |

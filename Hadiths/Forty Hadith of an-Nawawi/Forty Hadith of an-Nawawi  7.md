@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي رُقَيَّةَ تَمِيمِ بْنِ أَوْسٍ الدَّارِيِّ رَضِيَ اللهُ عَنْهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ: "الدِّينُ النَّصِيحَةُ." قُلْنَا: لِمَنْ؟ قَالَ: "لِلَّهِ، وَلِكِتَابِهِ، وَلِرَسُولِهِ، وَلِأَئِمَّةِ الْمُسْلِمِينَ وَعَامَّتِهِمْ." \[رَوَاهُ مُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of Tameem ibn Aus ad-Daree (ra): The Prophet (ﷺ) said, “The
 ## French
 
 Selon Tameem ibn Aws ad-Dari (qu’Allah l’agrée) : Le Prophète (ﷺ) a dit : « La religion, c’est le conseil/la sincérité. » Nous avons demandé : « Envers qui ? » Il (ﷺ) a répondu : « Envers Allah, Son Livre, Son Messager, les dirigeants des musulmans et leurs gens du commun. » \[Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7 |
+| Arabic No | 7 |
+| Reference | Book 1 Hadith 7 |
+
+## Turkish
+
+Temim ed-Dari (ra) anlatıyor: Peygamber (ﷺ) şöyle buyurdu: "Din nasihattir (samimiyettir)." Biz: "Kime karşı?" dedik. O (ﷺ): "Allah’a, Kitabına, Resulü’ne, Müslümanların yöneticilerine ve tüm Müslümanlara karşı" buyurdu. \[Müslim\]
 
 | References: |  |
 | --- | --- |

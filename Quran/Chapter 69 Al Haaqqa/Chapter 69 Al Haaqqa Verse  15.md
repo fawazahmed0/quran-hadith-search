@@ -452,6 +452,18 @@ Fayawma'idhin Waqa'ati Al-Wāqi'ahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَيَوْمَئِذٍ وَقَعَتِ الْوَاقِعَةُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيوميذ وقعت الواقعة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَیَوۡمَئِذࣲ وَقَعَتِ ٱلۡوَاقِعَةُ
 
 | Details |  |

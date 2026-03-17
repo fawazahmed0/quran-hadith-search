@@ -452,6 +452,18 @@ Wa Mā 'Aşābakum Min Muşībatin Fabimā Kasabat 'Aydīkum Wa Ya'fū 'An Kath�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَصَابَكُمْ مِنْ مُصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُو عَنْ كَثِيرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما اصابكم من مصيبة فبما كسبت ايديكم ويعفو عن كثير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَصَـٰبَكُم مِّن مُّصِیبَةࣲ فَبِمَا كَسَبَتۡ أَیۡدِیكُمۡ وَیَعۡفُوا۟ عَن كَثِیرࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Anžur Kayfa Yaftarūna 'Alá Allāhi Al-Kadhiba Wa Kafá Bihi 'Ithmāan Mubīn�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+انْظُرْ كَيْفَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ وَكَفَى بِهِ إِثْمًا مُبِينًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انظر كيف يفترون على الله الكذب وكفى به اثما مبينا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱنظُرۡ كَیۡفَ یَفۡتَرُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَۖ وَكَفَىٰ بِهِۦۤ إِثۡمࣰا مُّبِینًا
 
 | Details |  |

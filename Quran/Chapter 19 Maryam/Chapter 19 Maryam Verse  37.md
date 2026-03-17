@@ -452,6 +452,18 @@ Fākhtalafa Al-'Aĥzābu Min Baynihim Fawaylun Lilladhīna Kafarū Min Mash/hadi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاخْتَلَفَ الْأَحْزَابُ مِنْ بَيْنِهِمْ فَوَيْلٌ لِلَّذِينَ كَفَرُوا مِنْ مَشْهَدِ يَوْمٍ عَظِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاختلف الاحزاب من بينهم فويل للذين كفروا من مشهد يوم عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱخۡتَلَفَ ٱلۡأَحۡزَابُ مِنۢ بَیۡنِهِمۡۖ فَوَیۡلࣱ لِّلَّذِینَ كَفَرُوا۟ مِن مَّشۡهَدِ یَوۡمٍ عَظِیمٍ
 
 | Details |  |

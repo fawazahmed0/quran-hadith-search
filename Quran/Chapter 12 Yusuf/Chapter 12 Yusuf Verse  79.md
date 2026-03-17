@@ -452,6 +452,18 @@ Qāla Ma'ādha Allāhi 'An Na'khudha 'Illā Man Wajadnā Matā'anā 'Indahu 'Inn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ مَعَاذَ اللَّهِ أَنْ نَأْخُذَ إِلَّا مَنْ وَجَدْنَا مَتَاعَنَا عِنْدَهُ إِنَّا إِذًا لَظَالِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال معاذ الله ان ناخذ الا من وجدنا متاعنا عنده انا اذا لظالمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ مَعَاذَ ٱللَّهِ أَن نَّأۡخُذَ إِلَّا مَن وَجَدۡنَا مَتَـٰعَنَا عِندَهُۥۤ إِنَّاۤ إِذࣰا لَّظَـٰلِمُونَ
 
 | Details |  |

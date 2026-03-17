@@ -452,6 +452,18 @@ Qul Mā 'As'alukum 'Alayhi Min 'Ajrin Wa Mā 'Anā Mina Al-Mutakallifīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ مَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَا أَنَا مِنَ الْمُتَكَلِّفِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل ما اسالكم عليه من اجر وما انا من المتكلفين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ مَاۤ أَسۡءَلُكُمۡ عَلَیۡهِ مِنۡ أَجۡرࣲ وَمَاۤ أَنَا۠ مِنَ ٱلۡمُتَكَلِّفِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fada'ā Rabbahu 'Annī Maghlūbun Fāntaşir
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَدَعَا رَبَّهُ أَنِّي مَغْلُوبٌ فَانْتَصِرْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فدعا ربه اني مغلوب فانتصر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَدَعَا رَبَّهُۥۤ أَنِّی مَغۡلُوبࣱ فَٱنتَصِرۡ
 
 | Details |  |

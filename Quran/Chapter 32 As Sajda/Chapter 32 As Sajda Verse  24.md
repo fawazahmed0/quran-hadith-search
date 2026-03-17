@@ -452,6 +452,18 @@ Wa Ja'alnā Minhum 'A'immatan Yahdūna Bi'amrinā Lammā Şabarū Wa Kānū Bi'�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا وَكَانُوا بِآيَاتِنَا يُوقِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلنا منهم ايمة يهدون بامرنا لما صبروا وكانوا باياتنا يوقنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلۡنَا مِنۡهُمۡ أَئِمَّةࣰ یَهۡدُونَ بِأَمۡرِنَا لَمَّا صَبَرُوا۟ۖ وَكَانُوا۟ بِءَایَـٰتِنَا یُوقِنُونَ
 
 | Details |  |

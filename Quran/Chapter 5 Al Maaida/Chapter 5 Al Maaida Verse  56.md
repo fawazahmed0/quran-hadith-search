@@ -452,6 +452,18 @@ Wa Man Yatawalla Allāha Wa Rasūlahu Wa Al-Ladhīna 'Āmanū Fa'inna Ĥizba All
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ يَتَوَلَّ اللَّهَ وَرَسُولَهُ وَالَّذِينَ آمَنُوا فَإِنَّ حِزْبَ اللَّهِ هُمُ الْغَالِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن يتول الله ورسوله والذين امنوا فان حزب الله هم الغالبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن یَتَوَلَّ ٱللَّهَ وَرَسُولَهُۥ وَٱلَّذِینَ ءَامَنُوا۟ فَإِنَّ حِزۡبَ ٱللَّهِ هُمُ ٱلۡغَـٰلِبُونَ
 
 | Details |  |

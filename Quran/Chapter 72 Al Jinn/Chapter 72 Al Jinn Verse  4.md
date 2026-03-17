@@ -452,6 +452,18 @@ Wa 'Annahu Kāna Yaqūlu Safīhunā 'Alá Allāhi Shaţaţāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّهُ كَانَ يَقُولُ سَفِيهُنَا عَلَى اللَّهِ شَطَطًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه كان يقول سفيهنا على الله شططا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّهُۥ كَانَ یَقُولُ سَفِیهُنَا عَلَى ٱللَّهِ شَطَطࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Fa'idhā Jā'ati Aţ-Ţāmmatu Al-Kubrá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِذَا جَاءَتِ الطَّامَّةُ الْكُبْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاذا جاءت الطامة الكبرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِذَا جَاۤءَتِ ٱلطَّاۤمَّةُ ٱلۡكُبۡرَىٰ
 
 | Details |  |

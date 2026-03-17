@@ -452,6 +452,18 @@ Min Nuţfatin 'Idhā Tumná
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مِنْ نُطْفَةٍ إِذَا تُمْنَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من نطفة اذا تمنى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مِن نُّطۡفَةٍ إِذَا تُمۡنَىٰ
 
 | Details |  |

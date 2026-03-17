@@ -452,6 +452,18 @@ Wa Bashiri Al-Mu'uminīna Bi'anna Lahum Mina Allāhi Fađlāan Kabīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَبَشِّرِ الْمُؤْمِنِينَ بِأَنَّ لَهُمْ مِنَ اللَّهِ فَضْلًا كَبِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وبشر المومنين بان لهم من الله فضلا كبيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَبَشِّرِ ٱلۡمُؤۡمِنِینَ بِأَنَّ لَهُم مِّنَ ٱللَّهِ فَضۡلࣰا كَبِیرࣰا
 
 | Details |  |

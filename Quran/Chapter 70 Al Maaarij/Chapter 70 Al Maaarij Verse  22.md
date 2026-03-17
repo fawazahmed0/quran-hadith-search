@@ -452,6 +452,18 @@ Illā Al-Muşallīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا الْمُصَلِّينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا المصلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا ٱلۡمُصَلِّینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ BalÃ¡ 'Inna Rabbahu KÄna Bihi BaÅŸÄ«rÄan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلَى إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بلى ان ربه كان به بصيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلَىٰۤۚ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِیرࣰا
 
 | Details |  |

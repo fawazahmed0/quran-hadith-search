@@ -452,6 +452,18 @@ Wa 'Idhā Qīla Lahumu Attaqū Mā Bayna 'Aydīkum Wa Mā Khalfakum La'allakum T
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا قِيلَ لَهُمُ اتَّقُوا مَا بَيْنَ أَيْدِيكُمْ وَمَا خَلْفَكُمْ لَعَلَّكُمْ تُرْحَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا قيل لهم اتقوا ما بين ايديكم وما خلفكم لعلكم ترحمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا قِیلَ لَهُمُ ٱتَّقُوا۟ مَا بَیۡنَ أَیۡدِیكُمۡ وَمَا خَلۡفَكُمۡ لَعَلَّكُمۡ تُرۡحَمُونَ
 
 | Details |  |

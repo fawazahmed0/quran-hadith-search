@@ -452,6 +452,18 @@ Faman Shā'a Dhakarahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَنْ شَاءَ ذَكَرَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فمن شاء ذكره
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَن شَاۤءَ ذَكَرَهُۥ
 
 | Details |  |

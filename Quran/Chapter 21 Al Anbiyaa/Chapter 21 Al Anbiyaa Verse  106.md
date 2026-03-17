@@ -452,6 +452,18 @@ Inna Fī Hādhā Labalāghāan Liqawmin 'Ābidīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ فِي هَذَا لَبَلَاغًا لِقَوْمٍ عَابِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان في هذا لبلاغا لقوم عابدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ فِی هَـٰذَا لَبَلَـٰغࣰا لِّقَوۡمٍ عَـٰبِدِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Makarū Wa Makara Allāhu Wa Allāhu Khayru Al-Mākirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَكَرُوا وَمَكَرَ اللَّهُ وَاللَّهُ خَيْرُ الْمَاكِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومكروا ومكر الله والله خير الماكرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُۖ وَٱللَّهُ خَیۡرُ ٱلۡمَـٰكِرِینَ
 
 | Details |  |

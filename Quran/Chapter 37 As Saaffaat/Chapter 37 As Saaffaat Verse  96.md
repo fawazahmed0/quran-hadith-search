@@ -452,6 +452,18 @@ Wa Allāhu Khalaqakum Wa Mā Ta'malūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والله خلقكم وما تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱللَّهُ خَلَقَكُمۡ وَمَا تَعۡمَلُونَ
 
 | Details |  |

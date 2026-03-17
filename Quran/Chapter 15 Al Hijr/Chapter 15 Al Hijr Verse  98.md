@@ -452,6 +452,18 @@ Fasabbiĥ Biĥamdi Rabbika Wa Kun Mina As-Sājidīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُنْ مِنَ السَّاجِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فسبح بحمد ربك وكن من الساجدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَكُن مِّنَ ٱلسَّـٰجِدِینَ
 
 | Details |  |

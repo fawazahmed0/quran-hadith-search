@@ -452,6 +452,18 @@ Fa'aşābahum Sayyi'ātu Mā 'Amilū Wa Ĥāqa Bihim Mā Kānū Bihi Yastahzi'ū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَصَابَهُمْ سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاصابهم سييات ما عملوا وحاق بهم ما كانوا به يستهزيون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَصَابَهُمۡ سَیِّءَاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ یَسۡتَهۡزِءُونَ
 
 | Details |  |

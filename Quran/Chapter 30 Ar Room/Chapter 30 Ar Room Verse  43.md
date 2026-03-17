@@ -452,6 +452,18 @@ Fa'aqim Wajhaka Lilddīni Al-Qayyimi Min Qabli 'An Ya'tiya Yawmun Lā Maradda La
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَقِمْ وَجْهَكَ لِلدِّينِ الْقَيِّمِ مِنْ قَبْلِ أَنْ يَأْتِيَ يَوْمٌ لَا مَرَدَّ لَهُ مِنَ اللَّهِ يَوْمَئِذٍ يَصَّدَّعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاقم وجهك للدين القيم من قبل ان ياتي يوم لا مرد له من الله يوميذ يصدعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَقِمۡ وَجۡهَكَ لِلدِّینِ ٱلۡقَیِّمِ مِن قَبۡلِ أَن یَأۡتِیَ یَوۡمࣱ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِۖ یَوۡمَئِذࣲ یَصَّدَّعُونَ
 
 | Details |  |

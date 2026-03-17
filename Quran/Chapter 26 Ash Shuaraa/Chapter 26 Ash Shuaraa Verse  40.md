@@ -452,6 +452,18 @@ La'allanā Nattabi'u As-Saĥarata 'In Kānū Humu Al-Ghālibīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَعَلَّنَا نَتَّبِعُ السَّحَرَةَ إِنْ كَانُوا هُمُ الْغَالِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لعلنا نتبع السحرة ان كانوا هم الغالبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَعَلَّنَا نَتَّبِعُ ٱلسَّحَرَةَ إِن كَانُوا۟ هُمُ ٱلۡغَـٰلِبِینَ
 
 | Details |  |

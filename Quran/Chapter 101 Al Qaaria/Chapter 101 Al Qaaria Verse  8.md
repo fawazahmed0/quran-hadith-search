@@ -452,6 +452,18 @@ Wa 'Ammā Man Khaffat Mawāzīnuhu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما من خفت موازينه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمَّا مَنۡ خَفَّتۡ مَوَ ٰزِینُهُۥ
 
 | Details |  |

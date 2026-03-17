@@ -452,6 +452,18 @@ Bali Allāhu Mawlākum Wa Huwa Khayru An-Nāşirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلِ اللَّهُ مَوْلَاكُمْ وَهُوَ خَيْرُ النَّاصِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل الله مولاكم وهو خير الناصرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلِ ٱللَّهُ مَوۡلَىٰكُمۡۖ وَهُوَ خَیۡرُ ٱلنَّـٰصِرِینَ
 
 | Details |  |

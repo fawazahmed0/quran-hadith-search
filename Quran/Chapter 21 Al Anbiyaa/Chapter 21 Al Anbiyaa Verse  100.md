@@ -452,6 +452,18 @@ Lahum Fīhā Zafīrun Wa Hum Fīhā Lā Yasma'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَهُمْ فِيهَا زَفِيرٌ وَهُمْ فِيهَا لَا يَسْمَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لهم فيها زفير وهم فيها لا يسمعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَهُمۡ فِیهَا زَفِیرࣱ وَهُمۡ فِیهَا لَا یَسۡمَعُونَ
 
 | Details |  |

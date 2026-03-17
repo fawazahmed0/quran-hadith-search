@@ -452,6 +452,18 @@ Wa Mā Tilka Biyamīnika Yā Mūsá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا تِلْكَ بِيَمِينِكَ يَا مُوسَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما تلك بيمينك يا موسى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا تِلۡكَ بِیَمِینِكَ یَـٰمُوسَىٰ
 
 | Details |  |

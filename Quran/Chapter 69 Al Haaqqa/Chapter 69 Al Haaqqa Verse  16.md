@@ -452,6 +452,18 @@ Wa Anshaqqati As-Samā'u Fahiya Yawma'idhin Wa Ahiyahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَانْشَقَّتِ السَّمَاءُ فَهِيَ يَوْمَئِذٍ وَاهِيَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانشقت السماء فهي يوميذ واهية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱنشَقَّتِ ٱلسَّمَاۤءُ فَهِیَ یَوۡمَئِذࣲ وَاهِیَةࣱ
 
 | Details |  |

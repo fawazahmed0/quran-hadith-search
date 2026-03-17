@@ -452,6 +452,18 @@ Wa 'Inna Kullā Lammā Layuwaffiyannahum Rabbuka 'A'mālahum 'Innahu Bimā Ya'ma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ كُلًّا لَمَّا لَيُوَفِّيَنَّهُمْ رَبُّكَ أَعْمَالَهُمْ إِنَّهُ بِمَا يَعْمَلُونَ خَبِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان كلا لما ليوفينهم ربك اعمالهم انه بما يعملون خبير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ كُلࣰّا لَّمَّا لَیُوَفِّیَنَّهُمۡ رَبُّكَ أَعۡمَـٰلَهُمۡۚ إِنَّهُۥ بِمَا یَعۡمَلُونَ خَبِیرࣱ
 
 | Details |  |

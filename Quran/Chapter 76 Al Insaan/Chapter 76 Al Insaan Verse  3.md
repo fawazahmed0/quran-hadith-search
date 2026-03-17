@@ -452,6 +452,18 @@ Innā Hadaynāhu As-Sabīla 'Immā Shākirāan Wa 'Immā Kafūrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا هديناه السبيل اما شاكرا واما كفورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا هَدَیۡنَـٰهُ ٱلسَّبِیلَ إِمَّا شَاكِرࣰا وَإِمَّا كَفُورًا
 
 | Details |  |

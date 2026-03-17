@@ -452,6 +452,18 @@ Innā Ja'alnāhā Fitnatan Lilžžālimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا جَعَلْنَاهَا فِتْنَةً لِلظَّالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا جعلناها فتنة للظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا جَعَلۡنَـٰهَا فِتۡنَةࣰ لِّلظَّـٰلِمِینَ
 
 | Details |  |

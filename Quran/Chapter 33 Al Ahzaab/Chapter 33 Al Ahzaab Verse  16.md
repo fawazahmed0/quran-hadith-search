@@ -452,6 +452,18 @@ Qul Lan Yanfa'akumu Al-Firāru 'In Farartum Mina Al-Mawti 'Awi Al-Qatli Wa 'Idh�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ لَنْ يَنْفَعَكُمُ الْفِرَارُ إِنْ فَرَرْتُمْ مِنَ الْمَوْتِ أَوِ الْقَتْلِ وَإِذًا لَا تُمَتَّعُونَ إِلَّا قَلِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل لن ينفعكم الفرار ان فررتم من الموت او القتل واذا لا تمتعون الا قليلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُل لَّن یَنفَعَكُمُ ٱلۡفِرَارُ إِن فَرَرۡتُم مِّنَ ٱلۡمَوۡتِ أَوِ ٱلۡقَتۡلِ وَإِذࣰا لَّا تُمَتَّعُونَ إِلَّا قَلِیلࣰا
 
 | Details |  |

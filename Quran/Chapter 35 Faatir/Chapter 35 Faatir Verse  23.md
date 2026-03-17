@@ -452,6 +452,18 @@ In 'Anta 'Illā Nadhīrun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ أَنْتَ إِلَّا نَذِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان انت الا نذير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنۡ أَنتَ إِلَّا نَذِیرٌ
 
 | Details |  |

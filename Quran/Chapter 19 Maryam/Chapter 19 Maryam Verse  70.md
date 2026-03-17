@@ -452,6 +452,18 @@ Thumma Lanaĥnu 'A'lamu Bial-Ladhīna Hum 'Awlá Bihā Şilīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ لَنَحْنُ أَعْلَمُ بِالَّذِينَ هُمْ أَوْلَى بِهَا صِلِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم لنحن اعلم بالذين هم اولى بها صليا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ لَنَحۡنُ أَعۡلَمُ بِٱلَّذِینَ هُمۡ أَوۡلَىٰ بِهَا صِلِیࣰّا
 
 | Details |  |

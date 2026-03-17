@@ -452,6 +452,18 @@ Tarji'ūnahā 'In Kuntum Şādiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَرْجِعُونَهَا إِنْ كُنْتُمْ صَادِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ترجعونها ان كنتم صادقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَرۡجِعُونَهَاۤ إِن كُنتُمۡ صَـٰدِقِینَ
 
 | Details |  |

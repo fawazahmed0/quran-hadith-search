@@ -452,6 +452,18 @@ Thumma Latus'alunna Yawma'idhin 'Ani An-Na'īmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم لتسالن يوميذ عن النعيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ لَتُسۡءَلُنَّ یَوۡمَئِذٍ عَنِ ٱلنَّعِیمِ
 
 | Details |  |

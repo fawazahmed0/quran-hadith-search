@@ -452,6 +452,18 @@ Idh Qāla Rabbuka Lilmalā'ikati 'Innī Khāliqun Basharāan Min Ţīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِنْ طِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ قال ربك للملايكة اني خالق بشرا من طين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ قَالَ رَبُّكَ لِلۡمَلَـٰۤئِكَةِ إِنِّی خَـٰلِقُۢ بَشَرࣰا مِّن طِینࣲ
 
 | Details |  |

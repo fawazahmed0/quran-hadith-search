@@ -452,6 +452,18 @@ Bal Rafa'ahu Allāhu 'Ilayhi Wa Kāna Allāhu 'Azīzāan Ĥakīmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ رَفَعَهُ اللَّهُ إِلَيْهِ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل رفعه الله اليه وكان الله عزيزا حكيما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَل رَّفَعَهُ ٱللَّهُ إِلَیۡهِۚ وَكَانَ ٱللَّهُ عَزِیزًا حَكِیمࣰا
 
 | Details |  |

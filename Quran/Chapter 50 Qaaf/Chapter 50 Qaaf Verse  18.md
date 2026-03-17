@@ -452,6 +452,18 @@ Mā Yalfižu Min Qawlin 'Illā Ladayhi Raqībun 'Atīdun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا يَلْفِظُ مِنْ قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما يلفظ من قول الا لديه رقيب عتيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّا یَلۡفِظُ مِن قَوۡلٍ إِلَّا لَدَیۡهِ رَقِیبٌ عَتِیدࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Ađmum Yadaka 'Ilá Janāĥika Takhruj Bayđā'a Min Ghayri Sū'in 'Āyatan '
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاضْمُمْ يَدَكَ إِلَى جَنَاحِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ آيَةً أُخْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واضمم يدك الى جناحك تخرج بيضاء من غير سوء اية اخرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱضۡمُمۡ یَدَكَ إِلَىٰ جَنَاحِكَ تَخۡرُجۡ بَیۡضَاۤءَ مِنۡ غَیۡرِ سُوۤءٍ ءَایَةً أُخۡرَىٰ
 
 | Details |  |

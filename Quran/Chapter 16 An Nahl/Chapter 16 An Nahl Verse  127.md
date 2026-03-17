@@ -452,6 +452,18 @@ Wa Aşbir Wa Mā Şabruka 'Illā Billāhi Wa Lā Taĥzan 'Alayhim Wa Lā Taku F�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِمَّا يَمْكُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واصبر وما صبرك الا بالله ولا تحزن عليهم ولا تك في ضيق مما يمكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱصۡبِرۡ وَمَا صَبۡرُكَ إِلَّا بِٱللَّهِۚ وَلَا تَحۡزَنۡ عَلَیۡهِمۡ وَلَا تَكُ فِی ضَیۡقࣲ مِّمَّا یَمۡكُرُونَ
 
 | Details |  |

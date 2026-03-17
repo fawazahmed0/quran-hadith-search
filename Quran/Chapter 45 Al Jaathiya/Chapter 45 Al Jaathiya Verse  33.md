@@ -452,6 +452,18 @@ Wa Badā Lahum Sayyi'ātu Mā 'Amilū Wa Ĥāqa Bihim Mā Kānū Bihi Yastahzi'�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَبَدَا لَهُمْ سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وبدا لهم سييات ما عملوا وحاق بهم ما كانوا به يستهزيون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَبَدَا لَهُمۡ سَیِّءَاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ یَسۡتَهۡزِءُونَ
 
 | Details |  |

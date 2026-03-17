@@ -452,6 +452,18 @@ Wa Mā 'Adrāka Mā 'Illīyūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَدْرَاكَ مَا عِلِّيُّونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ادراك ما عليون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَدۡرَىٰكَ مَا عِلِّیُّونَ
 
 | Details |  |

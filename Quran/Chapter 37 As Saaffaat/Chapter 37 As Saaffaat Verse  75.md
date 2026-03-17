@@ -452,6 +452,18 @@ Wa Laqad Nādānā Nūĥun Falani'ma Al-Mujībūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ نَادَانَا نُوحٌ فَلَنِعْمَ الْمُجِيبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد نادانا نوح فلنعم المجيبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ نَادَىٰنَا نُوحࣱ فَلَنِعۡمَ ٱلۡمُجِیبُونَ
 
 | Details |  |

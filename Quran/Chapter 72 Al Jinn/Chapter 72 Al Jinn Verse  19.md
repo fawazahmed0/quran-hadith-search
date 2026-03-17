@@ -452,6 +452,18 @@ Wa 'Annahu Lammā Qāma 'Abdu Allāhi Yad'ūhu Kādū Yakūnūna 'Alayhi Libadā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّهُ لَمَّا قَامَ عَبْدُ اللَّهِ يَدْعُوهُ كَادُوا يَكُونُونَ عَلَيْهِ لِبَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه لما قام عبد الله يدعوه كادوا يكونون عليه لبدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّهُۥ لَمَّا قَامَ عَبۡدُ ٱللَّهِ یَدۡعُوهُ كَادُوا۟ یَكُونُونَ عَلَیۡهِ لِبَدࣰا
 
 | Details |  |

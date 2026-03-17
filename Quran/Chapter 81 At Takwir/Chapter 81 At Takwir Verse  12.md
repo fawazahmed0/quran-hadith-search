@@ -452,6 +452,18 @@ Wa 'Idhā Al-Jaĥīmu Su''irat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا الْجَحِيمُ سُعِّرَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا الجحيم سعرت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱلۡجَحِیمُ سُعِّرَتۡ
 
 | Details |  |

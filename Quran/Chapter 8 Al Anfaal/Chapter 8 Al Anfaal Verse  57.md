@@ -452,6 +452,18 @@ Fa'immā Tathqafannahum Fī Al-Ĥarbi Fasharrid Bihim Man Khalfahum La'allahum Y
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِمَّا تَثْقَفَنَّهُمْ فِي الْحَرْبِ فَشَرِّدْ بِهِمْ مَنْ خَلْفَهُمْ لَعَلَّهُمْ يَذَّكَّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاما تثقفنهم في الحرب فشرد بهم من خلفهم لعلهم يذكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِمَّا تَثۡقَفَنَّهُمۡ فِی ٱلۡحَرۡبِ فَشَرِّدۡ بِهِم مَّنۡ خَلۡفَهُمۡ لَعَلَّهُمۡ یَذَّكَّرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Khāshi'atan 'Abşāruhum Tarhaquhum Dhillatun Dhālika Al-Yawmu Al-Ladhī Kān�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ذَلِكَ الْيَوْمُ الَّذِي كَانُوا يُوعَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خاشعة ابصارهم ترهقهم ذلة ذلك اليوم الذي كانوا يوعدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خَـٰشِعَةً أَبۡصَـٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةࣱۚ ذَ ٰلِكَ ٱلۡیَوۡمُ ٱلَّذِی كَانُوا۟ یُوعَدُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Khālidīna Fīhā Wa'da Allāhi Ĥaqqāan Wa Huwa Al-'Azīzu Al-Ĥakīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خَالِدِينَ فِيهَا وَعْدَ اللَّهِ حَقًّا وَهُوَ الْعَزِيزُ الْحَكِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خالدين فيها وعد الله حقا وهو العزيز الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خَـٰلِدِینَ فِیهَاۖ وَعۡدَ ٱللَّهِ حَقࣰّاۚ وَهُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
 
 | Details |  |

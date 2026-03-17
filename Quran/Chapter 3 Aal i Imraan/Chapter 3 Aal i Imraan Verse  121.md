@@ -452,6 +452,18 @@ Wa 'Idh Ghadawta Min 'Ahlika Tubawwi'u Al-Mu'uminīna Maqā'ida Lilqitāli Wa Al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذْ غَدَوْتَ مِنْ أَهْلِكَ تُبَوِّئُ الْمُؤْمِنِينَ مَقَاعِدَ لِلْقِتَالِ وَاللَّهُ سَمِيعٌ عَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذ غدوت من اهلك تبوي المومنين مقاعد للقتال والله سميع عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذۡ غَدَوۡتَ مِنۡ أَهۡلِكَ تُبَوِّئُ ٱلۡمُؤۡمِنِینَ مَقَـٰعِدَ لِلۡقِتَالِۗ وَٱللَّهُ سَمِیعٌ عَلِیمٌ
 
 | Details |  |

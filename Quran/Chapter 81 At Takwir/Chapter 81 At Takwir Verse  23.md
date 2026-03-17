@@ -452,6 +452,18 @@ Wa Laqad Ra'āhu Bil-'Ufuqi Al-Mubīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد راه بالافق المبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ رَءَاهُ بِٱلۡأُفُقِ ٱلۡمُبِینِ
 
 | Details |  |

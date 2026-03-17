@@ -452,6 +452,18 @@ Innahum 'Ani As-Sam'i Lama'zūlūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُمْ عَنِ السَّمْعِ لَمَعْزُولُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انهم عن السمع لمعزولون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُمۡ عَنِ ٱلسَّمۡعِ لَمَعۡزُولُونَ
 
 | Details |  |

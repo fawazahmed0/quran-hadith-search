@@ -452,6 +452,18 @@ Qāla Yā 'Ayyuhā Al-Mala'u 'Ayyukum Ya'tīnī Bi'arshihā Qabla 'An Ya'tūnī 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ يَا أَيُّهَا الْمَلَأُ أَيُّكُمْ يَأْتِينِي بِعَرْشِهَا قَبْلَ أَنْ يَأْتُونِي مُسْلِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال يا ايها الملا ايكم ياتيني بعرشها قبل ان ياتوني مسلمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ یَـٰۤأَیُّهَا ٱلۡمَلَؤُا۟ أَیُّكُمۡ یَأۡتِینِی بِعَرۡشِهَا قَبۡلَ أَن یَأۡتُونِی مُسۡلِمِینَ
 
 | Details |  |

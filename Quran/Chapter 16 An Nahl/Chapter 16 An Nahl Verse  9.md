@@ -452,6 +452,18 @@ Wa 'Alá Allāhi Qaşdu As-Sabīli Wa Minhā Jā'irun Wa Law Shā'a Lahadākum '
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَعَلَى اللَّهِ قَصْدُ السَّبِيلِ وَمِنْهَا جَائِرٌ وَلَوْ شَاءَ لَهَدَاكُمْ أَجْمَعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وعلى الله قصد السبيل ومنها جاير ولو شاء لهداكم اجمعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَعَلَى ٱللَّهِ قَصۡدُ ٱلسَّبِیلِ وَمِنۡهَا جَاۤئِرࣱۚ وَلَوۡ شَاۤءَ لَهَدَىٰكُمۡ أَجۡمَعِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Al-Ladhīna Yajtanibūna Kabā'ira Al-'Ithmi Wa Al-Fawāĥisha Wa 'Idhā Mā 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ وَإِذَا مَا غَضِبُوا هُمْ يَغْفِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين يجتنبون كباير الاثم والفواحش واذا ما غضبوا هم يغفرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ یَجۡتَنِبُونَ كَبَـٰۤئِرَ ٱلۡإِثۡمِ وَٱلۡفَوَ ٰحِشَ وَإِذَا مَا غَضِبُوا۟ هُمۡ یَغۡفِرُونَ
 
 | Details |  |

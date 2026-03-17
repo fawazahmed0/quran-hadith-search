@@ -452,6 +452,18 @@ Qul Rabbi 'Immā Turiyannī Mā Yū'adūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ رَبِّ إِمَّا تُرِيَنِّي مَا يُوعَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل رب اما تريني ما يوعدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُل رَّبِّ إِمَّا تُرِیَنِّی مَا یُوعَدُونَ
 
 | Details |  |

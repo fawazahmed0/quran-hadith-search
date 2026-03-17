@@ -452,6 +452,18 @@ Yawma Yafirru Al-Mar'u Min 'Akhīhi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم يفر المرء من اخيه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ یَفِرُّ ٱلۡمَرۡءُ مِنۡ أَخِیهِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Jazā'an Min Rabbika 'Aţā'an Ĥisābāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+جَزَاءً مِنْ رَبِّكَ عَطَاءً حِسَابًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+جزاء من ربك عطاء حسابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 جَزَاۤءࣰ مِّن رَّبِّكَ عَطَاۤءً حِسَابࣰا
 
 | Details |  |

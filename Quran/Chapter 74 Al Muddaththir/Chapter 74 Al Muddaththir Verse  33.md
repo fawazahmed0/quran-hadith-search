@@ -452,6 +452,18 @@ Wa Al-Layli 'Idh 'Adbara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاللَّيْلِ إِذْ أَدْبَرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والليل اذ ادبر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّیۡلِ إِذۡ أَدۡبَرَ
 
 | Details |  |

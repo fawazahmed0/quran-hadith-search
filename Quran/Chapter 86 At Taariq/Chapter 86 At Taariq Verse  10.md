@@ -452,6 +452,18 @@ Famā Lahu Min Qūwatin Wa Lā Nāşirin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فما له من قوة ولا ناصر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَا لَهُۥ مِن قُوَّةࣲ وَلَا نَاصِرࣲ
 
 | Details |  |

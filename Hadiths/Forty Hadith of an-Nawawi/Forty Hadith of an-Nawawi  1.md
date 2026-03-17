@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَمِيرِ الْمُؤْمِنِينَ أَبِي حَفْصٍ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ: " إنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إلَى اللَّهِ وَرَسُولِهِ فَهِجْرَتُهُ إلَى اللَّهِ وَرَسُولِهِ، وَمَنْ كَانَتْ هِجْرَتُهُ لِدُنْيَا يُصِيبُهَا أَوْ امْرَأَةٍ يَنْكِحُهَا فَهِجْرَتُهُ إلَى مَا هَاجَرَ إلَيْهِ". رَوَاهُ إِمَامَا الْمُحَدِّثِينَ أَبُو عَبْدِ اللهِ مُحَمَّدُ بنُ إِسْمَاعِيل بن إِبْرَاهِيم بن الْمُغِيرَة بن بَرْدِزبَه الْبُخَارِيُّ الْجُعْفِيُّ \[رقم:1\]، وَأَبُو الْحُسَيْنِ مُسْلِمٌ بنُ الْحَجَّاج بن مُسْلِم الْقُشَيْرِيُّ النَّيْسَابُورِيُّ \[رقم:1907\] رَضِيَ اللهُ عَنْهُمَا فِي "صَحِيحَيْهِمَا" اللذَينِ هُمَا أَصَحُّ الْكُتُبِ الْمُصَنَّفَةِ
@@ -47,6 +49,16 @@ It is narrated on the authority of Amirul Mu'minin, Abu Hafs 'Umar bin al-Khatta
 ## French
 
 Il est rapporté d’après le chef des croyants, Abou Hafs ‘Omar ibn al-Khattab (qu’Allah l’agrée), qui a dit : J’ai entendu le Messager d’Allah (ﷺ) dire : « Les actions ne valent que par les intentions, et chacun sera récompensé selon ce qu’il a eu comme intention. Ainsi, celui dont l’émigration était pour Allah et Son Messager, son émigration sera pour Allah et Son Messager. Mais celui dont l’émigration visait un intérêt matériel à obtenir, ou une femme à épouser, alors son émigration sera pour ce qui l’a motivé. » \[Boukhari & Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1 |
+| Arabic No | 1 |
+| Reference | Book 1 Hadith 1 |
+
+## Turkish
+
+Müminlerin Emiri Ebu Hafs Ömer bin el-Hattab (ra) şöyle demiştir: Resulullah'ın (ﷺ) şöyle buyurduğunu işittim: "Ameller ancak niyetlere göredir ve her kişi için ancak niyet ettiği şey vardır. Kimin hicreti Allah ve Resulü içinse, onun hicreti Allah ve Resulü’nedir. Kimin hicreti elde edeceği bir dünyalık veya evleneceği bir kadın içinse, onun hicreti de hicret ettiği şeyedir." \[Buhari ve Müslim\]
 
 | References: |  |
 | --- | --- |

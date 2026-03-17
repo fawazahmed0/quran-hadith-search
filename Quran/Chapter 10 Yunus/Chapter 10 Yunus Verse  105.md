@@ -452,6 +452,18 @@ Wa 'An 'Aqim Wajhaka Lilddīni Ĥanīfāan Wa Lā Takūnanna Mina Al-Mushrikīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنْ أَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا وَلَا تَكُونَنَّ مِنَ الْمُشْرِكِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان اقم وجهك للدين حنيفا ولا تكونن من المشركين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنۡ أَقِمۡ وَجۡهَكَ لِلدِّینِ حَنِیفࣰا وَلَا تَكُونَنَّ مِنَ ٱلۡمُشۡرِكِینَ
 
 | Details |  |

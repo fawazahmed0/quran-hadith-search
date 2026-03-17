@@ -452,6 +452,18 @@ Wa Lā Yu'udhanu Lahum Faya'tadhirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا يوذن لهم فيعتذرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا یُؤۡذَنُ لَهُمۡ فَیَعۡتَذِرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna Walīyiya Allāhu Al-Ladhī Nazzala Al-Kitāba Wa Huwa Yatawallá Aş-Şāl
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ وَلِيِّيَ اللَّهُ الَّذِي نَزَّلَ الْكِتَابَ وَهُوَ يَتَوَلَّى الصَّالِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان وليي الله الذي نزل الكتاب وهو يتولى الصالحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ وَلِـِّۧیَ ٱللَّهُ ٱلَّذِی نَزَّلَ ٱلۡكِتَـٰبَۖ وَهُوَ یَتَوَلَّى ٱلصَّـٰلِحِینَ
 
 | Details |  |

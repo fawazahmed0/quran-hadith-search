@@ -452,6 +452,18 @@ Afā Allāhu 'Anka Lima 'Adhinta Lahum Ĥattá Yatabayyana Laka Al-Ladhīna Şad
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَفَا اللَّهُ عَنْكَ لِمَ أَذِنْتَ لَهُمْ حَتَّى يَتَبَيَّنَ لَكَ الَّذِينَ صَدَقُوا وَتَعْلَمَ الْكَاذِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عفا الله عنك لم اذنت لهم حتى يتبين لك الذين صدقوا وتعلم الكاذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَفَا ٱللَّهُ عَنكَ لِمَ أَذِنتَ لَهُمۡ حَتَّىٰ یَتَبَیَّنَ لَكَ ٱلَّذِینَ صَدَقُوا۟ وَتَعۡلَمَ ٱلۡكَـٰذِبِینَ
 
 | Details |  |

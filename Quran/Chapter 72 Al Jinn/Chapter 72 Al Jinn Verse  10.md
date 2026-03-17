@@ -452,6 +452,18 @@ Wa 'Annā Lā Nadrī 'Asharrun 'Urīda Biman Fī Al-'Arđi 'Am 'Arāda Bihim Rab
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّا لَا نَدْرِي أَشَرٌّ أُرِيدَ بِمَنْ فِي الْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانا لا ندري اشر اريد بمن في الارض ام اراد بهم ربهم رشدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّا لَا نَدۡرِیۤ أَشَرٌّ أُرِیدَ بِمَن فِی ٱلۡأَرۡضِ أَمۡ أَرَادَ بِهِمۡ رَبُّهُمۡ رَشَدࣰا
 
 | Details |  |

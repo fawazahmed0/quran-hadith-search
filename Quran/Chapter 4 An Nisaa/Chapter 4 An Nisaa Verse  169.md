@@ -452,6 +452,18 @@ Illā Ţarīqa Jahannama Khālidīna Fīhā 'Abadāan Wa Kāna Dhālika 'Alá Al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا طَرِيقَ جَهَنَّمَ خَالِدِينَ فِيهَا أَبَدًا وَكَانَ ذَلِكَ عَلَى اللَّهِ يَسِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا طريق جهنم خالدين فيها ابدا وكان ذلك على الله يسيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا طَرِیقَ جَهَنَّمَ خَـٰلِدِینَ فِیهَاۤ أَبَدࣰاۚ وَكَانَ ذَ ٰلِكَ عَلَى ٱللَّهِ یَسِیرࣰا
 
 | Details |  |

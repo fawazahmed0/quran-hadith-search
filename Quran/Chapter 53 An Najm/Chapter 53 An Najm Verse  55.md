@@ -452,6 +452,18 @@ Fabi'ayyi 'Ālā'i Rabbika Tatamārá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَبِأَيِّ آلَاءِ رَبِّكَ تَتَمَارَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فباي الاء ربك تتمارى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَبِأَیِّ ءَالَاۤءِ رَبِّكَ تَتَمَارَىٰ
 
 | Details |  |

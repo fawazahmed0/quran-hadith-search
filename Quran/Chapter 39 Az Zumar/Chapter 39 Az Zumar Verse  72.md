@@ -452,6 +452,18 @@ Qīla Adkhulū 'Abwāba Jahannama Khālidīna Fīhā Fabi'sa Mathwá Al-Mutakabb
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قِيلَ ادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قيل ادخلوا ابواب جهنم خالدين فيها فبيس مثوى المتكبرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قِیلَ ٱدۡخُلُوۤا۟ أَبۡوَ ٰبَ جَهَنَّمَ خَـٰلِدِینَ فِیهَاۖ فَبِئۡسَ مَثۡوَى ٱلۡمُتَكَبِّرِینَ
 
 | Details |  |

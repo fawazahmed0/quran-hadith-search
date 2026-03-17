@@ -452,6 +452,18 @@ Fasabbiĥ Biāsmi Rabbika Al-'Ažīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فسبح باسم ربك العظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِیمِ
 
 | Details |  |

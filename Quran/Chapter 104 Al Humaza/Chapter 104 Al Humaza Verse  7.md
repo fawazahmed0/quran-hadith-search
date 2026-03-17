@@ -452,6 +452,18 @@ Allatī Taţţali'u 'Alá Al-'Af'idahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+التي تطلع على الافيدة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّتِی تَطَّلِعُ عَلَى ٱلۡأَفۡءِدَةِ
 
 | Details |  |

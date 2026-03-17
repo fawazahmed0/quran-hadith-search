@@ -452,6 +452,18 @@ La'antum 'Ashaddu Rahbatan Fī Şudūrihim Mina Allāhi Dhālika Bi'annahum Qawm
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَأَنْتُمْ أَشَدُّ رَهْبَةً فِي صُدُورِهِمْ مِنَ اللَّهِ ذَلِكَ بِأَنَّهُمْ قَوْمٌ لَا يَفْقَهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لانتم اشد رهبة في صدورهم من الله ذلك بانهم قوم لا يفقهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَأَنتُمۡ أَشَدُّ رَهۡبَةࣰ فِی صُدُورِهِم مِّنَ ٱللَّهِۚ ذَ ٰلِكَ بِأَنَّهُمۡ قَوۡمࣱ لَّا یَفۡقَهُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fa'in Kadhabūka Faqad Kudhiba Rusulun Min Qablika Jā'ū Bil-Bayyināti Wa Az-Z
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنْ كَذَّبُوكَ فَقَدْ كُذِّبَ رُسُلٌ مِنْ قَبْلِكَ جَاءُوا بِالْبَيِّنَاتِ وَالزُّبُرِ وَالْكِتَابِ الْمُنِيرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فان كذبوك فقد كذب رسل من قبلك جاءوا بالبينات والزبر والكتاب المنير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِن كَذَّبُوكَ فَقَدۡ كُذِّبَ رُسُلࣱ مِّن قَبۡلِكَ جَاۤءُو بِٱلۡبَیِّنَـٰتِ وَٱلزُّبُرِ وَٱلۡكِتَـٰبِ ٱلۡمُنِیرِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Laqad 'Ātaynā Mūsá Al-Kitāba Wa Ja'alnā Ma'ahu 'Akhāhu Hārūna Wazīr
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ وَجَعَلْنَا مَعَهُ أَخَاهُ هَارُونَ وَزِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد اتينا موسى الكتاب وجعلنا معه اخاه هارون وزيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ ءَاتَیۡنَا مُوسَى ٱلۡكِتَـٰبَ وَجَعَلۡنَا مَعَهُۥۤ أَخَاهُ هَـٰرُونَ وَزِیرࣰا
 
 | Details |  |

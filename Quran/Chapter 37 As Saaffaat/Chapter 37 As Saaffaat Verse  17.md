@@ -452,6 +452,18 @@ Awa'ābā'uunā Al-'Awwalūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوَآبَاؤُنَا الْأَوَّلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اواباونا الاولون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوَ ءَابَاۤؤُنَا ٱلۡأَوَّلُونَ
 
 | Details |  |

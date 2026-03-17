@@ -452,6 +452,18 @@ Lā Taj'arū Al-Yawma 'Innakum Minnā Lā Tunşarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا تَجْأَرُوا الْيَوْمَ إِنَّكُمْ مِنَّا لَا تُنْصَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا تجاروا اليوم انكم منا لا تنصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا تَجۡءَرُوا۟ ٱلۡیَوۡمَۖ إِنَّكُم مِّنَّا لَا تُنصَرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Ar-Rujza Fāhjur
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالرُّجْزَ فَاهْجُرْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والرجز فاهجر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلرُّجۡزَ فَٱهۡجُرۡ
 
 | Details |  |

@@ -452,6 +452,18 @@ Bali Al-'Insānu 'Alá Nafsihi Başīrahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلِ الْإِنْسَانُ عَلَى نَفْسِهِ بَصِيرَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل الانسان على نفسه بصيرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلِ ٱلۡإِنسَـٰنُ عَلَىٰ نَفۡسِهِۦ بَصِیرَةࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla Lā Tathrība 'Alaykumu Al-Yawma Yaghfiru Allāhu Lakum Wa Huwa 'Arĥamu A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ يَغْفِرُ اللَّهُ لَكُمْ وَهُوَ أَرْحَمُ الرَّاحِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال لا تثريب عليكم اليوم يغفر الله لكم وهو ارحم الراحمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ لَا تَثۡرِیبَ عَلَیۡكُمُ ٱلۡیَوۡمَۖ یَغۡفِرُ ٱللَّهُ لَكُمۡۖ وَهُوَ أَرۡحَمُ ٱلرَّ ٰحِمِینَ
 
 | Details |  |

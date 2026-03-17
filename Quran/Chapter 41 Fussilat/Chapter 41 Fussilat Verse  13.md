@@ -452,6 +452,18 @@ Fa'in 'A'rađū Faqul 'Andhartukum Şā'iqatan Mithla Şā'iqati 'Ādin Wa Tham�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنْ أَعْرَضُوا فَقُلْ أَنْذَرْتُكُمْ صَاعِقَةً مِثْلَ صَاعِقَةِ عَادٍ وَثَمُودَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فان اعرضوا فقل انذرتكم صاعقة مثل صاعقة عاد وثمود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِنۡ أَعۡرَضُوا۟ فَقُلۡ أَنذَرۡتُكُمۡ صَـٰعِقَةࣰ مِّثۡلَ صَـٰعِقَةِ عَادࣲ وَثَمُودَ
 
 | Details |  |

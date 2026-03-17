@@ -452,6 +452,18 @@ Wa Lā Takūnū Kālladhīna Nasū Allāha Fa'ansāhum 'Anfusahum 'Ūlā'ika Hum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ أُولَئِكَ هُمُ الْفَاسِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تكونوا كالذين نسوا الله فانساهم انفسهم اوليك هم الفاسقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تَكُونُوا۟ كَٱلَّذِینَ نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمۡ أَنفُسَهُمۡۚ أُو۟لَـٰۤئِكَ هُمُ ٱلۡفَـٰسِقُونَ
 
 | Details |  |

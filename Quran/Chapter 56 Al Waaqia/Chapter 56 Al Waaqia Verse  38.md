@@ -452,6 +452,18 @@ Li'aşĥābi Al-Yamīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِأَصْحَابِ الْيَمِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لاصحاب اليمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِّأَصۡحَـٰبِ ٱلۡیَمِینِ
 
 | Details |  |

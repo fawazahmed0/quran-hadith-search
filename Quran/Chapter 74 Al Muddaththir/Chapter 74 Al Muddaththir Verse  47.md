@@ -452,6 +452,18 @@ Hatta 'Atana Al-Yaqinu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+حَتَّى أَتَانَا الْيَقِينُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+حتى اتانا اليقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 حَتَّىٰۤ أَتَىٰنَا ٱلۡیَقِینُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Lahum Mā Yashā'ūna Fīhā Wa Ladaynā Mazīdun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَهُمْ مَا يَشَاءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لهم ما يشاءون فيها ولدينا مزيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَهُم مَّا یَشَاۤءُونَ فِیهَا وَلَدَیۡنَا مَزِیدࣱ
 
 | Details |  |

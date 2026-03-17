@@ -452,6 +452,18 @@ Latarkabunna Å¢abaqÄan 'An Å¢abaqin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لتركبن طبقا عن طبق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَتَرۡكَبُنَّ طَبَقًا عَن طَبَقࣲ
 
 | Details |  |

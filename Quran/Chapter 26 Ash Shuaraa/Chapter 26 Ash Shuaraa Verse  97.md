@@ -452,6 +452,18 @@ Ta-Allāhi 'In Kunnā Lafī Đalālin Mubīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَاللَّهِ إِنْ كُنَّا لَفِي ضَلَالٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تالله ان كنا لفي ضلال مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَٱللَّهِ إِن كُنَّا لَفِی ضَلَـٰلࣲ مُّبِینٍ
 
 | Details |  |

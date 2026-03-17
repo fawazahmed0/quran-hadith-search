@@ -452,6 +452,18 @@ Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فباي الاء ربكما تكذبان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ
 
 | Details |  |

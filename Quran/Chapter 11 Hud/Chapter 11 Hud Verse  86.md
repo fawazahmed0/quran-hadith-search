@@ -452,6 +452,18 @@ Baqīyatu Allāhi Khayrun Lakum 'In Kuntum Mu'uminīna Wa Mā 'Anā 'Alaykum Bi�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَقِيَّتُ اللَّهِ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ وَمَا أَنَا عَلَيْكُمْ بِحَفِيظٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بقيت الله خير لكم ان كنتم مومنين وما انا عليكم بحفيظ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَقِیَّتُ ٱللَّهِ خَیۡرࣱ لَّكُمۡ إِن كُنتُم مُّؤۡمِنِینَۚ وَمَاۤ أَنَا۠ عَلَیۡكُم بِحَفِیظࣲ
 
 | Details |  |

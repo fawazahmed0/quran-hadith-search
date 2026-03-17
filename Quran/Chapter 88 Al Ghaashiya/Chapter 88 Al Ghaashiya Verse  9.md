@@ -452,6 +452,18 @@ Lisa'yihā Rāđiyahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِسَعْيِهَا رَاضِيَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لسعيها راضية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِّسَعۡیِهَا رَاضِیَةࣱ
 
 | Details |  |

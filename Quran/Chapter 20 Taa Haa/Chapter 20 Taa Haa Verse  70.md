@@ -452,6 +452,18 @@ Fa'ulqiya As-Saĥaratu Sujjadāan Qālū 'Āmannā Birabbi Hārūna Wa Mūsá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأُلْقِيَ السَّحَرَةُ سُجَّدًا قَالُوا آمَنَّا بِرَبِّ هَارُونَ وَمُوسَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالقي السحرة سجدا قالوا امنا برب هارون وموسى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأُلۡقِیَ ٱلسَّحَرَةُ سُجَّدࣰا قَالُوۤا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ
 
 | Details |  |

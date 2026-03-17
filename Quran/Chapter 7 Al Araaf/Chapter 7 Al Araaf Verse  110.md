@@ -452,6 +452,18 @@ Yurīdu 'An Yukhrijakum Min 'Arđikum Famādhā Ta'murūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُرِيدُ أَنْ يُخْرِجَكُمْ مِنْ أَرْضِكُمْ فَمَاذَا تَأْمُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يريد ان يخرجكم من ارضكم فماذا تامرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُرِیدُ أَن یُخۡرِجَكُم مِّنۡ أَرۡضِكُمۡۖ فَمَاذَا تَأۡمُرُونَ
 
 | Details |  |

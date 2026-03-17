@@ -452,6 +452,18 @@ Idh Yatalaqqá Al-Mutalaqqiyāni 'Ani Al-Yamīni Wa 'Ani Ash-Shimāli Qa'īdun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ يَتَلَقَّى الْمُتَلَقِّيَانِ عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ قَعِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ يتلقى المتلقيان عن اليمين وعن الشمال قعيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ یَتَلَقَّى ٱلۡمُتَلَقِّیَانِ عَنِ ٱلۡیَمِینِ وَعَنِ ٱلشِّمَالِ قَعِیدࣱ
 
 | Details |  |

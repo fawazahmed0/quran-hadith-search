@@ -452,6 +452,18 @@ Yā Mūsá 'Innahu 'Anā Allāhu Al-'Azīzu Al-Ĥakīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا مُوسَى إِنَّهُ أَنَا اللَّهُ الْعَزِيزُ الْحَكِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا موسى انه انا الله العزيز الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰمُوسَىٰۤ إِنَّهُۥۤ أَنَا ٱللَّهُ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
 
 | Details |  |

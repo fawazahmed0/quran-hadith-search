@@ -452,6 +452,18 @@ Wa 'AmmÄ Man 'Åªtiya KitÄbahu WarÄ'a Å½ahrihi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما من اوتي كتابه وراء ظهره
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمَّا مَنۡ أُوتِیَ كِتَـٰبَهُۥ وَرَاۤءَ ظَهۡرِهِۦ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Hum Yanhawna 'Anhu Wa Yan'awna 'Anhu Wa 'In Yuhlikūna 'Illā 'Anfusahum Wa M
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْأَوْنَ عَنْهُ وَإِنْ يُهْلِكُونَ إِلَّا أَنْفُسَهُمْ وَمَا يَشْعُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهم ينهون عنه ويناون عنه وان يهلكون الا انفسهم وما يشعرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُمۡ یَنۡهَوۡنَ عَنۡهُ وَیَنۡءَوۡنَ عَنۡهُۖ وَإِن یُهۡلِكُونَ إِلَّاۤ أَنفُسَهُمۡ وَمَا یَشۡعُرُونَ
 
 | Details |  |

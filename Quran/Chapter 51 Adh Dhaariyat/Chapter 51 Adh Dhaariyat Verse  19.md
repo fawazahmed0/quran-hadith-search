@@ -452,6 +452,18 @@ Wa Fī 'Amwālihim Ĥaqqun Lilssā'ili Wa Al-Maĥrūmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفِي أَمْوَالِهِمْ حَقٌّ لِلسَّائِلِ وَالْمَحْرُومِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفي اموالهم حق للسايل والمحروم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفِیۤ أَمۡوَ ٰلِهِمۡ حَقࣱّ لِّلسَّاۤئِلِ وَٱلۡمَحۡرُومِ
 
 | Details |  |

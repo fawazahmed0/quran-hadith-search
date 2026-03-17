@@ -452,6 +452,18 @@ Am Lakum Kitābun Fīhi Tadrusūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ لَكُمْ كِتَابٌ فِيهِ تَدْرُسُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام لكم كتاب فيه تدرسون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ لَكُمۡ كِتَـٰبࣱ فِیهِ تَدۡرُسُونَ
 
 | Details |  |

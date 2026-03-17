@@ -452,6 +452,18 @@ Wa 'Idhā Dhukkirū Lā Yadhkurūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا ذُكِّرُوا لَا يَذْكُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا ذكروا لا يذكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ذُكِّرُوا۟ لَا یَذۡكُرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Illā Al-Ladhīna Şabarū Wa 'Amilū Aş-Şāliĥāti 'Ūlā'ika Lahum Maghfira
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا الَّذِينَ صَبَرُوا وَعَمِلُوا الصَّالِحَاتِ أُولَئِكَ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ كَبِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا الذين صبروا وعملوا الصالحات اوليك لهم مغفرة واجر كبير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا ٱلَّذِینَ صَبَرُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰۤئِكَ لَهُم مَّغۡفِرَةࣱ وَأَجۡرࣱ كَبِیرࣱ
 
 | Details |  |

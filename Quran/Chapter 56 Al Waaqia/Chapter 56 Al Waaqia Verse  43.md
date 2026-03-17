@@ -452,6 +452,18 @@ Wa Žillin Min Yaĥmūmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَظِلٍّ مِنْ يَحْمُومٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وظل من يحموم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَظِلࣲّ مِّن یَحۡمُومࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Allāhu Yabsuţu Ar-Rizqa Liman Yashā'u Min 'Ibādihi Wa Yaqdiru Lahu 'Inna All
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اللَّهُ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ لَهُ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الله يبسط الرزق لمن يشاء من عباده ويقدر له ان الله بكل شيء عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱللَّهُ یَبۡسُطُ ٱلرِّزۡقَ لِمَن یَشَاۤءُ مِنۡ عِبَادِهِۦ وَیَقۡدِرُ لَهُۥۤۚ إِنَّ ٱللَّهَ بِكُلِّ شَیۡءٍ عَلِیمࣱ
 
 | Details |  |

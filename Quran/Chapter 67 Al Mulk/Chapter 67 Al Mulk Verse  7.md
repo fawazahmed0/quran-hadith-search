@@ -452,6 +452,18 @@ Idhā 'Ulqū Fīhā Sami'ū Lahā Shahīqāan Wa Hiya Tafūru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذَا أُلْقُوا فِيهَا سَمِعُوا لَهَا شَهِيقًا وَهِيَ تَفُورُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذا القوا فيها سمعوا لها شهيقا وهي تفور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذَاۤ أُلۡقُوا۟ فِیهَا سَمِعُوا۟ لَهَا شَهِیقࣰا وَهِیَ تَفُورُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Alā Yažunnu 'Ūla'ika 'Annahum Mab'ūthūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَا يَظُنُّ أُولَئِكَ أَنَّهُمْ مَبْعُوثُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا يظن اوليك انهم مبعوثون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَا یَظُنُّ أُو۟لَـٰۤئِكَ أَنَّهُم مَّبۡعُوثُونَ
 
 | Details |  |

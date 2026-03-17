@@ -452,6 +452,18 @@ Wa 'Anna 'Ilá Rabbika Al-Muntahá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّ إِلَى رَبِّكَ الْمُنْتَهَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان الى ربك المنتهى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّ إِلَىٰ رَبِّكَ ٱلۡمُنتَهَىٰ
 
 | Details |  |

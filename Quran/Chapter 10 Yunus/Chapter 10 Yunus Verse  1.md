@@ -452,6 +452,18 @@ Alif-Lām-Rā Tilka 'Āyātu Al-Kitābi Al-Ĥakīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الر تِلْكَ آيَاتُ الْكِتَابِ الْحَكِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الر تلك ايات الكتاب الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 الۤرۚ تِلۡكَ ءَایَـٰتُ ٱلۡكِتَـٰبِ ٱلۡحَكِیمِ
 
 | Details |  |

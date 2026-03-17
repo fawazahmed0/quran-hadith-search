@@ -452,6 +452,18 @@ Al-Ladhī Khalaqanī Fahuwa Yahdīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي خَلَقَنِي فَهُوَ يَهْدِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي خلقني فهو يهدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِی خَلَقَنِی فَهُوَ یَهۡدِینِ
 
 | Details |  |

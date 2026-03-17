@@ -452,6 +452,18 @@ Allāhu Lā 'Ilāha 'Illā Huwa Wa 'Alá Allāhi Falyatawakkali Al-Mu'uminūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اللَّهُ لَا إِلَهَ إِلَّا هُوَ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الله لا اله الا هو وعلى الله فليتوكل المومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱللَّهُ لَاۤ إِلَـٰهَ إِلَّا هُوَۚ وَعَلَى ٱللَّهِ فَلۡیَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ
 
 | Details |  |

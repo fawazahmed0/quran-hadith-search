@@ -452,6 +452,18 @@ Wa Qad Kafarū Bihi Min Qablu Wa Yaqdhifūna Bil-Ghaybi Min Makānin Ba'īdin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَدْ كَفَرُوا بِهِ مِنْ قَبْلُ وَيَقْذِفُونَ بِالْغَيْبِ مِنْ مَكَانٍ بَعِيدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقد كفروا به من قبل ويقذفون بالغيب من مكان بعيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَدۡ كَفَرُوا۟ بِهِۦ مِن قَبۡلُۖ وَیَقۡذِفُونَ بِٱلۡغَیۡبِ مِن مَّكَانِۭ بَعِیدࣲ
 
 | Details |  |

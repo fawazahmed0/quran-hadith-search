@@ -452,6 +452,18 @@ Wa 'Aghţasha Laylahā Wa 'Akhraja Đuĥāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واغطش ليلها واخرج ضحاها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَغۡطَشَ لَیۡلَهَا وَأَخۡرَجَ ضُحَىٰهَا
 
 | Details |  |

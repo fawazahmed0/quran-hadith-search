@@ -452,6 +452,18 @@ Wa Atlu Mā 'Ūĥiya 'Ilayka Min Kitābi Rabbika Lā Mubaddila Likalimātihi Wa 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاتْلُ مَا أُوحِيَ إِلَيْكَ مِنْ كِتَابِ رَبِّكَ لَا مُبَدِّلَ لِكَلِمَاتِهِ وَلَنْ تَجِدَ مِنْ دُونِهِ مُلْتَحَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتل ما اوحي اليك من كتاب ربك لا مبدل لكلماته ولن تجد من دونه ملتحدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱتۡلُ مَاۤ أُوحِیَ إِلَیۡكَ مِن كِتَابِ رَبِّكَۖ لَا مُبَدِّلَ لِكَلِمَـٰتِهِۦ وَلَن تَجِدَ مِن دُونِهِۦ مُلۡتَحَدࣰا
 
 | Details |  |

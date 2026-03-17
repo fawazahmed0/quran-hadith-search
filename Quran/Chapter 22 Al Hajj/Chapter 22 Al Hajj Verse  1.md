@@ -452,6 +452,18 @@ Yā 'Ayyuhā An-Nāsu Attaqū Rabbakum 'Inna Zalzalata As-Sā'ati Shay'un 'Ažī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ إِنَّ زَلْزَلَةَ السَّاعَةِ شَيْءٌ عَظِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايها الناس اتقوا ربكم ان زلزلة الساعة شيء عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ یَـٰۤأَیُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمۡۚ إِنَّ زَلۡزَلَةَ ٱلسَّاعَةِ شَیۡءٌ عَظِیمࣱ
 
 | Details |  |

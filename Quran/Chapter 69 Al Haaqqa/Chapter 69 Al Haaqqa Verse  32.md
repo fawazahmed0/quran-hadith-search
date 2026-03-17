@@ -452,6 +452,18 @@ Thumma Fī Silsilatin Dhar'uhā Sab'ūna Dhirā'āan Fāslukūhu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ فِي سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَاسْلُكُوهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم في سلسلة ذرعها سبعون ذراعا فاسلكوه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ فِی سِلۡسِلَةࣲ ذَرۡعُهَا سَبۡعُونَ ذِرَاعࣰا فَٱسۡلُكُوهُ
 
 | Details |  |

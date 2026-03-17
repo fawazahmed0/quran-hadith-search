@@ -452,6 +452,18 @@ Tad'ū Man 'Adbara Wa Tawallá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَدْعُو مَنْ أَدْبَرَ وَتَوَلَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تدعو من ادبر وتولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَدۡعُوا۟ مَنۡ أَدۡبَرَ وَتَوَلَّىٰ
 
 | Details |  |

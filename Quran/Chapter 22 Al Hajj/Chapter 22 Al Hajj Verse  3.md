@@ -452,6 +452,18 @@ Wa Mina An-Nāsi Man Yujādilu Fī Allāhi Bighayri 'Ilmin Wa Yattabi'u Kulla Sh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنَ النَّاسِ مَنْ يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّبِعُ كُلَّ شَيْطَانٍ مَرِيدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن الناس من يجادل في الله بغير علم ويتبع كل شيطان مريد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِنَ ٱلنَّاسِ مَن یُجَـٰدِلُ فِی ٱللَّهِ بِغَیۡرِ عِلۡمࣲ وَیَتَّبِعُ كُلَّ شَیۡطَـٰنࣲ مَّرِیدࣲ
 
 | Details |  |

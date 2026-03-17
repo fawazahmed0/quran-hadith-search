@@ -452,6 +452,18 @@ Yā 'Abati 'Innī Qad Jā'anī Mina Al-'Ilmi Mā Lam Ya'tika Fa Attabi'nī 'Ahdi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَبَتِ إِنِّي قَدْ جَاءَنِي مِنَ الْعِلْمِ مَا لَمْ يَأْتِكَ فَاتَّبِعْنِي أَهْدِكَ صِرَاطًا سَوِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ابت اني قد جاءني من العلم ما لم ياتك فاتبعني اهدك صراطا سويا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَبَتِ إِنِّی قَدۡ جَاۤءَنِی مِنَ ٱلۡعِلۡمِ مَا لَمۡ یَأۡتِكَ فَٱتَّبِعۡنِیۤ أَهۡدِكَ صِرَ ٰطࣰا سَوِیࣰّا
 
 | Details |  |

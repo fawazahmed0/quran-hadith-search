@@ -452,6 +452,18 @@ Tilka 'Idhāan Qismatun Đīzá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تِلْكَ إِذًا قِسْمَةٌ ضِيزَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تلك اذا قسمة ضيزى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تِلۡكَ إِذࣰا قِسۡمَةࣱ ضِیزَىٰۤ
 
 | Details |  |

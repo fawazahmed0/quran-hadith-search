@@ -452,6 +452,18 @@ Wa Mā Naĥnu Bimu'adhabīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا نَحْنُ بِمُعَذَّبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما نحن بمعذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا نَحۡنُ بِمُعَذَّبِینَ
 
 | Details |  |

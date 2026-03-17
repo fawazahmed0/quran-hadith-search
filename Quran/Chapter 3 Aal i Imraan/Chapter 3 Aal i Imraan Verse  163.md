@@ -452,6 +452,18 @@ Hum Darajātun 'Inda Allāhi Wa Allāhu Başīrun Bimā Ya'malūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُمْ دَرَجَاتٌ عِنْدَ اللَّهِ وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هم درجات عند الله والله بصير بما يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُمۡ دَرَجَـٰتٌ عِندَ ٱللَّهِۗ وَٱللَّهُ بَصِیرُۢ بِمَا یَعۡمَلُونَ
 
 | Details |  |

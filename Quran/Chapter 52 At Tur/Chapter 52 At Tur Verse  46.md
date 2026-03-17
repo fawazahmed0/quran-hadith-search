@@ -452,6 +452,18 @@ Yawma Lā Yughnī 'Anhum Kayduhum Shay'āan Wa Lā Hum Yunşarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ لَا يُغْنِي عَنْهُمْ كَيْدُهُمْ شَيْئًا وَلَا هُمْ يُنْصَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم لا يغني عنهم كيدهم شييا ولا هم ينصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ لَا یُغۡنِی عَنۡهُمۡ كَیۡدُهُمۡ شَیۡءࣰا وَلَا هُمۡ یُنصَرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Thumma Nažara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ نَظَرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم نظر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ نَظَرَ
 
 | Details |  |

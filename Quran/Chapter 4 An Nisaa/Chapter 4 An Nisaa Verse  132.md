@@ -452,6 +452,18 @@ Wa Lillahi Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa Kafá Billāhi Wa Kīl�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَى بِاللَّهِ وَكِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولله ما في السماوات وما في الارض وكفى بالله وكيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِلَّهِ مَا فِی ٱلسَّمَـٰوَ ٰتِ وَمَا فِی ٱلۡأَرۡضِۚ وَكَفَىٰ بِٱللَّهِ وَكِیلًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Yaqūlūna Matá Hādhā Al-Wa'du 'In Kuntum Şādiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَقُولُونَ مَتَى هَذَا الْوَعْدُ إِنْ كُنْتُمْ صَادِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويقولون متى هذا الوعد ان كنتم صادقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَقُولُونَ مَتَىٰ هَـٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَـٰدِقِینَ
 
 | Details |  |

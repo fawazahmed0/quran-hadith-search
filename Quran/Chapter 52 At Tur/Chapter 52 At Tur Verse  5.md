@@ -452,6 +452,18 @@ Wa As-Saqfi Al-Marfū'i
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالسَّقْفِ الْمَرْفُوعِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والسقف المرفوع
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلسَّقۡفِ ٱلۡمَرۡفُوعِ
 
 | Details |  |

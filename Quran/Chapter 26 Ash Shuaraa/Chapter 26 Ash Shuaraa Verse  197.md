@@ -452,6 +452,18 @@ Awalam Yakun Lahum 'Āyatan 'An Ya'lamahu 'Ulamā'u Banī 'Isrā'īla
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوَلَمْ يَكُنْ لَهُمْ آيَةً أَنْ يَعْلَمَهُ عُلَمَاءُ بَنِي إِسْرَائِيلَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اولم يكن لهم اية ان يعلمه علماء بني اسراييل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوَ لَمۡ یَكُن لَّهُمۡ ءَایَةً أَن یَعۡلَمَهُۥ عُلَمَـٰۤؤُا۟ بَنِیۤ إِسۡرَ ٰۤءِیلَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Ya'rifūna Ni'mata Allāhi Thumma Yunkirūnahā Wa 'Aktharuhumu Al-Kāfirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَعْرِفُونَ نِعْمَتَ اللَّهِ ثُمَّ يُنْكِرُونَهَا وَأَكْثَرُهُمُ الْكَافِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يعرفون نعمت الله ثم ينكرونها واكثرهم الكافرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَعۡرِفُونَ نِعۡمَتَ ٱللَّهِ ثُمَّ یُنكِرُونَهَا وَأَكۡثَرُهُمُ ٱلۡكَـٰفِرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Am 'Indahum Khazā'inu Rabbika 'Am Humu Al-Musayţirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ عِنْدَهُمْ خَزَائِنُ رَبِّكَ أَمْ هُمُ الْمُصَيْطِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام عندهم خزاين ربك ام هم المصيطرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ عِندَهُمۡ خَزَاۤئِنُ رَبِّكَ أَمۡ هُمُ ٱلۡمُصَۣیۡطِرُونَ
 
 | Details |  |

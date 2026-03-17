@@ -452,6 +452,18 @@ Innā Nakhāfu Min Rabbinā Yawmāan 'Abūsāan Qamţarīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا نَخَافُ مِنْ رَبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا نخاف من ربنا يوما عبوسا قمطريرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا نَخَافُ مِن رَّبِّنَا یَوۡمًا عَبُوسࣰا قَمۡطَرِیرࣰا
 
 | Details |  |

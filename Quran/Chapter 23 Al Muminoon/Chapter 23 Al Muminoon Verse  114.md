@@ -452,6 +452,18 @@ Qāla 'In Labithtum 'Illā Qalīlāan Law 'Annakum Kuntum Ta'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ إِنْ لَبِثْتُمْ إِلَّا قَلِيلًا لَوْ أَنَّكُمْ كُنْتُمْ تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال ان لبثتم الا قليلا لو انكم كنتم تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَـٰلَ إِن لَّبِثۡتُمۡ إِلَّا قَلِیلࣰاۖ لَّوۡ أَنَّكُمۡ كُنتُمۡ تَعۡلَمُونَ
 
 | Details |  |

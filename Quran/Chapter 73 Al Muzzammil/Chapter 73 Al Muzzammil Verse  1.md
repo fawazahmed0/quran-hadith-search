@@ -452,6 +452,18 @@ Yā 'Ayyuhā Al-Muzzammilu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيُّهَا الْمُزَّمِّلُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايها المزمل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَیُّهَا ٱلۡمُزَّمِّلُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Bali As-Sā'atu Maw'iduhum Wa As-Sā'atu 'Ad/há Wa 'Amarru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلِ السَّاعَةُ مَوْعِدُهُمْ وَالسَّاعَةُ أَدْهَى وَأَمَرُّ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل الساعة موعدهم والساعة ادهى وامر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلِ ٱلسَّاعَةُ مَوۡعِدُهُمۡ وَٱلسَّاعَةُ أَدۡهَىٰ وَأَمَرُّ
 
 | Details |  |

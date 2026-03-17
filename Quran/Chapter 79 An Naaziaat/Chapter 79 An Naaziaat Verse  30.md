@@ -452,6 +452,18 @@ Wa Al-'Arđa Ba'da Dhālika Daĥāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْأَرْضَ بَعْدَ ذَلِكَ دَحَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والارض بعد ذلك دحاها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡأَرۡضَ بَعۡدَ ذَ ٰلِكَ دَحَىٰهَاۤ
 
 | Details |  |

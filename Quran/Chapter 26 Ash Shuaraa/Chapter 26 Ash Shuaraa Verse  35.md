@@ -452,6 +452,18 @@ YurÄ«du 'An Yukhrijakum Min 'ArÄ‘ikum BisiÄ¥rihi FamÄdhÄ Ta'murÅ«
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُرِيدُ أَنْ يُخْرِجَكُمْ مِنْ أَرْضِكُمْ بِسِحْرِهِ فَمَاذَا تَأْمُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يريد ان يخرجكم من ارضكم بسحره فماذا تامرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُرِیدُ أَن یُخۡرِجَكُم مِّنۡ أَرۡضِكُم بِسِحۡرِهِۦ فَمَاذَا تَأۡمُرُونَ
 
 | Details |  |

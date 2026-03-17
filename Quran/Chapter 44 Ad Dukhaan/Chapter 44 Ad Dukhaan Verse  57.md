@@ -452,6 +452,18 @@ Fađlāan Min Rabbika Dhālika Huwa Al-Fawzu Al-'Ažīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَضْلًا مِنْ رَبِّكَ ذَلِكَ هُوَ الْفَوْزُ الْعَظِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فضلا من ربك ذلك هو الفوز العظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَضۡلࣰا مِّن رَّبِّكَۚ ذَ ٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِیمُ
 
 | Details |  |

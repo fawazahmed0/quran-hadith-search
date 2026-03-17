@@ -452,6 +452,18 @@ Wa Narāhu Qarībāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَرَاهُ قَرِيبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونراه قريبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَرَىٰهُ قَرِیبࣰا
 
 | Details |  |

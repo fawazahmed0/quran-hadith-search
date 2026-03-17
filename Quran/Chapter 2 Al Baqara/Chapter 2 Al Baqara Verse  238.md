@@ -452,6 +452,18 @@ Hafizu 'Ala As-Salawati Wa As-Salaati Al-Wusta Wa Qumu Lillahi Qanitina
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَى وَقُومُوا لِلَّهِ قَانِتِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+حافظوا على الصلوات والصلاة الوسطى وقوموا لله قانتين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 حَـٰفِظُوا۟ عَلَى ٱلصَّلَوَ ٰتِ وَٱلصَّلَوٰةِ ٱلۡوُسۡطَىٰ وَقُومُوا۟ لِلَّهِ قَـٰنِتِینَ
 
 | Details |  |

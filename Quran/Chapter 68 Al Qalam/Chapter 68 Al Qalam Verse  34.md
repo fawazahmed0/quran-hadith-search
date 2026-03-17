@@ -452,6 +452,18 @@ Inna Lilmuttaqīna 'Inda Rabbihim Jannāti An-Na'īmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ لِلْمُتَّقِينَ عِنْدَ رَبِّهِمْ جَنَّاتِ النَّعِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان للمتقين عند ربهم جنات النعيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ لِلۡمُتَّقِینَ عِندَ رَبِّهِمۡ جَنَّـٰتِ ٱلنَّعِیمِ
 
 | Details |  |

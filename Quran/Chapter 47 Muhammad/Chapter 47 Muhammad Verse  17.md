@@ -452,6 +452,18 @@ Wa Al-Ladhīna Ahtadaw Zādahum Hudáan Wa 'Ātāhum Taqwhum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ اهْتَدَوْا زَادَهُمْ هُدًى وَآتَاهُمْ تَقْوَاهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين اهتدوا زادهم هدى واتاهم تقواهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ ٱهۡتَدَوۡا۟ زَادَهُمۡ هُدࣰى وَءَاتَىٰهُمۡ تَقۡوَىٰهُمۡ
 
 | Details |  |

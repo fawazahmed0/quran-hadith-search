@@ -452,6 +452,18 @@ Wa Laqad Şabbaĥahum Bukratan 'Adhābun Mustaqirrun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ صَبَّحَهُمْ بُكْرَةً عَذَابٌ مُسْتَقِرٌّ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد صبحهم بكرة عذاب مستقر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ صَبَّحَهُم بُكۡرَةً عَذَابࣱ مُّسۡتَقِرࣱّ
 
 | Details |  |

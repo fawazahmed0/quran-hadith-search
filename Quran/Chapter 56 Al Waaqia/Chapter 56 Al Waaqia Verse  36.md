@@ -452,6 +452,18 @@ Faja'alnāhunna 'Abkārāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَجَعَلْنَاهُنَّ أَبْكَارًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فجعلناهن ابكارا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَجَعَلۡنَـٰهُنَّ أَبۡكَارًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Laqad Waşşalnā Lahumu Al-Qawla La'allahum Yatadhakkarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ وَصَّلْنَا لَهُمُ الْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد وصلنا لهم القول لعلهم يتذكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَلَقَدۡ وَصَّلۡنَا لَهُمُ ٱلۡقَوۡلَ لَعَلَّهُمۡ یَتَذَكَّرُونَ
 
 | Details |  |

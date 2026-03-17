@@ -452,6 +452,18 @@ Rabbi Najjinī Wa 'Ahlī Mimmā Ya'malūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبِّ نَجِّنِي وَأَهْلِي مِمَّا يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+رب نجني واهلي مما يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَبِّ نَجِّنِی وَأَهۡلِی مِمَّا یَعۡمَلُونَ
 
 | Details |  |

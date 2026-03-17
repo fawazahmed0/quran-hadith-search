@@ -452,6 +452,18 @@ Ka'annahum Yawma Yarawnahā Lam Yalbathū 'Illā 'Ashīyatan 'Aw Đuĥāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوا إِلَّا عَشِيَّةً أَوْ ضُحَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كانهم يوم يرونها لم يلبثوا الا عشية او ضحاها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَأَنَّهُمۡ یَوۡمَ یَرَوۡنَهَا لَمۡ یَلۡبَثُوۤا۟ إِلَّا عَشِیَّةً أَوۡ ضُحَىٰهَا
 
 | Details |  |

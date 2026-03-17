@@ -452,6 +452,18 @@ Innaka Lamina Al-Mursalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّكَ لَمِنَ الْمُرْسَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انك لمن المرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّكَ لَمِنَ ٱلۡمُرۡسَلِینَ
 
 | Details |  |

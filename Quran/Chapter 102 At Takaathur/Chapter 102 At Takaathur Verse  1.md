@@ -452,6 +452,18 @@ Alhākumu At-Takāthuru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلْهَاكُمُ التَّكَاثُرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الهاكم التكاثر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Yu'rafu Al-Mujrimūna Bisīmāhum Fayu'ukhadhu Bin-Nawāşī Wa Al-'Aqdāmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي وَالْأَقْدَامِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يعرف المجرمون بسيماهم فيوخذ بالنواصي والاقدام
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُعۡرَفُ ٱلۡمُجۡرِمُونَ بِسِیمَـٰهُمۡ فَیُؤۡخَذُ بِٱلنَّوَ ٰصِی وَٱلۡأَقۡدَامِ
 
 | Details |  |

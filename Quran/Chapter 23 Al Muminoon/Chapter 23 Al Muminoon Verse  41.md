@@ -452,6 +452,18 @@ Fa'akhadhat/humu Aş-Şayĥatu Bil-Ĥaqqi Faja'alnāhum Ghuthā'an Fabu'dāan Li
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَخَذَتْهُمُ الصَّيْحَةُ بِالْحَقِّ فَجَعَلْنَاهُمْ غُثَاءً فَبُعْدًا لِلْقَوْمِ الظَّالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاخذتهم الصيحة بالحق فجعلناهم غثاء فبعدا للقوم الظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَخَذَتۡهُمُ ٱلصَّیۡحَةُ بِٱلۡحَقِّ فَجَعَلۡنَـٰهُمۡ غُثَاۤءࣰۚ فَبُعۡدࣰا لِّلۡقَوۡمِ ٱلظَّـٰلِمِینَ
 
 | Details |  |

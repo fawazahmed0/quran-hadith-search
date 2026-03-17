@@ -452,6 +452,18 @@ Wa Kāna Ya'muru 'Ahlahu Biş-Şalāati Wa Az-Zakāati Wa Kāna 'Inda Rabbihi Ma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَانَ يَأْمُرُ أَهْلَهُ بِالصَّلَاةِ وَالزَّكَاةِ وَكَانَ عِنْدَ رَبِّهِ مَرْضِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكان يامر اهله بالصلاة والزكاة وكان عند ربه مرضيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَانَ یَأۡمُرُ أَهۡلَهُۥ بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ وَكَانَ عِندَ رَبِّهِۦ مَرۡضِیࣰّا
 
 | Details |  |

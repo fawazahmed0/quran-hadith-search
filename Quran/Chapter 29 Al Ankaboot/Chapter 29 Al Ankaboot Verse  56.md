@@ -452,6 +452,18 @@ Yā 'Ibādiya Al-Ladhīna 'Āmanū 'Inna 'Arđī Wāsi'atun Fa'īyāya Fā'budū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا عِبَادِيَ الَّذِينَ آمَنُوا إِنَّ أَرْضِي وَاسِعَةٌ فَإِيَّايَ فَاعْبُدُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا عبادي الذين امنوا ان ارضي واسعة فاياي فاعبدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰعِبَادِیَ ٱلَّذِینَ ءَامَنُوۤا۟ إِنَّ أَرۡضِی وَ ٰسِعَةࣱ فَإِیَّـٰیَ فَٱعۡبُدُونِ
 
 | Details |  |

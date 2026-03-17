@@ -452,6 +452,18 @@ Wa Lawlā Fađlu Allāhi 'Alaykum Wa Raĥmatuhu Wa 'Anna Allāha Ra'ūfun Raĥī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ وَأَنَّ اللَّهَ رَءُوفٌ رَحِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولولا فضل الله عليكم ورحمته وان الله رءوف رحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَیۡكُمۡ وَرَحۡمَتُهُۥ وَأَنَّ ٱللَّهَ رَءُوفࣱ رَّحِیمࣱ
 
 | Details |  |

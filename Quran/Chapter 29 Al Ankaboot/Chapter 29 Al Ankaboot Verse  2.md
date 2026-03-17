@@ -452,6 +452,18 @@ Aĥasiba An-Nāsu 'An Yutrakū 'An Yaqūlū 'Āmannā Wa Hum Lā Yuftanūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+احسب الناس ان يتركوا ان يقولوا امنا وهم لا يفتنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَحَسِبَ ٱلنَّاسُ أَن یُتۡرَكُوۤا۟ أَن یَقُولُوۤا۟ ءَامَنَّا وَهُمۡ لَا یُفۡتَنُونَ
 
 | Details |  |

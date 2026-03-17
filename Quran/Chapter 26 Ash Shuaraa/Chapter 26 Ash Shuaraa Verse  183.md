@@ -452,6 +452,18 @@ Wa Lā Tabkhasū An-Nāsa 'Ashyā'ahum Wa Lā Ta'thaw Fī Al-'Arđi Mufsidīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تبخسوا الناس اشياءهم ولا تعثوا في الارض مفسدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تَبۡخَسُوا۟ ٱلنَّاسَ أَشۡیَاۤءَهُمۡ وَلَا تَعۡثَوۡا۟ فِی ٱلۡأَرۡضِ مُفۡسِدِینَ
 
 | Details |  |

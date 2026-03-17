@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي عَبْدِ اللَّهِ النُّعْمَانِ بْنِ بَشِيرٍ رَضِيَ اللَّهُ عَنْهُمَا، قَالَ: سَمِعْت رَسُولَ اللَّهِ صلى الله عليه و سلم يَقُولُ: إنَّ الْحَلَالَ بَيِّنٌ، وَإِنَّ الْحَرَامَ بَيِّنٌ، وَبَيْنَهُمَا أُمُورٌ مُشْتَبِهَاتٌ لَا يَعْلَمُهُنَّ كَثِيرٌ مِنْ النَّاسِ، فَمَنْ اتَّقَى الشُّبُهَاتِ فَقْد اسْتَبْرَأَ لِدِينِهِ وَعِرْضِهِ، وَمَنْ وَقَعَ فِي الشُّبُهَاتِ وَقَعَ فِي الْحَرَامِ، كَالرَّاعِي يَرْعَى حَوْلَ الْحِمَى يُوشِكُ أَنْ يَرْتَعَ فِيهِ، أَلَا وَإِنَّ لِكُلِّ مَلِكٍ حِمًى، أَلَا وَإِنَّ حِمَى اللَّهِ مَحَارِمُهُ، أَلَا وَإِنَّ فِي الْجَسَدِ مُضْغَةً إذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ، وَإذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ، أَلَا وَهِيَ الْقَلْبُ .(br)\[رَوَاهُ الْبُخَارِيُّ\]، \[وَمُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of an-Nu’man ibn Basheer (ra), who said: I heard the Messenge
 ## French
 
 Selon an-Nu’man ibn Bachir (qu’Allah l’agrée), qui a dit : J’ai entendu le Messager d’Allah (ﷺ) dire : « Ce qui est licite est clair, et ce qui est illicite est clair, et entre les deux se trouvent des choses douteuses que beaucoup de gens ne connaissent pas. Celui qui évite les choses douteuses préserve sa religion et son honneur. Celui qui tombe dans les choses douteuses finit par tomber dans l’illicite, comme le berger qui fait paître ses moutons près d’un terrain interdit : il risque d’y entrer. En vérité, chaque roi a un terrain réservé, et le terrain réservé d’Allah ce sont Ses interdits. En vérité, il y a dans le corps un morceau de chair qui, s’il est sain, tout le corps est sain, et s’il est corrompu, tout le corps est corrompu : c’est le cœur. » \[Boukhari & Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6 |
+| Arabic No | 6 |
+| Reference | Book 1 Hadith 6 |
+
+## Turkish
+
+Nu’man bin Beşir (ra) şöyle demiştir: Resulullah'ın (ﷺ) şöyle buyurduğunu işittim: "Helal bellidir, haram da bellidir. İkisi arasında ise insanların çoğunun bilmediği şüpheli şeyler vardır. Kim şüpheli şeylerden kaçınırsa dinini ve şerefini korumuş olur. Kim de şüpheli şeylere düşerse, koruluğun etrafında sürüsünü otlatan ve her an oraya dalma riski olan çoban gibi harama düşer. Dikkat edin! Her melikin bir koruluğu vardır. Allah’ın koruluğu ise haram kıldığı şeylerdir. Dikkat edin! Vücutta bir et parçası vardır; o düzelirse bütün vücut düzelir, o bozulursa bütün vücut bozulur. Dikkat edin, o kalptir!" \[Buhari ve Müslim\]
 
 | References: |  |
 | --- | --- |

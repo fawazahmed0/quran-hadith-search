@@ -452,6 +452,18 @@ Wa Yu'allimuhu Al-Kitāba Wa Al-Ĥikmata Wa At-Tawrāata Wa Al-'Injīla
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيُعَلِّمُهُ الْكِتَابَ وَالْحِكْمَةَ وَالتَّوْرَاةَ وَالْإِنْجِيلَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويعلمه الكتاب والحكمة والتوراة والانجيل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیُعَلِّمُهُ ٱلۡكِتَـٰبَ وَٱلۡحِكۡمَةَ وَٱلتَّوۡرَىٰةَ وَٱلۡإِنجِیلَ
 
 | Details |  |

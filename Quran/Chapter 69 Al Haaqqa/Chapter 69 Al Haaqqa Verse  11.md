@@ -452,6 +452,18 @@ Innā Lammā Ţaghá Al-Mā'u Ĥamalnākum Fī Al-Jāriyahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا لَمَّا طَغَى الْمَاءُ حَمَلْنَاكُمْ فِي الْجَارِيَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا لما طغى الماء حملناكم في الجارية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا لَمَّا طَغَا ٱلۡمَاۤءُ حَمَلۡنَـٰكُمۡ فِی ٱلۡجَارِیَةِ
 
 | Details |  |

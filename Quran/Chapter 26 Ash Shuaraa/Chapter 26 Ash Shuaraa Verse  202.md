@@ -452,6 +452,18 @@ Faya'tiyahum Baghtatan Wa Hum Lā Yash'urūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَيَأْتِيَهُمْ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فياتيهم بغتة وهم لا يشعرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَیَأۡتِیَهُم بَغۡتَةࣰ وَهُمۡ لَا یَشۡعُرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Hada'iqa Wa 'A'nabaan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+حَدَائِقَ وَأَعْنَابًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+حدايق واعنابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 حَدَاۤئِقَ وَأَعۡنَـٰبࣰا
 
 | Details |  |

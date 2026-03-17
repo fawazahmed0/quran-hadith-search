@@ -452,6 +452,18 @@ Wa Tafaqqada Aţ-Ţayra Faqāla Mā Lī Lā 'Ará Al-Hud/huda 'Am Kāna Mina Al-
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَفَقَّدَ الطَّيْرَ فَقَالَ مَا لِيَ لَا أَرَى الْهُدْهُدَ أَمْ كَانَ مِنَ الْغَائِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتفقد الطير فقال ما لي لا ارى الهدهد ام كان من الغايبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَفَقَّدَ ٱلطَّیۡرَ فَقَالَ مَا لِیَ لَاۤ أَرَى ٱلۡهُدۡهُدَ أَمۡ كَانَ مِنَ ٱلۡغَاۤئِبِینَ
 
 | Details |  |

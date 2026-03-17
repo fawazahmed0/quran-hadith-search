@@ -452,6 +452,18 @@ Yawma Tublá As-Sarā'iru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ تُبْلَى السَّرَائِرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم تبلى السراير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ تُبۡلَى ٱلسَّرَاۤئِرُ
 
 | Details |  |

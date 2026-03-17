@@ -452,6 +452,18 @@ Alá Şirāţin Mustaqīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَلَى صِرَاطٍ مُسْتَقِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+على صراط مستقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَلَىٰ صِرَ ٰطࣲ مُّسۡتَقِیمࣲ
 
 | Details |  |

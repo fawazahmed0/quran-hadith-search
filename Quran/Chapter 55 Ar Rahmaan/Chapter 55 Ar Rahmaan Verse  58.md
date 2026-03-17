@@ -452,6 +452,18 @@ Ka'annahunna Al-Yāqūtu Wa Al-Marjānu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَأَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كانهن الياقوت والمرجان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَأَنَّهُنَّ ٱلۡیَاقُوتُ وَٱلۡمَرۡجَانُ
 
 | Details |  |

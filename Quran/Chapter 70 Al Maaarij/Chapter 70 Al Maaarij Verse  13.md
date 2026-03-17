@@ -452,6 +452,18 @@ Wa Faşīlatihi Allatī Tu'uwyhi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفَصِيلَتِهِ الَّتِي تُؤْوِيهِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفصيلته التي توويه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفَصِیلَتِهِ ٱلَّتِی تُءۡوِیهِ
 
 | Details |  |

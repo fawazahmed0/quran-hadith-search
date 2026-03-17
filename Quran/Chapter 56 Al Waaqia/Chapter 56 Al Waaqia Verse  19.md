@@ -452,6 +452,18 @@ Lā Yuşadda'ūna 'Anhā Wa Lā Yunzifūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يُصَدَّعُونَ عَنْهَا وَلَا يُنْزِفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يصدعون عنها ولا ينزفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا یُصَدَّعُونَ عَنۡهَا وَلَا یُنزِفُونَ
 
 | Details |  |

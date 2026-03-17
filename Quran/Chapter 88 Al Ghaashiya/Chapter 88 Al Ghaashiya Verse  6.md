@@ -452,6 +452,18 @@ Laysa Lahum Ţa'āmun 'Illā Min Đarī'in
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَيْسَ لَهُمْ طَعَامٌ إِلَّا مِنْ ضَرِيعٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ليس لهم طعام الا من ضريع
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّیۡسَ لَهُمۡ طَعَامٌ إِلَّا مِن ضَرِیعࣲ
 
 | Details |  |

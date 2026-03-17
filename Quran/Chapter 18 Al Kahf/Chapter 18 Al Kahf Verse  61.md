@@ -452,6 +452,18 @@ Falammā Balaghā Majma'a Baynihimā Nasiyā Ĥūtahumā Fa Attakhadha Sabīlahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا فَاتَّخَذَ سَبِيلَهُ فِي الْبَحْرِ سَرَبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما بلغا مجمع بينهما نسيا حوتهما فاتخذ سبيله في البحر سربا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّا بَلَغَا مَجۡمَعَ بَیۡنِهِمَا نَسِیَا حُوتَهُمَا فَٱتَّخَذَ سَبِیلَهُۥ فِی ٱلۡبَحۡرِ سَرَبࣰا
 
 | Details |  |

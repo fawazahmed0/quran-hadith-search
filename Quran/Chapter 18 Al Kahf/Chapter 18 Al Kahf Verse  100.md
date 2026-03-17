@@ -452,6 +452,18 @@ Wa 'Arađnā Jahannama Yawma'idhin Lilkāfirīna 'Arđāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَعَرَضْنَا جَهَنَّمَ يَوْمَئِذٍ لِلْكَافِرِينَ عَرْضًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وعرضنا جهنم يوميذ للكافرين عرضا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَعَرَضۡنَا جَهَنَّمَ یَوۡمَئِذࣲ لِّلۡكَـٰفِرِینَ عَرۡضًا
 
 | Details |  |

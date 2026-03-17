@@ -452,6 +452,18 @@ Wa Laqad Ra'āhu Nazlatan 'Ukhrá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ رَآهُ نَزْلَةً أُخْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد راه نزلة اخرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Innā 'Arsalnā 'Alayhim Rīĥāan Şarşarāan Fī Yawmi Naĥsin Mustamirrin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا أَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِي يَوْمِ نَحْسٍ مُسْتَمِرٍّ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا ارسلنا عليهم ريحا صرصرا في يوم نحس مستمر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّاۤ أَرۡسَلۡنَا عَلَیۡهِمۡ رِیحࣰا صَرۡصَرࣰا فِی یَوۡمِ نَحۡسࣲ مُّسۡتَمِرࣲّ
 
 | Details |  |

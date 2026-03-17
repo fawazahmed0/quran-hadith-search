@@ -452,6 +452,18 @@ Inna Al-Ladhīna Yuĥāddūna Allāha Wa Rasūlahu 'Ūlā'ika Fī Al-'Adhallīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ يُحَادُّونَ اللَّهَ وَرَسُولَهُ أُولَئِكَ فِي الْأَذَلِّينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين يحادون الله ورسوله اوليك في الاذلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ یُحَاۤدُّونَ ٱللَّهَ وَرَسُولَهُۥۤ أُو۟لَـٰۤئِكَ فِی ٱلۡأَذَلِّینَ
 
 | Details |  |

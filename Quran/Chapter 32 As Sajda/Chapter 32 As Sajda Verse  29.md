@@ -452,6 +452,18 @@ Qul Yawma Al-Fatĥi Lā Yanfa'u Al-Ladhīna Kafarū 'Īmānuhum Wa Lā Hum Yunž
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ يَوْمَ الْفَتْحِ لَا يَنْفَعُ الَّذِينَ كَفَرُوا إِيمَانُهُمْ وَلَا هُمْ يُنْظَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل يوم الفتح لا ينفع الذين كفروا ايمانهم ولا هم ينظرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ یَوۡمَ ٱلۡفَتۡحِ لَا یَنفَعُ ٱلَّذِینَ كَفَرُوۤا۟ إِیمَـٰنُهُمۡ وَلَا هُمۡ یُنظَرُونَ
 
 | Details |  |

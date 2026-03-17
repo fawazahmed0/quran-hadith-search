@@ -452,6 +452,18 @@ Inna 'Alaynā Lalhudá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ عَلَيْنَا لَلْهُدَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان علينا للهدى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ عَلَیۡنَا لَلۡهُدَىٰ
 
 | Details |  |

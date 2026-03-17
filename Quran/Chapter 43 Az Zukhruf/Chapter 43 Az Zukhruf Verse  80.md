@@ -452,6 +452,18 @@ Am Yaĥsabūna 'Annā Lā Nasma'u Sirrahum Wa Najwāhum Balá Wa Rusulunā Laday
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَاهُمْ بَلَى وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام يحسبون انا لا نسمع سرهم ونجواهم بلى ورسلنا لديهم يكتبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ یَحۡسَبُونَ أَنَّا لَا نَسۡمَعُ سِرَّهُمۡ وَنَجۡوَىٰهُمۚ بَلَىٰ وَرُسُلُنَا لَدَیۡهِمۡ یَكۡتُبُونَ
 
 | Details |  |

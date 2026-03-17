@@ -452,6 +452,18 @@ Wa Lā Yas'alu Ĥamīmun Ĥamīmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا يَسْأَلُ حَمِيمٌ حَمِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا يسال حميم حميما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا یَسۡءَلُ حَمِیمٌ حَمِیمࣰا
 
 | Details |  |

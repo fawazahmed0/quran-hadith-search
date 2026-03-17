@@ -452,6 +452,18 @@ Wa Mā 'Aktharu An-Nāsi Wa Law Ĥaraşta Bimu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَكْثَرُ النَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما اكثر الناس ولو حرصت بمومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَكۡثَرُ ٱلنَّاسِ وَلَوۡ حَرَصۡتَ بِمُؤۡمِنِینَ
 
 | Details |  |

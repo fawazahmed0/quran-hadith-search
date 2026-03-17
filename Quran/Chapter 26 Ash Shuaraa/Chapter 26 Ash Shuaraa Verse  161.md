@@ -452,6 +452,18 @@ Idh Qāla Lahum 'Akhūhum Lūţun 'Alā Tattaqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ أَلَا تَتَّقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ قال لهم اخوهم لوط الا تتقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ لُوطٌ أَلَا تَتَّقُونَ
 
 | Details |  |

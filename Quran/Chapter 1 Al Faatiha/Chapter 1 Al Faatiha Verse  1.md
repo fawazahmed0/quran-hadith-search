@@ -452,6 +452,18 @@ Bismi Allāhi Ar-Raĥmāni Ar-Raĥīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بسم الله الرحمن الرحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ
 
 | Details |  |

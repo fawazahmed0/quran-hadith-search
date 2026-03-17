@@ -452,6 +452,18 @@ Wa Hadhā Dhikrun Mubārakun 'Anzalnāhu 'Afa'antum Lahu Munkirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهَذَا ذِكْرٌ مُبَارَكٌ أَنْزَلْنَاهُ أَفَأَنْتُمْ لَهُ مُنْكِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهذا ذكر مبارك انزلناه افانتم له منكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهَـٰذَا ذِكۡرࣱ مُّبَارَكٌ أَنزَلۡنَـٰهُۚ أَفَأَنتُمۡ لَهُۥ مُنكِرُونَ
 
 | Details |  |

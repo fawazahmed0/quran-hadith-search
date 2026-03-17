@@ -452,6 +452,18 @@ Qāla Fa'innaka Mina Al-Munžarīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ فَإِنَّكَ مِنَ الْمُنْظَرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال فانك من المنظرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ فَإِنَّكَ مِنَ ٱلۡمُنظَرِینَ
 
 | Details |  |

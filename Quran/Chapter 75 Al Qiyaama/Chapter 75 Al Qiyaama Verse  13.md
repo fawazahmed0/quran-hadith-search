@@ -452,6 +452,18 @@ Yunabba'u Al-'Insānu Yawma'idhin Bimā Qaddama Wa 'Akhkhara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُنَبَّأُ الْإِنْسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ينبا الانسان يوميذ بما قدم واخر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُنَبَّؤُا۟ ٱلۡإِنسَـٰنُ یَوۡمَئِذِۭ بِمَا قَدَّمَ وَأَخَّرَ
 
 | Details |  |

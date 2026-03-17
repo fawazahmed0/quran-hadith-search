@@ -452,6 +452,18 @@ Wa Fī Al-'Arđi 'Āyātun Lilmūqinīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفِي الْأَرْضِ آيَاتٌ لِلْمُوقِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفي الارض ايات للموقنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفِی ٱلۡأَرۡضِ ءَایَـٰتࣱ لِّلۡمُوقِنِینَ
 
 | Details |  |

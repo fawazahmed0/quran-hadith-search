@@ -452,6 +452,18 @@ Wa 'Andhirhum Yawma Al-Ĥasrati 'Idh Quđiya Al-'Amru Wa Hum Fī Ghaflatin Wa Hu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنْذِرْهُمْ يَوْمَ الْحَسْرَةِ إِذْ قُضِيَ الْأَمْرُ وَهُمْ فِي غَفْلَةٍ وَهُمْ لَا يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانذرهم يوم الحسرة اذ قضي الامر وهم في غفلة وهم لا يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنذِرۡهُمۡ یَوۡمَ ٱلۡحَسۡرَةِ إِذۡ قُضِیَ ٱلۡأَمۡرُ وَهُمۡ فِی غَفۡلَةࣲ وَهُمۡ لَا یُؤۡمِنُونَ
 
 | Details |  |

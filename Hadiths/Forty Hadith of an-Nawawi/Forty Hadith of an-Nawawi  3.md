@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي عَبْدِ الرَّحْمَنِ عَبْدِ اللَّهِ بْنِ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: سَمِعْت رَسُولَ اللَّهِ صلى الله عليه و سلم يَقُولُ: بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لَا إلَهَ إلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلَاةِ، وَإِيتَاءِ الزَّكَاةِ، وَحَجِّ الْبَيْتِ، وَصَوْمِ رَمَضَانَ . \[رَوَاهُ الْبُخَارِيُّ\] ، \[وَمُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of Abdullah, the son of Umar ibn al-Khattab (ra), who said: I h
 ## French
 
 Selon Abdallah, fils de ‘Omar ibn al-Khattab (qu’Allah l’agrée), qui a dit : J’ai entendu le Messager d’Allah (ﷺ) dire : « L’islam est bâti sur cinq \[piliers\] : l’attestation qu’il n’y a de divinité digne d’adoration qu’Allah et que Muhammad est le Messager d’Allah, l’accomplissement de la prière, le paiement de la zakat, le pèlerinage à la Maison et le jeûne du Ramadan. » \[Boukhari & Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3 |
+| Arabic No | 3 |
+| Reference | Book 1 Hadith 3 |
+
+## Turkish
+
+Abdullah bin Ömer bin el-Hattab (ra) şöyle demiştir: Resulullah'ın (ﷺ) şöyle buyurduğunu işittim: "İslam beş esas üzerine kurulmuştur: Allah’tan başka ilah olmadığına ve Muhammed’in Allah’ın elçisi olduğuna şehadet etmek, namazı kılmak, zekatı vermek, Beytullah’ı haccetmek ve Ramazan orucunu tutmak." \[Buhari ve Müslim\]
 
 | References: |  |
 | --- | --- |

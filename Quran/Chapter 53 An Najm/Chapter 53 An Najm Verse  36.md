@@ -452,6 +452,18 @@ Am Lam Yunabba' Bimā Fī Şuĥufi Mūsá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ لَمْ يُنَبَّأْ بِمَا فِي صُحُفِ مُوسَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام لم ينبا بما في صحف موسى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ لَمۡ یُنَبَّأۡ بِمَا فِی صُحُفِ مُوسَىٰ
 
 | Details |  |

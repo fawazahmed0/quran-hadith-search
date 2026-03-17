@@ -452,6 +452,18 @@ Thumma 'Innahum Laşālū Al-Jaĥīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ إِنَّهُمْ لَصَالُو الْجَحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم انهم لصالو الجحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ إِنَّهُمۡ لَصَالُوا۟ ٱلۡجَحِیمِ
 
 | Details |  |

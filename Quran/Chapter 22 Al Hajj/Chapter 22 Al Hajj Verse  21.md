@@ -452,6 +452,18 @@ Wa Lahum Maqāmi'u Min Ĥadīdin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَهُمْ مَقَامِعُ مِنْ حَدِيدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولهم مقامع من حديد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَهُم مَّقَـٰمِعُ مِنۡ حَدِیدࣲ
 
 | Details |  |

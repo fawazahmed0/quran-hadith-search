@@ -452,6 +452,18 @@ Yawma Yunfakhu Fī Aş-Şūri Wa Naĥshuru Al-Mujrimīna Yawma'idhin Zurqāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ يُنْفَخُ فِي الصُّورِ وَنَحْشُرُ الْمُجْرِمِينَ يَوْمَئِذٍ زُرْقًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم ينفخ في الصور ونحشر المجرمين يوميذ زرقا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ یُنفَخُ فِی ٱلصُّورِۚ وَنَحۡشُرُ ٱلۡمُجۡرِمِینَ یَوۡمَئِذࣲ زُرۡقࣰا
 
 | Details |  |

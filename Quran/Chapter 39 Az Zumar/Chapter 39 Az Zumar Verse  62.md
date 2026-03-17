@@ -452,6 +452,18 @@ Allāhu Khāliqu Kulli Shay'in Wa Huwa 'Alá Kulli Shay'in Wa Kīlun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اللَّهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ عَلَى كُلِّ شَيْءٍ وَكِيلٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الله خالق كل شيء وهو على كل شيء وكيل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱللَّهُ خَـٰلِقُ كُلِّ شَیۡءࣲۖ وَهُوَ عَلَىٰ كُلِّ شَیۡءࣲ وَكِیلࣱ
 
 | Details |  |

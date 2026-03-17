@@ -452,6 +452,18 @@ Fa'a'riđ 'Anhum Wa Antažir 'Innahum Muntažirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَعْرِضْ عَنْهُمْ وَانْتَظِرْ إِنَّهُمْ مُنْتَظِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاعرض عنهم وانتظر انهم منتظرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَعۡرِضۡ عَنۡهُمۡ وَٱنتَظِرۡ إِنَّهُم مُّنتَظِرُونَ
 
 | Details |  |

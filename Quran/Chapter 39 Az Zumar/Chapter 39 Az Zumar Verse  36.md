@@ -452,6 +452,18 @@ Alaysa Allāhu Bikāfin 'Abdahu Wa Yukhawwifūnaka Bial-Ladhīna Min Dūnihi Wa 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ وَيُخَوِّفُونَكَ بِالَّذِينَ مِنْ دُونِهِ وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اليس الله بكاف عبده ويخوفونك بالذين من دونه ومن يضلل الله فما له من هاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَیۡسَ ٱللَّهُ بِكَافٍ عَبۡدَهُۥۖ وَیُخَوِّفُونَكَ بِٱلَّذِینَ مِن دُونِهِۦۚ وَمَن یُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِنۡ هَادࣲ
 
 | Details |  |

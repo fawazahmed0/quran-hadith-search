@@ -452,6 +452,18 @@ Wa Lillahi Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa 'Ilá Allāhi Turja'u A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولله ما في السماوات وما في الارض والى الله ترجع الامور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِلَّهِ مَا فِی ٱلسَّمَـٰوَ ٰتِ وَمَا فِی ٱلۡأَرۡضِۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fāşbir Şabrāan Jamīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاصْبِرْ صَبْرًا جَمِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاصبر صبرا جميلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱصۡبِرۡ صَبۡرࣰا جَمِیلًا
 
 | Details |  |

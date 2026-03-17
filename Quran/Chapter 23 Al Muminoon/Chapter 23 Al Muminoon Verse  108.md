@@ -452,6 +452,18 @@ Qāla Akhsa'ū Fīhā Wa Lā Tukallimūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ اخْسَئُوا فِيهَا وَلَا تُكَلِّمُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال اخسيوا فيها ولا تكلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ ٱخۡسَءُوا۟ فِیهَا وَلَا تُكَلِّمُونِ
 
 | Details |  |

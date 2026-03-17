@@ -452,6 +452,18 @@ Wa Akhfiđ Lahumā Janāĥa Adh-Dhulli Mina Ar-Raĥmati Wa Qul Rrabbi Arĥamhum�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ وَقُلْ رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واخفض لهما جناح الذل من الرحمة وقل رب ارحمهما كما ربياني صغيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱخۡفِضۡ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحۡمَةِ وَقُل رَّبِّ ٱرۡحَمۡهُمَا كَمَا رَبَّیَانِی صَغِیرࣰا
 
 | Details |  |

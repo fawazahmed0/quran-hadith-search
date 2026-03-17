@@ -452,6 +452,18 @@ Famā Tanfa'uhum Shafā'atu Ash-Shāfi'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فما تنفعهم شفاعة الشافعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَا تَنفَعُهُمۡ شَفَـٰعَةُ ٱلشَّـٰفِعِینَ
 
 | Details |  |

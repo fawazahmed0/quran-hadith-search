@@ -452,6 +452,18 @@ Laqālū 'Innamā Sukkirat 'Abşārunā Bal Naĥnu Qawmun Masĥūrūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَقَالُوا إِنَّمَا سُكِّرَتْ أَبْصَارُنَا بَلْ نَحْنُ قَوْمٌ مَسْحُورُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لقالوا انما سكرت ابصارنا بل نحن قوم مسحورون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَقَالُوۤا۟ إِنَّمَا سُكِّرَتۡ أَبۡصَـٰرُنَا بَلۡ نَحۡنُ قَوۡمࣱ مَّسۡحُورُونَ
 
 | Details |  |

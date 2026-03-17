@@ -452,6 +452,18 @@ Tilka 'Āyātu Allāhi Natlūhā 'Alayka Bil-Ĥaqqi Wa 'Innaka Lamina Al-Mursal�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تِلْكَ آيَاتُ اللَّهِ نَتْلُوهَا عَلَيْكَ بِالْحَقِّ وَإِنَّكَ لَمِنَ الْمُرْسَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تلك ايات الله نتلوها عليك بالحق وانك لمن المرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تِلۡكَ ءَایَـٰتُ ٱللَّهِ نَتۡلُوهَا عَلَیۡكَ بِٱلۡحَقِّۚ وَإِنَّكَ لَمِنَ ٱلۡمُرۡسَلِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Adhkur Asma Rabbika Wa Tabattal 'Ilayhi Tabtīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذكر اسم ربك وتبتل اليه تبتيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱذۡكُرِ ٱسۡمَ رَبِّكَ وَتَبَتَّلۡ إِلَیۡهِ تَبۡتِیلࣰا
 
 | Details |  |

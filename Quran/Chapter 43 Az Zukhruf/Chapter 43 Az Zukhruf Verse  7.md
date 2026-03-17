@@ -452,6 +452,18 @@ Wa Mā Ya'tīhim Min Nabīyin 'Illā Kānū Bihi Yastahzi'ūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا يَأْتِيهِمْ مِنْ نَبِيٍّ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ياتيهم من نبي الا كانوا به يستهزيون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا یَأۡتِیهِم مِّن نَّبِیٍّ إِلَّا كَانُوا۟ بِهِۦ یَسۡتَهۡزِءُونَ
 
 | Details |  |

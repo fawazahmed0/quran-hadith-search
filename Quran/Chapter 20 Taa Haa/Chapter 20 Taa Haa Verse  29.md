@@ -452,6 +452,18 @@ Wa Aj'al Lī Wazīrāan Min 'Ahlī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاجْعَلْ لِي وَزِيرًا مِنْ أَهْلِي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واجعل لي وزيرا من اهلي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱجۡعَل لِّی وَزِیرࣰا مِّنۡ أَهۡلِی
 
 | Details |  |

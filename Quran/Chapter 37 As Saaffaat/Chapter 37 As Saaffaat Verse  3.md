@@ -452,6 +452,18 @@ Fālttāliyāti Dhikrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَالتَّالِيَاتِ ذِكْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالتاليات ذكرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱلتَّـٰلِیَـٰتِ ذِكۡرًا
 
 | Details |  |

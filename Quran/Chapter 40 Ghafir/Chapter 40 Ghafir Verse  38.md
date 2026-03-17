@@ -452,6 +452,18 @@ Wa Qāla Al-Ladhī 'Āmana Yā Qawmi Attabi'ūnī 'Ahdikum Sabīla Ar-Rashādi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ الَّذِي آمَنَ يَا قَوْمِ اتَّبِعُونِ أَهْدِكُمْ سَبِيلَ الرَّشَادِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال الذي امن يا قوم اتبعون اهدكم سبيل الرشاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ ٱلَّذِیۤ ءَامَنَ یَـٰقَوۡمِ ٱتَّبِعُونِ أَهۡدِكُمۡ سَبِیلَ ٱلرَّشَادِ
 
 | Details |  |

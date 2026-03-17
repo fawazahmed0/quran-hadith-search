@@ -452,6 +452,18 @@ Thumma Ja'alnāhu Nuţfatan Fī Qarārin Makīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ جَعَلْنَاهُ نُطْفَةً فِي قَرَارٍ مَكِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم جعلناه نطفة في قرار مكين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ جَعَلۡنَـٰهُ نُطۡفَةࣰ فِی قَرَارࣲ مَّكِینࣲ
 
 | Details |  |

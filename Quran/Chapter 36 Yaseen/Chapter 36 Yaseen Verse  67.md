@@ -452,6 +452,18 @@ Wa Law Nashā'u Lamasakhnāhum 'Alá Makānatihim Famā Astaţā'ū Muđīyāan 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْ نَشَاءُ لَمَسَخْنَاهُمْ عَلَى مَكَانَتِهِمْ فَمَا اسْتَطَاعُوا مُضِيًّا وَلَا يَرْجِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولو نشاء لمسخناهم على مكانتهم فما استطاعوا مضيا ولا يرجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡ نَشَاۤءُ لَمَسَخۡنَـٰهُمۡ عَلَىٰ مَكَانَتِهِمۡ فَمَا ٱسۡتَطَـٰعُوا۟ مُضِیࣰّا وَلَا یَرۡجِعُونَ
 
 | Details |  |

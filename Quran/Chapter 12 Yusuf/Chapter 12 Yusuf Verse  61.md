@@ -452,6 +452,18 @@ Qālū Sanurāwidu 'Anhu 'Abāhu Wa 'Innā Lafā'ilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا سَنُرَاوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَاعِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا سنراود عنه اباه وانا لفاعلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ سَنُرَ ٰوِدُ عَنۡهُ أَبَاهُ وَإِنَّا لَفَـٰعِلُونَ
 
 | Details |  |

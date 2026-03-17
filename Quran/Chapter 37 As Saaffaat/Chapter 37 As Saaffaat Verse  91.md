@@ -452,6 +452,18 @@ Farāgha 'Ilá 'Ālihatihim Faqāla 'Alā Ta'kulūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَرَاغَ إِلَى آلِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فراغ الى الهتهم فقال الا تاكلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَرَاغَ إِلَىٰۤ ءَالِهَتِهِمۡ فَقَالَ أَلَا تَأۡكُلُونَ
 
 | Details |  |

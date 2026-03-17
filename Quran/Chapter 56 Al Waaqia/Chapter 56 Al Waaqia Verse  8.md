@@ -452,6 +452,18 @@ Fa'aşĥābu Al-Maymanati Mā 'Aşĥābu Al-Maymanahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَصْحَابُ الْمَيْمَنَةِ مَا أَصْحَابُ الْمَيْمَنَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاصحاب الميمنة ما اصحاب الميمنة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَصۡحَـٰبُ ٱلۡمَیۡمَنَةِ مَاۤ أَصۡحَـٰبُ ٱلۡمَیۡمَنَةِ
 
 | Details |  |

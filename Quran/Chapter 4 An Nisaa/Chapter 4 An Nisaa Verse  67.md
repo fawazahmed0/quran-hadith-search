@@ -452,6 +452,18 @@ Wa 'Idhāan La'ātaynāhum Min Ladunnā 'Ajrāan 'Ažīmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذًا لَآتَيْنَاهُمْ مِنْ لَدُنَّا أَجْرًا عَظِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا لاتيناهم من لدنا اجرا عظيما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذࣰا لَّءَاتَیۡنَـٰهُم مِّن لَّدُنَّاۤ أَجۡرًا عَظِیمࣰا
 
 | Details |  |

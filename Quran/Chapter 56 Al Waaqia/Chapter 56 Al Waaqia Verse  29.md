@@ -452,6 +452,18 @@ Wa Ţalĥin Manđūdin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَطَلْحٍ مَنْضُودٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وطلح منضود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَطَلۡحࣲ مَّنضُودࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Laysa Lahā Min Dūni Allāhi Kāshifahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَيْسَ لَهَا مِنْ دُونِ اللَّهِ كَاشِفَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ليس لها من دون الله كاشفة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَیۡسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ
 
 | Details |  |

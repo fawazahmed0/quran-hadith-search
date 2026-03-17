@@ -452,6 +452,18 @@ Fa'āminū Billāhi Wa Rasūlihi Wa An-Nūri Al-Ladhī 'Anzalnā Wa Allāhu Bim�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَآمِنُوا بِاللَّهِ وَرَسُولِهِ وَالنُّورِ الَّذِي أَنْزَلْنَا وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فامنوا بالله ورسوله والنور الذي انزلنا والله بما تعملون خبير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلنُّورِ ٱلَّذِیۤ أَنزَلۡنَاۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِیرࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ An Lā Yadkhulannahā Al-Yawma 'Alaykum Miskīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَنْ لَا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُمْ مِسْكِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان لا يدخلنها اليوم عليكم مسكين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَن لَّا یَدۡخُلَنَّهَا ٱلۡیَوۡمَ عَلَیۡكُم مِّسۡكِینࣱ
 
 | Details |  |

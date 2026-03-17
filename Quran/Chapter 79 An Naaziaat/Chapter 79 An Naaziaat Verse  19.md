@@ -452,6 +452,18 @@ Wa 'Ahdiyaka 'Ilá Rabbika Fatakhshá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَهْدِيَكَ إِلَى رَبِّكَ فَتَخْشَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واهديك الى ربك فتخشى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَهۡدِیَكَ إِلَىٰ رَبِّكَ فَتَخۡشَىٰ
 
 | Details |  |

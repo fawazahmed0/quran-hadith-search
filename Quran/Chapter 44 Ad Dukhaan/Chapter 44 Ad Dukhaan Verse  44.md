@@ -452,6 +452,18 @@ Ta'amu Al-'Athimi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+طَعَامُ الْأَثِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+طعام الاثيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 طَعَامُ ٱلۡأَثِیمِ
 
 | Details |  |

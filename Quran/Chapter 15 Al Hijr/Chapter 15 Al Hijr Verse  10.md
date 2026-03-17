@@ -452,6 +452,18 @@ Wa Laqad 'Arsalnā Min Qablika Fī Shiya'i Al-'Awwalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ أَرْسَلْنَا مِنْ قَبْلِكَ فِي شِيَعِ الْأَوَّلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد ارسلنا من قبلك في شيع الاولين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ أَرۡسَلۡنَا مِن قَبۡلِكَ فِی شِیَعِ ٱلۡأَوَّلِینَ
 
 | Details |  |

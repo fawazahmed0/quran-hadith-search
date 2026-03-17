@@ -452,6 +452,18 @@ Qāla Kallā Fādh/habā Bi'āyātinā 'Innā Ma'akum Mustami'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ كَلَّا فَاذْهَبَا بِآيَاتِنَا إِنَّا مَعَكُمْ مُسْتَمِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال كلا فاذهبا باياتنا انا معكم مستمعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ كَلَّاۖ فَٱذۡهَبَا بِءَایَـٰتِنَاۤۖ إِنَّا مَعَكُم مُّسۡتَمِعُونَ
 
 | Details |  |

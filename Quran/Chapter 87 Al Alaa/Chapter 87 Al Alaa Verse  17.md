@@ -452,6 +452,18 @@ Wa Al-'Ākhiratu Khayrun Wa 'Abqá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْآخِرَةُ خَيْرٌ وَأَبْقَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والاخرة خير وابقى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡءَاخِرَةُ خَیۡرࣱ وَأَبۡقَىٰۤ
 
 | Details |  |

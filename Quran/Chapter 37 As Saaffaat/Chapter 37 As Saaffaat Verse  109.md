@@ -452,6 +452,18 @@ Salāmun 'Alá 'Ibrāhīma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَلَامٌ عَلَى إِبْرَاهِيمَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سلام على ابراهيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَلَـٰمٌ عَلَىٰۤ إِبۡرَ ٰهِیمَ
 
 | Details |  |

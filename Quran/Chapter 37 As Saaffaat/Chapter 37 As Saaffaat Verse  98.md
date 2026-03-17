@@ -452,6 +452,18 @@ Fa'arādū Bihi Kaydāan Faja'alnāhumu Al-'Asfalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَرَادُوا بِهِ كَيْدًا فَجَعَلْنَاهُمُ الْأَسْفَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فارادوا به كيدا فجعلناهم الاسفلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَرَادُوا۟ بِهِۦ كَیۡدࣰا فَجَعَلۡنَـٰهُمُ ٱلۡأَسۡفَلِینَ
 
 | Details |  |

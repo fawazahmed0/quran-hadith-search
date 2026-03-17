@@ -452,6 +452,18 @@ Aliyahum Thiyabu Sundusin Khuđrun Wa 'Istabraqun Wa Hullu 'Asawira Min Fiđđat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَالِيَهُمْ ثِيَابُ سُنْدُسٍ خُضْرٌ وَإِسْتَبْرَقٌ وَحُلُّوا أَسَاوِرَ مِنْ فِضَّةٍ وَسَقَاهُمْ رَبُّهُمْ شَرَابًا طَهُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عاليهم ثياب سندس خضر واستبرق وحلوا اساور من فضة وسقاهم ربهم شرابا طهورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَـٰلِیَهُمۡ ثِیَابُ سُندُسٍ خُضۡرࣱ وَإِسۡتَبۡرَقࣱۖ وَحُلُّوۤا۟ أَسَاوِرَ مِن فِضَّةࣲ وَسَقَىٰهُمۡ رَبُّهُمۡ شَرَابࣰا طَهُورًا
 
 | Details |  |

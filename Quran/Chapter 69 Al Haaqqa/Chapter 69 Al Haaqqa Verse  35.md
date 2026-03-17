@@ -452,6 +452,18 @@ Falaysa Lahu Al-Yawma Hāhunā Ĥamīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَيْسَ لَهُ الْيَوْمَ هَاهُنَا حَمِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فليس له اليوم هاهنا حميم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَیۡسَ لَهُ ٱلۡیَوۡمَ هَـٰهُنَا حَمِیمࣱ
 
 | Details |  |

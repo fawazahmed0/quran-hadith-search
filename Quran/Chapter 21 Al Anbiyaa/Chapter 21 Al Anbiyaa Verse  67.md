@@ -452,6 +452,18 @@ Uffin Lakum Wa Limā Ta'budūna Min Dūni Allāhi 'Afalā Ta'qilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُفٍّ لَكُمْ وَلِمَا تَعْبُدُونَ مِنْ دُونِ اللَّهِ أَفَلَا تَعْقِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اف لكم ولما تعبدون من دون الله افلا تعقلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُفࣲّ لَّكُمۡ وَلِمَا تَعۡبُدُونَ مِن دُونِ ٱللَّهِۚ أَفَلَا تَعۡقِلُونَ
 
 | Details |  |

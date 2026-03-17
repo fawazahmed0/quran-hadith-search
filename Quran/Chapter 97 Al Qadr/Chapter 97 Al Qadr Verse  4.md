@@ -452,6 +452,18 @@ Tanazzalu Al-Malā'ikatu Wa Ar-Rūĥu Fīhā Bi'idhni Rabbihim Min Kulli 'Amrin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِمْ مِنْ كُلِّ أَمْرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تنزل الملايكة والروح فيها باذن ربهم من كل امر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَنَزَّلُ ٱلۡمَلَـٰۤئِكَةُ وَٱلرُّوحُ فِیهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرࣲ
 
 | Details |  |

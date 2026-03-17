@@ -452,6 +452,18 @@ Thumma Al-Jaĥīma Şallūhu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ الْجَحِيمَ صَلُّوهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم الجحيم صلوه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ ٱلۡجَحِیمَ صَلُّوهُ
 
 | Details |  |

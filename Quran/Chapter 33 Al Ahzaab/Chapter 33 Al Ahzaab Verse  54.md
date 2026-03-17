@@ -452,6 +452,18 @@ In Tubdū Shay'āan 'Aw Tukhfūhu Fa'inna Allāha Kāna Bikulli Shay'in 'Alīmā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ تُبْدُوا شَيْئًا أَوْ تُخْفُوهُ فَإِنَّ اللَّهَ كَانَ بِكُلِّ شَيْءٍ عَلِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان تبدوا شييا او تخفوه فان الله كان بكل شيء عليما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِن تُبۡدُوا۟ شَیۡءًا أَوۡ تُخۡفُوهُ فَإِنَّ ٱللَّهَ كَانَ بِكُلِّ شَیۡءٍ عَلِیمࣰا
 
 | Details |  |

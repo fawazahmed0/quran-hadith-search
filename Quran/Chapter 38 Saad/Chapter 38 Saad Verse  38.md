@@ -452,6 +452,18 @@ Wa 'Ākharīna Muqarranīna Fī Al-'Aşfādi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَآخَرِينَ مُقَرَّنِينَ فِي الْأَصْفَادِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واخرين مقرنين في الاصفاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَءَاخَرِینَ مُقَرَّنِینَ فِی ٱلۡأَصۡفَادِ
 
 | Details |  |

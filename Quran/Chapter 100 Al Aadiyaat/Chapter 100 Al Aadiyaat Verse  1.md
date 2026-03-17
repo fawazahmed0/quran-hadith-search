@@ -452,6 +452,18 @@ Wa Al-'Ādiyāti Đabĥāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْعَادِيَاتِ ضَبْحًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والعاديات ضبحا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡعَـٰدِیَـٰتِ ضَبۡحࣰا
 
 | Details |  |

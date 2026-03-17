@@ -452,6 +452,18 @@ Wa Tawakkal 'Alá Al-'Azīzi Ar-Raĥīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَوَكَّلْ عَلَى الْعَزِيزِ الرَّحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتوكل على العزيز الرحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَوَكَّلۡ عَلَى ٱلۡعَزِیزِ ٱلرَّحِیمِ
 
 | Details |  |

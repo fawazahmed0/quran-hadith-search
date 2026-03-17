@@ -452,6 +452,18 @@ Ula'ika Al-Ladhina La'anahumu Allahu Fa'asammahum Wa 'A'ma 'Absarahum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ الَّذِينَ لَعَنَهُمُ اللَّهُ فَأَصَمَّهُمْ وَأَعْمَى أَبْصَارَهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك الذين لعنهم الله فاصمهم واعمى ابصارهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ ٱلَّذِینَ لَعَنَهُمُ ٱللَّهُ فَأَصَمَّهُمۡ وَأَعۡمَىٰۤ أَبۡصَـٰرَهُمۡ
 
 | Details |  |

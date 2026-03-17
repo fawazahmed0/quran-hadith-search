@@ -452,6 +452,18 @@ Wa 'Aşĥābu Al-Mash'amati Mā 'Aşĥābu Al-Mash'amahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَصْحَابُ الْمَشْأَمَةِ مَا أَصْحَابُ الْمَشْأَمَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واصحاب المشامة ما اصحاب المشامة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَصۡحَـٰبُ ٱلۡمَشۡءَمَةِ مَاۤ أَصۡحَـٰبُ ٱلۡمَشۡءَمَةِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qul Huwa Naba'un 'Ažīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ هُوَ نَبَأٌ عَظِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل هو نبا عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ هُوَ نَبَؤٌا۟ عَظِیمٌ
 
 | Details |  |

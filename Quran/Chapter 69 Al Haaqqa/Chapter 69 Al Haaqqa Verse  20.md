@@ -452,6 +452,18 @@ Innī Žanantu 'Annī Mulāqin Ĥisābiyah
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنِّي ظَنَنْتُ أَنِّي مُلَاقٍ حِسَابِيَهْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اني ظننت اني ملاق حسابيه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنِّی ظَنَنتُ أَنِّی مُلَـٰقٍ حِسَابِیَهۡ
 
 | Details |  |

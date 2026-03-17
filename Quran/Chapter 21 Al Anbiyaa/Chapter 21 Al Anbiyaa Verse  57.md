@@ -452,6 +452,18 @@ Wa Tālllahi La'akīdanna 'Aşnāmakum Ba'da 'An Tuwallū Mudbirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَاللَّهِ لَأَكِيدَنَّ أَصْنَامَكُمْ بَعْدَ أَنْ تُوَلُّوا مُدْبِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتالله لاكيدن اصنامكم بعد ان تولوا مدبرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَٱللَّهِ لَأَكِیدَنَّ أَصۡنَـٰمَكُم بَعۡدَ أَن تُوَلُّوا۟ مُدۡبِرِینَ
 
 | Details |  |

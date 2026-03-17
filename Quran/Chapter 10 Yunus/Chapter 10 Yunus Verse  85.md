@@ -452,6 +452,18 @@ Faqālū 'Alá Allāhi Tawakkalnā Rabbanā Lā Taj'alnā Fitnatan Lilqawmi Až-
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقَالُوا عَلَى اللَّهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلْقَوْمِ الظَّالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقالوا على الله توكلنا ربنا لا تجعلنا فتنة للقوم الظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقَالُوا۟ عَلَى ٱللَّهِ تَوَكَّلۡنَا رَبَّنَا لَا تَجۡعَلۡنَا فِتۡنَةࣰ لِّلۡقَوۡمِ ٱلظَّـٰلِمِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Yubashiruhum Rabbuhum Biraĥmatin Minhu Wa Riđwānin Wa Jannātin Lahum Fīhā 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُبَشِّرُهُمْ رَبُّهُمْ بِرَحْمَةٍ مِنْهُ وَرِضْوَانٍ وَجَنَّاتٍ لَهُمْ فِيهَا نَعِيمٌ مُقِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يبشرهم ربهم برحمة منه ورضوان وجنات لهم فيها نعيم مقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُبَشِّرُهُمۡ رَبُّهُم بِرَحۡمَةࣲ مِّنۡهُ وَرِضۡوَ ٰنࣲ وَجَنَّـٰتࣲ لَّهُمۡ فِیهَا نَعِیمࣱ مُّقِیمٌ
 
 | Details |  |

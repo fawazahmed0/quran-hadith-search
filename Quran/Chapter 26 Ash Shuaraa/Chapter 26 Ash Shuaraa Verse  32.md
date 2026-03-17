@@ -452,6 +452,18 @@ Fa'alqá 'Aşāhu Fa'idhā Hiya Thu'bānun Mubīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَلْقَى عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالقى عصاه فاذا هي ثعبان مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَلۡقَىٰ عَصَاهُ فَإِذَا هِیَ ثُعۡبَانࣱ مُّبِینࣱ
 
 | Details |  |

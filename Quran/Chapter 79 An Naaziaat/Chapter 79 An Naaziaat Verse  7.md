@@ -452,6 +452,18 @@ Tatba'uhā Ar-Rādifahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَتْبَعُهَا الرَّادِفَةُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تتبعها الرادفة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَتۡبَعُهَا ٱلرَّادِفَةُ
 
 | Details |  |

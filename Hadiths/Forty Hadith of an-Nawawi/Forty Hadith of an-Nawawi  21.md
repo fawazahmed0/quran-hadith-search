@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي عَمْرٍو وَقِيلَ: أَبِي عَمْرَةَ سُفْيَانَ بْنِ عَبْدِ اللَّهِ رَضِيَ اللهُ عَنْهُ قَالَ: قُلْت: يَا رَسُولَ اللَّهِ! قُلْ لِي فِي الْإِسْلَامِ قَوْلًا لَا أَسْأَلُ عَنْهُ أَحَدًا غَيْرَك؛ قَالَ: قُلْ: آمَنْت بِاَللَّهِ ثُمَّ اسْتَقِمْ . \[رَوَاهُ مُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of Abu 'Amr — and he is also called Abu 'Amrah — Sufyan bin
 ## French
 
 Selon Abou ‘Amr — aussi appelé Abou ‘Amra — Soufyan ibn ‘Abdallah ath-Thaqafi (qu’Allah l’agrée), qui a dit : J’ai dit : « Ô Messager d’Allah, dis-moi une parole sur l’islam que je ne demanderai à personne d’autre que toi. » Il (ﷺ) répondit : « Dis : “Je crois en Allah”, puis sois droit. » \[Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 21 |
+| Arabic No | 21 |
+| Reference | Book 1 Hadith 21 |
+
+## Turkish
+
+Ebu Amr Süfyan bin Abdullah (ra) anlatıyor: "Ey Allah’ın Resulü! Bana İslam hakkında öyle bir söz söyle ki, senden sonra başka kimseye sormaya ihtiyacım kalmasın" dedim. Şöyle buyurdu: "Allah’a inandım de, sonra da dosdoğru ol!" \[Müslim\]
 
 | References: |  |
 | --- | --- |

@@ -452,6 +452,18 @@ Wa As-Salāmu 'Alayya Yawma Wulidtu Wa Yawma 'Amūtu Wa Yawma 'Ub'athu Ĥayyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالسَّلَامُ عَلَيَّ يَوْمَ وُلِدْتُ وَيَوْمَ أَمُوتُ وَيَوْمَ أُبْعَثُ حَيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والسلام علي يوم ولدت ويوم اموت ويوم ابعث حيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلسَّلَـٰمُ عَلَیَّ یَوۡمَ وُلِدتُّ وَیَوۡمَ أَمُوتُ وَیَوۡمَ أُبۡعَثُ حَیࣰّا
 
 | Details |  |

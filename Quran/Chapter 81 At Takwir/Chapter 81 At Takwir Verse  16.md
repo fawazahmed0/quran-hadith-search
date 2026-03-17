@@ -452,6 +452,18 @@ Al-Jawāri Al-Kunnasi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الْجَوَارِ الْكُنَّسِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الجوار الكنس
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلۡجَوَارِ ٱلۡكُنَّسِ
 
 | Details |  |

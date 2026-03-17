@@ -452,6 +452,18 @@ Wa Mā 'Adrāka Mā Yawmu Al-Faşli
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَدْرَاكَ مَا يَوْمُ الْفَصْلِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ادراك ما يوم الفصل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَدۡرَىٰكَ مَا یَوۡمُ ٱلۡفَصۡلِ
 
 | Details |  |

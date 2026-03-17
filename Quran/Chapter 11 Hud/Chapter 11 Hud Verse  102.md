@@ -452,6 +452,18 @@ Wa Kadhalika 'Akhdhu Rabbika 'Idhā 'Akhadha Al-Qurá Wa Hiya Žālimatun 'Inna 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَذَلِكَ أَخْذُ رَبِّكَ إِذَا أَخَذَ الْقُرَى وَهِيَ ظَالِمَةٌ إِنَّ أَخْذَهُ أَلِيمٌ شَدِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكذلك اخذ ربك اذا اخذ القرى وهي ظالمة ان اخذه اليم شديد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَذَ ٰلِكَ أَخۡذُ رَبِّكَ إِذَاۤ أَخَذَ ٱلۡقُرَىٰ وَهِیَ ظَـٰلِمَةٌۚ إِنَّ أَخۡذَهُۥۤ أَلِیمࣱ شَدِیدٌ
 
 | Details |  |

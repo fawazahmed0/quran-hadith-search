@@ -452,6 +452,18 @@ Wa Mā 'Arsalnāka 'Illā Mubashirāan Wa Nadhīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَرْسَلْنَاكَ إِلَّا مُبَشِّرًا وَنَذِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ارسلناك الا مبشرا ونذيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَرۡسَلۡنَـٰكَ إِلَّا مُبَشِّرࣰا وَنَذِیرࣰا
 
 | Details |  |

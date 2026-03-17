@@ -452,6 +452,18 @@ Yawma Lā Yanfa'u Až-Žālimīna Ma'dhiratuhum Wa Lahumu Al-La'natu Wa Lahum S�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ لَا يَنْفَعُ الظَّالِمِينَ مَعْذِرَتُهُمْ وَلَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم لا ينفع الظالمين معذرتهم ولهم اللعنة ولهم سوء الدار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ لَا یَنفَعُ ٱلظَّـٰلِمِینَ مَعۡذِرَتُهُمۡۖ وَلَهُمُ ٱللَّعۡنَةُ وَلَهُمۡ سُوۤءُ ٱلدَّارِ
 
 | Details |  |

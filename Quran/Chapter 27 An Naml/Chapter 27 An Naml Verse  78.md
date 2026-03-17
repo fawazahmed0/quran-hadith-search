@@ -452,6 +452,18 @@ Inna Rabbaka Yaqđī Baynahum Biĥukmihi Wa Huwa Al-'Azīzu Al-'Alīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ بِحُكْمِهِ وَهُوَ الْعَزِيزُ الْعَلِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان ربك يقضي بينهم بحكمه وهو العزيز العليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ رَبَّكَ یَقۡضِی بَیۡنَهُم بِحُكۡمِهِۦۚ وَهُوَ ٱلۡعَزِیزُ ٱلۡعَلِیمُ
 
 | Details |  |

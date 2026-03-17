@@ -452,6 +452,18 @@ Wa Qul Rabbi Aghfir Wa Arĥam Wa 'Anta Khayru Ar-Rāĥimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقُلْ رَبِّ اغْفِرْ وَارْحَمْ وَأَنْتَ خَيْرُ الرَّاحِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقل رب اغفر وارحم وانت خير الراحمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقُل رَّبِّ ٱغۡفِرۡ وَٱرۡحَمۡ وَأَنتَ خَیۡرُ ٱلرَّ ٰحِمِینَ
 
 | Details |  |

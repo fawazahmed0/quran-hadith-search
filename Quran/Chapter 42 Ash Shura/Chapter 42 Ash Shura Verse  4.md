@@ -452,6 +452,18 @@ Lahu Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa Huwa Al-'Alīyu Al-'Ažīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَلِيُّ الْعَظِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+له ما في السماوات وما في الارض وهو العلي العظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَهُۥ مَا فِی ٱلسَّمَـٰوَ ٰتِ وَمَا فِی ٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَلِیُّ ٱلۡعَظِیمُ
 
 | Details |  |

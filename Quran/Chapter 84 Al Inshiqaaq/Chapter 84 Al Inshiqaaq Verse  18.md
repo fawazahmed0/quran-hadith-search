@@ -452,6 +452,18 @@ Wa Al-Qamari 'IdhÄ Attasaqa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْقَمَرِ إِذَا اتَّسَقَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والقمر اذا اتسق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡقَمَرِ إِذَا ٱتَّسَقَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Yā Yaĥyá Khudhi Al-Kitāba Biqūwatin Wa 'Ātaynāhu Al-Ĥukma Şabīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا يَحْيَى خُذِ الْكِتَابَ بِقُوَّةٍ وَآتَيْنَاهُ الْحُكْمَ صَبِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا يحيى خذ الكتاب بقوة واتيناه الحكم صبيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰیَحۡیَىٰ خُذِ ٱلۡكِتَـٰبَ بِقُوَّةࣲۖ وَءَاتَیۡنَـٰهُ ٱلۡحُكۡمَ صَبِیࣰّا
 
 | Details |  |

@@ -452,6 +452,18 @@ Qulnā Lā Takhaf 'Innaka 'Anta Al-'A'lá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْنَا لَا تَخَفْ إِنَّكَ أَنْتَ الْأَعْلَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قلنا لا تخف انك انت الاعلى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡنَا لَا تَخَفۡ إِنَّكَ أَنتَ ٱلۡأَعۡلَىٰ
 
 | Details |  |

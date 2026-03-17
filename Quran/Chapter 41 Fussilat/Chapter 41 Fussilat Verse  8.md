@@ -452,6 +452,18 @@ Inna Al-Ladhīna 'Āmanū Wa 'Amilū Aş-Şāliĥāti Lahum 'Ajrun Ghayru Mamnū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين امنوا وعملوا الصالحات لهم اجر غير ممنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمۡ أَجۡرٌ غَیۡرُ مَمۡنُونࣲ
 
 | Details |  |

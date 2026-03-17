@@ -452,6 +452,18 @@ Innamā Tū'adūna Lawāqi'un
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّمَا تُوعَدُونَ لَوَاقِعٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انما توعدون لواقع
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّمَا تُوعَدُونَ لَوَ ٰقِعࣱ
 
 | Details |  |

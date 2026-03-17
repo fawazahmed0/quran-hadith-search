@@ -452,6 +452,18 @@ Am Ĥasibta 'Anna 'Aşĥāba Al-Kahfi Wa Ar-Raqīmi Kānū Min 'Āyātinā 'Ajab
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ حَسِبْتَ أَنَّ أَصْحَابَ الْكَهْفِ وَالرَّقِيمِ كَانُوا مِنْ آيَاتِنَا عَجَبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام حسبت ان اصحاب الكهف والرقيم كانوا من اياتنا عجبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ حَسِبۡتَ أَنَّ أَصۡحَـٰبَ ٱلۡكَهۡفِ وَٱلرَّقِیمِ كَانُوا۟ مِنۡ ءَایَـٰتِنَا عَجَبًا
 
 | Details |  |

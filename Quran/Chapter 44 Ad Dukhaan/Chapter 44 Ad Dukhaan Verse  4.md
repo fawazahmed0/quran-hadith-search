@@ -452,6 +452,18 @@ Fīhā Yufraqu Kullu 'Amrin Ĥakīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيها يفرق كل امر حكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِیهَا یُفۡرَقُ كُلُّ أَمۡرٍ حَكِیمٍ
 
 | Details |  |

@@ -452,6 +452,18 @@ Yawma Yusĥabūna Fī An-Nāri 'Alá Wujūhihim Dhūqū Massa Saqara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ يُسْحَبُونَ فِي النَّارِ عَلَى وُجُوهِهِمْ ذُوقُوا مَسَّ سَقَرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم يسحبون في النار على وجوههم ذوقوا مس سقر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ یُسۡحَبُونَ فِی ٱلنَّارِ عَلَىٰ وُجُوهِهِمۡ ذُوقُوا۟ مَسَّ سَقَرَ
 
 | Details |  |

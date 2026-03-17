@@ -452,6 +452,18 @@ Qāla Rabbi Ashraĥ Lī Şadrī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ اشْرَحْ لِي صَدْرِي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب اشرح لي صدري
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ ٱشۡرَحۡ لِی صَدۡرِی
 
 | Details |  |

@@ -452,6 +452,18 @@ Innakum Ladhā'iqū Al-'Adhābi Al-'Alīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّكُمْ لَذَائِقُو الْعَذَابِ الْأَلِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انكم لذايقو العذاب الاليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّكُمۡ لَذَاۤئِقُوا۟ ٱلۡعَذَابِ ٱلۡأَلِیمِ
 
 | Details |  |

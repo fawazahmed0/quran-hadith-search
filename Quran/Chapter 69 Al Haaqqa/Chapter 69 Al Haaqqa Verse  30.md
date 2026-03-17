@@ -452,6 +452,18 @@ Khudhūhu Faghullūhu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خُذُوهُ فَغُلُّوهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خذوه فغلوه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خُذُوهُ فَغُلُّوهُ
 
 | Details |  |

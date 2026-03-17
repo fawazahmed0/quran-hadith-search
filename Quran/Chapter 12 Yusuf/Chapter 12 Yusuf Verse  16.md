@@ -452,6 +452,18 @@ Wa Jā'ū 'Abāhum 'Ishā'an Yabkūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَاءُوا أَبَاهُمْ عِشَاءً يَبْكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجاءوا اباهم عشاء يبكون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَاۤءُوۤ أَبَاهُمۡ عِشَاۤءࣰ یَبۡكُونَ
 
 | Details |  |

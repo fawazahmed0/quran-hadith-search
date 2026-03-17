@@ -452,6 +452,18 @@ Wa Qul Rabbi 'Adkhilnī Mudkhala Şidqin Wa 'Akhrijnī Mukhraja Şidqin Wa Aj'al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقُلْ رَبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ وَاجْعَلْ لِي مِنْ لَدُنْكَ سُلْطَانًا نَصِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقل رب ادخلني مدخل صدق واخرجني مخرج صدق واجعل لي من لدنك سلطانا نصيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقُل رَّبِّ أَدۡخِلۡنِی مُدۡخَلَ صِدۡقࣲ وَأَخۡرِجۡنِی مُخۡرَجَ صِدۡقࣲ وَٱجۡعَل لِّی مِن لَّدُنكَ سُلۡطَـٰنࣰا نَّصِیرࣰا
 
 | Details |  |

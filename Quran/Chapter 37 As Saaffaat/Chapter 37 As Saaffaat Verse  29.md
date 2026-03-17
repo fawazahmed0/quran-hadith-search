@@ -452,6 +452,18 @@ Qālū Bal Lam Takūnū Mu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا بَلْ لَمْ تَكُونُوا مُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا بل لم تكونوا مومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ بَل لَّمۡ تَكُونُوا۟ مُؤۡمِنِینَ
 
 | Details |  |

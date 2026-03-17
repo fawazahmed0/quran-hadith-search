@@ -452,6 +452,18 @@ Alam Taraw Kayfa Khalaqa Allāhu Sab'a Samāwātin Ţibāqāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم تروا كيف خلق الله سبع سماوات طباقا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ تَرَوۡا۟ كَیۡفَ خَلَقَ ٱللَّهُ سَبۡعَ سَمَـٰوَ ٰتࣲ طِبَاقࣰا
 
 | Details |  |

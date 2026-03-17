@@ -452,6 +452,18 @@ Wa Al-Layli 'Idhā Yaghshá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاللَّيْلِ إِذَا يَغْشَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والليل اذا يغشى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّیۡلِ إِذَا یَغۡشَىٰ
 
 | Details |  |

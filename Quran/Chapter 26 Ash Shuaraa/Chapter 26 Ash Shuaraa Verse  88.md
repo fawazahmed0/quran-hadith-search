@@ -452,6 +452,18 @@ Yawma Lā Yanfa'u Mālun Wa Lā Banūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ لَا يَنْفَعُ مَالٌ وَلَا بَنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم لا ينفع مال ولا بنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ لَا یَنفَعُ مَالࣱ وَلَا بَنُونَ
 
 | Details |  |

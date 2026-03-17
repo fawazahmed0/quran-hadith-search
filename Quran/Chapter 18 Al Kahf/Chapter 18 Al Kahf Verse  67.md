@@ -452,6 +452,18 @@ Qāla 'Innaka Lan Tastaţī'a Ma'iya Şabrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال انك لن تستطيع معي صبرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ إِنَّكَ لَن تَسۡتَطِیعَ مَعِیَ صَبۡرࣰا
 
 | Details |  |

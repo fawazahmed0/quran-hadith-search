@@ -452,6 +452,18 @@ Wa Kadhalika Nufaşşilu Al-'Āyāti Wa La'allahum Yarji'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَذَلِكَ نُفَصِّلُ الْآيَاتِ وَلَعَلَّهُمْ يَرْجِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكذلك نفصل الايات ولعلهم يرجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَذَ ٰلِكَ نُفَصِّلُ ٱلۡءَایَـٰتِ وَلَعَلَّهُمۡ یَرۡجِعُونَ
 
 | Details |  |

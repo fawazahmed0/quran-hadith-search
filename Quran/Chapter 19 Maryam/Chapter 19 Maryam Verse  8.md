@@ -452,6 +452,18 @@ Qāla Rabbi 'Anná Yakūnu Lī Ghulāmun Wa Kānat Amra'atī 'Āqirāan Wa Qad B
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ أَنَّى يَكُونُ لِي غُلَامٌ وَكَانَتِ امْرَأَتِي عَاقِرًا وَقَدْ بَلَغْتُ مِنَ الْكِبَرِ عِتِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب انى يكون لي غلام وكانت امراتي عاقرا وقد بلغت من الكبر عتيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ أَنَّىٰ یَكُونُ لِی غُلَـٰمࣱ وَكَانَتِ ٱمۡرَأَتِی عَاقِرࣰا وَقَدۡ بَلَغۡتُ مِنَ ٱلۡكِبَرِ عِتِیࣰّا
 
 | Details |  |

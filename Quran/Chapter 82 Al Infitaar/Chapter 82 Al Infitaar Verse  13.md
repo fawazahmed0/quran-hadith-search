@@ -452,6 +452,18 @@ Inna Al-'Abrāra Lafī Na'īmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الابرار لفي نعيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلۡأَبۡرَارَ لَفِی نَعِیمࣲ
 
 | Details |  |

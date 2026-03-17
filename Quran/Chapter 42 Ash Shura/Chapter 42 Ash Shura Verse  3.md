@@ -452,6 +452,18 @@ Kadhālika Yūĥī 'Ilayka Wa 'Ilá Al-Ladhīna Min Qablika Allāhu Al-'Azīzu A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَلِكَ يُوحِي إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ اللَّهُ الْعَزِيزُ الْحَكِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذلك يوحي اليك والى الذين من قبلك الله العزيز الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَ ٰلِكَ یُوحِیۤ إِلَیۡكَ وَإِلَى ٱلَّذِینَ مِن قَبۡلِكَ ٱللَّهُ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
 
 | Details |  |

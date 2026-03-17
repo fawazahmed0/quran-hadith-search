@@ -452,6 +452,18 @@ Alam Naj'ali Al-'Arđa Mihādāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم نجعل الارض مهادا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ مِهَـٰدࣰا
 
 | Details |  |

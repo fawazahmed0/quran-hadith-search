@@ -452,6 +452,18 @@ Wa Law Ja'alnāhu Malakāan Laja'alnāhu Rajulāan Wa Lalabasnā 'Alayhim Mā Ya
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْ جَعَلْنَاهُ مَلَكًا لَجَعَلْنَاهُ رَجُلًا وَلَلَبَسْنَا عَلَيْهِمْ مَا يَلْبِسُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولو جعلناه ملكا لجعلناه رجلا وللبسنا عليهم ما يلبسون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡ جَعَلۡنَـٰهُ مَلَكࣰا لَّجَعَلۡنَـٰهُ رَجُلࣰا وَلَلَبَسۡنَا عَلَیۡهِم مَّا یَلۡبِسُونَ
 
 | Details |  |

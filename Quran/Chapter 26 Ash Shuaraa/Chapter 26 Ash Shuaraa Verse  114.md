@@ -452,6 +452,18 @@ Wa Mā 'Anā Biţāridi Al-Mu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَنَا بِطَارِدِ الْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما انا بطارد المومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَنَا۠ بِطَارِدِ ٱلۡمُؤۡمِنِینَ
 
 | Details |  |

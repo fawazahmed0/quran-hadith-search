@@ -452,6 +452,18 @@ Fahal Tará Lahum Min Bāqiyahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَهَلْ تَرَى لَهُمْ مِنْ بَاقِيَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فهل ترى لهم من باقية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَهَلۡ تَرَىٰ لَهُم مِّنۢ بَاقِیَةࣲ
 
 | Details |  |

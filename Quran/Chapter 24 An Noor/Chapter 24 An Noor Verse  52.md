@@ -452,6 +452,18 @@ Wa Man Yuţi'i Allāha Wa Rasūlahu Wa Yakhsha Allāha Wa Yattaqhi Fa'ūlā'ika 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ وَيَخْشَ اللَّهَ وَيَتَّقْهِ فَأُولَئِكَ هُمُ الْفَائِزُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن يطع الله ورسوله ويخش الله ويتقه فاوليك هم الفايزون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن یُطِعِ ٱللَّهَ وَرَسُولَهُۥ وَیَخۡشَ ٱللَّهَ وَیَتَّقۡهِ فَأُو۟لَـٰۤئِكَ هُمُ ٱلۡفَاۤئِزُونَ
 
 | Details |  |

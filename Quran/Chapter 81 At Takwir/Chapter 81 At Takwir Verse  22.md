@@ -452,6 +452,18 @@ Wa Mā Şāĥibukum Bimajnūnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا صَاحِبُكُمْ بِمَجْنُونٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما صاحبكم بمجنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا صَاحِبُكُم بِمَجۡنُونࣲ
 
 | Details |  |

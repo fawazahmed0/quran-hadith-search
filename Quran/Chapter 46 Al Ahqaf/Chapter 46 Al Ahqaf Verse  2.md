@@ -452,6 +452,18 @@ Tanzīlu Al-Kitābi Mina Allāhi Al-'Azīzi Al-Ĥakīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَنْزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تنزيل الكتاب من الله العزيز الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَنزِیلُ ٱلۡكِتَـٰبِ مِنَ ٱللَّهِ ٱلۡعَزِیزِ ٱلۡحَكِیمِ
 
 | Details |  |

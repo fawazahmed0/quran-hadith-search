@@ -452,6 +452,18 @@ Akhraja Minhā Mā'ahā Wa Mar'āhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اخرج منها ماءها ومرعاها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَخۡرَجَ مِنۡهَا مَاۤءَهَا وَمَرۡعَىٰهَا
 
 | Details |  |

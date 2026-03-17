@@ -452,6 +452,18 @@ Wa Laqad Khalaqnā As-Samāwāti Wa Al-'Arđa Wa Mā Baynahumā Fī Sittati 'Ayy
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا مِنْ لُغُوبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد خلقنا السماوات والارض وما بينهما في ستة ايام وما مسنا من لغوب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ خَلَقۡنَا ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضَ وَمَا بَیۡنَهُمَا فِی سِتَّةِ أَیَّامࣲ وَمَا مَسَّنَا مِن لُّغُوبࣲ
 
 | Details |  |

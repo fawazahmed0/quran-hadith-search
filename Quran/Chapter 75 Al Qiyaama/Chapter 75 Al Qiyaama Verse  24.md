@@ -452,6 +452,18 @@ Wa Wujūhun Yawma'idhin Bāsirahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ووجوه يوميذ باسرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَوُجُوهࣱ یَوۡمَئِذِۭ بَاسِرَةࣱ
 
 | Details |  |

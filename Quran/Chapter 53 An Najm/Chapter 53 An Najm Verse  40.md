@@ -452,6 +452,18 @@ Wa 'Anna Sa'yahu Sawfa Yurá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّ سَعْيَهُ سَوْفَ يُرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان سعيه سوف يرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّ سَعۡیَهُۥ سَوۡفَ یُرَىٰ
 
 | Details |  |

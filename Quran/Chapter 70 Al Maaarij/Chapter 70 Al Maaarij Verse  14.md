@@ -452,6 +452,18 @@ Wa Man Fī Al-'Arđi Jamī'āan Thumma Yunjīhi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ فِي الْأَرْضِ جَمِيعًا ثُمَّ يُنْجِيهِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن في الارض جميعا ثم ينجيه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن فِی ٱلۡأَرۡضِ جَمِیعࣰا ثُمَّ یُنجِیهِ
 
 | Details |  |

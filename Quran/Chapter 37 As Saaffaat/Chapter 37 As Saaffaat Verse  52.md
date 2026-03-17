@@ -452,6 +452,18 @@ Yaqūlu 'A'innaka Lamina Al-Muşaddiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَقُولُ أَإِنَّكَ لَمِنَ الْمُصَدِّقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يقول اانك لمن المصدقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَقُولُ أَءِنَّكَ لَمِنَ ٱلۡمُصَدِّقِینَ
 
 | Details |  |

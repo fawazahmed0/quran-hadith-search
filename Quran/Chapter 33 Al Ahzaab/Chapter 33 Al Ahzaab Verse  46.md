@@ -452,6 +452,18 @@ Wa Dā'īāan 'Ilá Allāhi Bi'idhnihi Wa Sirājāan Munīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَدَاعِيًا إِلَى اللَّهِ بِإِذْنِهِ وَسِرَاجًا مُنِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وداعيا الى الله باذنه وسراجا منيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَدَاعِیًا إِلَى ٱللَّهِ بِإِذۡنِهِۦ وَسِرَاجࣰا مُّنِیرࣰا
 
 | Details |  |

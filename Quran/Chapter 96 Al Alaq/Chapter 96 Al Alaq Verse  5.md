@@ -452,6 +452,18 @@ Allama Al-'Insāna Mā Lam Ya'lam
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+علم الانسان ما لم يعلم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَلَّمَ ٱلۡإِنسَـٰنَ مَا لَمۡ یَعۡلَمۡ
 
 | Details |  |

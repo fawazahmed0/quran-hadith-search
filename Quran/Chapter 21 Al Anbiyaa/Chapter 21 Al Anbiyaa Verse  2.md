@@ -452,6 +452,18 @@ Mā Ya'tīhim Min Dhikrin Min Rabbihim Muĥdathin 'Illā Astama'ūhu Wa Hum Yal'
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا يَأْتِيهِمْ مِنْ ذِكْرٍ مِنْ رَبِّهِمْ مُحْدَثٍ إِلَّا اسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما ياتيهم من ذكر من ربهم محدث الا استمعوه وهم يلعبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا یَأۡتِیهِم مِّن ذِكۡرࣲ مِّن رَّبِّهِم مُّحۡدَثٍ إِلَّا ٱسۡتَمَعُوهُ وَهُمۡ یَلۡعَبُونَ
 
 | Details |  |

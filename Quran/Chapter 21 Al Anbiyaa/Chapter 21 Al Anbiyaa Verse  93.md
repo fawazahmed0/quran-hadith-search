@@ -452,6 +452,18 @@ Wa Taqaţţa'ū 'Amrahum Baynahum Kullun 'Ilaynā Rāji'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَقَطَّعُوا أَمْرَهُمْ بَيْنَهُمْ كُلٌّ إِلَيْنَا رَاجِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتقطعوا امرهم بينهم كل الينا راجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَقَطَّعُوۤا۟ أَمۡرَهُم بَیۡنَهُمۡۖ كُلٌّ إِلَیۡنَا رَ ٰجِعُونَ
 
 | Details |  |

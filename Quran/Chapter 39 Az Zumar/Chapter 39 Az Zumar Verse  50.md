@@ -452,6 +452,18 @@ Qad Qālahā Al-Ladhīna Min Qablihim Famā 'Aghná 'Anhum Mā Kānū Yaksibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَدْ قَالَهَا الَّذِينَ مِنْ قَبْلِهِمْ فَمَا أَغْنَى عَنْهُمْ مَا كَانُوا يَكْسِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قد قالها الذين من قبلهم فما اغنى عنهم ما كانوا يكسبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَدۡ قَالَهَا ٱلَّذِینَ مِن قَبۡلِهِمۡ فَمَاۤ أَغۡنَىٰ عَنۡهُم مَّا كَانُوا۟ یَكۡسِبُونَ
 
 | Details |  |

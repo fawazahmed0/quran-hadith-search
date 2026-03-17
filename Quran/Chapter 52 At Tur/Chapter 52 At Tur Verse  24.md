@@ -452,6 +452,18 @@ Wa Yaţūfu 'Alayhim Ghilmānun Lahum Ka'annahum Lu'ulu'uun Maknūnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَكْنُونٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويطوف عليهم غلمان لهم كانهم لولو مكنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَیَطُوفُ عَلَیۡهِمۡ غِلۡمَانࣱ لَّهُمۡ كَأَنَّهُمۡ لُؤۡلُؤࣱ مَّكۡنُونࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Kitābun 'Anzalnāhu 'Ilayka Mubārakun Liyaddabbarū 'Āyātihi Wa Liyatadhakka
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كِتَابٌ أَنْزَلْنَاهُ إِلَيْكَ مُبَارَكٌ لِيَدَّبَّرُوا آيَاتِهِ وَلِيَتَذَكَّرَ أُولُو الْأَلْبَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كتاب انزلناه اليك مبارك ليدبروا اياته وليتذكر اولو الالباب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كِتَـٰبٌ أَنزَلۡنَـٰهُ إِلَیۡكَ مُبَـٰرَكࣱ لِّیَدَّبَّرُوۤا۟ ءَایَـٰتِهِۦ وَلِیَتَذَكَّرَ أُو۟لُوا۟ ٱلۡأَلۡبَـٰبِ
 
 | Details |  |

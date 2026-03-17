@@ -452,6 +452,18 @@ Wa An-Nāshirāti Nashrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالنَّاشِرَاتِ نَشْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والناشرات نشرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلنَّـٰشِرَ ٰتِ نَشۡرࣰا
 
 | Details |  |

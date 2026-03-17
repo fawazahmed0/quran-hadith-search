@@ -452,6 +452,18 @@ Fadhālika Al-Ladhī Yadu''u Al-Yatīma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَذَلِكَ الَّذِي يَدُعُّ الْيَتِيمَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فذلك الذي يدع اليتيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَذَ ٰلِكَ ٱلَّذِی یَدُعُّ ٱلۡیَتِیمَ
 
 | Details |  |

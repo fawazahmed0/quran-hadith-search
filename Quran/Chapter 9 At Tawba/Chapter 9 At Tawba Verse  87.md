@@ -452,6 +452,18 @@ Rađū Bi'an Yakūnū Ma'a Al-Khawālifi Wa Ţubi'a 'Alá Qulūbihim Fahum Lā Y
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَضُوا بِأَنْ يَكُونُوا مَعَ الْخَوَالِفِ وَطُبِعَ عَلَى قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+رضوا بان يكونوا مع الخوالف وطبع على قلوبهم فهم لا يفقهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَضُوا۟ بِأَن یَكُونُوا۟ مَعَ ٱلۡخَوَالِفِ وَطُبِعَ عَلَىٰ قُلُوبِهِمۡ فَهُمۡ لَا یَفۡقَهُونَ
 
 | Details |  |

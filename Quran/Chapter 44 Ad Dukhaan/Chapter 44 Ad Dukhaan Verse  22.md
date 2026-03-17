@@ -452,6 +452,18 @@ Fada'ā Rabbahu 'Anna Hā'uulā' Qawmun Mujrimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَدَعَا رَبَّهُ أَنَّ هَؤُلَاءِ قَوْمٌ مُجْرِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فدعا ربه ان هولاء قوم مجرمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَدَعَا رَبَّهُۥۤ أَنَّ هَـٰۤؤُلَاۤءِ قَوۡمࣱ مُّجۡرِمُونَ
 
 | Details |  |

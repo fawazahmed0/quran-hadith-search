@@ -452,6 +452,18 @@ Wa Jannātin Wa 'Uyūnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَنَّاتٍ وَعُيُونٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجنات وعيون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَنَّـٰتࣲ وَعُیُونٍ
 
 | Details |  |

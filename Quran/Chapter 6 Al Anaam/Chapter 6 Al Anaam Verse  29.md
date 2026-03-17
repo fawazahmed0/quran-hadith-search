@@ -452,6 +452,18 @@ Wa Qālū 'In Hiya 'Illā Ĥayātunā Ad-Dunyā Wa Mā Naĥnu Bimab'ūthīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا إِنْ هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا ان هي الا حياتنا الدنيا وما نحن بمبعوثين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوۤا۟ إِنۡ هِیَ إِلَّا حَیَاتُنَا ٱلدُّنۡیَا وَمَا نَحۡنُ بِمَبۡعُوثِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna Hādhā Kāna Lakum Jazā'an Wa Kāna Sa'yukum Mashkūrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ هَذَا كَانَ لَكُمْ جَزَاءً وَكَانَ سَعْيُكُمْ مَشْكُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هذا كان لكم جزاء وكان سعيكم مشكورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ هَـٰذَا كَانَ لَكُمۡ جَزَاۤءࣰ وَكَانَ سَعۡیُكُم مَّشۡكُورًا
 
 | Details |  |

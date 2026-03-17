@@ -452,6 +452,18 @@ Wa 'Idhā Marrū Bihim Yataghāmazūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا مَرُّوا بِهِمْ يَتَغَامَزُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا مروا بهم يتغامزون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا مَرُّوا۟ بِهِمۡ یَتَغَامَزُونَ
 
 | Details |  |

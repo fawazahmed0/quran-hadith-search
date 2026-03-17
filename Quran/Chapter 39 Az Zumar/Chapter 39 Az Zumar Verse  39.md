@@ -452,6 +452,18 @@ Qul Yā Qawmi A'malū 'Alá Makānatikum 'Innī 'Āmilun Fasawfa Ta'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ يَا قَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل يا قوم اعملوا على مكانتكم اني عامل فسوف تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ یَـٰقَوۡمِ ٱعۡمَلُوا۟ عَلَىٰ مَكَانَتِكُمۡ إِنِّی عَـٰمِلࣱۖ فَسَوۡفَ تَعۡلَمُونَ
 
 | Details |  |

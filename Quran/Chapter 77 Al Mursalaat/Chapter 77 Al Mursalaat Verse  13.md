@@ -452,6 +452,18 @@ Liyawmi Al-Faşli
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِيَوْمِ الْفَصْلِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ليوم الفصل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِیَوۡمِ ٱلۡفَصۡلِ
 
 | Details |  |

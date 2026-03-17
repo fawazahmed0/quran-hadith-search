@@ -452,6 +452,18 @@ Fī 'Adná Al-'Arđi Wa Hum Min Ba'di Ghalabihim Sayaghlibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي أَدْنَى الْأَرْضِ وَهُمْ مِنْ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في ادنى الارض وهم من بعد غلبهم سيغلبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِیۤ أَدۡنَى ٱلۡأَرۡضِ وَهُم مِّنۢ بَعۡدِ غَلَبِهِمۡ سَیَغۡلِبُونَ
 
 | Details |  |

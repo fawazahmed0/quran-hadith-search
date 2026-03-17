@@ -452,6 +452,18 @@ Wa Man Yaqul Minhum 'Innī 'Ilahun Min Dūnihi Fadhālika Najzīhi Jahannama Kad
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ يَقُلْ مِنْهُمْ إِنِّي إِلَهٌ مِنْ دُونِهِ فَذَلِكَ نَجْزِيهِ جَهَنَّمَ كَذَلِكَ نَجْزِي الظَّالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن يقل منهم اني اله من دونه فذلك نجزيه جهنم كذلك نجزي الظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَمَن یَقُلۡ مِنۡهُمۡ إِنِّیۤ إِلَـٰهࣱ مِّن دُونِهِۦ فَذَ ٰلِكَ نَجۡزِیهِ جَهَنَّمَۚ كَذَ ٰلِكَ نَجۡزِی ٱلظَّـٰلِمِینَ
 
 | Details |  |

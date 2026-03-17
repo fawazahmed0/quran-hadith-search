@@ -452,6 +452,18 @@ Alam Tara 'Ilá Al-Ladhīna Yuzakkūna 'Anfusahum Bali Allāhu Yuzakkī Man Yash
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ تَرَ إِلَى الَّذِينَ يُزَكُّونَ أَنْفُسَهُمْ بَلِ اللَّهُ يُزَكِّي مَنْ يَشَاءُ وَلَا يُظْلَمُونَ فَتِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم تر الى الذين يزكون انفسهم بل الله يزكي من يشاء ولا يظلمون فتيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ تَرَ إِلَى ٱلَّذِینَ یُزَكُّونَ أَنفُسَهُمۚ بَلِ ٱللَّهُ یُزَكِّی مَن یَشَاۤءُ وَلَا یُظۡلَمُونَ فَتِیلًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Al-Ä¤amdu LillÄhi Rabbi Al-'Ä€lamÄ«na
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والحمد لله رب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

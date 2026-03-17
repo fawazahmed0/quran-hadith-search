@@ -452,6 +452,18 @@ Wa Khalaqnākum 'Azwājāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَخَلَقْنَاكُمْ أَزْوَاجًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وخلقناكم ازواجا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَخَلَقۡنَـٰكُمۡ أَزۡوَ ٰجࣰا
 
 | Details |  |

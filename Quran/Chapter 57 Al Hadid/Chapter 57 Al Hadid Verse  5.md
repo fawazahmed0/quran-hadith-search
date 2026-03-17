@@ -452,6 +452,18 @@ Lahu Mulku As-Samāwāti Wa Al-'Arđi Wa 'Ilá Allāhi Turja'u Al-'Umūru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+له ملك السماوات والارض والى الله ترجع الامور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّهُۥ مُلۡكُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ
 
 | Details |  |

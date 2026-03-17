@@ -452,6 +452,18 @@ Wa 'Immā Tu'riđanna 'Anhumu Abtighā'a Raĥmatin Min Rabbika Tarjūhā Faqul L
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِمَّا تُعْرِضَنَّ عَنْهُمُ ابْتِغَاءَ رَحْمَةٍ مِنْ رَبِّكَ تَرْجُوهَا فَقُلْ لَهُمْ قَوْلًا مَيْسُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما تعرضن عنهم ابتغاء رحمة من ربك ترجوها فقل لهم قولا ميسورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِمَّا تُعۡرِضَنَّ عَنۡهُمُ ٱبۡتِغَاۤءَ رَحۡمَةࣲ مِّن رَّبِّكَ تَرۡجُوهَا فَقُل لَّهُمۡ قَوۡلࣰا مَّیۡسُورࣰا
 
 | Details |  |

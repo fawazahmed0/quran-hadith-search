@@ -452,6 +452,18 @@ Qāla Fabimā 'Aghwaytanī La'aq'udanna Lahum Şirāţaka Al-Mustaqīma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ فَبِمَا أَغْوَيْتَنِي لَأَقْعُدَنَّ لَهُمْ صِرَاطَكَ الْمُسْتَقِيمَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال فبما اغويتني لاقعدن لهم صراطك المستقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ فَبِمَاۤ أَغۡوَیۡتَنِی لَأَقۡعُدَنَّ لَهُمۡ صِرَ ٰطَكَ ٱلۡمُسۡتَقِیمَ
 
 | Details |  |

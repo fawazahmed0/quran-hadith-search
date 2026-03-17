@@ -452,6 +452,18 @@ Famā Zālat Tilka Da'wāhum Ĥattá Ja'alnāhum Ĥaşīdāan Khāmidīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَا زَالَتْ تِلْكَ دَعْوَاهُمْ حَتَّى جَعَلْنَاهُمْ حَصِيدًا خَامِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فما زالت تلك دعواهم حتى جعلناهم حصيدا خامدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَا زَالَت تِّلۡكَ دَعۡوَىٰهُمۡ حَتَّىٰ جَعَلۡنَـٰهُمۡ حَصِیدًا خَـٰمِدِینَ
 
 | Details |  |

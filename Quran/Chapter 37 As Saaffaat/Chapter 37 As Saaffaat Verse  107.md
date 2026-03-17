@@ -452,6 +452,18 @@ Wa Fadaynāhu Bidhibĥin 'Ažīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفديناه بذبح عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفَدَیۡنَـٰهُ بِذِبۡحٍ عَظِیمࣲ
 
 | Details |  |

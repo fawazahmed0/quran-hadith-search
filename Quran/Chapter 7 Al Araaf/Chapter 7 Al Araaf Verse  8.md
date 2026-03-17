@@ -452,6 +452,18 @@ Wa Al-Waznu Yawma'idhin Al-Ĥaqqu Faman Thaqulat Mawāzīnuhu Fa'ūlā'ika Humu 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ فَمَنْ ثَقُلَتْ مَوَازِينُهُ فَأُولَئِكَ هُمُ الْمُفْلِحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والوزن يوميذ الحق فمن ثقلت موازينه فاوليك هم المفلحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡوَزۡنُ یَوۡمَئِذٍ ٱلۡحَقُّۚ فَمَن ثَقُلَتۡ مَوَ ٰزِینُهُۥ فَأُو۟لَـٰۤئِكَ هُمُ ٱلۡمُفۡلِحُونَ
 
 | Details |  |

@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي عَبْدِ اللَّهِ جَابِرِ بْنِ عَبْدِ اللَّهِ الْأَنْصَارِيِّ رَضِيَ اللَّهُ عَنْهُمَا: أَنَّ رَجُلًا سَأَلَ رَسُولَ اللَّهِ صلى الله عليه و سلم فَقَالَ: أَرَأَيْت إذَا صَلَّيْت الْمَكْتُوبَاتِ، وَصُمْت رَمَضَانَ، وَأَحْلَلْت الْحَلَالَ، وَحَرَّمْت الْحَرَامَ، وَلَمْ أَزِدْ عَلَى ذَلِكَ شَيْئًا؛ أَأَدْخُلُ الْجَنَّةَ؟ قَالَ: نَعَمْ . \[رَوَاهُ مُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of Abu Abdullah Jabir bin Abdullah al-Ansaree (may Allah be ple
 ## French
 
 Selon Abou Abdallah Jabir ibn Abdallah al-Ansari (qu’Allah l’agrée) : Un homme a interrogé le Messager d’Allah (ﷺ) : « Que penses-tu si j’accomplis les prières obligatoires, je jeûne pendant Ramadan, je considère licite ce qui est licite et illicite ce qui est illicite, et que je ne fais rien de plus, est-ce que j’entrerai au Paradis ? » Il (ﷺ) répondit : « Oui. » \[Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 22 |
+| Arabic No | 22 |
+| Reference | Book 1 Hadith 22 |
+
+## Turkish
+
+Ebu Abdullah Cabir bin Abdullah el-Ensari (ra) anlatıyor: Bir adam Resulullah’a (ﷺ) sordu: "Ne dersin; farz namazları kılsam, Ramazan orucunu tutsam, helali helal bilip haramı haram saysam ve bunlara hiçbir şey eklemesem cennete girer miyim?" Efendimiz: "Evet" buyurdu. \[Müslim\]
 
 | References: |  |
 | --- | --- |

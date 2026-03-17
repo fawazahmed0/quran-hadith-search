@@ -452,6 +452,18 @@ Yā Laytahā Kānati Al-Qāđiyaha
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا لَيْتَهَا كَانَتِ الْقَاضِيَةَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ليتها كانت القاضية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰلَیۡتَهَا كَانَتِ ٱلۡقَاضِیَةَ
 
 | Details |  |

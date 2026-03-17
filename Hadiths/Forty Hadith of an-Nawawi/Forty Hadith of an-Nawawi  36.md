@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ عَنْ النَّبِيِّ صلى الله عليه و سلم قَالَ: مَنْ نَفَّسَ عَنْ مُؤْمِنٍ كُرْبَةً مِنْ كُرَبِ الدُّنْيَا نَفَّسَ اللَّهُ عَنْهُ كُرْبَةً مِنْ كُرَبِ يَوْمِ الْقِيَامَةِ، وَمَنْ يَسَّرَ عَلَى مُعْسِرٍ، يَسَّرَ اللَّهُ عَلَيْهِ فِي الدُّنْيَا وَالْآخِرَةِ، وَمَنْ سَتَرَ مُسْلِما سَتَرَهُ اللهُ فِي الدُّنْيَا وَالْآخِرَةِ ، وَاَللَّهُ فِي عَوْنِ الْعَبْدِ مَا كَانَ الْعَبْدُ فِي عَوْنِ أَخِيهِ، وَمَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقًا إلَى الْجَنَّةِ، وَمَا اجْتَمَعَ قَوْمٌ فِي بَيْتٍ مِنْ بُيُوتِ اللَّهِ يَتْلُونَ كِتَابَ اللَّهِ، وَيَتَدَارَسُونَهُ فِيمَا بَيْنَهُمْ؛ إلَّا نَزَلَتْ عَلَيْهِمْ السَّكِينَةُ، وَغَشِيَتْهُمْ الرَّحْمَةُ، وَ حَفَّتهُمُ المَلاَئِكَة، وَذَكَرَهُمْ اللَّهُ فِيمَنْ عِنْدَهُ، وَمَنْ أَبَطْأَ بِهِ عَمَلُهُ لَمْ يُسْرِعْ بِهِ نَسَبُهُ . \[رَوَاهُ مُسْلِمٌ\] بهذا اللفظ
@@ -47,6 +49,16 @@ On the authority of Abu Hurayrah (may Allah be pleased with him), that the Proph
 ## French
 
 Selon Abou Hourayra (qu’Allah l’agrée), le Prophète (ﷺ) a dit : « Celui qui soulage une peine ici-bas à un croyant, Allah lui enlèvera une peine du Jour de la Résurrection. Celui qui facilite la tâche d’un nécessiteux, Allah lui facilitera dans ce monde et dans l’Au-delà. Celui qui couvre un musulman (ou cache ses fautes), Allah le couvrira ici-bas et dans l’Au-delà. Allah vient en aide au serviteur tant qu’il aide son frère. Celui qui suit un chemin pour rechercher la science, Allah lui facilite un chemin vers le Paradis. Aucun groupe ne se réunit dans une mosquée pour réciter le Livre d’Allah et l’étudier ensemble sans que la tranquillité descende sur eux, que la miséricorde les enveloppe, que les anges les entourent et qu’Allah les mentionne auprès de ceux qui sont auprès de Lui. Celui que ses actes retardent, sa lignée ne le fera pas avancer. » \[Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 36 |
+| Arabic No | 36 |
+| Reference | Book 1 Hadith 36 |
+
+## Turkish
+
+Ebu Hureyre (ra) anlatıyor: Peygamber (ﷺ) şöyle buyurdu: "Kim bir müminin dünyalık sıkıntılarından birini giderirse, Allah da onun kıyamet günündeki sıkıntılarından birini giderir. Kim darda kalmış birine kolaylık sağlarsa, Allah da ona dünyada ve ahirette kolaylık sağlar. Kim bir Müslümanın ayıbını örterse, Allah da onun dünyada ve ahirette ayıplarını örter. Kul, kardeşinin yardımında olduğu müddetçe Allah da kulunun yardımındadır... Ameli kendisini geri bırakan kişiyi, nesebi (soyu) ileri götürmez." \[Müslim\]
 
 | References: |  |
 | --- | --- |

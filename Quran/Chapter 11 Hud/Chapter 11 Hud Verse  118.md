@@ -452,6 +452,18 @@ Wa Law Shā'a Rabbuka Laja'ala An-Nāsa 'Ummatan Wāĥidatan Wa Lā Yazālūna M
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْ شَاءَ رَبُّكَ لَجَعَلَ النَّاسَ أُمَّةً وَاحِدَةً وَلَا يَزَالُونَ مُخْتَلِفِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولو شاء ربك لجعل الناس امة واحدة ولا يزالون مختلفين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡ شَاۤءَ رَبُّكَ لَجَعَلَ ٱلنَّاسَ أُمَّةࣰ وَ ٰحِدَةࣰۖ وَلَا یَزَالُونَ مُخۡتَلِفِینَ
 
 | Details |  |

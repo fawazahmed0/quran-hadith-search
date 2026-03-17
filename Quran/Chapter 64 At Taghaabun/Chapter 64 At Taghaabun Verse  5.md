@@ -452,6 +452,18 @@ Alam Ya'tikum Naba'u Al-Ladhīna Kafarū Min Qablu Fadhāqū Wabāla 'Amrihim Wa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ يَأْتِكُمْ نَبَأُ الَّذِينَ كَفَرُوا مِنْ قَبْلُ فَذَاقُوا وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم ياتكم نبا الذين كفروا من قبل فذاقوا وبال امرهم ولهم عذاب اليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ یَأۡتِكُمۡ نَبَؤُا۟ ٱلَّذِینَ كَفَرُوا۟ مِن قَبۡلُ فَذَاقُوا۟ وَبَالَ أَمۡرِهِمۡ وَلَهُمۡ عَذَابٌ أَلِیمࣱ
 
 | Details |  |

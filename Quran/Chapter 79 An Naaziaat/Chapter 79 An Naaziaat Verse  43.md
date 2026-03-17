@@ -452,6 +452,18 @@ Fīma 'Anta Min Dhikrāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِيمَ أَنْتَ مِنْ ذِكْرَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيم انت من ذكراها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِیمَ أَنتَ مِن ذِكۡرَىٰهَاۤ
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna Al-Ladhīna 'Āmanū Wa 'Amilū Aş-Şāliĥāti Lahum Jannātu An-Na'īmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتُ النَّعِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين امنوا وعملوا الصالحات لهم جنات النعيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمۡ جَنَّـٰتُ ٱلنَّعِیمِ
 
 | Details |  |

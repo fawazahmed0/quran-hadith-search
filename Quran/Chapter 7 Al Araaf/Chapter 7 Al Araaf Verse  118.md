@@ -452,6 +452,18 @@ Fawaqa'a Al-Ĥaqqu Wa Baţala Mā Kānū Ya'malūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَوَقَعَ الْحَقُّ وَبَطَلَ مَا كَانُوا يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فوقع الحق وبطل ما كانوا يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَوَقَعَ ٱلۡحَقُّ وَبَطَلَ مَا كَانُوا۟ یَعۡمَلُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Annā Lamasnā As-Samā'a Fawajadnāhā Muli'at Ĥarasāan Shadīdāan Wa Sh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانا لمسنا السماء فوجدناها مليت حرسا شديدا وشهبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّا لَمَسۡنَا ٱلسَّمَاۤءَ فَوَجَدۡنَـٰهَا مُلِئَتۡ حَرَسࣰا شَدِیدࣰا وَشُهُبࣰا
 
 | Details |  |

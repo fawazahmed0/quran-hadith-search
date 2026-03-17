@@ -452,6 +452,18 @@ Innahu Min 'Ibādinā Al-Mu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انه من عبادنا المومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُۥ مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِینَ
 
 | Details |  |

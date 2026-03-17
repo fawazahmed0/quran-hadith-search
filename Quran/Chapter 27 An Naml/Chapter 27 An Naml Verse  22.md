@@ -452,6 +452,18 @@ Famakatha Ghayra Ba'īdin Faqāla 'Aĥaţtu Bimā Lam Tuĥiţ Bihi Wa Ji'tuka Mi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَكَثَ غَيْرَ بَعِيدٍ فَقَالَ أَحَطْتُ بِمَا لَمْ تُحِطْ بِهِ وَجِئْتُكَ مِنْ سَبَإٍ بِنَبَإٍ يَقِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فمكث غير بعيد فقال احطت بما لم تحط به وجيتك من سبا بنبا يقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَكَثَ غَیۡرَ بَعِیدࣲ فَقَالَ أَحَطتُ بِمَا لَمۡ تُحِطۡ بِهِۦ وَجِئۡتُكَ مِن سَبَإِۭ بِنَبَإࣲ یَقِینٍ
 
 | Details |  |

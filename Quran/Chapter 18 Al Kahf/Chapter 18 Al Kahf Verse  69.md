@@ -452,6 +452,18 @@ Qāla Satajidunī 'In Shā'a Allāhu Şābirāan Wa Lā 'A'şī Laka 'Amrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ صَابِرًا وَلَا أَعْصِي لَكَ أَمْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال ستجدني ان شاء الله صابرا ولا اعصي لك امرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ سَتَجِدُنِیۤ إِن شَاۤءَ ٱللَّهُ صَابِرࣰا وَلَاۤ أَعۡصِی لَكَ أَمۡرࣰا
 
 | Details |  |

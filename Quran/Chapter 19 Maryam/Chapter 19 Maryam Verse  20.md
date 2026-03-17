@@ -452,6 +452,18 @@ Qālat 'Anná Yakūnu Lī Ghulāmun Wa Lam Yamsasnī Basharun Wa Lam 'Aku Baghī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَتْ أَنَّى يَكُونُ لِي غُلَامٌ وَلَمْ يَمْسَسْنِي بَشَرٌ وَلَمْ أَكُ بَغِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالت انى يكون لي غلام ولم يمسسني بشر ولم اك بغيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَتۡ أَنَّىٰ یَكُونُ لِی غُلَـٰمࣱ وَلَمۡ یَمۡسَسۡنِی بَشَرࣱ وَلَمۡ أَكُ بَغِیࣰّا
 
 | Details |  |

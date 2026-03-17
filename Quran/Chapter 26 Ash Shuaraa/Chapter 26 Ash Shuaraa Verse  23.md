@@ -452,6 +452,18 @@ Qāla Fir'awnu Wa Mā Rabbu Al-'Ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال فرعون وما رب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ فِرۡعَوۡنُ وَمَا رَبُّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

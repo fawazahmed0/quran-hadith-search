@@ -452,6 +452,18 @@ Inna Rabbaka Huwa Yafşilu Baynahum Yawma Al-Qiyāmati Fīmā Kānū Fīhi Yakht
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ رَبَّكَ هُوَ يَفْصِلُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان ربك هو يفصل بينهم يوم القيامة فيما كانوا فيه يختلفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ رَبَّكَ هُوَ یَفۡصِلُ بَیۡنَهُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِ فِیمَا كَانُوا۟ فِیهِ یَخۡتَلِفُونَ
 
 | Details |  |

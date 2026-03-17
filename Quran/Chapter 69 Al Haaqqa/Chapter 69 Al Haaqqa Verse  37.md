@@ -452,6 +452,18 @@ Lā Ya'kuluhu 'Illā Al-Khāţi'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَأْكُلُهُ إِلَّا الْخَاطِئُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا ياكله الا الخاطيون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا یَأۡكُلُهُۥۤ إِلَّا ٱلۡخَـٰطِءُونَ
 
 | Details |  |

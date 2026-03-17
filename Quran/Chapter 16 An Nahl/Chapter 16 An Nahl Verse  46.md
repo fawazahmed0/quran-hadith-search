@@ -452,6 +452,18 @@ Aw Ya'khudhahum Fī Taqallubihim Famā Hum Bimu'jizīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْ يَأْخُذَهُمْ فِي تَقَلُّبِهِمْ فَمَا هُمْ بِمُعْجِزِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+او ياخذهم في تقلبهم فما هم بمعجزين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوۡ یَأۡخُذَهُمۡ فِی تَقَلُّبِهِمۡ فَمَا هُم بِمُعۡجِزِینَ
 
 | Details |  |

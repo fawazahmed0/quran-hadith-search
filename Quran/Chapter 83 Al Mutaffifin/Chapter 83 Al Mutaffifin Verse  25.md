@@ -452,6 +452,18 @@ Yusqawna Min Raĥīqin Makhtūmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُسْقَوْنَ مِنْ رَحِيقٍ مَخْتُومٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يسقون من رحيق مختوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُسۡقَوۡنَ مِن رَّحِیقࣲ مَّخۡتُومٍ
 
 | Details |  |

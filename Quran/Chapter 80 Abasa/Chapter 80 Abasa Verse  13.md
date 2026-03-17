@@ -452,6 +452,18 @@ Fī Şuĥufin Mukarramahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي صُحُفٍ مُكَرَّمَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في صحف مكرمة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِی صُحُفࣲ مُّكَرَّمَةࣲ
 
 | Details |  |

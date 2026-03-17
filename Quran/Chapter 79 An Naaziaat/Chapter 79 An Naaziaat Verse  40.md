@@ -452,6 +452,18 @@ Wa 'Ammā Man Khāfa Maqāma Rabbihi Wa Nahá An-Nafsa 'Ani Al-Hawá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما من خاف مقام ربه ونهى النفس عن الهوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمَّا مَنۡ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفۡسَ عَنِ ٱلۡهَوَىٰ
 
 | Details |  |

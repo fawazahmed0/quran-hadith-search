@@ -452,6 +452,18 @@ A'lamū 'Anna Allāha Shadīdu Al-'Iqābi Wa 'Anna Allāha Ghafūrun Raĥīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ وَأَنَّ اللَّهَ غَفُورٌ رَحِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اعلموا ان الله شديد العقاب وان الله غفور رحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ شَدِیدُ ٱلۡعِقَابِ وَأَنَّ ٱللَّهَ غَفُورࣱ رَّحِیمࣱ
 
 | Details |  |

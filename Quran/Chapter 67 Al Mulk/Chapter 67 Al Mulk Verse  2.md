@@ -452,6 +452,18 @@ Al-Ladhī Khalaqa Al-Mawta Wa Al-Ĥayāata Liyabluwakum 'Ayyukum 'Aĥsanu 'Amal�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَهُوَ الْعَزِيزُ الْغَفُورُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي خلق الموت والحياة ليبلوكم ايكم احسن عملا وهو العزيز الغفور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِی خَلَقَ ٱلۡمَوۡتَ وَٱلۡحَیَوٰةَ لِیَبۡلُوَكُمۡ أَیُّكُمۡ أَحۡسَنُ عَمَلࣰاۚ وَهُوَ ٱلۡعَزِیزُ ٱلۡغَفُورُ
 
 | Details |  |

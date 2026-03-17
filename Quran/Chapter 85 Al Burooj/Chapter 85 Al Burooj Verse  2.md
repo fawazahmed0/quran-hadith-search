@@ -452,6 +452,18 @@ Wa Al-Yawmi Al-Maw'ūdi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْيَوْمِ الْمَوْعُودِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واليوم الموعود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡیَوۡمِ ٱلۡمَوۡعُودِ
 
 | Details |  |

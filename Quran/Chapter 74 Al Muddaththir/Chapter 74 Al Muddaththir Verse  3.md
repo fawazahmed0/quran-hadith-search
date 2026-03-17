@@ -452,6 +452,18 @@ Wa Rabbaka Fakabbir
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَرَبَّكَ فَكَبِّرْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وربك فكبر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَرَبَّكَ فَكَبِّرۡ
 
 | Details |  |

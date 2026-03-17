@@ -452,6 +452,18 @@ Wa Fākihatin Mimmā Yatakhayyarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفَاكِهَةٍ مِمَّا يَتَخَيَّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفاكهة مما يتخيرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفَـٰكِهَةࣲ مِّمَّا یَتَخَیَّرُونَ
 
 | Details |  |

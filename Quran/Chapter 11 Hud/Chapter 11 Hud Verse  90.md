@@ -452,6 +452,18 @@ Wa Astaghfirū Rabbakum Thumma Tūbū 'Ilayhi 'Inna Rabbī Raĥīmun Wadūdun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاسْتَغْفِرُوا رَبَّكُمْ ثُمَّ تُوبُوا إِلَيْهِ إِنَّ رَبِّي رَحِيمٌ وَدُودٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واستغفروا ربكم ثم توبوا اليه ان ربي رحيم ودود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱسۡتَغۡفِرُوا۟ رَبَّكُمۡ ثُمَّ تُوبُوۤا۟ إِلَیۡهِۚ إِنَّ رَبِّی رَحِیمࣱ وَدُودࣱ
 
 | Details |  |

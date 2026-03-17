@@ -452,6 +452,18 @@ Bal Humu Al-Yawma Mustaslimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ هُمُ الْيَوْمَ مُسْتَسْلِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل هم اليوم مستسلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ هُمُ ٱلۡیَوۡمَ مُسۡتَسۡلِمُونَ
 
 | Details |  |

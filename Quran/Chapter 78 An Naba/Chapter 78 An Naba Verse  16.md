@@ -452,6 +452,18 @@ Wa Jannātin 'Alfāfāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَنَّاتٍ أَلْفَافًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجنات الفافا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَنَّـٰتٍ أَلۡفَافًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Lā Yadhūqūna Fīhā Al-Mawta 'Illā Al-Mawtata Al-'Ūlá Wa Waqāhum 'Adhāba
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَذُوقُونَ فِيهَا الْمَوْتَ إِلَّا الْمَوْتَةَ الْأُولَى وَوَقَاهُمْ عَذَابَ الْجَحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يذوقون فيها الموت الا الموتة الاولى ووقاهم عذاب الجحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا یَذُوقُونَ فِیهَا ٱلۡمَوۡتَ إِلَّا ٱلۡمَوۡتَةَ ٱلۡأُولَىٰۖ وَوَقَىٰهُمۡ عَذَابَ ٱلۡجَحِیمِ
 
 | Details |  |

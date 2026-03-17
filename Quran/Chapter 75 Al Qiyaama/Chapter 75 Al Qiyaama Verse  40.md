@@ -452,6 +452,18 @@ Alaysa Dhālika Biqādirin 'Alá 'An Yuĥyiya Al-Mawtá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَيْسَ ذَلِكَ بِقَادِرٍ عَلَى أَنْ يُحْيِيَ الْمَوْتَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اليس ذلك بقادر على ان يحيي الموتى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَیۡسَ ذَ ٰلِكَ بِقَـٰدِرٍ عَلَىٰۤ أَن یُحۡـِۧیَ ٱلۡمَوۡتَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna 'Aşĥāba Al-Jannati Al-Yawma Fī Shughulin Fākihūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ أَصْحَابَ الْجَنَّةِ الْيَوْمَ فِي شُغُلٍ فَاكِهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان اصحاب الجنة اليوم في شغل فاكهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ أَصۡحَـٰبَ ٱلۡجَنَّةِ ٱلۡیَوۡمَ فِی شُغُلࣲ فَـٰكِهُونَ
 
 | Details |  |

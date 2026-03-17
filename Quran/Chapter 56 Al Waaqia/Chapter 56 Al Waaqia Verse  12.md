@@ -452,6 +452,18 @@ Fī Jannāti An-Na'īmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي جَنَّاتِ النَّعِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في جنات النعيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِی جَنَّـٰتِ ٱلنَّعِیمِ
 
 | Details |  |

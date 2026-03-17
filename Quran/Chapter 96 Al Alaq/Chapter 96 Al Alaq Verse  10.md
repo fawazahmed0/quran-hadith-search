@@ -452,6 +452,18 @@ Abdāan 'Idhā Şallá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَبْدًا إِذَا صَلَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عبدا اذا صلى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَبۡدًا إِذَا صَلَّىٰۤ
 
 | Details |  |

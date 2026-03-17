@@ -452,6 +452,18 @@ Thumma 'Afawnā 'Ankum Min Ba'di Dhālika La'allakum Tashkurūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ عَفَوْنَا عَنْكُمْ مِنْ بَعْدِ ذَلِكَ لَعَلَّكُمْ تَشْكُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم عفونا عنكم من بعد ذلك لعلكم تشكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ عَفَوۡنَا عَنكُم مِّنۢ بَعۡدِ ذَ ٰلِكَ لَعَلَّكُمۡ تَشۡكُرُونَ
 
 | Details |  |

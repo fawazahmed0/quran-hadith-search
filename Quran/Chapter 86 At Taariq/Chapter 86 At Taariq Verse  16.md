@@ -452,6 +452,18 @@ Wa 'Akīdu Kaydāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَكِيدُ كَيْدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واكيد كيدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَكِیدُ كَیۡدࣰا
 
 | Details |  |

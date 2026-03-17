@@ -452,6 +452,18 @@ Ani An-Naba'i Al-'Ažīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَنِ النَّبَإِ الْعَظِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عن النبا العظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَنِ ٱلنَّبَإِ ٱلۡعَظِیمِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qālū 'Innamā 'Anta Mina Al-Musaĥĥarīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا إِنَّمَا أَنْتَ مِنَ الْمُسَحَّرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا انما انت من المسحرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوۤا۟ إِنَّمَاۤ أَنتَ مِنَ ٱلۡمُسَحَّرِینَ
 
 | Details |  |

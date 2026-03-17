@@ -452,6 +452,18 @@ Wa Min Qawmi Mūsá 'Ummatun Yahdūna Bil-Ĥaqqi Wa Bihi Ya'dilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنْ قَوْمِ مُوسَى أُمَّةٌ يَهْدُونَ بِالْحَقِّ وَبِهِ يَعْدِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن قوم موسى امة يهدون بالحق وبه يعدلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِن قَوۡمِ مُوسَىٰۤ أُمَّةࣱ یَهۡدُونَ بِٱلۡحَقِّ وَبِهِۦ یَعۡدِلُونَ
 
 | Details |  |

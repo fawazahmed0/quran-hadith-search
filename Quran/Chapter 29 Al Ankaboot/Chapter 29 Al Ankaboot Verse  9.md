@@ -452,6 +452,18 @@ Wa Al-Ladhīna 'Āmanū Wa 'Amilū Aş-Şāliĥāti Lanudkhilannahum Fī Aş-Ş�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُدْخِلَنَّهُمْ فِي الصَّالِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين امنوا وعملوا الصالحات لندخلنهم في الصالحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَنُدۡخِلَنَّهُمۡ فِی ٱلصَّـٰلِحِینَ
 
 | Details |  |

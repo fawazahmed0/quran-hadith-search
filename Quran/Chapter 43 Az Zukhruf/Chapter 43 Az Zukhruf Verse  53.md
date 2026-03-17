@@ -452,6 +452,18 @@ Falawlā 'Ulqiya 'Alayhi 'Aswiratun Min Dhahabin 'Aw Jā'a Ma'ahu Al-Malā'ikatu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَوْلَا أُلْقِيَ عَلَيْهِ أَسْوِرَةٌ مِنْ ذَهَبٍ أَوْ جَاءَ مَعَهُ الْمَلَائِكَةُ مُقْتَرِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلولا القي عليه اسورة من ذهب او جاء معه الملايكة مقترنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَوۡلَاۤ أُلۡقِیَ عَلَیۡهِ أَسۡوِرَةࣱ مِّن ذَهَبٍ أَوۡ جَاۤءَ مَعَهُ ٱلۡمَلَـٰۤئِكَةُ مُقۡتَرِنِینَ
 
 | Details |  |

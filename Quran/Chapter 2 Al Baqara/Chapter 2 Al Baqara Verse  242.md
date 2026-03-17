@@ -452,6 +452,18 @@ Kadhālika Yubayyinu Allāhu Lakum 'Āyātihi La'allakum Ta'qilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَلِكَ يُبَيِّنُ اللَّهُ لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذلك يبين الله لكم اياته لعلكم تعقلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَ ٰلِكَ یُبَیِّنُ ٱللَّهُ لَكُمۡ ءَایَـٰتِهِۦ لَعَلَّكُمۡ تَعۡقِلُونَ
 
 | Details |  |

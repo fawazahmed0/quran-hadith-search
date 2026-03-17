@@ -452,6 +452,18 @@ Wa Yadra'u 'Anhā Al-'Adhāba 'An Tash/hada 'Arba'a Shahādātin Billāhi 'Innah
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَدْرَأُ عَنْهَا الْعَذَابَ أَنْ تَشْهَدَ أَرْبَعَ شَهَادَاتٍ بِاللَّهِ إِنَّهُ لَمِنَ الْكَاذِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويدرا عنها العذاب ان تشهد اربع شهادات بالله انه لمن الكاذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَدۡرَؤُا۟ عَنۡهَا ٱلۡعَذَابَ أَن تَشۡهَدَ أَرۡبَعَ شَهَـٰدَ ٰتِۭ بِٱللَّهِ إِنَّهُۥ لَمِنَ ٱلۡكَـٰذِبِینَ
 
 | Details |  |

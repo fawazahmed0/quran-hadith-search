@@ -452,6 +452,18 @@ Fasabbiĥ Biĥamdi Rabbika Wa Astaghfirhu 'Innahu Kāna Tawwābāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ إِنَّهُ كَانَ تَوَّابًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فسبح بحمد ربك واستغفره انه كان توابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا
 
 | Details |  |

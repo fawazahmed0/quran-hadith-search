@@ -452,6 +452,18 @@ Kadhabat Thamūdu Al-Mursalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَّبَتْ ثَمُودُ الْمُرْسَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذبت ثمود المرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَّبَتۡ ثَمُودُ ٱلۡمُرۡسَلِینَ
 
 | Details |  |

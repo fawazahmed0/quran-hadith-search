@@ -452,6 +452,18 @@ Hikmatun Balighatun Fama Tughni An-Nudhuru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+حِكْمَةٌ بَالِغَةٌ فَمَا تُغْنِ النُّذُرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+حكمة بالغة فما تغن النذر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 حِكۡمَةُۢ بَـٰلِغَةࣱۖ فَمَا تُغۡنِ ٱلنُّذُرُ
 
 | Details |  |

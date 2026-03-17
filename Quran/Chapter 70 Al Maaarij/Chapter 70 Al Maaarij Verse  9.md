@@ -452,6 +452,18 @@ Wa Takūnu Al-Jibālu Kāl'ihni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَكُونُ الْجِبَالُ كَالْعِهْنِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتكون الجبال كالعهن
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ
 
 | Details |  |

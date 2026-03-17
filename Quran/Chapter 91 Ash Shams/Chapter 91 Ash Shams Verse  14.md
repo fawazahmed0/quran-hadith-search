@@ -452,6 +452,18 @@ Fakadhabūhu Fa'aqarūhā Fadamdama 'Alayhim Rabbuhum Bidhanbihim Fasawwāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوَّاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكذبوه فعقروها فدمدم عليهم ربهم بذنبهم فسواها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمۡدَمَ عَلَیۡهِمۡ رَبُّهُم بِذَنۢبِهِمۡ فَسَوَّىٰهَا
 
 | Details |  |

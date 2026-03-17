@@ -452,6 +452,18 @@ An 'Arsil Ma'anā Banī 'Isrā'īla
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَنْ أَرْسِلْ مَعَنَا بَنِي إِسْرَائِيلَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان ارسل معنا بني اسراييل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَنۡ أَرۡسِلۡ مَعَنَا بَنِیۤ إِسۡرَ ٰۤءِیلَ
 
 | Details |  |

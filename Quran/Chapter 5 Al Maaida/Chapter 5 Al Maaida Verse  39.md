@@ -452,6 +452,18 @@ Faman Tāba Min Ba'di Žulmihi Wa 'Aşlaĥa Fa'inna Allāha Yatūbu 'Alayhi 'Inn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَنْ تَابَ مِنْ بَعْدِ ظُلْمِهِ وَأَصْلَحَ فَإِنَّ اللَّهَ يَتُوبُ عَلَيْهِ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فمن تاب من بعد ظلمه واصلح فان الله يتوب عليه ان الله غفور رحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَن تَابَ مِنۢ بَعۡدِ ظُلۡمِهِۦ وَأَصۡلَحَ فَإِنَّ ٱللَّهَ یَتُوبُ عَلَیۡهِۚ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِیمٌ
 
 | Details |  |

@@ -452,6 +452,18 @@ Hādhā Fawjun Muqtaĥimun Ma'akum Lā Marĥabāan Bihim 'Innahum Şālū An-Nā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذَا فَوْجٌ مُقْتَحِمٌ مَعَكُمْ لَا مَرْحَبًا بِهِمْ إِنَّهُمْ صَالُو النَّارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذا فوج مقتحم معكم لا مرحبا بهم انهم صالو النار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذَا فَوۡجࣱ مُّقۡتَحِمࣱ مَّعَكُمۡ لَا مَرۡحَبَۢا بِهِمۡۚ إِنَّهُمۡ صَالُوا۟ ٱلنَّارِ
 
 | Details |  |

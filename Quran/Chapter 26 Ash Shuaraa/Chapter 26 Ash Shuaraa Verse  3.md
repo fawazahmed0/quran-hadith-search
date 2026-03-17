@@ -452,6 +452,18 @@ La'allaka Bākhi'un Nafsaka 'Allā Yakūnū Mu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَعَلَّكَ بَاخِعٌ نَفْسَكَ أَلَّا يَكُونُوا مُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لعلك باخع نفسك الا يكونوا مومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَعَلَّكَ بَـٰخِعࣱ نَّفۡسَكَ أَلَّا یَكُونُوا۟ مُؤۡمِنِینَ
 
 | Details |  |

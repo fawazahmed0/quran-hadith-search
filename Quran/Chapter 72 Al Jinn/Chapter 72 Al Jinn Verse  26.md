@@ -452,6 +452,18 @@ Alimu Al-Ghaybi Fala Yuzhiru 'Ala Ghaybihi 'Ahadaan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَى غَيْبِهِ أَحَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عالم الغيب فلا يظهر على غيبه احدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَـٰلِمُ ٱلۡغَیۡبِ فَلَا یُظۡهِرُ عَلَىٰ غَیۡبِهِۦۤ أَحَدًا
 
 | Details |  |

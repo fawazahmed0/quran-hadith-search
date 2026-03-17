@@ -452,6 +452,18 @@ Wa 'Inna 'Ilyāsa Lamina Al-Mursalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ إِلْيَاسَ لَمِنَ الْمُرْسَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان الياس لمن المرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ إِلۡیَاسَ لَمِنَ ٱلۡمُرۡسَلِینَ
 
 | Details |  |

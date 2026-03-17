@@ -452,6 +452,18 @@ Thullatun Mina Al-'Awwalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُلَّةٌ مِنَ الْأَوَّلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثلة من الاولين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُلَّةࣱ مِّنَ ٱلۡأَوَّلِینَ
 
 | Details |  |

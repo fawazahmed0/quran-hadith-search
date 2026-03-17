@@ -452,6 +452,18 @@ Dhikrá Wa Mā Kunnā Žālimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذِكْرَى وَمَا كُنَّا ظَالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذكرى وما كنا ظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذِكۡرَىٰ وَمَا كُنَّا ظَـٰلِمِینَ
 
 | Details |  |

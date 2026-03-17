@@ -452,6 +452,18 @@ Mud/hāmmatāni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مُدْهَامَّتَانِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+مدهامتان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مُدۡهَاۤمَّتَانِ
 
 | Details |  |

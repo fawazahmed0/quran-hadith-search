@@ -452,6 +452,18 @@ Lā Yaşlāhā 'Illā Al-'Ashqá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَصْلَاهَا إِلَّا الْأَشْقَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يصلاها الا الاشقى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا یَصۡلَىٰهَاۤ إِلَّا ٱلۡأَشۡقَى
 
 | Details |  |

@@ -452,6 +452,18 @@ Qul 'Asá 'An Yakūna Radifa Lakum Ba'đu Al-Ladhī Tasta'jilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ عَسَى أَنْ يَكُونَ رَدِفَ لَكُمْ بَعْضُ الَّذِي تَسْتَعْجِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل عسى ان يكون ردف لكم بعض الذي تستعجلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ عَسَىٰۤ أَن یَكُونَ رَدِفَ لَكُم بَعۡضُ ٱلَّذِی تَسۡتَعۡجِلُونَ
 
 | Details |  |

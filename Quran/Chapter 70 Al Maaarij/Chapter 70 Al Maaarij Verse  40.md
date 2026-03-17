@@ -452,6 +452,18 @@ Falā 'Uqsimu Birabbi Al-Mashāriqi Wa Al-Maghāribi 'Innā Laqādirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَا أُقْسِمُ بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ إِنَّا لَقَادِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلا اقسم برب المشارق والمغارب انا لقادرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَاۤ أُقۡسِمُ بِرَبِّ ٱلۡمَشَـٰرِقِ وَٱلۡمَغَـٰرِبِ إِنَّا لَقَـٰدِرُونَ
 
 | Details |  |

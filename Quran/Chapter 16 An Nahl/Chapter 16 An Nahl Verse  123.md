@@ -452,6 +452,18 @@ Thumma 'Awĥaynā 'Ilayka 'Ani Attabi' Millata 'Ibrāhīma Ĥanīfāan Wa Mā K�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ أَوْحَيْنَا إِلَيْكَ أَنِ اتَّبِعْ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم اوحينا اليك ان اتبع ملة ابراهيم حنيفا وما كان من المشركين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ أَوۡحَیۡنَاۤ إِلَیۡكَ أَنِ ٱتَّبِعۡ مِلَّةَ إِبۡرَ ٰهِیمَ حَنِیفࣰاۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِینَ
 
 | Details |  |

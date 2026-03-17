@@ -452,6 +452,18 @@ Wa Laqad Khalaqnā Al-'Insāna Min Sulālatin Min Ţīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ خَلَقْنَا الْإِنْسَانَ مِنْ سُلَالَةٍ مِنْ طِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد خلقنا الانسان من سلالة من طين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَـٰنَ مِن سُلَـٰلَةࣲ مِّن طِینࣲ
 
 | Details |  |

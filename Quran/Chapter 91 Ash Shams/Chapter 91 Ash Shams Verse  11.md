@@ -452,6 +452,18 @@ Kadhabat Thamūdu Biţaghwāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذبت ثمود بطغواها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَّبَتۡ ثَمُودُ بِطَغۡوَىٰهَاۤ
 
 | Details |  |

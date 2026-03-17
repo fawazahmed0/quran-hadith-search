@@ -452,6 +452,18 @@ Falā 'Uqsimu Bimā Tubşirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَا أُقْسِمُ بِمَا تُبْصِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلا اقسم بما تبصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَاۤ أُقۡسِمُ بِمَا تُبۡصِرُونَ
 
 | Details |  |

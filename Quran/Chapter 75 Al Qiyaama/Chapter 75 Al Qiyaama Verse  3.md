@@ -452,6 +452,18 @@ Ayaĥsabu Al-'Insānu 'Allan Najma'a 'Ižāmahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَيَحْسَبُ الْإِنْسَانُ أَلَّنْ نَجْمَعَ عِظَامَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ايحسب الانسان الن نجمع عظامه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَیَحۡسَبُ ٱلۡإِنسَـٰنُ أَلَّن نَّجۡمَعَ عِظَامَهُۥ
 
 | Details |  |

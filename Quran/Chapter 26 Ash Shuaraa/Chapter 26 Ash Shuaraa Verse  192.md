@@ -452,6 +452,18 @@ Wa 'Innahu Latanzīlu Rabbi Al-'Ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّهُ لَتَنْزِيلُ رَبِّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه لتنزيل رب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّهُۥ لَتَنزِیلُ رَبِّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

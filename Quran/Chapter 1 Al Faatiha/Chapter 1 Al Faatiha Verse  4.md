@@ -452,6 +452,18 @@ Māliki Yawmi Ad-Dīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَالِكِ يَوْمِ الدِّينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+مالك يوم الدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَـٰلِكِ یَوۡمِ ٱلدِّینِ
 
 | Details |  |

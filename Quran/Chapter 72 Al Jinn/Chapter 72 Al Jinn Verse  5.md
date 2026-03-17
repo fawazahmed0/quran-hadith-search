@@ -452,6 +452,18 @@ Wa 'Annā Žanannā 'An Lan Taqūla Al-'Insu Wa Al-Jinnu 'Alá Allāhi Kadhibāa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّا ظَنَنَّا أَنْ لَنْ تَقُولَ الْإِنْسُ وَالْجِنُّ عَلَى اللَّهِ كَذِبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانا ظننا ان لن تقول الانس والجن على الله كذبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّا ظَنَنَّاۤ أَن لَّن تَقُولَ ٱلۡإِنسُ وَٱلۡجِنُّ عَلَى ٱللَّهِ كَذِبࣰا
 
 | Details |  |

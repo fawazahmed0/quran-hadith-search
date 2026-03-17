@@ -452,6 +452,18 @@ Wa Lā Yaşuddannakumu Ash-Shayţānu 'Innahu Lakum 'Adūwun Mubīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا يَصُدَّنَّكُمُ الشَّيْطَانُ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا يصدنكم الشيطان انه لكم عدو مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا یَصُدَّنَّكُمُ ٱلشَّیۡطَـٰنُۖ إِنَّهُۥ لَكُمۡ عَدُوࣱّ مُّبِینࣱ
 
 | Details |  |

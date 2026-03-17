@@ -452,6 +452,18 @@ Tanzīlun Mina Ar-Raĥmāni Ar-Raĥīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَنْزِيلٌ مِنَ الرَّحْمَنِ الرَّحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تنزيل من الرحمن الرحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَنزِیلࣱ مِّنَ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ
 
 | Details |  |

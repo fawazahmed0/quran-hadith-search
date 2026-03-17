@@ -452,6 +452,18 @@ Yawma Takūnu As-Samā'u Kālmuhli
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ تَكُونُ السَّمَاءُ كَالْمُهْلِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم تكون السماء كالمهل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ تَكُونُ ٱلسَّمَاۤءُ كَٱلۡمُهۡلِ
 
 | Details |  |

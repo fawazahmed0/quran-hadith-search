@@ -452,6 +452,18 @@ Laqad 'Anzalnā 'Ilaykum Kitābāan Fīhi Dhikrukum 'Afalā Ta'qilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَقَدْ أَنْزَلْنَا إِلَيْكُمْ كِتَابًا فِيهِ ذِكْرُكُمْ أَفَلَا تَعْقِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لقد انزلنا اليكم كتابا فيه ذكركم افلا تعقلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَقَدۡ أَنزَلۡنَاۤ إِلَیۡكُمۡ كِتَـٰبࣰا فِیهِ ذِكۡرُكُمۡۚ أَفَلَا تَعۡقِلُونَ
 
 | Details |  |

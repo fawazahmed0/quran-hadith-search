@@ -452,6 +452,18 @@ Wa 'Idh Qāla Rabbuka Lilmalā'ikati 'Innī Khāliqun Basharāan Min Şalşālin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذ قال ربك للملايكة اني خالق بشرا من صلصال من حما مسنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَـٰۤئِكَةِ إِنِّی خَـٰلِقُۢ بَشَرࣰا مِّن صَلۡصَـٰلࣲ مِّنۡ حَمَإࣲ مَّسۡنُونࣲ
 
 | Details |  |

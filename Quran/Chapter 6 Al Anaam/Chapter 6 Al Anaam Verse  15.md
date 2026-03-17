@@ -452,6 +452,18 @@ Qul 'Innī 'Akhāfu 'In 'Aşaytu Rabbī 'Adhāba Yawmin 'Ažīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل اني اخاف ان عصيت ربي عذاب يوم عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ إِنِّیۤ أَخَافُ إِنۡ عَصَیۡتُ رَبِّی عَذَابَ یَوۡمٍ عَظِیمࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla Laqad Kuntum 'Antum Wa 'Ābā'uukum Fī Đalālin Mubīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ لَقَدْ كُنْتُمْ أَنْتُمْ وَآبَاؤُكُمْ فِي ضَلَالٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال لقد كنتم انتم واباوكم في ضلال مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ لَقَدۡ كُنتُمۡ أَنتُمۡ وَءَابَاۤؤُكُمۡ فِی ضَلَـٰلࣲ مُّبِینࣲ
 
 | Details |  |

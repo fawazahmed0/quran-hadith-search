@@ -452,6 +452,18 @@ Thumma 'Afīđū Min Ĥaythu 'Afāđa An-Nāsu Wa Astaghfirū Allāha 'Inna All�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ أَفِيضُوا مِنْ حَيْثُ أَفَاضَ النَّاسُ وَاسْتَغْفِرُوا اللَّهَ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم افيضوا من حيث افاض الناس واستغفروا الله ان الله غفور رحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ أَفِیضُوا۟ مِنۡ حَیۡثُ أَفَاضَ ٱلنَّاسُ وَٱسۡتَغۡفِرُوا۟ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِیمࣱ
 
 | Details |  |

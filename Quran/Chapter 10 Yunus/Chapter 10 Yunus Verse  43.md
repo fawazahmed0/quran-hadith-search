@@ -452,6 +452,18 @@ Wa Minhum Man Yanžuru 'Ilayka 'Afa'anta Tahdī Al-'Umya Wa Law Kānū Lā Yubş
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنْهُمْ مَنْ يَنْظُرُ إِلَيْكَ أَفَأَنْتَ تَهْدِي الْعُمْيَ وَلَوْ كَانُوا لَا يُبْصِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومنهم من ينظر اليك افانت تهدي العمي ولو كانوا لا يبصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِنۡهُم مَّن یَنظُرُ إِلَیۡكَۚ أَفَأَنتَ تَهۡدِی ٱلۡعُمۡیَ وَلَوۡ كَانُوا۟ لَا یُبۡصِرُونَ
 
 | Details |  |

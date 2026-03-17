@@ -452,6 +452,18 @@ Wa Qālū Mahmā Ta'tinā Bihi Min 'Āyatin Litasĥaranā Bihā Famā Naĥnu Lak
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا مَهْمَا تَأْتِنَا بِهِ مِنْ آيَةٍ لِتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا مهما تاتنا به من اية لتسحرنا بها فما نحن لك بمومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ مَهۡمَا تَأۡتِنَا بِهِۦ مِنۡ ءَایَةࣲ لِّتَسۡحَرَنَا بِهَا فَمَا نَحۡنُ لَكَ بِمُؤۡمِنِینَ
 
 | Details |  |

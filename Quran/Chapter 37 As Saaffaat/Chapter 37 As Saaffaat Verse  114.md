@@ -452,6 +452,18 @@ Wa Laqad Manannā 'Alá Mūsá Wa Hārūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ مَنَنَّا عَلَى مُوسَى وَهَارُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد مننا على موسى وهارون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَـٰرُونَ
 
 | Details |  |

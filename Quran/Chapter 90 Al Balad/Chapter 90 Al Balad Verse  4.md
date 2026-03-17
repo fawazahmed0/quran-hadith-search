@@ -452,6 +452,18 @@ Laqad Khalaqnā Al-'Insāna Fī Kabadin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي كَبَدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لقد خلقنا الانسان في كبد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَقَدۡ خَلَقۡنَا ٱلۡإِنسَـٰنَ فِی كَبَدٍ
 
 | Details |  |

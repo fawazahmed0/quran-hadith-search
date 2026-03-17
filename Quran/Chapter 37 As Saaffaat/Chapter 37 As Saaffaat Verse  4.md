@@ -452,6 +452,18 @@ Inna 'Ilahakum Lawāĥidun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ إِلَهَكُمْ لَوَاحِدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الهكم لواحد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ إِلَـٰهَكُمۡ لَوَ ٰحِدࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Al-Ladhīna Şabarū Wa 'Alá Rabbihim Yatawakkalūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ صَبَرُوا وَعَلَى رَبِّهِمْ يَتَوَكَّلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين صبروا وعلى ربهم يتوكلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ صَبَرُوا۟ وَعَلَىٰ رَبِّهِمۡ یَتَوَكَّلُونَ
 
 | Details |  |

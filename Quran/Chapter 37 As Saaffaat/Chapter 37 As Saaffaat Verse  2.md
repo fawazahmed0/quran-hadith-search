@@ -452,6 +452,18 @@ Fālzzājirāti Zajrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَالزَّاجِرَاتِ زَجْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالزاجرات زجرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱلزَّ ٰجِرَ ٰتِ زَجۡرࣰا
 
 | Details |  |

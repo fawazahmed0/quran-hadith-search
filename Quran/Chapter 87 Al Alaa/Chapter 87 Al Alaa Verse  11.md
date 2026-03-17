@@ -452,6 +452,18 @@ Wa Yatajannabuhā Al-'Ashqá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَتَجَنَّبُهَا الْأَشْقَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويتجنبها الاشقى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَتَجَنَّبُهَا ٱلۡأَشۡقَى
 
 | Details |  |

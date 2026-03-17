@@ -452,6 +452,18 @@ Fa'alhamahā Fujūrahā Wa Taqwāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالهمها فجورها وتقواها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَلۡهَمَهَا فُجُورَهَا وَتَقۡوَىٰهَا
 
 | Details |  |

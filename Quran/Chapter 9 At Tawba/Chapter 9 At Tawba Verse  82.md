@@ -452,6 +452,18 @@ Falyađĥakū Qalīlāan Wa Līabkū Kathīrāan Jazā'an Bimā Kānū Yaksibūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلْيَضْحَكُوا قَلِيلًا وَلْيَبْكُوا كَثِيرًا جَزَاءً بِمَا كَانُوا يَكْسِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فليضحكوا قليلا وليبكوا كثيرا جزاء بما كانوا يكسبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلۡیَضۡحَكُوا۟ قَلِیلࣰا وَلۡیَبۡكُوا۟ كَثِیرࣰا جَزَاۤءَۢ بِمَا كَانُوا۟ یَكۡسِبُونَ
 
 | Details |  |

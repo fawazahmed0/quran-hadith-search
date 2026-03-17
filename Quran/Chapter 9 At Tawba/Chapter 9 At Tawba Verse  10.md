@@ -452,6 +452,18 @@ Lā Yarqubūna Fī Mu'uminin 'Illāan Wa Lā Dhimmatan Wa 'Ūlā'ika Humu Al-Mu'
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَرْقُبُونَ فِي مُؤْمِنٍ إِلًّا وَلَا ذِمَّةً وَأُولَئِكَ هُمُ الْمُعْتَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يرقبون في مومن الا ولا ذمة واوليك هم المعتدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا یَرۡقُبُونَ فِی مُؤۡمِنٍ إِلࣰّا وَلَا ذِمَّةࣰۚ وَأُو۟لَـٰۤئِكَ هُمُ ٱلۡمُعۡتَدُونَ
 
 | Details |  |

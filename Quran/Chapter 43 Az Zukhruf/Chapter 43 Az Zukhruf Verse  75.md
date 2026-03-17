@@ -452,6 +452,18 @@ Lā Yufattaru 'Anhum Wa Hum Fīhi Mublisūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يُفَتَّرُ عَنْهُمْ وَهُمْ فِيهِ مُبْلِسُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يفتر عنهم وهم فيه مبلسون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا یُفَتَّرُ عَنۡهُمۡ وَهُمۡ فِیهِ مُبۡلِسُونَ
 
 | Details |  |

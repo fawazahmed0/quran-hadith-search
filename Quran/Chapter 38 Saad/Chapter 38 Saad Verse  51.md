@@ -452,6 +452,18 @@ Muttaki'īna Fīhā Yad'ūna Fīhā Bifākihatin Kathīratin Wa Sharābin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مُتَّكِئِينَ فِيهَا يَدْعُونَ فِيهَا بِفَاكِهَةٍ كَثِيرَةٍ وَشَرَابٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+متكيين فيها يدعون فيها بفاكهة كثيرة وشراب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مُتَّكِءِینَ فِیهَا یَدۡعُونَ فِیهَا بِفَـٰكِهَةࣲ كَثِیرَةࣲ وَشَرَابࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Al-Ladhī Lahu Mulku As-Samāwāti Wa Al-'Arđi Wa Allāhu 'Alá Kulli Shay'in S
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَاللَّهُ عَلَى كُلِّ شَيْءٍ شَهِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي له ملك السماوات والارض والله على كل شيء شهيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِی لَهُۥ مُلۡكُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۚ وَٱللَّهُ عَلَىٰ كُلِّ شَیۡءࣲ شَهِیدٌ
 
 | Details |  |

@@ -452,6 +452,18 @@ Minhā Khalaqnākum Wa Fīhā Nu'īdukum Wa Minhā Nukhrijukum Tāratan 'Ukhrá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مِنْهَا خَلَقْنَاكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ تَارَةً أُخْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+منها خلقناكم وفيها نعيدكم ومنها نخرجكم تارة اخرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ مِنۡهَا خَلَقۡنَـٰكُمۡ وَفِیهَا نُعِیدُكُمۡ وَمِنۡهَا نُخۡرِجُكُمۡ تَارَةً أُخۡرَىٰ
 
 | Details |  |

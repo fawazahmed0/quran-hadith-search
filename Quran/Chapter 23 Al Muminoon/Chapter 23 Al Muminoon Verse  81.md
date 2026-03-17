@@ -452,6 +452,18 @@ Bal Qālū Mithla Mā Qāla Al-'Awwalūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ قَالُوا مِثْلَ مَا قَالَ الْأَوَّلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل قالوا مثل ما قال الاولون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ قَالُوا۟ مِثۡلَ مَا قَالَ ٱلۡأَوَّلُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Laqad Đarabnā Lilnnāsi Fī Hādhā Al-Qur'āni Min Kulli Mathalin La'allah
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِنْ كُلِّ مَثَلٍ لَعَلَّهُمْ يَتَذَكَّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد ضربنا للناس في هذا القران من كل مثل لعلهم يتذكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ ضَرَبۡنَا لِلنَّاسِ فِی هَـٰذَا ٱلۡقُرۡءَانِ مِن كُلِّ مَثَلࣲ لَّعَلَّهُمۡ یَتَذَكَّرُونَ
 
 | Details |  |

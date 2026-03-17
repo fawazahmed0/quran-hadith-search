@@ -452,6 +452,18 @@ Wa Yumdidkum Bi'amwālin Wa Banīna Wa Yaj'al Lakum Jannātin Wa Yaj'al Lakum 'A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيُمْدِدْكُمْ بِأَمْوَالٍ وَبَنِينَ وَيَجْعَلْ لَكُمْ جَنَّاتٍ وَيَجْعَلْ لَكُمْ أَنْهَارًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويمددكم باموال وبنين ويجعل لكم جنات ويجعل لكم انهارا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیُمۡدِدۡكُم بِأَمۡوَ ٰلࣲ وَبَنِینَ وَیَجۡعَل لَّكُمۡ جَنَّـٰتࣲ وَیَجۡعَل لَّكُمۡ أَنۡهَـٰرࣰا
 
 | Details |  |

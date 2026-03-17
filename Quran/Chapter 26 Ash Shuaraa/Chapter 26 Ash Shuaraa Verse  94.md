@@ -452,6 +452,18 @@ Fakubkibū Fīhā Hum Wa Al-Ghāwūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكُبْكِبُوا فِيهَا هُمْ وَالْغَاوُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكبكبوا فيها هم والغاوون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكُبۡكِبُوا۟ فِیهَا هُمۡ وَٱلۡغَاوُۥنَ
 
 | Details |  |

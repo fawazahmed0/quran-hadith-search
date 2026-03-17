@@ -452,6 +452,18 @@ Al-Ladhī Yuwaswisu Fī Şudūri An-Nāsi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي يوسوس في صدور الناس
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِی یُوَسۡوِسُ فِی صُدُورِ ٱلنَّاسِ
 
 | Details |  |

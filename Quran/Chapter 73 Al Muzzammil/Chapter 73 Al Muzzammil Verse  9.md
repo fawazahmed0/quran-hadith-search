@@ -452,6 +452,18 @@ Rabbu Al-Mashriqi Wa Al-Maghribi Lā 'Ilāha 'Illā Huwa Fa Attakhidh/hu Wa Kīl
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+رب المشرق والمغرب لا اله الا هو فاتخذه وكيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَّبُّ ٱلۡمَشۡرِقِ وَٱلۡمَغۡرِبِ لَاۤ إِلَـٰهَ إِلَّا هُوَ فَٱتَّخِذۡهُ وَكِیلࣰا
 
 | Details |  |

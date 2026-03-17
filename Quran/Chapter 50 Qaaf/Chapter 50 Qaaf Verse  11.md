@@ -452,6 +452,18 @@ Rizqāan Lil'ibādi Wa 'Aĥyaynā Bihi Baldatan Maytāan Kadhālika Al-Khurūju
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رِزْقًا لِلْعِبَادِ وَأَحْيَيْنَا بِهِ بَلْدَةً مَيْتًا كَذَلِكَ الْخُرُوجُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+رزقا للعباد واحيينا به بلدة ميتا كذلك الخروج
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رِّزۡقࣰا لِّلۡعِبَادِۖ وَأَحۡیَیۡنَا بِهِۦ بَلۡدَةࣰ مَّیۡتࣰاۚ كَذَ ٰلِكَ ٱلۡخُرُوجُ
 
 | Details |  |

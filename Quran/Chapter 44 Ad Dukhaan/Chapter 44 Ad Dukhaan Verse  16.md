@@ -452,6 +452,18 @@ Yawma Nabţishu Al-Baţshata Al-Kubrá 'Innā Muntaqimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ نَبْطِشُ الْبَطْشَةَ الْكُبْرَى إِنَّا مُنْتَقِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم نبطش البطشة الكبرى انا منتقمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ نَبۡطِشُ ٱلۡبَطۡشَةَ ٱلۡكُبۡرَىٰۤ إِنَّا مُنتَقِمُونَ
 
 | Details |  |

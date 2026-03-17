@@ -452,6 +452,18 @@ Wa Adhkur 'Ismā'īla Wa Al-Yasa'a Wa Dhā Al-Kifli Wa Kullun Mina Al-'Akhyāri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاذْكُرْ إِسْمَاعِيلَ وَالْيَسَعَ وَذَا الْكِفْلِ وَكُلٌّ مِنَ الْأَخْيَارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذكر اسماعيل واليسع وذا الكفل وكل من الاخيار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱذۡكُرۡ إِسۡمَـٰعِیلَ وَٱلۡیَسَعَ وَذَا ٱلۡكِفۡلِۖ وَكُلࣱّ مِّنَ ٱلۡأَخۡیَارِ
 
 | Details |  |

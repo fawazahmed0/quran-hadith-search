@@ -452,6 +452,18 @@ Ghulibati Ar-Rūmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+غُلِبَتِ الرُّومُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+غلبت الروم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 غُلِبَتِ ٱلرُّومُ
 
 | Details |  |

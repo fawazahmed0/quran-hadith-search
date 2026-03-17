@@ -452,6 +452,18 @@ Falanudhīqanna Al-Ladhīna Kafarū 'Adhābāan Shadīdāan Wa Lanajziyannahum '
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَنُذِيقَنَّ الَّذِينَ كَفَرُوا عَذَابًا شَدِيدًا وَلَنَجْزِيَنَّهُمْ أَسْوَأَ الَّذِي كَانُوا يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلنذيقن الذين كفروا عذابا شديدا ولنجزينهم اسوا الذي كانوا يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَنُذِیقَنَّ ٱلَّذِینَ كَفَرُوا۟ عَذَابࣰا شَدِیدࣰا وَلَنَجۡزِیَنَّهُمۡ أَسۡوَأَ ٱلَّذِی كَانُوا۟ یَعۡمَلُونَ
 
 | Details |  |

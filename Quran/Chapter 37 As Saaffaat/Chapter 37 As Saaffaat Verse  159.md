@@ -452,6 +452,18 @@ Subĥāna Allāhi 'Ammā Yaşifūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سبحان الله عما يصفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سُبۡحَـٰنَ ٱللَّهِ عَمَّا یَصِفُونَ
 
 | Details |  |

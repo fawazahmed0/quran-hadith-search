@@ -452,6 +452,18 @@ Falammā 'Ātāhum Min Fađlihi Bakhilū Bihi Wa Tawallaw Wa Hum Mu'riđūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا آتَاهُمْ مِنْ فَضْلِهِ بَخِلُوا بِهِ وَتَوَلَّوْا وَهُمْ مُعْرِضُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما اتاهم من فضله بخلوا به وتولوا وهم معرضون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّاۤ ءَاتَىٰهُم مِّن فَضۡلِهِۦ بَخِلُوا۟ بِهِۦ وَتَوَلَّوا۟ وَّهُم مُّعۡرِضُونَ
 
 | Details |  |

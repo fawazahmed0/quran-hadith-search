@@ -452,6 +452,18 @@ Wa Bikufrihim Wa Qawlihim 'Alá Maryama Buhtānāan 'Ažīmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَى مَرْيَمَ بُهْتَانًا عَظِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وبكفرهم وقولهم على مريم بهتانا عظيما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَبِكُفۡرِهِمۡ وَقَوۡلِهِمۡ عَلَىٰ مَرۡیَمَ بُهۡتَـٰنًا عَظِیمࣰا
 
 | Details |  |

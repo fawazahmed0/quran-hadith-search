@@ -452,6 +452,18 @@ Qāla Rabbi 'Innī Da'awtu Qawmī Laylāan Wa Nahārāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب اني دعوت قومي ليلا ونهارا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ إِنِّی دَعَوۡتُ قَوۡمِی لَیۡلࣰا وَنَهَارࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Idhā Ra'ayta Thamma Ra'ayta Na'īmāan Wa Mulkāan Kabīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا رَأَيْتَ ثَمَّ رَأَيْتَ نَعِيمًا وَمُلْكًا كَبِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا رايت ثم رايت نعيما وملكا كبيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا رَأَیۡتَ ثَمَّ رَأَیۡتَ نَعِیمࣰا وَمُلۡكࣰا كَبِیرًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Allāhu Yabda'u Al-Khalqa Thumma Yu'īduhu Thumma 'Ilayhi Turja'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اللَّهُ يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ ثُمَّ إِلَيْهِ تُرْجَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الله يبدا الخلق ثم يعيده ثم اليه ترجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱللَّهُ یَبۡدَؤُا۟ ٱلۡخَلۡقَ ثُمَّ یُعِیدُهُۥ ثُمَّ إِلَیۡهِ تُرۡجَعُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Lahu Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa Mā Baynahumā Wa Mā Taĥta 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَمَا بَيْنَهُمَا وَمَا تَحْتَ الثَّرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+له ما في السماوات وما في الارض وما بينهما وما تحت الثرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَهُۥ مَا فِی ٱلسَّمَـٰوَ ٰتِ وَمَا فِی ٱلۡأَرۡضِ وَمَا بَیۡنَهُمَا وَمَا تَحۡتَ ٱلثَّرَىٰ
 
 | Details |  |

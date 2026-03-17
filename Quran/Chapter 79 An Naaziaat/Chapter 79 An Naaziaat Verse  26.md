@@ -452,6 +452,18 @@ Inna Fī Dhālika La'ibratan Liman Yakhshá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ فِي ذَلِكَ لَعِبْرَةً لِمَنْ يَخْشَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان في ذلك لعبرة لمن يخشى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ فِی ذَ ٰلِكَ لَعِبۡرَةࣰ لِّمَن یَخۡشَىٰۤ
 
 | Details |  |

@@ -452,6 +452,18 @@ Khudhi Al-'Afwa Wa 'Mur Bil-'Urfi Wa 'A'riđ 'Ani Al-Jāhilīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الْجَاهِلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خذ العفو وامر بالعرف واعرض عن الجاهلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خُذِ ٱلۡعَفۡوَ وَأۡمُرۡ بِٱلۡعُرۡفِ وَأَعۡرِضۡ عَنِ ٱلۡجَـٰهِلِینَ
 
 | Details |  |

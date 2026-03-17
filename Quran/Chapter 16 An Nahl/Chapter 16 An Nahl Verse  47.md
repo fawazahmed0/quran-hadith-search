@@ -452,6 +452,18 @@ Aw Ya'khudhahum 'Alá Takhawwufin Fa'inna Rabbakum Lara'ūfun Raĥīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْ يَأْخُذَهُمْ عَلَى تَخَوُّفٍ فَإِنَّ رَبَّكُمْ لَرَءُوفٌ رَحِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+او ياخذهم على تخوف فان ربكم لرءوف رحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوۡ یَأۡخُذَهُمۡ عَلَىٰ تَخَوُّفࣲ فَإِنَّ رَبَّكُمۡ لَرَءُوفࣱ رَّحِیمٌ
 
 | Details |  |

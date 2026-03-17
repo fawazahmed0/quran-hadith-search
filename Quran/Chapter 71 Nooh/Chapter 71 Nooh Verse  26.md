@@ -452,6 +452,18 @@ Wa Qāla Nūĥun Rabbi Lā Tadhar 'Alá Al-'Arđi Mina Al-Kāfirīna Dayyārāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ نُوحٌ رَبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال نوح رب لا تذر على الارض من الكافرين ديارا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ نُوحࣱ رَّبِّ لَا تَذَرۡ عَلَى ٱلۡأَرۡضِ مِنَ ٱلۡكَـٰفِرِینَ دَیَّارًا
 
 | Details |  |

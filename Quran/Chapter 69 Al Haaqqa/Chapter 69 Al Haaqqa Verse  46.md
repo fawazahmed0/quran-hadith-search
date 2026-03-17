@@ -452,6 +452,18 @@ Thumma Laqaţa'nā Minhu Al-Watīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم لقطعنا منه الوتين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ لَقَطَعۡنَا مِنۡهُ ٱلۡوَتِینَ
 
 | Details |  |

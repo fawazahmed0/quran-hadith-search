@@ -452,6 +452,18 @@ Idhā Ash-Shamsu Kūwirat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذَا الشَّمْسُ كُوِّرَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذا الشمس كورت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذَا ٱلشَّمۡسُ كُوِّرَتۡ
 
 | Details |  |

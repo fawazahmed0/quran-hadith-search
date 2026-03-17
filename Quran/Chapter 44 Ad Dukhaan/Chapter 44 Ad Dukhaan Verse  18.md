@@ -452,6 +452,18 @@ An 'Addū 'Ilayya 'Ibāda Allāhi 'Innī Lakum Rasūlun 'Amīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَنْ أَدُّوا إِلَيَّ عِبَادَ اللَّهِ إِنِّي لَكُمْ رَسُولٌ أَمِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان ادوا الي عباد الله اني لكم رسول امين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَنۡ أَدُّوۤا۟ إِلَیَّ عِبَادَ ٱللَّهِۖ إِنِّی لَكُمۡ رَسُولٌ أَمِینࣱ
 
 | Details |  |

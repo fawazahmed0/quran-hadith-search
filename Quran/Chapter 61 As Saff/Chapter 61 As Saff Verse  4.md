@@ -452,6 +452,18 @@ Inna Allāha Yuĥibbu Al-Ladhīna Yuqātilūna Fī Sabīlihi Şaffāan Ka'annahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ اللَّهَ يُحِبُّ الَّذِينَ يُقَاتِلُونَ فِي سَبِيلِهِ صَفًّا كَأَنَّهُمْ بُنْيَانٌ مَرْصُوصٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الله يحب الذين يقاتلون في سبيله صفا كانهم بنيان مرصوص
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱللَّهَ یُحِبُّ ٱلَّذِینَ یُقَـٰتِلُونَ فِی سَبِیلِهِۦ صَفࣰّا كَأَنَّهُم بُنۡیَـٰنࣱ مَّرۡصُوصࣱ
 
 | Details |  |

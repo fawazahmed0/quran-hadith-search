@@ -452,6 +452,18 @@ Wa As-Samā'i Dhāti Al-Ĥubuki
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالسَّمَاءِ ذَاتِ الْحُبُكِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والسماء ذات الحبك
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلسَّمَاۤءِ ذَاتِ ٱلۡحُبُكِ
 
 | Details |  |

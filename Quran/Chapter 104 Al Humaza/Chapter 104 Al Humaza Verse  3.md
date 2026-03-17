@@ -452,6 +452,18 @@ Yaĥsabu 'Anna Mālahu 'Akhladahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يحسب ان ماله اخلده
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَحۡسَبُ أَنَّ مَالَهُۥۤ أَخۡلَدَهُۥ
 
 | Details |  |

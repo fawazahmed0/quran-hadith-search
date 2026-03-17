@@ -452,6 +452,18 @@ In Nasha' Nunazzil 'Alayhim Mina As-Samā'i 'Āyatan Fažallat 'A'nāquhum Lahā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ نَشَأْ نُنَزِّلْ عَلَيْهِمْ مِنَ السَّمَاءِ آيَةً فَظَلَّتْ أَعْنَاقُهُمْ لَهَا خَاضِعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان نشا ننزل عليهم من السماء اية فظلت اعناقهم لها خاضعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِن نَّشَأۡ نُنَزِّلۡ عَلَیۡهِم مِّنَ ٱلسَّمَاۤءِ ءَایَةࣰ فَظَلَّتۡ أَعۡنَـٰقُهُمۡ لَهَا خَـٰضِعِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qālū Subĥānaka Lā 'Ilma Lanā 'Illā Mā 'Allamtanā 'Innaka 'Anta Al-'Alī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا سبحانك لا علم لنا الا ما علمتنا انك انت العليم الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ سُبۡحَـٰنَكَ لَا عِلۡمَ لَنَاۤ إِلَّا مَا عَلَّمۡتَنَاۤۖ إِنَّكَ أَنتَ ٱلۡعَلِیمُ ٱلۡحَكِیمُ
 
 | Details |  |

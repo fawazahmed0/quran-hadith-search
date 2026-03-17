@@ -452,6 +452,18 @@ Wa Lā Talbisū Al-Ĥaqqa Bil-Bāţili Wa Taktumū Al-Ĥaqqa Wa 'Antum Ta'lamūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَأَنْتُمْ تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تلبسوا الحق بالباطل وتكتموا الحق وانتم تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تَلۡبِسُوا۟ ٱلۡحَقَّ بِٱلۡبَـٰطِلِ وَتَكۡتُمُوا۟ ٱلۡحَقَّ وَأَنتُمۡ تَعۡلَمُونَ
 
 | Details |  |

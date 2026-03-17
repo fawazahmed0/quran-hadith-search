@@ -452,6 +452,18 @@ Fālmughīrāti Şubĥāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَالْمُغِيرَاتِ صُبْحًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالمغيرات صبحا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱلۡمُغِیرَ ٰتِ صُبۡحࣰا
 
 | Details |  |

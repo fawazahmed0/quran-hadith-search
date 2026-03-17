@@ -452,6 +452,18 @@ Binaşri Allāhi Yanşuru Man Yashā'u Wa Huwa Al-'Azīzu Ar-Raĥīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بِنَصْرِ اللَّهِ يَنْصُرُ مَنْ يَشَاءُ وَهُوَ الْعَزِيزُ الرَّحِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بنصر الله ينصر من يشاء وهو العزيز الرحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بِنَصۡرِ ٱللَّهِۚ یَنصُرُ مَن یَشَاۤءُۖ وَهُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Narithuhu Mā Yaqūlu Wa Ya'tīnā Fardāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَرِثُهُ مَا يَقُولُ وَيَأْتِينَا فَرْدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونرثه ما يقول وياتينا فردا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَرِثُهُۥ مَا یَقُولُ وَیَأۡتِینَا فَرۡدࣰا
 
 | Details |  |

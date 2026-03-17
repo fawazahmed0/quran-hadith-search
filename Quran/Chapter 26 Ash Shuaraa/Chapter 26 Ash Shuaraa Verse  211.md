@@ -452,6 +452,18 @@ Wa Mā Yanbaghī Lahum Wa Mā Yastaţī'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا يَنْبَغِي لَهُمْ وَمَا يَسْتَطِيعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ينبغي لهم وما يستطيعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا یَنۢبَغِی لَهُمۡ وَمَا یَسۡتَطِیعُونَ
 
 | Details |  |

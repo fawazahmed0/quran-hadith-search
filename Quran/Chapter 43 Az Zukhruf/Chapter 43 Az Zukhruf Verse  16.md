@@ -452,6 +452,18 @@ Am Attakhadha Mimmā Yakhluqu Banātin Wa 'Aşfākum Bil-Banīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمِ اتَّخَذَ مِمَّا يَخْلُقُ بَنَاتٍ وَأَصْفَاكُمْ بِالْبَنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام اتخذ مما يخلق بنات واصفاكم بالبنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمِ ٱتَّخَذَ مِمَّا یَخۡلُقُ بَنَاتࣲ وَأَصۡفَىٰكُم بِٱلۡبَنِینَ
 
 | Details |  |

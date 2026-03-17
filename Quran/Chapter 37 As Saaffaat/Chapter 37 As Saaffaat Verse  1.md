@@ -452,6 +452,18 @@ Wa Aş-Şāffāti Şaffāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالصَّافَّاتِ صَفًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والصافات صفا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلصَّـٰۤفَّـٰتِ صَفࣰّا
 
 | Details |  |

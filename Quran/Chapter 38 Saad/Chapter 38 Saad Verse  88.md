@@ -452,6 +452,18 @@ Wa Lata'lamunna Naba'ahu Ba'da Ĥīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَتَعْلَمُنَّ نَبَأَهُ بَعْدَ حِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولتعلمن نباه بعد حين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَتَعۡلَمُنَّ نَبَأَهُۥ بَعۡدَ حِینِۭ
 
 | Details |  |

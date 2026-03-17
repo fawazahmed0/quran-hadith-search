@@ -452,6 +452,18 @@ Yad'ū Laman Đarruhu 'Aqrabu Min Naf'ihi Labi'sa Al-Mawlá Wa Labi'sa Al-'Ashī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَدْعُو لَمَنْ ضَرُّهُ أَقْرَبُ مِنْ نَفْعِهِ لَبِئْسَ الْمَوْلَى وَلَبِئْسَ الْعَشِيرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يدعو لمن ضره اقرب من نفعه لبيس المولى ولبيس العشير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَدۡعُوا۟ لَمَن ضَرُّهُۥۤ أَقۡرَبُ مِن نَّفۡعِهِۦۚ لَبِئۡسَ ٱلۡمَوۡلَىٰ وَلَبِئۡسَ ٱلۡعَشِیرُ
 
 | Details |  |

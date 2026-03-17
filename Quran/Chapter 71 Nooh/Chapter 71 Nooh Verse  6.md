@@ -452,6 +452,18 @@ Falam Yazid/hum Du'ā'ī 'Illā Firārāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلم يزدهم دعايي الا فرارا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمۡ یَزِدۡهُمۡ دُعَاۤءِیۤ إِلَّا فِرَارࣰا
 
 | Details |  |

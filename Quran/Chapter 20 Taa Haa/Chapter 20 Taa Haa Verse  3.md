@@ -452,6 +452,18 @@ Illā Tadhkiratan Liman Yakhshá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا تَذْكِرَةً لِمَنْ يَخْشَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا تذكرة لمن يخشى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا تَذۡكِرَةࣰ لِّمَن یَخۡشَىٰ
 
 | Details |  |

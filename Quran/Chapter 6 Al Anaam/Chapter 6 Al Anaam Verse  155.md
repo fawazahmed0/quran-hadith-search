@@ -452,6 +452,18 @@ Wa Hadhā Kitābun 'Anzalnāhu Mubārakun Fa Attabi'ūhu Wa Attaqū La'allakum T
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهَذَا كِتَابٌ أَنْزَلْنَاهُ مُبَارَكٌ فَاتَّبِعُوهُ وَاتَّقُوا لَعَلَّكُمْ تُرْحَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهذا كتاب انزلناه مبارك فاتبعوه واتقوا لعلكم ترحمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهَـٰذَا كِتَـٰبٌ أَنزَلۡنَـٰهُ مُبَارَكࣱ فَٱتَّبِعُوهُ وَٱتَّقُوا۟ لَعَلَّكُمۡ تُرۡحَمُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Qālū Al-Ĥamdu Lillāhi Al-Ladhī 'Adh/haba 'Annā Al-Ĥazana 'Inna Rabban�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنَّا الْحَزَنَ إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا الحمد لله الذي اذهب عنا الحزن ان ربنا لغفور شكور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِیۤ أَذۡهَبَ عَنَّا ٱلۡحَزَنَۖ إِنَّ رَبَّنَا لَغَفُورࣱ شَكُورٌ
 
 | Details |  |

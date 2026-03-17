@@ -452,6 +452,18 @@ Wa 'Idh Nādá Rabbuka Mūsá 'Ani A'ti Al-Qawma Až-Žālimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذْ نَادَى رَبُّكَ مُوسَى أَنِ ائْتِ الْقَوْمَ الظَّالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذ نادى ربك موسى ان ايت القوم الظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذۡ نَادَىٰ رَبُّكَ مُوسَىٰۤ أَنِ ٱئۡتِ ٱلۡقَوۡمَ ٱلظَّـٰلِمِینَ
 
 | Details |  |

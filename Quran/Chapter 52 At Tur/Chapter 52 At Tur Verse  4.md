@@ -452,6 +452,18 @@ Wa Al-Bayti Al-Ma'mūri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْبَيْتِ الْمَعْمُورِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والبيت المعمور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡبَیۡتِ ٱلۡمَعۡمُورِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Kadhalika Ĥaqqat Kalimatu Rabbika 'Alá Al-Ladhīna Kafarū 'Annahum 'Aşĥ�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَذَلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى الَّذِينَ كَفَرُوا أَنَّهُمْ أَصْحَابُ النَّارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكذلك حقت كلمت ربك على الذين كفروا انهم اصحاب النار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَذَ ٰلِكَ حَقَّتۡ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِینَ كَفَرُوۤا۟ أَنَّهُمۡ أَصۡحَـٰبُ ٱلنَّارِ
 
 | Details |  |

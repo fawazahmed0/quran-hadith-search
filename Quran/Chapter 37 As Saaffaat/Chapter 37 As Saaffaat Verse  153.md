@@ -452,6 +452,18 @@ Astafa Al-Banati 'Ala Al-Banina
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَصْطَفَى الْبَنَاتِ عَلَى الْبَنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اصطفى البنات على البنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَصۡطَفَى ٱلۡبَنَاتِ عَلَى ٱلۡبَنِینَ
 
 | Details |  |

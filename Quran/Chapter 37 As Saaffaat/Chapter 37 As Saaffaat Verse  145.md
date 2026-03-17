@@ -452,6 +452,18 @@ Fanabadhnāhu Bil-'Arā'i Wa Huwa Saqīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَنَبَذْنَاهُ بِالْعَرَاءِ وَهُوَ سَقِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فنبذناه بالعراء وهو سقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ فَنَبَذۡنَـٰهُ بِٱلۡعَرَاۤءِ وَهُوَ سَقِیمࣱ
 
 | Details |  |

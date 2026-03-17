@@ -452,6 +452,18 @@ Fāttakhadhat Min Dūnihim Ĥijābāan Fa'arsalnā 'Ilayhā Rūĥanā Fatamathth
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاتَّخَذَتْ مِنْ دُونِهِمْ حِجَابًا فَأَرْسَلْنَا إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاتخذت من دونهم حجابا فارسلنا اليها روحنا فتمثل لها بشرا سويا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱتَّخَذَتۡ مِن دُونِهِمۡ حِجَابࣰا فَأَرۡسَلۡنَاۤ إِلَیۡهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرࣰا سَوِیࣰّا
 
 | Details |  |

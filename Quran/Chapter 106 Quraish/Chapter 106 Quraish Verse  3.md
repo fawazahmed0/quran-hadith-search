@@ -452,6 +452,18 @@ Falya'budū Rabba Hādhā Al-Bayti
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلْيَعْبُدُوا رَبَّ هَذَا الْبَيْتِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فليعبدوا رب هذا البيت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلۡیَعۡبُدُوا۟ رَبَّ هَـٰذَا ٱلۡبَیۡتِ
 
 | Details |  |

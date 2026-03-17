@@ -452,6 +452,18 @@ Fasawfa YuÄ¥Äsabu Ä¤isÄbÄan YasÄ«rÄan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فسوف يحاسب حسابا يسيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَسَوۡفَ یُحَاسَبُ حِسَابࣰا یَسِیرࣰا
 
 | Details |  |

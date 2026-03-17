@@ -452,6 +452,18 @@ Wa Fir'awna Dhī Al-'Awtādi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفِرْعَوْنَ ذِي الْأَوْتَادِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفرعون ذي الاوتاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفِرۡعَوۡنَ ذِی ٱلۡأَوۡتَادِ
 
 | Details |  |

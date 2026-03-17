@@ -452,6 +452,18 @@ Falammā Jā'at/hum 'Āyātunā Mubşiratan Qālū Hādhā Siĥrun Mubīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا جَاءَتْهُمْ آيَاتُنَا مُبْصِرَةً قَالُوا هَذَا سِحْرٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما جاءتهم اياتنا مبصرة قالوا هذا سحر مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّا جَاۤءَتۡهُمۡ ءَایَـٰتُنَا مُبۡصِرَةࣰ قَالُوا۟ هَـٰذَا سِحۡرࣱ مُّبِینࣱ
 
 | Details |  |

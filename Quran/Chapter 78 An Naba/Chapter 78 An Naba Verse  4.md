@@ -452,6 +452,18 @@ Kallā Saya'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا سَيَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا سيعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّا سَیَعۡلَمُونَ
 
 | Details |  |

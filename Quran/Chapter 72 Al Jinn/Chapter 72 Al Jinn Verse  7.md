@@ -452,6 +452,18 @@ Wa 'Annahum Žannū Kamā Žanantum 'An Lan Yab'atha Allāhu 'Aĥadāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّهُمْ ظَنُّوا كَمَا ظَنَنْتُمْ أَنْ لَنْ يَبْعَثَ اللَّهُ أَحَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانهم ظنوا كما ظننتم ان لن يبعث الله احدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّهُمۡ ظَنُّوا۟ كَمَا ظَنَنتُمۡ أَن لَّن یَبۡعَثَ ٱللَّهُ أَحَدࣰا
 
 | Details |  |

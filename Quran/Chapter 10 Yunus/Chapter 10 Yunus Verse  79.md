@@ -452,6 +452,18 @@ Wa Qāla Fir'awnu A'tūnī Bikulli Sāĥirin 'Alīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ فِرْعَوْنُ ائْتُونِي بِكُلِّ سَاحِرٍ عَلِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال فرعون ايتوني بكل ساحر عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ فِرۡعَوۡنُ ٱئۡتُونِی بِكُلِّ سَـٰحِرٍ عَلِیمࣲ
 
 | Details |  |

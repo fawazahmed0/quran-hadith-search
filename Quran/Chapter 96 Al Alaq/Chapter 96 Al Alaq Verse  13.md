@@ -452,6 +452,18 @@ Ara'ayta 'In Kadhaba Wa Tawallá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَرَأَيْتَ إِنْ كَذَّبَ وَتَوَلَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ارايت ان كذب وتولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَرَءَیۡتَ إِن كَذَّبَ وَتَوَلَّىٰۤ
 
 | Details |  |

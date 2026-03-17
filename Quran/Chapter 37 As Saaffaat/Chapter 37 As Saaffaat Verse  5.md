@@ -452,6 +452,18 @@ Rabbu As-Samāwāti Wa Al-'Arđi Wa Mā Baynahumā Wa Rabbu Al-Mashāriqi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ الْمَشَارِقِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+رب السماوات والارض وما بينهما ورب المشارق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَّبُّ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ وَمَا بَیۡنَهُمَا وَرَبُّ ٱلۡمَشَـٰرِقِ
 
 | Details |  |

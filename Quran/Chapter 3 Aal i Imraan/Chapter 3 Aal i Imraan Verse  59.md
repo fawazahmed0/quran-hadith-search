@@ -452,6 +452,18 @@ Inna Mathala 'Īsá 'Inda Allāhi Kamathali 'Ādama Khalaqahu Min Turābin Thumm
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ مَثَلَ عِيسَى عِنْدَ اللَّهِ كَمَثَلِ آدَمَ خَلَقَهُ مِنْ تُرَابٍ ثُمَّ قَالَ لَهُ كُنْ فَيَكُونُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان مثل عيسى عند الله كمثل ادم خلقه من تراب ثم قال له كن فيكون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ مَثَلَ عِیسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَۖ خَلَقَهُۥ مِن تُرَابࣲ ثُمَّ قَالَ لَهُۥ كُن فَیَكُونُ
 
 | Details |  |

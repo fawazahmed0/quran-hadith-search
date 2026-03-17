@@ -452,6 +452,18 @@ Yalbasūna Min Sundusin Wa 'Istabraqin Mutaqābilīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَلْبَسُونَ مِنْ سُنْدُسٍ وَإِسْتَبْرَقٍ مُتَقَابِلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يلبسون من سندس واستبرق متقابلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَلۡبَسُونَ مِن سُندُسࣲ وَإِسۡتَبۡرَقࣲ مُّتَقَـٰبِلِینَ
 
 | Details |  |

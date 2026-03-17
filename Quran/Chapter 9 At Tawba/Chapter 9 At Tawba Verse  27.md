@@ -452,6 +452,18 @@ Thumma Yatūbu Allāhu Min Ba'di Dhālika 'Alá Man Yashā'u Wa Allāhu Ghafūru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ يَتُوبُ اللَّهُ مِنْ بَعْدِ ذَلِكَ عَلَى مَنْ يَشَاءُ وَاللَّهُ غَفُورٌ رَحِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم يتوب الله من بعد ذلك على من يشاء والله غفور رحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ یَتُوبُ ٱللَّهُ مِنۢ بَعۡدِ ذَ ٰلِكَ عَلَىٰ مَن یَشَاۤءُۗ وَٱللَّهُ غَفُورࣱ رَّحِیمࣱ
 
 | Details |  |

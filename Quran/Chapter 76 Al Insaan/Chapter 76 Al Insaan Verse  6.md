@@ -452,6 +452,18 @@ Aynāan Yashrabu Bihā 'Ibādu Allāhi Yufajjirūnahā Tafjīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَيْنًا يَشْرَبُ بِهَا عِبَادُ اللَّهِ يُفَجِّرُونَهَا تَفْجِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عينا يشرب بها عباد الله يفجرونها تفجيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَیۡنࣰا یَشۡرَبُ بِهَا عِبَادُ ٱللَّهِ یُفَجِّرُونَهَا تَفۡجِیرࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Sanuqri'uka Falā Tansá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَنُقْرِئُكَ فَلَا تَنْسَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سنقريك فلا تنسى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَنُقۡرِئُكَ فَلَا تَنسَىٰۤ
 
 | Details |  |

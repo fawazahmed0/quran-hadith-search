@@ -452,6 +452,18 @@ Thumma Şadaqnāhumu Al-Wa'da Fa'anjaynāhum Wa Man Nashā'u Wa 'Ahlaknā Al-Mus
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ صَدَقْنَاهُمُ الْوَعْدَ فَأَنْجَيْنَاهُمْ وَمَنْ نَشَاءُ وَأَهْلَكْنَا الْمُسْرِفِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم صدقناهم الوعد فانجيناهم ومن نشاء واهلكنا المسرفين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ صَدَقۡنَـٰهُمُ ٱلۡوَعۡدَ فَأَنجَیۡنَـٰهُمۡ وَمَن نَّشَاۤءُ وَأَهۡلَكۡنَا ٱلۡمُسۡرِفِینَ
 
 | Details |  |

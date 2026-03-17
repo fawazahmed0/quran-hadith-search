@@ -452,6 +452,18 @@ Wa Lā Taj'alū Ma'a Allāhi 'Ilahāan 'Ākhara 'Innī Lakum Minhu Nadhīrun Mub
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تَجْعَلُوا مَعَ اللَّهِ إِلَهًا آخَرَ إِنِّي لَكُمْ مِنْهُ نَذِيرٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تجعلوا مع الله الها اخر اني لكم منه نذير مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تَجۡعَلُوا۟ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَۖ إِنِّی لَكُم مِّنۡهُ نَذِیرࣱ مُّبِینࣱ
 
 | Details |  |

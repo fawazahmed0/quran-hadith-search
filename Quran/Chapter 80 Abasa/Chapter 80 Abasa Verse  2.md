@@ -452,6 +452,18 @@ An Jā'ahu Al-'A'má
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَنْ جَاءَهُ الْأَعْمَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان جاءه الاعمى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَن جَاۤءَهُ ٱلۡأَعۡمَىٰ
 
 | Details |  |

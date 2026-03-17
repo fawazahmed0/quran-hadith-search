@@ -452,6 +452,18 @@ Afalā Ya'lamu 'Idhā Bu'thira Mā Fī Al-Qubūri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افلا يعلم اذا بعثر ما في القبور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ أَفَلَا یَعۡلَمُ إِذَا بُعۡثِرَ مَا فِی ٱلۡقُبُورِ
 
 | Details |  |

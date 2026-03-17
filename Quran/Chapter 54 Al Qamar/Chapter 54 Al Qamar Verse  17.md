@@ -452,6 +452,18 @@ Wa Laqad Yassarnā Al-Qur'āna Lildhikri Fahal Min Muddakirin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد يسرنا القران للذكر فهل من مدكر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ یَسَّرۡنَا ٱلۡقُرۡءَانَ لِلذِّكۡرِ فَهَلۡ مِن مُّدَّكِرࣲ
 
 | Details |  |

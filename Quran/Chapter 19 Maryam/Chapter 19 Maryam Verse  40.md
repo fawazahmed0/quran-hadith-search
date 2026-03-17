@@ -452,6 +452,18 @@ Innā Naĥnu Narithu Al-'Arđa Wa Man 'Alayhā Wa 'Ilaynā Yurja'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا نَحْنُ نَرِثُ الْأَرْضَ وَمَنْ عَلَيْهَا وَإِلَيْنَا يُرْجَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا نحن نرث الارض ومن عليها والينا يرجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا نَحۡنُ نَرِثُ ٱلۡأَرۡضَ وَمَنۡ عَلَیۡهَا وَإِلَیۡنَا یُرۡجَعُونَ
 
 | Details |  |

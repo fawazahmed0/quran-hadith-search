@@ -452,6 +452,18 @@ Muttaki'īna Fīhā 'Alá Al-'Arā'iki Lā Yarawna Fīhā Shamsāan Wa Lā Zamha
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مُتَّكِئِينَ فِيهَا عَلَى الْأَرَائِكِ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+متكيين فيها على الارايك لا يرون فيها شمسا ولا زمهريرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مُّتَّكِءِینَ فِیهَا عَلَى ٱلۡأَرَاۤئِكِۖ لَا یَرَوۡنَ فِیهَا شَمۡسࣰا وَلَا زَمۡهَرِیرࣰا
 
 | Details |  |

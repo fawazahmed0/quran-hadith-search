@@ -452,6 +452,18 @@ Wa 'Idhā Ar-Rusulu 'Uqqitat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا الرُّسُلُ أُقِّتَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا الرسل اقتت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ
 
 | Details |  |

@@ -452,6 +452,18 @@ Thumma Lā Yamūtu Fīhā Wa Lā Yaĥyā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم لا يموت فيها ولا يحيى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ لَا یَمُوتُ فِیهَا وَلَا یَحۡیَىٰ
 
 | Details |  |

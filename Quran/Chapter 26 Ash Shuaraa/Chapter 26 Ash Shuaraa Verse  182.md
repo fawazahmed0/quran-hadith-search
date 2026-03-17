@@ -452,6 +452,18 @@ Wa Zinū Bil-Qisţāsi Al-Mustaqīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وزنوا بالقسطاس المستقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَزِنُوا۟ بِٱلۡقِسۡطَاسِ ٱلۡمُسۡتَقِیمِ
 
 | Details |  |

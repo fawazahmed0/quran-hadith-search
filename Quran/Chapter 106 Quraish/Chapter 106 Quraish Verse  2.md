@@ -452,6 +452,18 @@ Ilafihim Rihlata Ash-Shita'i Wa As-Sayfi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ايلافهم رحلة الشتاء والصيف
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِۦلَـٰفِهِمۡ رِحۡلَةَ ٱلشِّتَاۤءِ وَٱلصَّیۡفِ
 
 | Details |  |

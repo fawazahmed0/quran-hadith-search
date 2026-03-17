@@ -452,6 +452,18 @@ Dhālika Jazaynāhum Bimā Kafarū Wa Hal Nujāzī 'Illā Al-Kafūra
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ جَزَيْنَاهُمْ بِمَا كَفَرُوا وَهَلْ نُجَازِي إِلَّا الْكَفُورَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك جزيناهم بما كفروا وهل نجازي الا الكفور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ جَزَیۡنَـٰهُم بِمَا كَفَرُوا۟ۖ وَهَلۡ نُجَـٰزِیۤ إِلَّا ٱلۡكَفُورَ
 
 | Details |  |

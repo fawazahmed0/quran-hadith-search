@@ -452,6 +452,18 @@ Inna Al-Ladhīna 'Āmanū Wa 'Amilū Aş-Şāliĥāti Kānat Lahum Jannātu Al-F
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَانَتْ لَهُمْ جَنَّاتُ الْفِرْدَوْسِ نُزُلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين امنوا وعملوا الصالحات كانت لهم جنات الفردوس نزلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ كَانَتۡ لَهُمۡ جَنَّـٰتُ ٱلۡفِرۡدَوۡسِ نُزُلًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Lā Jarama 'Anna Allāha Ya'lamu Mā Yusirrūna Wa Mā Yu'linūna 'Innahu Lā Yu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا جَرَمَ أَنَّ اللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ إِنَّهُ لَا يُحِبُّ الْمُسْتَكْبِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا جرم ان الله يعلم ما يسرون وما يعلنون انه لا يحب المستكبرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا جَرَمَ أَنَّ ٱللَّهَ یَعۡلَمُ مَا یُسِرُّونَ وَمَا یُعۡلِنُونَۚ إِنَّهُۥ لَا یُحِبُّ ٱلۡمُسۡتَكۡبِرِینَ
 
 | Details |  |

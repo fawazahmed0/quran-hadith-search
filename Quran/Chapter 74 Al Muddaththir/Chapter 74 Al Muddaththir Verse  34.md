@@ -452,6 +452,18 @@ Wa Aş-Şubĥi 'Idhā 'Asfara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالصُّبْحِ إِذَا أَسْفَرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والصبح اذا اسفر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلصُّبۡحِ إِذَاۤ أَسۡفَرَ
 
 | Details |  |

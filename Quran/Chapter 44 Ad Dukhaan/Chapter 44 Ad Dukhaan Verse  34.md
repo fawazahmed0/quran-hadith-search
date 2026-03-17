@@ -452,6 +452,18 @@ Inna Hā'uulā' Layaqūlūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ هَؤُلَاءِ لَيَقُولُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هولاء ليقولون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ هَـٰۤؤُلَاۤءِ لَیَقُولُونَ
 
 | Details |  |

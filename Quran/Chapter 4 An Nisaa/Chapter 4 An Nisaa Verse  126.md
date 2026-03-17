@@ -452,6 +452,18 @@ Wa Lillahi Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa Kāna Allāhu Bikulli S
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ مُحِيطًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولله ما في السماوات وما في الارض وكان الله بكل شيء محيطا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِلَّهِ مَا فِی ٱلسَّمَـٰوَ ٰتِ وَمَا فِی ٱلۡأَرۡضِۚ وَكَانَ ٱللَّهُ بِكُلِّ شَیۡءࣲ مُّحِیطࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Fāntaqamnā Minhum Wa 'Innahumā Labi'imāmin Mubīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَانْتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانتقمنا منهم وانهما لبامام مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱنتَقَمۡنَا مِنۡهُمۡ وَإِنَّهُمَا لَبِإِمَامࣲ مُّبِینࣲ
 
 | Details |  |

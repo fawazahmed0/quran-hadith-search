@@ -452,6 +452,18 @@ Ya'ižukumu Allāhu 'An Ta'ūdū Limithlihi 'Abadāan 'In Kuntum Mu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَعِظُكُمُ اللَّهُ أَنْ تَعُودُوا لِمِثْلِهِ أَبَدًا إِنْ كُنْتُمْ مُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يعظكم الله ان تعودوا لمثله ابدا ان كنتم مومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَعِظُكُمُ ٱللَّهُ أَن تَعُودُوا۟ لِمِثۡلِهِۦۤ أَبَدًا إِن كُنتُم مُّؤۡمِنِینَ
 
 | Details |  |

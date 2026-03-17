@@ -452,6 +452,18 @@ Qālū Nafqidu Şuwā'a Al-Maliki Wa Liman Jā'a Bihi Ĥimlu Ba'īrin Wa 'Anā B
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا نَفْقِدُ صُوَاعَ الْمَلِكِ وَلِمَنْ جَاءَ بِهِ حِمْلُ بَعِيرٍ وَأَنَا بِهِ زَعِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا نفقد صواع الملك ولمن جاء به حمل بعير وانا به زعيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ نَفۡقِدُ صُوَاعَ ٱلۡمَلِكِ وَلِمَن جَاۤءَ بِهِۦ حِمۡلُ بَعِیرࣲ وَأَنَا۠ بِهِۦ زَعِیمࣱ
 
 | Details |  |

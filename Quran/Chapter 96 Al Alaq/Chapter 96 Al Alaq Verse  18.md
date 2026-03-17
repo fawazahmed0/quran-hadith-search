@@ -452,6 +452,18 @@ Sanad'u Az-Zabāniyaha
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَنَدْعُ الزَّبَانِيَةَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سندع الزبانية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَنَدۡعُ ٱلزَّبَانِیَةَ
 
 | Details |  |

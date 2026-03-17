@@ -452,6 +452,18 @@ Hunālika Da'ā Zakarīyā Rabbahu Qāla Rabbi Hab Lī Min Ladunka Dhurrīyatan 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُ قَالَ رَبِّ هَبْ لِي مِنْ لَدُنْكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ الدُّعَاءِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هنالك دعا زكريا ربه قال رب هب لي من لدنك ذرية طيبة انك سميع الدعاء
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُنَالِكَ دَعَا زَكَرِیَّا رَبَّهُۥۖ قَالَ رَبِّ هَبۡ لِی مِن لَّدُنكَ ذُرِّیَّةࣰ طَیِّبَةًۖ إِنَّكَ سَمِیعُ ٱلدُّعَاۤءِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qur'ānāan 'Arabīyāan Ghayra Dhī 'Iwajin La'allahum Yattaqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُرْآنًا عَرَبِيًّا غَيْرَ ذِي عِوَجٍ لَعَلَّهُمْ يَتَّقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قرانا عربيا غير ذي عوج لعلهم يتقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُرۡءَانًا عَرَبِیًّا غَیۡرَ ذِی عِوَجࣲ لَّعَلَّهُمۡ یَتَّقُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Nusāri'u Lahum Fī Al-Khayrāti Bal Lā Yash'urūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نُسَارِعُ لَهُمْ فِي الْخَيْرَاتِ بَلْ لَا يَشْعُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نسارع لهم في الخيرات بل لا يشعرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نُسَارِعُ لَهُمۡ فِی ٱلۡخَیۡرَ ٰتِۚ بَل لَّا یَشۡعُرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fa'ammÄ Man 'Åªtiya KitÄbahu BiyamÄ«nihi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاما من اوتي كتابه بيمينه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَمَّا مَنۡ أُوتِیَ كِتَـٰبَهُۥ بِیَمِینِهِۦ
 
 | Details |  |

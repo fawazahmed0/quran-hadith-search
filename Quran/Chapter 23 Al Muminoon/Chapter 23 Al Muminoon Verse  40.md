@@ -452,6 +452,18 @@ Qāla 'Ammā Qalīlin Layuşbiĥunna Nādimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ عَمَّا قَلِيلٍ لَيُصْبِحُنَّ نَادِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال عما قليل ليصبحن نادمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ عَمَّا قَلِیلࣲ لَّیُصۡبِحُنَّ نَـٰدِمِینَ
 
 | Details |  |

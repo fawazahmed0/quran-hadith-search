@@ -452,6 +452,18 @@ Mā Kāna Liya Min 'Ilmin Bil-Mala'i Al-'A'lá 'Idh Yakhtaşimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا كَانَ لِيَ مِنْ عِلْمٍ بِالْمَلَإِ الْأَعْلَى إِذْ يَخْتَصِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما كان لي من علم بالملا الاعلى اذ يختصمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا كَانَ لِیَ مِنۡ عِلۡمِۭ بِٱلۡمَلَإِ ٱلۡأَعۡلَىٰۤ إِذۡ یَخۡتَصِمُونَ
 
 | Details |  |

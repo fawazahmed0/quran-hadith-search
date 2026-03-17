@@ -452,6 +452,18 @@ Ani Al-Yamīni Wa 'Ani Ash-Shimāli 'Izīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ عِزِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عن اليمين وعن الشمال عزين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَنِ ٱلۡیَمِینِ وَعَنِ ٱلشِّمَالِ عِزِینَ
 
 | Details |  |

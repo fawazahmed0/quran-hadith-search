@@ -452,6 +452,18 @@ Innakum Lata'tūna Ar-Rijāla Shahwatan Min Dūni An-Nisā' Bal 'Antum Qawmun Mu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِنْ دُونِ النِّسَاءِ بَلْ أَنْتُمْ قَوْمٌ مُسْرِفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انكم لتاتون الرجال شهوة من دون النساء بل انتم قوم مسرفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّكُمۡ لَتَأۡتُونَ ٱلرِّجَالَ شَهۡوَةࣰ مِّن دُونِ ٱلنِّسَاۤءِۚ بَلۡ أَنتُمۡ قَوۡمࣱ مُّسۡرِفُونَ
 
 | Details |  |

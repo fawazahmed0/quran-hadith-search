@@ -452,6 +452,18 @@ Wa Ja'alnā Sirājāan Wa Hhājāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلْنَا سِرَاجًا وَهَّاجًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلنا سراجا وهاجا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلۡنَا سِرَاجࣰا وَهَّاجࣰا
 
 | Details |  |

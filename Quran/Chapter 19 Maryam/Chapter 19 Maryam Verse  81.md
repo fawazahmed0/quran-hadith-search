@@ -452,6 +452,18 @@ Wa Attakhadhū Min Dūni Allāhi 'Ālihatan Liyakūnū Lahum 'Izzāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاتَّخَذُوا مِنْ دُونِ اللَّهِ آلِهَةً لِيَكُونُوا لَهُمْ عِزًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتخذوا من دون الله الهة ليكونوا لهم عزا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةࣰ لِّیَكُونُوا۟ لَهُمۡ عِزࣰّا
 
 | Details |  |

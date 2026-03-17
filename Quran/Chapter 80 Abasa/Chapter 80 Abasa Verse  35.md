@@ -452,6 +452,18 @@ Wa 'Ummihi Wa 'Abīhi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأُمِّهِ وَأَبِيهِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وامه وابيه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأُمِّهِۦ وَأَبِیهِ
 
 | Details |  |

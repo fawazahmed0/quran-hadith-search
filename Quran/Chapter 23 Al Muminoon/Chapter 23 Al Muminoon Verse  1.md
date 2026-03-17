@@ -452,6 +452,18 @@ Qad 'Aflaĥa Al-Mu'uminūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَدْ أَفْلَحَ الْمُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قد افلح المومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ قَدۡ أَفۡلَحَ ٱلۡمُؤۡمِنُونَ
 
 | Details |  |

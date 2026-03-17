@@ -452,6 +452,18 @@ Qāla 'Inna Rasūlakumu Al-Ladhī 'Ursila 'Ilaykum Lamajnūnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ إِنَّ رَسُولَكُمُ الَّذِي أُرْسِلَ إِلَيْكُمْ لَمَجْنُونٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال ان رسولكم الذي ارسل اليكم لمجنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ إِنَّ رَسُولَكُمُ ٱلَّذِیۤ أُرۡسِلَ إِلَیۡكُمۡ لَمَجۡنُونࣱ
 
 | Details |  |

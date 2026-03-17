@@ -452,6 +452,18 @@ Ka'annahu Jimālatun Şufrun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَأَنَّهُ جِمَالَتٌ صُفْرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كانه جمالت صفر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَأَنَّهُۥ جِمَـٰلَتࣱ صُفۡرࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Adhkur Fī Al-Kitābi Maryama 'Idh Antabadhat Min 'Ahlihā Makānāan Sharqī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاذْكُرْ فِي الْكِتَابِ مَرْيَمَ إِذِ انْتَبَذَتْ مِنْ أَهْلِهَا مَكَانًا شَرْقِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذكر في الكتاب مريم اذ انتبذت من اهلها مكانا شرقيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱذۡكُرۡ فِی ٱلۡكِتَـٰبِ مَرۡیَمَ إِذِ ٱنتَبَذَتۡ مِنۡ أَهۡلِهَا مَكَانࣰا شَرۡقِیࣰّا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Jā'a Rabbuka Wa Al-Malaku Şaffāan Şaffāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجاء ربك والملك صفا صفا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَاۤءَ رَبُّكَ وَٱلۡمَلَكُ صَفࣰّا صَفࣰّا
 
 | Details |  |

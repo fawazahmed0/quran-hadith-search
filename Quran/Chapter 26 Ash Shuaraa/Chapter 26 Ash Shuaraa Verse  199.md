@@ -452,6 +452,18 @@ Faqara'ahu 'Alayhim Mā Kānū Bihi Mu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقَرَأَهُ عَلَيْهِمْ مَا كَانُوا بِهِ مُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقراه عليهم ما كانوا به مومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقَرَأَهُۥ عَلَیۡهِم مَّا كَانُوا۟ بِهِۦ مُؤۡمِنِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qul 'Inna Al-Ladhīna Yaftarūna 'Alá Allāhi Al-Kadhiba Lā Yufliĥūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل ان الذين يفترون على الله الكذب لا يفلحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ إِنَّ ٱلَّذِینَ یَفۡتَرُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ لَا یُفۡلِحُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Đaraba Lanā Mathalāan Wa Nasiya Khalqahu Qāla Man Yuĥyī Al-'Ižāma Wa 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَضَرَبَ لَنَا مَثَلًا وَنَسِيَ خَلْقَهُ قَالَ مَنْ يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وضرب لنا مثلا ونسي خلقه قال من يحيي العظام وهي رميم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَضَرَبَ لَنَا مَثَلࣰا وَنَسِیَ خَلۡقَهُۥۖ قَالَ مَن یُحۡیِ ٱلۡعِظَـٰمَ وَهِیَ رَمِیمࣱ
 
 | Details |  |

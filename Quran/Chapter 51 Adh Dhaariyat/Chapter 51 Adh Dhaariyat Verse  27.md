@@ -452,6 +452,18 @@ Faqarrabahu 'Ilayhim Qāla 'Alā Ta'kulūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقَرَّبَهُ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقربه اليهم قال الا تاكلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقَرَّبَهُۥۤ إِلَیۡهِمۡ قَالَ أَلَا تَأۡكُلُونَ
 
 | Details |  |

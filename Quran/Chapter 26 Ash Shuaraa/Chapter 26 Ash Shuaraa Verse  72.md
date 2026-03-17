@@ -452,6 +452,18 @@ Qāla Hal Yasma'ūnakum 'Idh Tad'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال هل يسمعونكم اذ تدعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ هَلۡ یَسۡمَعُونَكُمۡ إِذۡ تَدۡعُونَ
 
 | Details |  |

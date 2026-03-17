@@ -452,6 +452,18 @@ Wa Lā Až-Žulumātu Wa Lā An-Nūr
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا الظُّلُمَاتُ وَلَا النُّورُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا الظلمات ولا النور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا ٱلظُّلُمَـٰتُ وَلَا ٱلنُّورُ
 
 | Details |  |

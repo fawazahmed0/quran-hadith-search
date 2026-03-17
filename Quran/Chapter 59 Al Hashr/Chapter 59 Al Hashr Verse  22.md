@@ -452,6 +452,18 @@ Huwa Allāhu Al-Ladhī Lā 'Ilāha 'Illā Huwa 'Ālimu Al-Ghaybi Wa Ash-Shahāda
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُوَ اللَّهُ الَّذِي لَا إِلَهَ إِلَّا هُوَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ هُوَ الرَّحْمَنُ الرَّحِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هو الله الذي لا اله الا هو عالم الغيب والشهادة هو الرحمن الرحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُوَ ٱللَّهُ ٱلَّذِی لَاۤ إِلَـٰهَ إِلَّا هُوَۖ عَـٰلِمُ ٱلۡغَیۡبِ وَٱلشَّهَـٰدَةِۖ هُوَ ٱلرَّحۡمَـٰنُ ٱلرَّحِیمُ
 
 | Details |  |

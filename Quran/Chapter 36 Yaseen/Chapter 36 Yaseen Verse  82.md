@@ -452,6 +452,18 @@ Innamā 'Amruhu 'Idhā 'Arāda Shay'āan 'An Yaqūla Lahu Kun Fayakūnu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انما امره اذا اراد شييا ان يقول له كن فيكون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّمَاۤ أَمۡرُهُۥۤ إِذَاۤ أَرَادَ شَیۡءًا أَن یَقُولَ لَهُۥ كُن فَیَكُونُ
 
 | Details |  |

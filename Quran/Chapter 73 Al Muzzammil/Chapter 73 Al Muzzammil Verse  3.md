@@ -452,6 +452,18 @@ Nişfahu 'Aw Anquş Minhu Qalīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نصفه او انقص منه قليلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نِّصۡفَهُۥۤ أَوِ ٱنقُصۡ مِنۡهُ قَلِیلًا
 
 | Details |  |

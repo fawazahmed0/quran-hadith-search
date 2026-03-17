@@ -452,6 +452,18 @@ Alā 'Innahum Humu Al-Mufsidūna Wa Lakin Lā Yash'urūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَا إِنَّهُمْ هُمُ الْمُفْسِدُونَ وَلَكِنْ لَا يَشْعُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا انهم هم المفسدون ولكن لا يشعرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَاۤ إِنَّهُمۡ هُمُ ٱلۡمُفۡسِدُونَ وَلَـٰكِن لَّا یَشۡعُرُونَ
 
 | Details |  |

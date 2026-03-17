@@ -452,6 +452,18 @@ Laqad 'Ađallanī 'Ani Adh-Dhikri Ba'da 'Idh Jā'anī Wa Kāna Ash-Shayţānu Li
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَقَدْ أَضَلَّنِي عَنِ الذِّكْرِ بَعْدَ إِذْ جَاءَنِي وَكَانَ الشَّيْطَانُ لِلْإِنْسَانِ خَذُولًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لقد اضلني عن الذكر بعد اذ جاءني وكان الشيطان للانسان خذولا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّقَدۡ أَضَلَّنِی عَنِ ٱلذِّكۡرِ بَعۡدَ إِذۡ جَاۤءَنِیۗ وَكَانَ ٱلشَّیۡطَـٰنُ لِلۡإِنسَـٰنِ خَذُولࣰا
 
 | Details |  |

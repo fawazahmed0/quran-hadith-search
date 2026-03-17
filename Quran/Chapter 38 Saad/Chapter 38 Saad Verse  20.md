@@ -452,6 +452,18 @@ Wa Shadadnā Mulkahu Wa 'Ātaynāhu Al-Ĥikmata Wa Faşla Al-Khiţābi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَشَدَدْنَا مُلْكَهُ وَآتَيْنَاهُ الْحِكْمَةَ وَفَصْلَ الْخِطَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وشددنا ملكه واتيناه الحكمة وفصل الخطاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَشَدَدۡنَا مُلۡكَهُۥ وَءَاتَیۡنَـٰهُ ٱلۡحِكۡمَةَ وَفَصۡلَ ٱلۡخِطَابِ
 
 | Details |  |

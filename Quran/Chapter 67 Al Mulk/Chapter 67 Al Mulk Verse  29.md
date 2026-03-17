@@ -452,6 +452,18 @@ Qul Huwa Ar-Raĥmānu 'Āmannā Bihi Wa 'Alayhi Tawakkalnā Fasata'lamūna Man H
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ هُوَ الرَّحْمَنُ آمَنَّا بِهِ وَعَلَيْهِ تَوَكَّلْنَا فَسَتَعْلَمُونَ مَنْ هُوَ فِي ضَلَالٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل هو الرحمن امنا به وعليه توكلنا فستعلمون من هو في ضلال مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ هُوَ ٱلرَّحۡمَـٰنُ ءَامَنَّا بِهِۦ وَعَلَیۡهِ تَوَكَّلۡنَاۖ فَسَتَعۡلَمُونَ مَنۡ هُوَ فِی ضَلَـٰلࣲ مُّبِینࣲ
 
 | Details |  |

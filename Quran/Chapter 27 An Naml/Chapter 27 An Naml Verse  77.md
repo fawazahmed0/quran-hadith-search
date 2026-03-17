@@ -452,6 +452,18 @@ Wa 'Innahu Lahudáan Wa Raĥmatun Lilmu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّهُ لَهُدًى وَرَحْمَةٌ لِلْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه لهدى ورحمة للمومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّهُۥ لَهُدࣰى وَرَحۡمَةࣱ لِّلۡمُؤۡمِنِینَ
 
 | Details |  |

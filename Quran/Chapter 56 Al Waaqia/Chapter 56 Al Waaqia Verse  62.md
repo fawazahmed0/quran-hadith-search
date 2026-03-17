@@ -452,6 +452,18 @@ Wa Laqad 'Alimtumu An-Nash'ata Al-'Ūlá Falawlā Tadhkkarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ عَلِمْتُمُ النَّشْأَةَ الْأُولَى فَلَوْلَا تَذَكَّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد علمتم النشاة الاولى فلولا تذكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ عَلِمۡتُمُ ٱلنَّشۡأَةَ ٱلۡأُولَىٰ فَلَوۡلَا تَذَكَّرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Ţa'āmāan Dhā Ghuşşatin Wa 'Adhābāan 'Alīmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وطعاما ذا غصة وعذابا اليما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَطَعَامࣰا ذَا غُصَّةࣲ وَعَذَابًا أَلِیمࣰا
 
 | Details |  |

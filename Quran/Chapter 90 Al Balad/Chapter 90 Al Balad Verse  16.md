@@ -452,6 +452,18 @@ Aw Miskīnāan Dhā Matrabahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+او مسكينا ذا متربة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوۡ مِسۡكِینࣰا ذَا مَتۡرَبَةࣲ
 
 | Details |  |

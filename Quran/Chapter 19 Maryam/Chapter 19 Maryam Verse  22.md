@@ -452,6 +452,18 @@ Faĥamalat/hu Fāntabadhat Bihi Makānāan Qaşīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَحَمَلَتْهُ فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فحملته فانتبذت به مكانا قصيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ فَحَمَلَتۡهُ فَٱنتَبَذَتۡ بِهِۦ مَكَانࣰا قَصِیࣰّا
 
 | Details |  |

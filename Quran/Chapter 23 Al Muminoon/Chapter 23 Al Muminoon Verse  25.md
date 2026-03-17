@@ -452,6 +452,18 @@ In Huwa 'Illā Rajulun Bihi Jinnatun Fatarabbaşū Bihi Ĥattá Ĥīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ هُوَ إِلَّا رَجُلٌ بِهِ جِنَّةٌ فَتَرَبَّصُوا بِهِ حَتَّى حِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هو الا رجل به جنة فتربصوا به حتى حين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنۡ هُوَ إِلَّا رَجُلُۢ بِهِۦ جِنَّةࣱ فَتَرَبَّصُوا۟ بِهِۦ حَتَّىٰ حِینࣲ
 
 | Details |  |

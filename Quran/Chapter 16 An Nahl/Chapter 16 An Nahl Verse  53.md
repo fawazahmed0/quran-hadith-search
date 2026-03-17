@@ -452,6 +452,18 @@ Wa Mā Bikum Min Ni'matin Famina Allāhi Thumma 'Idhā Massakumu Ađ-Đurru Fa'i
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا بِكُمْ مِنْ نِعْمَةٍ فَمِنَ اللَّهِ ثُمَّ إِذَا مَسَّكُمُ الضُّرُّ فَإِلَيْهِ تَجْأَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما بكم من نعمة فمن الله ثم اذا مسكم الضر فاليه تجارون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا بِكُم مِّن نِّعۡمَةࣲ فَمِنَ ٱللَّهِۖ ثُمَّ إِذَا مَسَّكُمُ ٱلضُّرُّ فَإِلَیۡهِ تَجۡءَرُونَ
 
 | Details |  |

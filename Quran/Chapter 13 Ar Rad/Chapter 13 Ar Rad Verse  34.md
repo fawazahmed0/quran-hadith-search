@@ -452,6 +452,18 @@ Lahum 'Adhābun Fī Al-Ĥayāati Ad-Dunyā Wa La'adhābu Al-'Ākhirati 'Ashaqqu 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَهُمْ عَذَابٌ فِي الْحَيَاةِ الدُّنْيَا وَلَعَذَابُ الْآخِرَةِ أَشَقُّ وَمَا لَهُمْ مِنَ اللَّهِ مِنْ وَاقٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لهم عذاب في الحياة الدنيا ولعذاب الاخرة اشق وما لهم من الله من واق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّهُمۡ عَذَابࣱ فِی ٱلۡحَیَوٰةِ ٱلدُّنۡیَاۖ وَلَعَذَابُ ٱلۡءَاخِرَةِ أَشَقُّۖ وَمَا لَهُم مِّنَ ٱللَّهِ مِن وَاقࣲ
 
 | Details |  |

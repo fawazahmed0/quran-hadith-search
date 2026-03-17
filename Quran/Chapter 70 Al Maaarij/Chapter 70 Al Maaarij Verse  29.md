@@ -452,6 +452,18 @@ Wa Al-Ladhīna Hum Lifurūjihim Ĥāfižūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين هم لفروجهم حافظون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ هُمۡ لِفُرُوجِهِمۡ حَـٰفِظُونَ
 
 | Details |  |

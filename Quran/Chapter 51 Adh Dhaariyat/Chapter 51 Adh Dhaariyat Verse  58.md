@@ -452,6 +452,18 @@ Inna Allāha Huwa Ar-Razzāqu Dhū Al-Qūwati Al-Matīnu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الله هو الرزاق ذو القوة المتين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلۡقُوَّةِ ٱلۡمَتِینُ
 
 | Details |  |

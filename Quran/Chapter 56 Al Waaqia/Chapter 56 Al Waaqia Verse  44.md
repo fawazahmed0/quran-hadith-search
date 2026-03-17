@@ -452,6 +452,18 @@ Lā Bāridin Wa Lā Karīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا بَارِدٍ وَلَا كَرِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا بارد ولا كريم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا بَارِدࣲ وَلَا كَرِیمٍ
 
 | Details |  |

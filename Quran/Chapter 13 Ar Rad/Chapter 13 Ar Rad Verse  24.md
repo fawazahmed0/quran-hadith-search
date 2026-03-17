@@ -452,6 +452,18 @@ Salāmun 'Alaykum Bimā Şabartum Fani'ma 'Uqbá Ad-Dāri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَلَامٌ عَلَيْكُمْ بِمَا صَبَرْتُمْ فَنِعْمَ عُقْبَى الدَّارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سلام عليكم بما صبرتم فنعم عقبى الدار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَلَـٰمٌ عَلَیۡكُم بِمَا صَبَرۡتُمۡۚ فَنِعۡمَ عُقۡبَى ٱلدَّارِ
 
 | Details |  |

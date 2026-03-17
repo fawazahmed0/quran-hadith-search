@@ -452,6 +452,18 @@ Lilkāfiryna Laysa Lahu Dāfi'un
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِلْكَافِرِينَ لَيْسَ لَهُ دَافِعٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+للكافرين ليس له دافع
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِّلۡكَـٰفِرِینَ لَیۡسَ لَهُۥ دَافِعࣱ
 
 | Details |  |

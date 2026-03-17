@@ -452,6 +452,18 @@ Inna Hā'uulā' Lashirdhimatun Qalīlūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ هَؤُلَاءِ لَشِرْذِمَةٌ قَلِيلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هولاء لشرذمة قليلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ هَـٰۤؤُلَاۤءِ لَشِرۡذِمَةࣱ قَلِیلُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna Yawma Al-Faşli Mīqātuhum 'Ajma'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ يَوْمَ الْفَصْلِ مِيقَاتُهُمْ أَجْمَعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان يوم الفصل ميقاتهم اجمعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ یَوۡمَ ٱلۡفَصۡلِ مِیقَـٰتُهُمۡ أَجۡمَعِینَ
 
 | Details |  |

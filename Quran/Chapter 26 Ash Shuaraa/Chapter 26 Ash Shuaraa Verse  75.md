@@ -452,6 +452,18 @@ Qāla 'Afara'aytum Mā Kuntum Ta'budūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ أَفَرَأَيْتُمْ مَا كُنْتُمْ تَعْبُدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال افرايتم ما كنتم تعبدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ أَفَرَءَیۡتُم مَّا كُنتُمۡ تَعۡبُدُونَ
 
 | Details |  |

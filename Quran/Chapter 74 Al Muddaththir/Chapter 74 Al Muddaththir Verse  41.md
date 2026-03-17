@@ -452,6 +452,18 @@ Ani Al-Mujrimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَنِ الْمُجْرِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عن المجرمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَنِ ٱلۡمُجۡرِمِینَ
 
 | Details |  |

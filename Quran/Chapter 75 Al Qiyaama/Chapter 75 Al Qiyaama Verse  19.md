@@ -452,6 +452,18 @@ Thumma 'Inna 'Alaynā Bayānahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم ان علينا بيانه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ إِنَّ عَلَیۡنَا بَیَانَهُۥ
 
 | Details |  |

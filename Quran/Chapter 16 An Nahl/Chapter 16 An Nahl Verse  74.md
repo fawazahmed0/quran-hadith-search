@@ -452,6 +452,18 @@ Falā Tađribū Lillāhi Al-'Amthāla 'Inna Allāha Ya'lamu Wa 'Antum Lā Ta'lam
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَا تَضْرِبُوا لِلَّهِ الْأَمْثَالَ إِنَّ اللَّهَ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلا تضربوا لله الامثال ان الله يعلم وانتم لا تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَا تَضۡرِبُوا۟ لِلَّهِ ٱلۡأَمۡثَالَۚ إِنَّ ٱللَّهَ یَعۡلَمُ وَأَنتُمۡ لَا تَعۡلَمُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Qāla Al-Mala'u Al-Ladhīna Kafarū Min Qawmihi La'ini Attaba'tum Shu'aybāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ الْمَلَأُ الَّذِينَ كَفَرُوا مِنْ قَوْمِهِ لَئِنِ اتَّبَعْتُمْ شُعَيْبًا إِنَّكُمْ إِذًا لَخَاسِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال الملا الذين كفروا من قومه لين اتبعتم شعيبا انكم اذا لخاسرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ ٱلۡمَلَأُ ٱلَّذِینَ كَفَرُوا۟ مِن قَوۡمِهِۦ لَئِنِ ٱتَّبَعۡتُمۡ شُعَیۡبًا إِنَّكُمۡ إِذࣰا لَّخَـٰسِرُونَ
 
 | Details |  |

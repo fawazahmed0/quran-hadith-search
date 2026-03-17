@@ -452,6 +452,18 @@ Qālū Yā Waylanā 'Innā Kunnā Ţāghīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا يَا وَيْلَنَا إِنَّا كُنَّا طَاغِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا يا ويلنا انا كنا طاغين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ یَـٰوَیۡلَنَاۤ إِنَّا كُنَّا طَـٰغِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Laysa Liwaq'atihā Kādhibahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ليس لوقعتها كاذبة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَیۡسَ لِوَقۡعَتِهَا كَاذِبَةٌ
 
 | Details |  |

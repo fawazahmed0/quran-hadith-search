@@ -452,6 +452,18 @@ Wa Kadhaba Bil-Ĥusná
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَذَّبَ بِالْحُسْنَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكذب بالحسنى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَذَّبَ بِٱلۡحُسۡنَىٰ
 
 | Details |  |

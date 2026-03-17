@@ -452,6 +452,18 @@ Lawwāĥatun Lilbashari
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَوَّاحَةٌ لِلْبَشَرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لواحة للبشر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَوَّاحَةࣱ لِّلۡبَشَرِ
 
 | Details |  |

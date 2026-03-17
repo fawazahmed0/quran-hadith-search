@@ -452,6 +452,18 @@ Bali Al-Ladhīna Kafarū Fī Takdhībin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل الذين كفروا في تكذيب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلِ ٱلَّذِینَ كَفَرُوا۟ فِی تَكۡذِیبࣲ
 
 | Details |  |

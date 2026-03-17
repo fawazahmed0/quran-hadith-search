@@ -452,6 +452,18 @@ Wa 'Āyatun Lahumu Al-Laylu Naslakhu Minhu An-Nahāra Fa'idhā Hum Mužlimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَآيَةٌ لَهُمُ اللَّيْلُ نَسْلَخُ مِنْهُ النَّهَارَ فَإِذَا هُمْ مُظْلِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واية لهم الليل نسلخ منه النهار فاذا هم مظلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَءَایَةࣱ لَّهُمُ ٱلَّیۡلُ نَسۡلَخُ مِنۡهُ ٱلنَّهَارَ فَإِذَا هُم مُّظۡلِمُونَ
 
 | Details |  |

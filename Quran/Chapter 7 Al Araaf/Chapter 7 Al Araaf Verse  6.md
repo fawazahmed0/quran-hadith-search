@@ -452,6 +452,18 @@ Falanas'alanna Al-Ladhīna 'Ursila 'Ilayhim Wa Lanas'alanna Al-Mursalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَنَسْأَلَنَّ الَّذِينَ أُرْسِلَ إِلَيْهِمْ وَلَنَسْأَلَنَّ الْمُرْسَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلنسالن الذين ارسل اليهم ولنسالن المرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَنَسۡءَلَنَّ ٱلَّذِینَ أُرۡسِلَ إِلَیۡهِمۡ وَلَنَسۡءَلَنَّ ٱلۡمُرۡسَلِینَ
 
 | Details |  |

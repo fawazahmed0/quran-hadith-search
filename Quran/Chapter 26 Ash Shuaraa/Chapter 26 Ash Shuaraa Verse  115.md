@@ -452,6 +452,18 @@ In 'Anā 'Illā Nadhīrun Mubīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ أَنَا إِلَّا نَذِيرٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان انا الا نذير مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنۡ أَنَا۠ إِلَّا نَذِیرࣱ مُّبِینࣱ
 
 | Details |  |

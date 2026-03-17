@@ -452,6 +452,18 @@ Wa Tilka 'Ādun Jaĥadū Bi'āyāti Rabbihim Wa 'Aşaw Rusulahu Wa Attaba'ū 'Am
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتِلْكَ عَادٌ جَحَدُوا بِآيَاتِ رَبِّهِمْ وَعَصَوْا رُسُلَهُ وَاتَّبَعُوا أَمْرَ كُلِّ جَبَّارٍ عَنِيدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتلك عاد جحدوا بايات ربهم وعصوا رسله واتبعوا امر كل جبار عنيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتِلۡكَ عَادࣱۖ جَحَدُوا۟ بِءَایَـٰتِ رَبِّهِمۡ وَعَصَوۡا۟ رُسُلَهُۥ وَٱتَّبَعُوۤا۟ أَمۡرَ كُلِّ جَبَّارٍ عَنِیدࣲ
 
 | Details |  |

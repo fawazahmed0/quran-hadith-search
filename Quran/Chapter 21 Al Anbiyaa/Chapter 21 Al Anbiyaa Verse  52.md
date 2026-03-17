@@ -452,6 +452,18 @@ Idh Qāla Li'abīhi Wa Qawmihi Mā Hadhihi At-Tamāthīlu Allatī 'Antum Lahā '
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِ مَا هَذِهِ التَّمَاثِيلُ الَّتِي أَنْتُمْ لَهَا عَاكِفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ قال لابيه وقومه ما هذه التماثيل التي انتم لها عاكفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ قَالَ لِأَبِیهِ وَقَوۡمِهِۦ مَا هَـٰذِهِ ٱلتَّمَاثِیلُ ٱلَّتِیۤ أَنتُمۡ لَهَا عَـٰكِفُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qālū Ta-Allāhi Tafta'u Tadhkuru Yūsufa Ĥattá Takūna Ĥarađāan 'Aw Takū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا تَاللَّهِ تَفْتَأُ تَذْكُرُ يُوسُفَ حَتَّى تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ الْهَالِكِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا تالله تفتا تذكر يوسف حتى تكون حرضا او تكون من الهالكين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ تَٱللَّهِ تَفۡتَؤُا۟ تَذۡكُرُ یُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوۡ تَكُونَ مِنَ ٱلۡهَـٰلِكِینَ
 
 | Details |  |

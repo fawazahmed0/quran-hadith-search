@@ -452,6 +452,18 @@ Idh Qāla Lahu Rabbuhu 'Aslim Qāla 'Aslamtu Lirabbi Al-'Ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ قَالَ لَهُ رَبُّهُ أَسْلِمْ قَالَ أَسْلَمْتُ لِرَبِّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ قال له ربه اسلم قال اسلمت لرب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ قَالَ لَهُۥ رَبُّهُۥۤ أَسۡلِمۡۖ قَالَ أَسۡلَمۡتُ لِرَبِّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

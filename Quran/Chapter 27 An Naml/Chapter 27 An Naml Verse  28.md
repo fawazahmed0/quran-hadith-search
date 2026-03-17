@@ -452,6 +452,18 @@ Adh/hab Bikitābī Hādhā Fa'alqih 'Ilayhim Thumma Tawalla 'Anhum Fānžur Mād
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اذْهَبْ بِكِتَابِي هَذَا فَأَلْقِهْ إِلَيْهِمْ ثُمَّ تَوَلَّ عَنْهُمْ فَانْظُرْ مَاذَا يَرْجِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذهب بكتابي هذا فالقه اليهم ثم تول عنهم فانظر ماذا يرجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱذۡهَب بِّكِتَـٰبِی هَـٰذَا فَأَلۡقِهۡ إِلَیۡهِمۡ ثُمَّ تَوَلَّ عَنۡهُمۡ فَٱنظُرۡ مَاذَا یَرۡجِعُونَ
 
 | Details |  |

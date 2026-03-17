@@ -452,6 +452,18 @@ Am Lahu Al-Banātu Wa Lakumu Al-Banūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ لَهُ الْبَنَاتُ وَلَكُمُ الْبَنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام له البنات ولكم البنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ لَهُ ٱلۡبَنَـٰتُ وَلَكُمُ ٱلۡبَنُونَ
 
 | Details |  |

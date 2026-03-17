@@ -452,6 +452,18 @@ In Huwa 'Illā Waĥyun Yūĥá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هو الا وحي يوحى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنۡ هُوَ إِلَّا وَحۡیࣱ یُوحَىٰ
 
 | Details |  |

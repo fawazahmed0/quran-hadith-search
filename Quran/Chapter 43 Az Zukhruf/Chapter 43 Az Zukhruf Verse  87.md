@@ -452,6 +452,18 @@ Wa La'in Sa'altahum Man Khalaqahum Layaqūlunna Allāhu Fa'anná Yu'ufakūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَهُمْ لَيَقُولُنَّ اللَّهُ فَأَنَّى يُؤْفَكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولين سالتهم من خلقهم ليقولن الله فانى يوفكون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَهُمۡ لَیَقُولُنَّ ٱللَّهُۖ فَأَنَّىٰ یُؤۡفَكُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Allāhu Yad'ū 'Ilá Dāri As-Salāmi Wa Yahdī Man Yashā'u 'Ilá Şirāţin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاللَّهُ يَدْعُو إِلَى دَارِ السَّلَامِ وَيَهْدِي مَنْ يَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والله يدعو الى دار السلام ويهدي من يشاء الى صراط مستقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱللَّهُ یَدۡعُوۤا۟ إِلَىٰ دَارِ ٱلسَّلَـٰمِ وَیَهۡدِی مَن یَشَاۤءُ إِلَىٰ صِرَ ٰطࣲ مُّسۡتَقِیمࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fa'akhraja Lahum 'Ijlāan Jasadāan Lahu Khuwārun Faqālū Hādhā 'Ilahukum Wa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَهُ خُوَارٌ فَقَالُوا هَذَا إِلَهُكُمْ وَإِلَهُ مُوسَى فَنَسِيَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاخرج لهم عجلا جسدا له خوار فقالوا هذا الهكم واله موسى فنسي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَخۡرَجَ لَهُمۡ عِجۡلࣰا جَسَدࣰا لَّهُۥ خُوَارࣱ فَقَالُوا۟ هَـٰذَاۤ إِلَـٰهُكُمۡ وَإِلَـٰهُ مُوسَىٰ فَنَسِیَ
 
 | Details |  |

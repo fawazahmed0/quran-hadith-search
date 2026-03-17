@@ -452,6 +452,18 @@ Fashāribūna Shurba Al-Hīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَشَارِبُونَ شُرْبَ الْهِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فشاربون شرب الهيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَشَـٰرِبُونَ شُرۡبَ ٱلۡهِیمِ
 
 | Details |  |

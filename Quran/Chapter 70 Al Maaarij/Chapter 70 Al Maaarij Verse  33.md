@@ -452,6 +452,18 @@ Wa Al-Ladhīna Hum Bishahādātihim Qā'imūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ هُمْ بِشَهَادَاتِهِمْ قَائِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين هم بشهاداتهم قايمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ هُم بِشَهَـٰدَ ٰتِهِمۡ قَاۤئِمُونَ
 
 | Details |  |

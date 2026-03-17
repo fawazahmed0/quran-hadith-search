@@ -452,6 +452,18 @@ Qad 'Alimnā Mā Tanquşu Al-'Arđu Minhum Wa 'Indanā Kitābun Ĥafīžun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَدْ عَلِمْنَا مَا تَنْقُصُ الْأَرْضُ مِنْهُمْ وَعِنْدَنَا كِتَابٌ حَفِيظٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قد علمنا ما تنقص الارض منهم وعندنا كتاب حفيظ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَدۡ عَلِمۡنَا مَا تَنقُصُ ٱلۡأَرۡضُ مِنۡهُمۡۖ وَعِندَنَا كِتَـٰبٌ حَفِیظُۢ
 
 | Details |  |

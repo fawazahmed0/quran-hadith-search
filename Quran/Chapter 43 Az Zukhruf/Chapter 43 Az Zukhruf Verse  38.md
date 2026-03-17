@@ -452,6 +452,18 @@ Hatta 'Idha Ja'ana Qala Ya Layta Bayni Wa Baynaka Bu'da Al-Mashriqayni Fabi'sa A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+حَتَّى إِذَا جَاءَنَا قَالَ يَا لَيْتَ بَيْنِي وَبَيْنَكَ بُعْدَ الْمَشْرِقَيْنِ فَبِئْسَ الْقَرِينُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+حتى اذا جاءنا قال يا ليت بيني وبينك بعد المشرقين فبيس القرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 حَتَّىٰۤ إِذَا جَاۤءَنَا قَالَ یَـٰلَیۡتَ بَیۡنِی وَبَیۡنَكَ بُعۡدَ ٱلۡمَشۡرِقَیۡنِ فَبِئۡسَ ٱلۡقَرِینُ
 
 | Details |  |

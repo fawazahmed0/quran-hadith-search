@@ -452,6 +452,18 @@ Wa Man Ya'şi Allāha Wa Rasūlahu Wa Yata'adda Ĥudūdahu Yudkhilhu Nārāan Kh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ وَيَتَعَدَّ حُدُودَهُ يُدْخِلْهُ نَارًا خَالِدًا فِيهَا وَلَهُ عَذَابٌ مُهِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن يعص الله ورسوله ويتعد حدوده يدخله نارا خالدا فيها وله عذاب مهين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن یَعۡصِ ٱللَّهَ وَرَسُولَهُۥ وَیَتَعَدَّ حُدُودَهُۥ یُدۡخِلۡهُ نَارًا خَـٰلِدࣰا فِیهَا وَلَهُۥ عَذَابࣱ مُّهِینࣱ
 
 | Details |  |

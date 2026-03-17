@@ -452,6 +452,18 @@ Falyanžuri Al-'Insānu 'Ilá Ţa'āmihi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلْيَنْظُرِ الْإِنْسَانُ إِلَى طَعَامِهِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلينظر الانسان الى طعامه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلۡیَنظُرِ ٱلۡإِنسَـٰنُ إِلَىٰ طَعَامِهِۦۤ
 
 | Details |  |

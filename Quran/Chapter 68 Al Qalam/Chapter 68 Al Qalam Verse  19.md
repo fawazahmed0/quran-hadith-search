@@ -452,6 +452,18 @@ Faţāfa 'Alayhā Ţā'ifun Min Rabbika Wa Hum Nā'imūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَطَافَ عَلَيْهَا طَائِفٌ مِنْ رَبِّكَ وَهُمْ نَائِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فطاف عليها طايف من ربك وهم نايمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَطَافَ عَلَیۡهَا طَاۤئِفࣱ مِّن رَّبِّكَ وَهُمۡ نَاۤئِمُونَ
 
 | Details |  |

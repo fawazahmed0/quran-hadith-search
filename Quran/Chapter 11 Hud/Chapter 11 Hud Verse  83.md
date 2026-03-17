@@ -452,6 +452,18 @@ Musawwamatan 'Inda Rabbika Wa Mā Hiya Mina Až-Žālimīna Biba'īdin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مُسَوَّمَةً عِنْدَ رَبِّكَ وَمَا هِيَ مِنَ الظَّالِمِينَ بِبَعِيدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+مسومة عند ربك وما هي من الظالمين ببعيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مُّسَوَّمَةً عِندَ رَبِّكَۖ وَمَا هِیَ مِنَ ٱلظَّـٰلِمِینَ بِبَعِیدࣲ
 
 | Details |  |

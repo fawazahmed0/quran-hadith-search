@@ -452,6 +452,18 @@ Falammā Ra'awhu Zulfatan Sī'at Wujūhu Al-Ladhīna Kafarū Wa Qīla Hādhā Al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا رَأَوْهُ زُلْفَةً سِيئَتْ وُجُوهُ الَّذِينَ كَفَرُوا وَقِيلَ هَذَا الَّذِي كُنْتُمْ بِهِ تَدَّعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما راوه زلفة سييت وجوه الذين كفروا وقيل هذا الذي كنتم به تدعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّا رَأَوۡهُ زُلۡفَةࣰ سِیۤءَتۡ وُجُوهُ ٱلَّذِینَ كَفَرُوا۟ وَقِیلَ هَـٰذَا ٱلَّذِی كُنتُم بِهِۦ تَدَّعُونَ
 
 | Details |  |

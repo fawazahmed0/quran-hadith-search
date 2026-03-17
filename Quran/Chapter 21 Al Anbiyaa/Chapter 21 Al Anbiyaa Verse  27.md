@@ -452,6 +452,18 @@ Lā Yasbiqūnahu Bil-Qawli Wa Hum Bi'amrihi Ya'malūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ بِأَمْرِهِ يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يسبقونه بالقول وهم بامره يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا یَسۡبِقُونَهُۥ بِٱلۡقَوۡلِ وَهُم بِأَمۡرِهِۦ یَعۡمَلُونَ
 
 | Details |  |

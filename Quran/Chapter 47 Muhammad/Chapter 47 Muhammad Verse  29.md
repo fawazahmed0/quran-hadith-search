@@ -452,6 +452,18 @@ Am Ĥasiba Al-Ladhīna Fī Qulūbihim Marađun 'An Lan Yukhrija Allāhu 'Ađghā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ حَسِبَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ أَنْ لَنْ يُخْرِجَ اللَّهُ أَضْغَانَهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام حسب الذين في قلوبهم مرض ان لن يخرج الله اضغانهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ حَسِبَ ٱلَّذِینَ فِی قُلُوبِهِم مَّرَضٌ أَن لَّن یُخۡرِجَ ٱللَّهُ أَضۡغَـٰنَهُمۡ
 
 | Details |  |

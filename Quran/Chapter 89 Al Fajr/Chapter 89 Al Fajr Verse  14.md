@@ -452,6 +452,18 @@ Inna Rabbaka Labiālmirşādi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ رَبَّكَ لَبِالْمِرْصَادِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان ربك لبالمرصاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ رَبَّكَ لَبِٱلۡمِرۡصَادِ
 
 | Details |  |

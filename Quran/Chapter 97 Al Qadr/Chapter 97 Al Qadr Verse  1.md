@@ -452,6 +452,18 @@ Innā 'Anzalnāhu Fī Laylati Al-Qadri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا انزلناه في ليلة القدر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّاۤ أَنزَلۡنَـٰهُ فِی لَیۡلَةِ ٱلۡقَدۡرِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Alayhā Tis'ata 'Ashara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَلَيْهَا تِسْعَةَ عَشَرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عليها تسعة عشر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَلَیۡهَا تِسۡعَةَ عَشَرَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Al-Ladhīna Yaj'alūna Ma'a Allāhi 'Ilahāan 'Ākhara Fasawfa Ya'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ يَجْعَلُونَ مَعَ اللَّهِ إِلَهًا آخَرَ فَسَوْفَ يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين يجعلون مع الله الها اخر فسوف يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ یَجۡعَلُونَ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَۚ فَسَوۡفَ یَعۡلَمُونَ
 
 | Details |  |

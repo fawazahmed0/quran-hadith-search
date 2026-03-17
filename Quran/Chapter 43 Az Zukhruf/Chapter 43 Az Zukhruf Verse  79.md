@@ -452,6 +452,18 @@ Am 'Abramū 'Amrāan Fa'innā Mubrimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ أَبْرَمُوا أَمْرًا فَإِنَّا مُبْرِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام ابرموا امرا فانا مبرمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ أَبۡرَمُوۤا۟ أَمۡرࣰا فَإِنَّا مُبۡرِمُونَ
 
 | Details |  |

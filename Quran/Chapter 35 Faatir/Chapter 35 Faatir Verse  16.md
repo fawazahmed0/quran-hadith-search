@@ -452,6 +452,18 @@ In Yasha' Yudh/hibkum Wa Ya'ti Bikhalqin Jadīdin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان يشا يذهبكم ويات بخلق جديد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِن یَشَأۡ یُذۡهِبۡكُمۡ وَیَأۡتِ بِخَلۡقࣲ جَدِیدࣲ
 
 | Details |  |

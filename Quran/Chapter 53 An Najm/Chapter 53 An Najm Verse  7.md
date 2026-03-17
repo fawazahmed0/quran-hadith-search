@@ -452,6 +452,18 @@ Wa Huwa Bil-'Ufuqi Al-'A'lá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُوَ بِالْأُفُقِ الْأَعْلَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهو بالافق الاعلى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُوَ بِٱلۡأُفُقِ ٱلۡأَعۡلَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fa'akhadhahu Allāhu Nakāla Al-'Ākhirati Wa Al-'Ūlá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاخذه الله نكال الاخرة والاولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلۡءَاخِرَةِ وَٱلۡأُولَىٰۤ
 
 | Details |  |

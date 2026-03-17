@@ -452,6 +452,18 @@ Khālidīna Fīhā Lā Yabghūna 'Anhā Ĥiwalāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خَالِدِينَ فِيهَا لَا يَبْغُونَ عَنْهَا حِوَلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خالدين فيها لا يبغون عنها حولا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خَـٰلِدِینَ فِیهَا لَا یَبۡغُونَ عَنۡهَا حِوَلࣰا
 
 | Details |  |

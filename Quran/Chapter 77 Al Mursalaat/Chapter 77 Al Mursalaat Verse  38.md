@@ -452,6 +452,18 @@ Hādhā Yawmu Al-Faşli Jama'nākum Wa Al-'Awwalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذَا يَوْمُ الْفَصْلِ جَمَعْنَاكُمْ وَالْأَوَّلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذا يوم الفصل جمعناكم والاولين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذَا یَوۡمُ ٱلۡفَصۡلِۖ جَمَعۡنَـٰكُمۡ وَٱلۡأَوَّلِینَ
 
 | Details |  |

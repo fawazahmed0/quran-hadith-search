@@ -452,6 +452,18 @@ Wa Kulū Mimmā Razaqakumu Allāhu Ĥalālāan Ţayyibāan Wa Attaqū Allāha Al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلَالًا طَيِّبًا وَاتَّقُوا اللَّهَ الَّذِي أَنْتُمْ بِهِ مُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكلوا مما رزقكم الله حلالا طيبا واتقوا الله الذي انتم به مومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَـٰلࣰا طَیِّبࣰاۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِیۤ أَنتُم بِهِۦ مُؤۡمِنُونَ
 
 | Details |  |

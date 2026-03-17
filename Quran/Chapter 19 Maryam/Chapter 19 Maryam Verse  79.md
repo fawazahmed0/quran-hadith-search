@@ -452,6 +452,18 @@ Kallā Sanaktubu Mā Yaqūlu Wa Namuddu Lahu Mina Al-'Adhābi Maddāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا سَنَكْتُبُ مَا يَقُولُ وَنَمُدُّ لَهُ مِنَ الْعَذَابِ مَدًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا سنكتب ما يقول ونمد له من العذاب مدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّاۚ سَنَكۡتُبُ مَا یَقُولُ وَنَمُدُّ لَهُۥ مِنَ ٱلۡعَذَابِ مَدࣰّا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Laqadi Astuhzi'a Birusulin Min Qablika Fa'amlaytu Lilladhīna Kafarū Thumma 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِنْ قَبْلِكَ فَأَمْلَيْتُ لِلَّذِينَ كَفَرُوا ثُمَّ أَخَذْتُهُمْ فَكَيْفَ كَانَ عِقَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد استهزي برسل من قبلك فامليت للذين كفروا ثم اخذتهم فكيف كان عقاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدِ ٱسۡتُهۡزِئَ بِرُسُلࣲ مِّن قَبۡلِكَ فَأَمۡلَیۡتُ لِلَّذِینَ كَفَرُوا۟ ثُمَّ أَخَذۡتُهُمۡۖ فَكَیۡفَ كَانَ عِقَابِ
 
 | Details |  |

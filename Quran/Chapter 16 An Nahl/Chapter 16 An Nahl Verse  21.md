@@ -452,6 +452,18 @@ Amwātun Ghayru 'Aĥyā'in Wa Mā Yash'urūna 'Ayyāna Yub'athūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْوَاتٌ غَيْرُ أَحْيَاءٍ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اموات غير احياء وما يشعرون ايان يبعثون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡوَ ٰتٌ غَیۡرُ أَحۡیَاۤءࣲۖ وَمَا یَشۡعُرُونَ أَیَّانَ یُبۡعَثُونَ
 
 | Details |  |

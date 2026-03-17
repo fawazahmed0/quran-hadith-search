@@ -452,6 +452,18 @@ Rabbanā 'Āmannā Bimā 'Anzalta Wa Attaba'nā Ar-Rasūla Fāktubnā Ma'a Ash-S
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبَّنَا آمَنَّا بِمَا أَنْزَلْتَ وَاتَّبَعْنَا الرَّسُولَ فَاكْتُبْنَا مَعَ الشَّاهِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ربنا امنا بما انزلت واتبعنا الرسول فاكتبنا مع الشاهدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَبَّنَاۤ ءَامَنَّا بِمَاۤ أَنزَلۡتَ وَٱتَّبَعۡنَا ٱلرَّسُولَ فَٱكۡتُبۡنَا مَعَ ٱلشَّـٰهِدِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Ayaţma'u Kullu Amri'in Minhum 'An Yudkhala Jannata Na'īmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَيَطْمَعُ كُلُّ امْرِئٍ مِنْهُمْ أَنْ يُدْخَلَ جَنَّةَ نَعِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ايطمع كل امري منهم ان يدخل جنة نعيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَیَطۡمَعُ كُلُّ ٱمۡرِئࣲ مِّنۡهُمۡ أَن یُدۡخَلَ جَنَّةَ نَعِیمࣲ
 
 | Details |  |

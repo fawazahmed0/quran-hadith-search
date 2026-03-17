@@ -452,6 +452,18 @@ Fīhā Fākihatun Wa An-Nakhlu Dhātu Al-'Akmāmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِيهَا فَاكِهَةٌ وَالنَّخْلُ ذَاتُ الْأَكْمَامِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيها فاكهة والنخل ذات الاكمام
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِیهَا فَـٰكِهَةࣱ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ
 
 | Details |  |

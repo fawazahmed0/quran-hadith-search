@@ -452,6 +452,18 @@ Adhalika Khayrun Nuzulāan 'Am Shajaratu Az-Zaqqūmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَذَلِكَ خَيْرٌ نُزُلًا أَمْ شَجَرَةُ الزَّقُّومِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذلك خير نزلا ام شجرة الزقوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَذَ ٰلِكَ خَیۡرࣱ نُّزُلًا أَمۡ شَجَرَةُ ٱلزَّقُّومِ
 
 | Details |  |

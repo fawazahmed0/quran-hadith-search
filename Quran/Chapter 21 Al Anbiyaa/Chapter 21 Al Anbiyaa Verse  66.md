@@ -452,6 +452,18 @@ Qāla 'Afata'budūna Min Dūni Allāhi Mā Lā Yanfa'ukum Shay'āan Wa Lā Yađu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ أَفَتَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَنْفَعُكُمْ شَيْئًا وَلَا يَضُرُّكُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال افتعبدون من دون الله ما لا ينفعكم شييا ولا يضركم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ أَفَتَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا یَنفَعُكُمۡ شَیۡءࣰا وَلَا یَضُرُّكُمۡ
 
 | Details |  |

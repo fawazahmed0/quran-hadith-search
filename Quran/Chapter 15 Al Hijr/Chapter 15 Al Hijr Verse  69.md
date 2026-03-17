@@ -452,6 +452,18 @@ Wa Attaqū Allāha Wa Lā Tukhzūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاتَّقُوا اللَّهَ وَلَا تُخْزُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتقوا الله ولا تخزون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخۡزُونِ
 
 | Details |  |

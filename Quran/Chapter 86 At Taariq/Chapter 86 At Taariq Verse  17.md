@@ -452,6 +452,18 @@ Famahhili Al-Kāfirīna 'Amhilhum Ruwaydāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فمهل الكافرين امهلهم رويدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَهِّلِ ٱلۡكَـٰفِرِینَ أَمۡهِلۡهُمۡ رُوَیۡدَۢا
 
 | Details |  |

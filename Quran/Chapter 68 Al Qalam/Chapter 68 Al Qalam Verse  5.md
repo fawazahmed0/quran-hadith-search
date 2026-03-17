@@ -452,6 +452,18 @@ Fasatubşiru Wa Yubşirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَسَتُبْصِرُ وَيُبْصِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فستبصر ويبصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَسَتُبۡصِرُ وَیُبۡصِرُونَ
 
 | Details |  |

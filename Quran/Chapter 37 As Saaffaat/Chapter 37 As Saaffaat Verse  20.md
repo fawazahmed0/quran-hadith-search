@@ -452,6 +452,18 @@ Wa Qālū Yā Waylanā Hādhā Yawmu Ad-Dīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا يَا وَيْلَنَا هَذَا يَوْمُ الدِّينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا يا ويلنا هذا يوم الدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ یَـٰوَیۡلَنَا هَـٰذَا یَوۡمُ ٱلدِّینِ
 
 | Details |  |

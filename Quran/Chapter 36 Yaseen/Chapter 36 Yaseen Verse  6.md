@@ -452,6 +452,18 @@ Litundhira Qawmāan Mā 'Undhira 'Ābā'uuhum Fahum Ghāfilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِتُنْذِرَ قَوْمًا مَا أُنْذِرَ آبَاؤُهُمْ فَهُمْ غَافِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لتنذر قوما ما انذر اباوهم فهم غافلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِتُنذِرَ قَوۡمࣰا مَّاۤ أُنذِرَ ءَابَاۤؤُهُمۡ فَهُمۡ غَـٰفِلُونَ
 
 | Details |  |

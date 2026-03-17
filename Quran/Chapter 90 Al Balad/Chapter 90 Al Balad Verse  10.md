@@ -452,6 +452,18 @@ Wa Hadaynāhu An-Najdayni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهَدَيْنَاهُ النَّجْدَيْنِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهديناه النجدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهَدَیۡنَـٰهُ ٱلنَّجۡدَیۡنِ
 
 | Details |  |

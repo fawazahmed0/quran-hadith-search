@@ -452,6 +452,18 @@ Yastabshirūna Bini'matin Mina Allāhi Wa Fađlin Wa 'Anna Allāha Lā Yuđī'u 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَسْتَبْشِرُونَ بِنِعْمَةٍ مِنَ اللَّهِ وَفَضْلٍ وَأَنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يستبشرون بنعمة من الله وفضل وان الله لا يضيع اجر المومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ یَسۡتَبۡشِرُونَ بِنِعۡمَةࣲ مِّنَ ٱللَّهِ وَفَضۡلࣲ وَأَنَّ ٱللَّهَ لَا یُضِیعُ أَجۡرَ ٱلۡمُؤۡمِنِینَ
 
 | Details |  |

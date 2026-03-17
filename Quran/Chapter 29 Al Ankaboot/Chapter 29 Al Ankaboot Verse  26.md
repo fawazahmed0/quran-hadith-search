@@ -452,6 +452,18 @@ Fa'āmana Lahu Lūţun Wa Qāla 'Innī Muhājirun 'Ilá Rabbī 'Innahu Huwa Al-'
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَآمَنَ لَهُ لُوطٌ وَقَالَ إِنِّي مُهَاجِرٌ إِلَى رَبِّي إِنَّهُ هُوَ الْعَزِيزُ الْحَكِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فامن له لوط وقال اني مهاجر الى ربي انه هو العزيز الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ فَءَامَنَ لَهُۥ لُوطࣱۘ وَقَالَ إِنِّی مُهَاجِرٌ إِلَىٰ رَبِّیۤۖ إِنَّهُۥ هُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
 
 | Details |  |

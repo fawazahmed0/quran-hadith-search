@@ -452,6 +452,18 @@ Wa 'Inna Lilladhīna Žalamū 'Adhābāan Dūna Dhālika Wa Lakinna 'Aktharahum 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ لِلَّذِينَ ظَلَمُوا عَذَابًا دُونَ ذَلِكَ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان للذين ظلموا عذابا دون ذلك ولكن اكثرهم لا يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ لِلَّذِینَ ظَلَمُوا۟ عَذَابࣰا دُونَ ذَ ٰلِكَ وَلَـٰكِنَّ أَكۡثَرَهُمۡ لَا یَعۡلَمُونَ
 
 | Details |  |

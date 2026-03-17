@@ -452,6 +452,18 @@ Wa Fī 'Anfusikum 'Afalā Tubşirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفِي أَنْفُسِكُمْ أَفَلَا تُبْصِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفي انفسكم افلا تبصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفِیۤ أَنفُسِكُمۡۚ أَفَلَا تُبۡصِرُونَ
 
 | Details |  |

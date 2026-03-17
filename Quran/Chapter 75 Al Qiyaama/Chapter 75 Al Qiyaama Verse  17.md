@@ -452,6 +452,18 @@ Inna 'Alaynā Jam'ahu Wa Qur'ānahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان علينا جمعه وقرانه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ عَلَیۡنَا جَمۡعَهُۥ وَقُرۡءَانَهُۥ
 
 | Details |  |

@@ -452,6 +452,18 @@ Aw Yuşbiĥa Mā'uuhā Ghawrāan Falan Tastaţī'a Lahu Ţalabāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْ يُصْبِحَ مَاؤُهَا غَوْرًا فَلَنْ تَسْتَطِيعَ لَهُ طَلَبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+او يصبح ماوها غورا فلن تستطيع له طلبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوۡ یُصۡبِحَ مَاۤؤُهَا غَوۡرࣰا فَلَن تَسۡتَطِیعَ لَهُۥ طَلَبࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Ka'ayyin Min Qaryatin Hiya 'Ashaddu Qūwatan Min Qaryatika Allatī 'Akhrajatk
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَأَيِّنْ مِنْ قَرْيَةٍ هِيَ أَشَدُّ قُوَّةً مِنْ قَرْيَتِكَ الَّتِي أَخْرَجَتْكَ أَهْلَكْنَاهُمْ فَلَا نَاصِرَ لَهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكاين من قرية هي اشد قوة من قريتك التي اخرجتك اهلكناهم فلا ناصر لهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَأَیِّن مِّن قَرۡیَةٍ هِیَ أَشَدُّ قُوَّةࣰ مِّن قَرۡیَتِكَ ٱلَّتِیۤ أَخۡرَجَتۡكَ أَهۡلَكۡنَـٰهُمۡ فَلَا نَاصِرَ لَهُمۡ
 
 | Details |  |

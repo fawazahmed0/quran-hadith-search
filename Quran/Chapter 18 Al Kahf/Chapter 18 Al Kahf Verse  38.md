@@ -452,6 +452,18 @@ Lakinnā Huwa Allāhu Rabbī Wa Lā 'Ushriku Birabbī 'Aĥadāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَكِنَّا هُوَ اللَّهُ رَبِّي وَلَا أُشْرِكُ بِرَبِّي أَحَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لكنا هو الله ربي ولا اشرك بربي احدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّـٰكِنَّا۠ هُوَ ٱللَّهُ رَبِّی وَلَاۤ أُشۡرِكُ بِرَبِّیۤ أَحَدࣰا
 
 | Details |  |

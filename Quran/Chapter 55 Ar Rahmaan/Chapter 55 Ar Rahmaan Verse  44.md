@@ -452,6 +452,18 @@ Yaţūfūna Baynahā Wa Bayna Ĥamīmin 'Ānin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ آنٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يطوفون بينها وبين حميم ان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَطُوفُونَ بَیۡنَهَا وَبَیۡنَ حَمِیمٍ ءَانࣲ
 
 | Details |  |

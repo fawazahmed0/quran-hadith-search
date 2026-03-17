@@ -452,6 +452,18 @@ Wa Amtāzū Al-Yawma 'Ayyuhā Al-Mujrimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وامتازوا اليوم ايها المجرمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱمۡتَـٰزُوا۟ ٱلۡیَوۡمَ أَیُّهَا ٱلۡمُجۡرِمُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Tanzīlun Min Rabbi Al-'Ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تنزيل من رب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَنزِیلࣱ مِّن رَّبِّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

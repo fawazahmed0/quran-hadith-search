@@ -452,6 +452,18 @@ Fa'aqbala Ba'đuhum 'Alá Ba'đin Yatalāwamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَقْبَلَ بَعْضُهُمْ عَلَى بَعْضٍ يَتَلَاوَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاقبل بعضهم على بعض يتلاومون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضࣲ یَتَلَـٰوَمُونَ
 
 | Details |  |

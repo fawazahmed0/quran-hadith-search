@@ -452,6 +452,18 @@ Wa Thiyābaka Faţahhir
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَثِيَابَكَ فَطَهِّرْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وثيابك فطهر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَثِیَابَكَ فَطَهِّرۡ
 
 | Details |  |

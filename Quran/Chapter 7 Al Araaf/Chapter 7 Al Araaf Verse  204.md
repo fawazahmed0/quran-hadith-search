@@ -452,6 +452,18 @@ Wa 'Idhā Quri'a Al-Qur'ānu Fāstami'ū Lahu Wa 'Anşitū La'allakum Turĥamūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا قُرِئَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنْصِتُوا لَعَلَّكُمْ تُرْحَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا قري القران فاستمعوا له وانصتوا لعلكم ترحمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا قُرِئَ ٱلۡقُرۡءَانُ فَٱسۡتَمِعُوا۟ لَهُۥ وَأَنصِتُوا۟ لَعَلَّكُمۡ تُرۡحَمُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Al-Ladhīna Kafarū Bi'āyātinā Hum 'Aşĥābu Al-Mash'amahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين كفروا باياتنا هم اصحاب المشامة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ كَفَرُوا۟ بِءَایَـٰتِنَا هُمۡ أَصۡحَـٰبُ ٱلۡمَشۡءَمَةِ
 
 | Details |  |

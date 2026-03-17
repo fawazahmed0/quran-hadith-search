@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي هُرَيْرَةَ عَبْدِ الرَّحْمَنِ بْنِ صَخْرٍ رَضِيَ اللهُ عَنْهُ قَالَ: سَمِعْت رَسُولَ اللَّهِ صلى الله عليه و سلم يَقُولُ: مَا نَهَيْتُكُمْ عَنْهُ فَاجْتَنِبُوهُ، وَمَا أَمَرْتُكُمْ بِهِ فَأْتُوا مِنْهُ مَا اسْتَطَعْتُمْ، فَإِنَّمَا أَهْلَكَ الَّذِينَ مِنْ قَبْلِكُمْ كَثْرَةُ مَسَائِلِهِمْ وَاخْتِلَافُهُمْ عَلَى أَنْبِيَائِهِمْ .(br)\[رَوَاهُ الْبُخَارِيُّ\] ،\[وَمُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of Abu Hurayrah (ra): I heard the Messenger of Allah (ﷺ) say,
 ## French
 
 Selon Abou Hourayra (qu’Allah l’agrée) : J’ai entendu le Messager d’Allah (ﷺ) dire : « Ce que je vous ai interdit, évitez-le. Ce que je vous ai ordonné, faites-en autant que vous le pouvez. En vérité, c’est l’excès de questions et les désaccords avec leurs prophètes qui ont causé la perte des communautés précédentes. » \[Boukhari & Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 9 |
+| Arabic No | 9 |
+| Reference | Book 1 Hadith 9 |
+
+## Turkish
+
+Ebu Hureyre (ra) anlatıyor: Resulullah'ın (ﷺ) şöyle buyurduğunu işittim: "Size neyi yasakladıysam ondan kaçının, neyi emrettiysem de gücünüz yettiği ölçüde onu yapın. Sizden öncekileri ancak çok soru sormaları ve peygamberlerine karşı olan ihtilafları helak etmiştir." \[Buhari ve Müslim\]
 
 | References: |  |
 | --- | --- |

@@ -452,6 +452,18 @@ Fa'ammā Al-Ladhīna Shaqū Fafī An-Nāri Lahum Fīhā Zafīrun Wa Shahīqun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَمَّا الَّذِينَ شَقُوا فَفِي النَّارِ لَهُمْ فِيهَا زَفِيرٌ وَشَهِيقٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاما الذين شقوا ففي النار لهم فيها زفير وشهيق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَمَّا ٱلَّذِینَ شَقُوا۟ فَفِی ٱلنَّارِ لَهُمۡ فِیهَا زَفِیرࣱ وَشَهِیقٌ
 
 | Details |  |

@@ -452,6 +452,18 @@ Natlū 'Alayka Min Naba'i Mūsá Wa Fir'awna Bil-Ĥaqqi Liqawmin Yu'uminūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نَتْلُو عَلَيْكَ مِنْ نَبَإِ مُوسَى وَفِرْعَوْنَ بِالْحَقِّ لِقَوْمٍ يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نتلو عليك من نبا موسى وفرعون بالحق لقوم يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نَتۡلُوا۟ عَلَیۡكَ مِن نَّبَإِ مُوسَىٰ وَفِرۡعَوۡنَ بِٱلۡحَقِّ لِقَوۡمࣲ یُؤۡمِنُونَ
 
 | Details |  |

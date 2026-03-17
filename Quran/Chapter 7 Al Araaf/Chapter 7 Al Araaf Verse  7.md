@@ -452,6 +452,18 @@ Falanaquşşanna 'Alayhim Bi'ilmin Wa Mā Kunnā Ghā'ibīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَنَقُصَّنَّ عَلَيْهِمْ بِعِلْمٍ وَمَا كُنَّا غَائِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلنقصن عليهم بعلم وما كنا غايبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَنَقُصَّنَّ عَلَیۡهِم بِعِلۡمࣲۖ وَمَا كُنَّا غَاۤئِبِینَ
 
 | Details |  |

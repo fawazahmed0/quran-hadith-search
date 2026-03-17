@@ -452,6 +452,18 @@ Alam Takun 'Āyātī Tutlá 'Alaykum Fakuntum Bihā Tukadhibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ تَكُنْ آيَاتِي تُتْلَى عَلَيْكُمْ فَكُنْتُمْ بِهَا تُكَذِّبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم تكن اياتي تتلى عليكم فكنتم بها تكذبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ تَكُنۡ ءَایَـٰتِی تُتۡلَىٰ عَلَیۡكُمۡ فَكُنتُم بِهَا تُكَذِّبُونَ
 
 | Details |  |

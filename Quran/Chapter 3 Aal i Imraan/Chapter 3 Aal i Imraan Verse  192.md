@@ -452,6 +452,18 @@ Rabbanā 'Innaka Man Tudkhili An-Nāra Faqad 'Akhzaytahu Wa Mā Lilžžālimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبَّنَا إِنَّكَ مَنْ تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُ وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ربنا انك من تدخل النار فقد اخزيته وما للظالمين من انصار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَبَّنَاۤ إِنَّكَ مَن تُدۡخِلِ ٱلنَّارَ فَقَدۡ أَخۡزَیۡتَهُۥۖ وَمَا لِلظَّـٰلِمِینَ مِنۡ أَنصَارࣲ
 
 | Details |  |

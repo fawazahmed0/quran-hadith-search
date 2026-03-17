@@ -452,6 +452,18 @@ Illā Man Raĥima Allāhu 'Innahu Huwa Al-'Azīzu Ar-Raĥīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا مَنْ رَحِمَ اللَّهُ إِنَّهُ هُوَ الْعَزِيزُ الرَّحِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا من رحم الله انه هو العزيز الرحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا مَن رَّحِمَ ٱللَّهُۚ إِنَّهُۥ هُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fa'innaka Lā Tusmi'u Al-Mawtá Wa Lā Tusmi'u Aş-Şumma Ad-Du'ā'a 'Idhā Wa L
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنَّكَ لَا تُسْمِعُ الْمَوْتَى وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانك لا تسمع الموتى ولا تسمع الصم الدعاء اذا ولوا مدبرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِنَّكَ لَا تُسۡمِعُ ٱلۡمَوۡتَىٰ وَلَا تُسۡمِعُ ٱلصُّمَّ ٱلدُّعَاۤءَ إِذَا وَلَّوۡا۟ مُدۡبِرِینَ
 
 | Details |  |

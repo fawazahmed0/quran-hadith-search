@@ -452,6 +452,18 @@ Tal'uha Ka'annahu Ru'usu Ash-Shayatini
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+طَلْعُهَا كَأَنَّهُ رُءُوسُ الشَّيَاطِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+طلعها كانه رءوس الشياطين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 طَلۡعُهَا كَأَنَّهُۥ رُءُوسُ ٱلشَّیَـٰطِینِ
 
 | Details |  |

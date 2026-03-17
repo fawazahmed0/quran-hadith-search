@@ -452,6 +452,18 @@ Ya'tūka Bikulli Saĥĥārin 'Alīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَأْتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ياتوك بكل سحار عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَأۡتُوكَ بِكُلِّ سَحَّارٍ عَلِیمࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Indahā Jannatu Al-Ma'wá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عِنْدَهَا جَنَّةُ الْمَأْوَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عندها جنة الماوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عِندَهَا جَنَّةُ ٱلۡمَأۡوَىٰۤ
 
 | Details |  |

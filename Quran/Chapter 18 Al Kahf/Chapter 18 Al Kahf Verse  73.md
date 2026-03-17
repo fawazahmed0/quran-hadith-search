@@ -452,6 +452,18 @@ Qāla Lā Tu'uākhidhnī Bimā Nasītu Wa Lā Turhiqnī Min 'Amrī 'Usrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ لَا تُؤَاخِذْنِي بِمَا نَسِيتُ وَلَا تُرْهِقْنِي مِنْ أَمْرِي عُسْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال لا تواخذني بما نسيت ولا ترهقني من امري عسرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ لَا تُؤَاخِذۡنِی بِمَا نَسِیتُ وَلَا تُرۡهِقۡنِی مِنۡ أَمۡرِی عُسۡرࣰا
 
 | Details |  |

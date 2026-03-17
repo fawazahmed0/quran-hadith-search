@@ -452,6 +452,18 @@ Huwa Al-Ladhī Yurīkumu Al-Barqa Khawfāan Wa Ţama'āan Wa Yunshi'u As-Saĥāb
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُوَ الَّذِي يُرِيكُمُ الْبَرْقَ خَوْفًا وَطَمَعًا وَيُنْشِئُ السَّحَابَ الثِّقَالَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هو الذي يريكم البرق خوفا وطمعا وينشي السحاب الثقال
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُوَ ٱلَّذِی یُرِیكُمُ ٱلۡبَرۡقَ خَوۡفࣰا وَطَمَعࣰا وَیُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Fī Khalqikum Wa Mā Yabuththu Min Dābbatin 'Āyātun Liqawmin Yūqinūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفِي خَلْقِكُمْ وَمَا يَبُثُّ مِنْ دَابَّةٍ آيَاتٌ لِقَوْمٍ يُوقِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفي خلقكم وما يبث من دابة ايات لقوم يوقنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفِی خَلۡقِكُمۡ وَمَا یَبُثُّ مِن دَاۤبَّةٍ ءَایَـٰتࣱ لِّقَوۡمࣲ یُوقِنُونَ
 
 | Details |  |

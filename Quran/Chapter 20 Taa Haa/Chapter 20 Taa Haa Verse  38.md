@@ -452,6 +452,18 @@ Idh 'Awĥaynā 'Ilá 'Ummika Mā Yūĥá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ أَوْحَيْنَا إِلَى أُمِّكَ مَا يُوحَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ اوحينا الى امك ما يوحى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ أَوۡحَیۡنَاۤ إِلَىٰۤ أُمِّكَ مَا یُوحَىٰۤ
 
 | Details |  |

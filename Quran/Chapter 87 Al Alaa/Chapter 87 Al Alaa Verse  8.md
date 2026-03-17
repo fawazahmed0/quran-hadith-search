@@ -452,6 +452,18 @@ Wa Nuyassiruka Lilyusrá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنُيَسِّرُكَ لِلْيُسْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونيسرك لليسرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنُیَسِّرُكَ لِلۡیُسۡرَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Dhālika Bi'anna Allāha Huwa Al-Ĥaqqu Wa 'Annahu Yuĥyī Al-Mawtá Wa 'Annahu 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّهُ يُحْيِي الْمَوْتَى وَأَنَّهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك بان الله هو الحق وانه يحيي الموتى وانه على كل شيء قدير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ وَأَنَّهُۥ یُحۡیِ ٱلۡمَوۡتَىٰ وَأَنَّهُۥ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرࣱ
 
 | Details |  |

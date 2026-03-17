@@ -452,6 +452,18 @@ Wa 'Annahu Huwa 'Aghná Wa 'Aqná
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّهُ هُوَ أَغْنَى وَأَقْنَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه هو اغنى واقنى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّهُۥ هُوَ أَغۡنَىٰ وَأَقۡنَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Idfa' Bi-Atī Hiya 'Aĥsanu As-Sayyi'ata Naĥnu 'A'lamu Bimā Yaşifūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ السَّيِّئَةَ نَحْنُ أَعْلَمُ بِمَا يَصِفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ادفع بالتي هي احسن السيية نحن اعلم بما يصفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱدۡفَعۡ بِٱلَّتِی هِیَ أَحۡسَنُ ٱلسَّیِّئَةَۚ نَحۡنُ أَعۡلَمُ بِمَا یَصِفُونَ
 
 | Details |  |

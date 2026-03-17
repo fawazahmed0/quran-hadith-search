@@ -452,6 +452,18 @@ Wa Jā'at Kullu Nafsin Ma'ahā Sā'iqun Wa Shahīdun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَاءَتْ كُلُّ نَفْسٍ مَعَهَا سَائِقٌ وَشَهِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجاءت كل نفس معها سايق وشهيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَاۤءَتۡ كُلُّ نَفۡسࣲ مَّعَهَا سَاۤئِقࣱ وَشَهِیدࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Minhum 'Ummīyūna Lā Ya'lamūna Al-Kitāba 'Illā 'Amānīya Wa 'In Hum 'Il
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ الْكِتَابَ إِلَّا أَمَانِيَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومنهم اميون لا يعلمون الكتاب الا اماني وان هم الا يظنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِنۡهُمۡ أُمِّیُّونَ لَا یَعۡلَمُونَ ٱلۡكِتَـٰبَ إِلَّاۤ أَمَانِیَّ وَإِنۡ هُمۡ إِلَّا یَظُنُّونَ
 
 | Details |  |

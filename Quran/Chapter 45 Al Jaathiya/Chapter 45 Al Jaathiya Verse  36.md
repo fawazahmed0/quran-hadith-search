@@ -452,6 +452,18 @@ Falillāhi Al-Ĥamdu Rabbi As-Samāwāti Wa Rabbi Al-'Arđi Rabbi Al-'Ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلِلَّهِ الْحَمْدُ رَبِّ السَّمَاوَاتِ وَرَبِّ الْأَرْضِ رَبِّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلله الحمد رب السماوات ورب الارض رب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلِلَّهِ ٱلۡحَمۡدُ رَبِّ ٱلسَّمَـٰوَ ٰتِ وَرَبِّ ٱلۡأَرۡضِ رَبِّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

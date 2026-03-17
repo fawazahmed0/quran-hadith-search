@@ -452,6 +452,18 @@ Wa Lahadaynāhum Şirāţāan Mustaqīmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَهَدَيْنَاهُمْ صِرَاطًا مُسْتَقِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولهديناهم صراطا مستقيما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَهَدَیۡنَـٰهُمۡ صِرَ ٰطࣰا مُّسۡتَقِیمࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Āyatun Lahumu Al-'Arđu Al-Maytatu 'Aĥyaynāhā Wa 'Akhrajnā Minhā Ĥabb
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَآيَةٌ لَهُمُ الْأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واية لهم الارض الميتة احييناها واخرجنا منها حبا فمنه ياكلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَءَایَةࣱ لَّهُمُ ٱلۡأَرۡضُ ٱلۡمَیۡتَةُ أَحۡیَیۡنَـٰهَا وَأَخۡرَجۡنَا مِنۡهَا حَبࣰّا فَمِنۡهُ یَأۡكُلُونَ
 
 | Details |  |

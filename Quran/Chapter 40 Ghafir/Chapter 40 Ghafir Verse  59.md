@@ -452,6 +452,18 @@ Inna As-Sā'ata La'ātiyatun Lā Rayba Fīhā Wa Lakinna 'Akthara An-Nāsi Lā Y
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ السَّاعَةَ لَآتِيَةٌ لَا رَيْبَ فِيهَا وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الساعة لاتية لا ريب فيها ولكن اكثر الناس لا يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلسَّاعَةَ لَءَاتِیَةࣱ لَّا رَیۡبَ فِیهَا وَلَـٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا یُؤۡمِنُونَ
 
 | Details |  |

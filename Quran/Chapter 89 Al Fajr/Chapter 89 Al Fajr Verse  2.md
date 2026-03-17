@@ -452,6 +452,18 @@ Wa Layālin 'Ashrin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَيَالٍ عَشْرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وليال عشر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَیَالٍ عَشۡرࣲ
 
 | Details |  |

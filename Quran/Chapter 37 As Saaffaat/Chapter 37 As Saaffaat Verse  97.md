@@ -452,6 +452,18 @@ Qālū Abnū Lahu Bunyānāan Fa'alqūhu Fī Al-Jaĥīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا ابْنُوا لَهُ بُنْيَانًا فَأَلْقُوهُ فِي الْجَحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا ابنوا له بنيانا فالقوه في الجحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ ٱبۡنُوا۟ لَهُۥ بُنۡیَـٰنࣰا فَأَلۡقُوهُ فِی ٱلۡجَحِیمِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Ni'matan Min 'Indinā Kadhālika Najzī Man Shakara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نِعْمَةً مِنْ عِنْدِنَا كَذَلِكَ نَجْزِي مَنْ شَكَرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نعمة من عندنا كذلك نجزي من شكر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نِّعۡمَةࣰ مِّنۡ عِندِنَاۚ كَذَ ٰلِكَ نَجۡزِی مَن شَكَرَ
 
 | Details |  |

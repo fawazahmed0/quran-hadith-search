@@ -452,6 +452,18 @@ Fatawakkal 'Alá Allāhi 'Innaka 'Alá Al-Ĥaqqi Al-Mubīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَتَوَكَّلْ عَلَى اللَّهِ إِنَّكَ عَلَى الْحَقِّ الْمُبِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فتوكل على الله انك على الحق المبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَتَوَكَّلۡ عَلَى ٱللَّهِۖ إِنَّكَ عَلَى ٱلۡحَقِّ ٱلۡمُبِینِ
 
 | Details |  |

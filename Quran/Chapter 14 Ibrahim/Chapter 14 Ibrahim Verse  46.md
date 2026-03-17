@@ -452,6 +452,18 @@ Wa Qad Makarū Makrahum Wa 'Inda Allāhi Makruhum Wa 'In Kāna Makruhum Litazūl
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَدْ مَكَرُوا مَكْرَهُمْ وَعِنْدَ اللَّهِ مَكْرُهُمْ وَإِنْ كَانَ مَكْرُهُمْ لِتَزُولَ مِنْهُ الْجِبَالُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقد مكروا مكرهم وعند الله مكرهم وان كان مكرهم لتزول منه الجبال
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَدۡ مَكَرُوا۟ مَكۡرَهُمۡ وَعِندَ ٱللَّهِ مَكۡرُهُمۡ وَإِن كَانَ مَكۡرُهُمۡ لِتَزُولَ مِنۡهُ ٱلۡجِبَالُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Lā Tará Fīhā 'Iwajāan Wa Lā 'Amtāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا تَرَى فِيهَا عِوَجًا وَلَا أَمْتًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا ترى فيها عوجا ولا امتا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا تَرَىٰ فِیهَا عِوَجࣰا وَلَاۤ أَمۡتࣰا
 
 | Details |  |

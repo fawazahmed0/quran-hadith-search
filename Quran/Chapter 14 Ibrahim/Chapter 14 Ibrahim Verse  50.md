@@ -452,6 +452,18 @@ Sarābīluhum Min Qaţirānin Wa Taghshá Wujūhahumu An-Nāru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَرَابِيلُهُمْ مِنْ قَطِرَانٍ وَتَغْشَى وُجُوهَهُمُ النَّارُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سرابيلهم من قطران وتغشى وجوههم النار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَرَابِیلُهُم مِّن قَطِرَانࣲ وَتَغۡشَىٰ وُجُوهَهُمُ ٱلنَّارُ
 
 | Details |  |

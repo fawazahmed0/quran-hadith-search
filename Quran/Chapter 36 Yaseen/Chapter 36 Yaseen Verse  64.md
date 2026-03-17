@@ -452,6 +452,18 @@ Aşlawhā Al-Yawma Bimā Kuntum Takfurūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اصْلَوْهَا الْيَوْمَ بِمَا كُنْتُمْ تَكْفُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اصلوها اليوم بما كنتم تكفرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱصۡلَوۡهَا ٱلۡیَوۡمَ بِمَا كُنتُمۡ تَكۡفُرُونَ
 
 | Details |  |

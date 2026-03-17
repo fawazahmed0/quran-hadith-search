@@ -452,6 +452,18 @@ Mina Al-Jinnati Wa An-Nāsi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مِنَ الْجِنَّةِ وَالنَّاسِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من الجنة والناس
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ
 
 | Details |  |

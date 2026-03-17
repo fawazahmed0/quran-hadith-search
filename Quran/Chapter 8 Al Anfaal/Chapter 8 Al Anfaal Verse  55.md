@@ -452,6 +452,18 @@ Inna Sharra Ad-Dawābbi 'Inda Allāhi Al-Ladhīna Kafarū Fahum Lā Yu'uminūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الَّذِينَ كَفَرُوا فَهُمْ لَا يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان شر الدواب عند الله الذين كفروا فهم لا يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلَّذِینَ كَفَرُوا۟ فَهُمۡ لَا یُؤۡمِنُونَ
 
 | Details |  |

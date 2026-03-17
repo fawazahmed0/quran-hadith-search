@@ -452,6 +452,18 @@ Al-Ladhīna 'Āmanū Wa Taţma'innu Qulūbuhum Bidhikri Allāhi 'Alā Bidhikri A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ اللَّهِ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين امنوا وتطمين قلوبهم بذكر الله الا بذكر الله تطمين القلوب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ ءَامَنُوا۟ وَتَطۡمَئِنُّ قُلُوبُهُم بِذِكۡرِ ٱللَّهِۗ أَلَا بِذِكۡرِ ٱللَّهِ تَطۡمَئِنُّ ٱلۡقُلُوبُ
 
 | Details |  |

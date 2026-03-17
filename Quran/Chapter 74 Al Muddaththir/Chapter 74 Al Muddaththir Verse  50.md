@@ -452,6 +452,18 @@ Ka'annahum Ĥumurun Mustanfirahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَأَنَّهُمْ حُمُرٌ مُسْتَنْفِرَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كانهم حمر مستنفرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَأَنَّهُمۡ حُمُرࣱ مُّسۡتَنفِرَةࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Innā Zayyannā As-Samā'a Ad-Dunyā Bizīnatin Al-Kawākib
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا زينا السماء الدنيا بزينة الكواكب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا زَیَّنَّا ٱلسَّمَاۤءَ ٱلدُّنۡیَا بِزِینَةٍ ٱلۡكَوَاكِبِ
 
 | Details |  |

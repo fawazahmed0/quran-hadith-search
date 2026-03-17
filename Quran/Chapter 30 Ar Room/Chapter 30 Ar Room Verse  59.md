@@ -452,6 +452,18 @@ Kadhālika Yaţba'u Allāhu 'Alá Qulūbi Al-Ladhīna Lā Ya'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَلِكَ يَطْبَعُ اللَّهُ عَلَى قُلُوبِ الَّذِينَ لَا يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذلك يطبع الله على قلوب الذين لا يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَ ٰلِكَ یَطۡبَعُ ٱللَّهُ عَلَىٰ قُلُوبِ ٱلَّذِینَ لَا یَعۡلَمُونَ
 
 | Details |  |

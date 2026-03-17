@@ -452,6 +452,18 @@ Wa Waqa'a Al-Qawlu 'Alayhim Bimā Žalamū Fahum Lā Yanţiqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَوَقَعَ الْقَوْلُ عَلَيْهِمْ بِمَا ظَلَمُوا فَهُمْ لَا يَنْطِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ووقع القول عليهم بما ظلموا فهم لا ينطقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَوَقَعَ ٱلۡقَوۡلُ عَلَیۡهِم بِمَا ظَلَمُوا۟ فَهُمۡ لَا یَنطِقُونَ
 
 | Details |  |

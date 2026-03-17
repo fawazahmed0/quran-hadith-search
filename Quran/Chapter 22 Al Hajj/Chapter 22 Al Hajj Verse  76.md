@@ -452,6 +452,18 @@ Ya'lamu Mā Bayna 'Aydīhim Wa Mā Khalfahum Wa 'Ilá Allāhi Turja'u Al-'Umūru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يعلم ما بين ايديهم وما خلفهم والى الله ترجع الامور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَعۡلَمُ مَا بَیۡنَ أَیۡدِیهِمۡ وَمَا خَلۡفَهُمۡۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ
 
 | Details |  |

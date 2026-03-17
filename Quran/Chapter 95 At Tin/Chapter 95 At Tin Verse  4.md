@@ -452,6 +452,18 @@ Laqad Khalaqnā Al-'Insāna Fī 'Aĥsani Taqwīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لقد خلقنا الانسان في احسن تقويم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَقَدۡ خَلَقۡنَا ٱلۡإِنسَـٰنَ فِیۤ أَحۡسَنِ تَقۡوِیمࣲ
 
 | Details |  |

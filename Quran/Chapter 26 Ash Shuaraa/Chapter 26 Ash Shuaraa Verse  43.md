@@ -452,6 +452,18 @@ Qāla Lahum Mūsá 'Alqū Mā 'Antum Mulqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ لَهُمْ مُوسَى أَلْقُوا مَا أَنْتُمْ مُلْقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال لهم موسى القوا ما انتم ملقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ لَهُم مُّوسَىٰۤ أَلۡقُوا۟ مَاۤ أَنتُم مُّلۡقُونَ
 
 | Details |  |

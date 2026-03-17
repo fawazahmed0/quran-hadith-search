@@ -452,6 +452,18 @@ Qul Sīrū Fī Al-'Arđi Fānžurū Kayfa Kāna 'Āqibatu Al-Mujrimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ سِيرُوا فِي الْأَرْضِ فَانْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُجْرِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل سيروا في الارض فانظروا كيف كان عاقبة المجرمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ سِیرُوا۟ فِی ٱلۡأَرۡضِ فَٱنظُرُوا۟ كَیۡفَ كَانَ عَـٰقِبَةُ ٱلۡمُجۡرِمِینَ
 
 | Details |  |

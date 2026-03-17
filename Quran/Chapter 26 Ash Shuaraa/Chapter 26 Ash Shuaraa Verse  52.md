@@ -452,6 +452,18 @@ Wa 'Awĥaynā 'Ilá Mūsá 'An 'Asri Bi'ibādī 'Innakum Muttaba'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَوْحَيْنَا إِلَى مُوسَى أَنْ أَسْرِ بِعِبَادِي إِنَّكُمْ مُتَّبَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واوحينا الى موسى ان اسر بعبادي انكم متبعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَأَوۡحَیۡنَاۤ إِلَىٰ مُوسَىٰۤ أَنۡ أَسۡرِ بِعِبَادِیۤ إِنَّكُم مُّتَّبَعُونَ
 
 | Details |  |

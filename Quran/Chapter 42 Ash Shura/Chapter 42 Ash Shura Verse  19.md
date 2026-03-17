@@ -452,6 +452,18 @@ Allāhu Laţīfun Bi'ibādihi Yarzuqu Man Yashā'u Wa Huwa Al-Qawīyu Al-'Azīzu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اللَّهُ لَطِيفٌ بِعِبَادِهِ يَرْزُقُ مَنْ يَشَاءُ وَهُوَ الْقَوِيُّ الْعَزِيزُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الله لطيف بعباده يرزق من يشاء وهو القوي العزيز
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱللَّهُ لَطِیفُۢ بِعِبَادِهِۦ یَرۡزُقُ مَن یَشَاۤءُۖ وَهُوَ ٱلۡقَوِیُّ ٱلۡعَزِیزُ
 
 | Details |  |

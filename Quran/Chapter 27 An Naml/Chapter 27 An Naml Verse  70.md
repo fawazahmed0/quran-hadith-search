@@ -452,6 +452,18 @@ Wa Lā Taĥzan 'Alayhim Wa Lā Takun Fī Đayqin Mimmā Yamkurūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُنْ فِي ضَيْقٍ مِمَّا يَمْكُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تحزن عليهم ولا تكن في ضيق مما يمكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تَحۡزَنۡ عَلَیۡهِمۡ وَلَا تَكُن فِی ضَیۡقࣲ مِّمَّا یَمۡكُرُونَ
 
 | Details |  |

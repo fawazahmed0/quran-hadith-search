@@ -452,6 +452,18 @@ Hādhā Mā Tū'adūna Likulli 'Awwābin Ĥafīžin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذا ما توعدون لكل اواب حفيظ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِیظࣲ
 
 | Details |  |

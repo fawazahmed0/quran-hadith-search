@@ -452,6 +452,18 @@ An Lā Ta'budū 'Illā Allāha 'Innī 'Akhāfu 'Alaykum 'Adhāba Yawmin 'Alīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَنْ لَا تَعْبُدُوا إِلَّا اللَّهَ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ أَلِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان لا تعبدوا الا الله اني اخاف عليكم عذاب يوم اليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَن لَّا تَعۡبُدُوۤا۟ إِلَّا ٱللَّهَۖ إِنِّیۤ أَخَافُ عَلَیۡكُمۡ عَذَابَ یَوۡمٍ أَلِیمࣲ
 
 | Details |  |

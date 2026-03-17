@@ -452,6 +452,18 @@ Qāla Lilmala'i Ĥawlahu 'Inna Hādhā Lasāĥirun 'Alīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ لِلْمَلَإِ حَوْلَهُ إِنَّ هَذَا لَسَاحِرٌ عَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال للملا حوله ان هذا لساحر عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ لِلۡمَلَإِ حَوۡلَهُۥۤ إِنَّ هَـٰذَا لَسَـٰحِرٌ عَلِیمࣱ
 
 | Details |  |

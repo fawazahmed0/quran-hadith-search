@@ -452,6 +452,18 @@ Fa'idhā Sawwaytuhu Wa Nafakhtu Fīhi Min Rūĥī Faqa'ū Lahu Sājidīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِنْ رُوحِي فَقَعُوا لَهُ سَاجِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاذا سويته ونفخت فيه من روحي فقعوا له ساجدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِذَا سَوَّیۡتُهُۥ وَنَفَخۡتُ فِیهِ مِن رُّوحِی فَقَعُوا۟ لَهُۥ سَـٰجِدِینَ
 
 | Details |  |

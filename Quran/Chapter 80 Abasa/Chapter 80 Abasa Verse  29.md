@@ -452,6 +452,18 @@ Wa Zaytūnāan Wa Nakhlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَزَيْتُونًا وَنَخْلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وزيتونا ونخلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَزَیۡتُونࣰا وَنَخۡلࣰا
 
 | Details |  |

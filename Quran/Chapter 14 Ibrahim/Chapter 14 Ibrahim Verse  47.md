@@ -452,6 +452,18 @@ Falā Taĥsabanna Allāha Mukhlifa Wa'dihi Rusulahu 'Inna Allāha 'Azīzun Dhū 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَا تَحْسَبَنَّ اللَّهَ مُخْلِفَ وَعْدِهِ رُسُلَهُ إِنَّ اللَّهَ عَزِيزٌ ذُو انْتِقَامٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلا تحسبن الله مخلف وعده رسله ان الله عزيز ذو انتقام
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَا تَحۡسَبَنَّ ٱللَّهَ مُخۡلِفَ وَعۡدِهِۦ رُسُلَهُۥۤۚ إِنَّ ٱللَّهَ عَزِیزࣱ ذُو ٱنتِقَامࣲ
 
 | Details |  |

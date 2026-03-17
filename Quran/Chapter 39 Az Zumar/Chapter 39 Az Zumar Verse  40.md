@@ -452,6 +452,18 @@ Man Ya'tīhi 'Adhābun Yukhzīhi Wa Yaĥillu 'Alayhi 'Adhābun Muqīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَنْ يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُقِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من ياتيه عذاب يخزيه ويحل عليه عذاب مقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَن یَأۡتِیهِ عَذَابࣱ یُخۡزِیهِ وَیَحِلُّ عَلَیۡهِ عَذَابࣱ مُّقِیمٌ
 
 | Details |  |

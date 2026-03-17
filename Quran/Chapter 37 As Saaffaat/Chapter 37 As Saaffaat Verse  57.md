@@ -452,6 +452,18 @@ Wa Lawlā Ni'matu Rabbī Lakuntu Mina Al-Muĥđarīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْلَا نِعْمَةُ رَبِّي لَكُنْتُ مِنَ الْمُحْضَرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولولا نعمة ربي لكنت من المحضرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡلَا نِعۡمَةُ رَبِّی لَكُنتُ مِنَ ٱلۡمُحۡضَرِینَ
 
 | Details |  |

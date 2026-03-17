@@ -452,6 +452,18 @@ Yawma Lā Tamliku Nafsun Linafsin Shay'āan Wa Al-'Amru Yawma'idhin Lillāhi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْئًا وَالْأَمْرُ يَوْمَئِذٍ لِلَّهِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم لا تملك نفس لنفس شييا والامر يوميذ لله
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ لَا تَمۡلِكُ نَفۡسࣱ لِّنَفۡسࣲ شَیۡءࣰاۖ وَٱلۡأَمۡرُ یَوۡمَئِذࣲ لِّلَّهِ
 
 | Details |  |

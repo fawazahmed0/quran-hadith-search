@@ -452,6 +452,18 @@ Fādhkurūnī 'Adhkurkum Wa Ashkurū Lī Wa Lā Takfurūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاذكروني اذكركم واشكروا لي ولا تكفرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱذۡكُرُونِیۤ أَذۡكُرۡكُمۡ وَٱشۡكُرُوا۟ لِی وَلَا تَكۡفُرُونِ
 
 | Details |  |

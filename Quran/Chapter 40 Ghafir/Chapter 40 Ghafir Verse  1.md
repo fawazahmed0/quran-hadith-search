@@ -452,6 +452,18 @@ Ha-Mim
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+حم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+حم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ حمۤ
 
 | Details |  |

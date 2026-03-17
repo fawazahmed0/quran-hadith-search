@@ -452,6 +452,18 @@ Fāşbir Liĥukmi Rabbika Wa Lā Takun Kaşāĥibi Al-Ĥūti 'Idh Nādá Wa Huwa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُنْ كَصَاحِبِ الْحُوتِ إِذْ نَادَى وَهُوَ مَكْظُومٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاصبر لحكم ربك ولا تكن كصاحب الحوت اذ نادى وهو مكظوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلۡحُوتِ إِذۡ نَادَىٰ وَهُوَ مَكۡظُومࣱ
 
 | Details |  |

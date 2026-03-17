@@ -452,6 +452,18 @@ Qāla Dhālika Mā Kunnā Nabghi Fārtaddā 'Alá 'Āthārihimā Qaşaşāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ ذَلِكَ مَا كُنَّا نَبْغِ فَارْتَدَّا عَلَى آثَارِهِمَا قَصَصًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال ذلك ما كنا نبغ فارتدا على اثارهما قصصا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ ذَ ٰلِكَ مَا كُنَّا نَبۡغِۚ فَٱرۡتَدَّا عَلَىٰۤ ءَاثَارِهِمَا قَصَصࣰا
 
 | Details |  |

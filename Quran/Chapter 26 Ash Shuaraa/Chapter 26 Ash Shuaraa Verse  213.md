@@ -452,6 +452,18 @@ Falā Tad'u Ma'a Allāhi 'Ilahāan 'Ākhara Fatakūna Mina Al-Mu'adhabīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَا تَدْعُ مَعَ اللَّهِ إِلَهًا آخَرَ فَتَكُونَ مِنَ الْمُعَذَّبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلا تدع مع الله الها اخر فتكون من المعذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَا تَدۡعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَتَكُونَ مِنَ ٱلۡمُعَذَّبِینَ
 
 | Details |  |

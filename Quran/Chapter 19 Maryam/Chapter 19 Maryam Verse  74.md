@@ -452,6 +452,18 @@ Wa Kam 'Ahlaknā Qablahum Min Qarnin Hum 'Aĥsanu 'Athāthāan Wa Ri'yāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَمْ أَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ هُمْ أَحْسَنُ أَثَاثًا وَرِئْيًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكم اهلكنا قبلهم من قرن هم احسن اثاثا ورييا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّن قَرۡنٍ هُمۡ أَحۡسَنُ أَثَـٰثࣰا وَرِءۡیࣰا
 
 | Details |  |

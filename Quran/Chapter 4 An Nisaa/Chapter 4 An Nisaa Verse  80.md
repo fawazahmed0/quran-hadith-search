@@ -452,6 +452,18 @@ Man Yuţi'i Ar-Rasūla Faqad 'Aţā'a Allāha Wa Man Tawallá Famā 'Arsalnāka 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَنْ يُطِعِ الرَّسُولَ فَقَدْ أَطَاعَ اللَّهَ وَمَنْ تَوَلَّى فَمَا أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من يطع الرسول فقد اطاع الله ومن تولى فما ارسلناك عليهم حفيظا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّن یُطِعِ ٱلرَّسُولَ فَقَدۡ أَطَاعَ ٱللَّهَۖ وَمَن تَوَلَّىٰ فَمَاۤ أَرۡسَلۡنَـٰكَ عَلَیۡهِمۡ حَفِیظࣰا
 
 | Details |  |

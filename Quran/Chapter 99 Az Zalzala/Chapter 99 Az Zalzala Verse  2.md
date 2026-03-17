@@ -452,6 +452,18 @@ Wa 'Akhrajati Al-'Arđu 'Athqālahā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واخرجت الارض اثقالها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا
 
 | Details |  |

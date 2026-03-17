@@ -452,6 +452,18 @@ Wa Wālidin Wa Mā Walada
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَوَالِدٍ وَمَا وَلَدَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ووالد وما ولد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَوَالِدࣲ وَمَا وَلَدَ
 
 | Details |  |

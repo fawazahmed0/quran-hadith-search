@@ -452,6 +452,18 @@ Wa Al-Jibāla 'Arsāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْجِبَالَ أَرْسَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والجبال ارساها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡجِبَالَ أَرۡسَىٰهَا
 
 | Details |  |

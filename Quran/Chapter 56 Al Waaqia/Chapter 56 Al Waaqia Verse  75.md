@@ -452,6 +452,18 @@ Falā 'Uqsimu Bimawāqi'i An-Nujūmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلا اقسم بمواقع النجوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ فَلَاۤ أُقۡسِمُ بِمَوَ ٰقِعِ ٱلنُّجُومِ
 
 | Details |  |

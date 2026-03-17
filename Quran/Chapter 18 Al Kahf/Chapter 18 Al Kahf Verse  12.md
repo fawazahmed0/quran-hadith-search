@@ -452,6 +452,18 @@ Thumma Ba'athnāhum Lina'lama 'Ayyu Al-Ĥizbayni 'Aĥşá Limā Labithū 'Amadā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ بَعَثْنَاهُمْ لِنَعْلَمَ أَيُّ الْحِزْبَيْنِ أَحْصَى لِمَا لَبِثُوا أَمَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم بعثناهم لنعلم اي الحزبين احصى لما لبثوا امدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ بَعَثۡنَـٰهُمۡ لِنَعۡلَمَ أَیُّ ٱلۡحِزۡبَیۡنِ أَحۡصَىٰ لِمَا لَبِثُوۤا۟ أَمَدࣰا
 
 | Details |  |

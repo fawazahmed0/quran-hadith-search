@@ -452,6 +452,18 @@ Wa Yundhira Al-Ladhīna Qālū Attakhadha Allāhu Waladāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيُنْذِرَ الَّذِينَ قَالُوا اتَّخَذَ اللَّهُ وَلَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وينذر الذين قالوا اتخذ الله ولدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیُنذِرَ ٱلَّذِینَ قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدࣰا
 
 | Details |  |

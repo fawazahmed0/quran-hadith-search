@@ -452,6 +452,18 @@ Wa Kitābin Masţūrin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكِتَابٍ مَسْطُورٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكتاب مسطور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكِتَـٰبࣲ مَّسۡطُورࣲ
 
 | Details |  |

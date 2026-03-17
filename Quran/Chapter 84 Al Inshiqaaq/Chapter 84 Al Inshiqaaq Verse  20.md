@@ -452,6 +452,18 @@ FamÄ Lahum LÄ Yu'uminÅ«na
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَا لَهُمْ لَا يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فما لهم لا يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَا لَهُمۡ لَا یُؤۡمِنُونَ
 
 | Details |  |

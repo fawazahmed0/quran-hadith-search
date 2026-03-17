@@ -452,6 +452,18 @@ Qul Lillāhi Ash-Shafā'atu Jamī'āan Lahu Mulku As-Samāwāti Wa Al-'Arđi Thu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ لِلَّهِ الشَّفَاعَةُ جَمِيعًا لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ثُمَّ إِلَيْهِ تُرْجَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل لله الشفاعة جميعا له ملك السماوات والارض ثم اليه ترجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُل لِّلَّهِ ٱلشَّفَـٰعَةُ جَمِیعࣰاۖ لَّهُۥ مُلۡكُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۖ ثُمَّ إِلَیۡهِ تُرۡجَعُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Kaghalyi Al-Ĥamīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَغَلْيِ الْحَمِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كغلي الحميم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَغَلۡیِ ٱلۡحَمِیمِ
 
 | Details |  |

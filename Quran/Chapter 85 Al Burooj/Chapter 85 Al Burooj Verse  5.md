@@ -452,6 +452,18 @@ An-Nāri Dhāti Al-Waqūdi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+النَّارِ ذَاتِ الْوَقُودِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+النار ذات الوقود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلنَّارِ ذَاتِ ٱلۡوَقُودِ
 
 | Details |  |

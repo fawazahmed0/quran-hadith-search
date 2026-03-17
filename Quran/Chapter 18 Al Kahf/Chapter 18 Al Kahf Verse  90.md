@@ -452,6 +452,18 @@ Hatta 'Idha Balagha Matli'a Ash-Shamsi Wajadaha Tatlu'u 'Ala Qawmin Lam Naj'al L
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+حَتَّى إِذَا بَلَغَ مَطْلِعَ الشَّمْسِ وَجَدَهَا تَطْلُعُ عَلَى قَوْمٍ لَمْ نَجْعَلْ لَهُمْ مِنْ دُونِهَا سِتْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+حتى اذا بلغ مطلع الشمس وجدها تطلع على قوم لم نجعل لهم من دونها سترا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 حَتَّىٰۤ إِذَا بَلَغَ مَطۡلِعَ ٱلشَّمۡسِ وَجَدَهَا تَطۡلُعُ عَلَىٰ قَوۡمࣲ لَّمۡ نَجۡعَل لَّهُم مِّن دُونِهَا سِتۡرࣰا
 
 | Details |  |

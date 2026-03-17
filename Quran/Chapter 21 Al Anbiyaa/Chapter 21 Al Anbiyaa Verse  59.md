@@ -452,6 +452,18 @@ Qālū Man Fa'ala Hādhā Bi'ālihatinā 'Innahu Lamina Až-Žālimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا مَنْ فَعَلَ هَذَا بِآلِهَتِنَا إِنَّهُ لَمِنَ الظَّالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا من فعل هذا بالهتنا انه لمن الظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ مَن فَعَلَ هَـٰذَا بِءَالِهَتِنَاۤ إِنَّهُۥ لَمِنَ ٱلظَّـٰلِمِینَ
 
 | Details |  |

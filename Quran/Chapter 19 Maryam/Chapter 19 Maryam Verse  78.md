@@ -452,6 +452,18 @@ Attala'a Al-Ghayba 'Am Attakhadha 'Inda Ar-Rahmani 'Ahdaan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَطَّلَعَ الْغَيْبَ أَمِ اتَّخَذَ عِنْدَ الرَّحْمَنِ عَهْدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اطلع الغيب ام اتخذ عند الرحمن عهدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَطَّلَعَ ٱلۡغَیۡبَ أَمِ ٱتَّخَذَ عِندَ ٱلرَّحۡمَـٰنِ عَهۡدࣰا
 
 | Details |  |

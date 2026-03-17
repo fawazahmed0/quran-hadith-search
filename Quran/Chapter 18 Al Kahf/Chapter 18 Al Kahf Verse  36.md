@@ -452,6 +452,18 @@ Wa Mā 'Ažunnu As-Sā'ata Qā'imatan Wa La'in Rudidtu 'Ilá Rabbī La'ajidanna 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَظُنُّ السَّاعَةَ قَائِمَةً وَلَئِنْ رُدِدْتُ إِلَى رَبِّي لَأَجِدَنَّ خَيْرًا مِنْهَا مُنْقَلَبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما اظن الساعة قايمة ولين رددت الى ربي لاجدن خيرا منها منقلبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَظُنُّ ٱلسَّاعَةَ قَاۤئِمَةࣰ وَلَئِن رُّدِدتُّ إِلَىٰ رَبِّی لَأَجِدَنَّ خَیۡرࣰا مِّنۡهَا مُنقَلَبࣰا
 
 | Details |  |

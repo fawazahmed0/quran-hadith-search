@@ -452,6 +452,18 @@ Wa Jā'at Sakratu Al-Mawti Bil-Ĥaqqi Dhālika Mā Kunta Minhu Taĥīdu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَاءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ذَلِكَ مَا كُنْتَ مِنْهُ تَحِيدُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجاءت سكرة الموت بالحق ذلك ما كنت منه تحيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَاۤءَتۡ سَكۡرَةُ ٱلۡمَوۡتِ بِٱلۡحَقِّۖ ذَ ٰلِكَ مَا كُنتَ مِنۡهُ تَحِیدُ
 
 | Details |  |

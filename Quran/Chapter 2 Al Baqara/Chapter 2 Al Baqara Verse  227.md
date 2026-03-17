@@ -452,6 +452,18 @@ Wa 'In 'Azamū Aţ-Ţalāqa Fa'inna Allāha Samī'un 'Alīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ عَزَمُوا الطَّلَاقَ فَإِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان عزموا الطلاق فان الله سميع عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنۡ عَزَمُوا۟ ٱلطَّلَـٰقَ فَإِنَّ ٱللَّهَ سَمِیعٌ عَلِیمࣱ
 
 | Details |  |

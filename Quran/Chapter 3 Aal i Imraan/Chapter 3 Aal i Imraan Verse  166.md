@@ -452,6 +452,18 @@ Wa Mā 'Aşābakum Yawma At-Taqá Al-Jam'āni Fabi'idhni Allāhi Wa Liya'lama Al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَصَابَكُمْ يَوْمَ الْتَقَى الْجَمْعَانِ فَبِإِذْنِ اللَّهِ وَلِيَعْلَمَ الْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما اصابكم يوم التقى الجمعان فباذن الله وليعلم المومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَصَـٰبَكُمۡ یَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِ فَبِإِذۡنِ ٱللَّهِ وَلِیَعۡلَمَ ٱلۡمُؤۡمِنِینَ
 
 | Details |  |

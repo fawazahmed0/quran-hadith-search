@@ -452,6 +452,18 @@ Min 'Ayyi Shay'in Khalaqahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مِنْ أَيِّ شَيْءٍ خَلَقَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من اي شيء خلقه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مِنۡ أَیِّ شَیۡءٍ خَلَقَهُۥ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Man Lam Yu'umin Billāhi Wa Rasūlihi Fa'innā 'A'tadnā Lilkāfirīna Sa'īr
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ لَمْ يُؤْمِنْ بِاللَّهِ وَرَسُولِهِ فَإِنَّا أَعْتَدْنَا لِلْكَافِرِينَ سَعِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن لم يومن بالله ورسوله فانا اعتدنا للكافرين سعيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن لَّمۡ یُؤۡمِنۢ بِٱللَّهِ وَرَسُولِهِۦ فَإِنَّاۤ أَعۡتَدۡنَا لِلۡكَـٰفِرِینَ سَعِیرࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Anna 'Alayhi An-Nash'ata Al-'Ukhrá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّ عَلَيْهِ النَّشْأَةَ الْأُخْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان عليه النشاة الاخرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّ عَلَیۡهِ ٱلنَّشۡأَةَ ٱلۡأُخۡرَىٰ
 
 | Details |  |

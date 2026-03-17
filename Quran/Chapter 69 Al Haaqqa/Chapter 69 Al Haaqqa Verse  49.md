@@ -452,6 +452,18 @@ Wa 'Innā Lana'lamu 'Anna Minkum Mukadhibīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّا لَنَعْلَمُ أَنَّ مِنْكُمْ مُكَذِّبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانا لنعلم ان منكم مكذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّا لَنَعۡلَمُ أَنَّ مِنكُم مُّكَذِّبِینَ
 
 | Details |  |

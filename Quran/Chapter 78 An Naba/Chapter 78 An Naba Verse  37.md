@@ -452,6 +452,18 @@ Rabbi As-Samāwāti Wa Al-'Arđi Wa Mā Baynahumā Ar-Raĥmāni Lā Yamlikūna M
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+رب السماوات والارض وما بينهما الرحمن لا يملكون منه خطابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَّبِّ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ وَمَا بَیۡنَهُمَا ٱلرَّحۡمَـٰنِۖ لَا یَمۡلِكُونَ مِنۡهُ خِطَابࣰا
 
 | Details |  |

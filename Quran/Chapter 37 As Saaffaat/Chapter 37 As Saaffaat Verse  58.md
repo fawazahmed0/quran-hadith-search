@@ -452,6 +452,18 @@ Afamā Naĥnu Bimayyitīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَمَا نَحْنُ بِمَيِّتِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افما نحن بميتين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَمَا نَحۡنُ بِمَیِّتِینَ
 
 | Details |  |

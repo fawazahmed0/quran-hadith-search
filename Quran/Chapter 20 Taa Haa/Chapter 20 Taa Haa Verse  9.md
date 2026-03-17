@@ -452,6 +452,18 @@ Wa Hal 'Atāka Ĥadīthu Mūsá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهَلْ أَتَاكَ حَدِيثُ مُوسَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهل اتاك حديث موسى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهَلۡ أَتَىٰكَ حَدِیثُ مُوسَىٰۤ
 
 | Details |  |

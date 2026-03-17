@@ -452,6 +452,18 @@ Hal Yanžurūna 'Illā As-Sā'ata 'An Ta'tiyahum Baghtatan Wa Hum Lā Yash'urūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَلْ يَنْظُرُونَ إِلَّا السَّاعَةَ أَنْ تَأْتِيَهُمْ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هل ينظرون الا الساعة ان تاتيهم بغتة وهم لا يشعرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَلۡ یَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأۡتِیَهُم بَغۡتَةࣰ وَهُمۡ لَا یَشۡعُرُونَ
 
 | Details |  |

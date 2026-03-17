@@ -452,6 +452,18 @@ Amaddakum Bi'an'āmin Wa Banīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمَدَّكُمْ بِأَنْعَامٍ وَبَنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+امدكم بانعام وبنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمَدَّكُم بِأَنۡعَـٰمࣲ وَبَنِینَ
 
 | Details |  |

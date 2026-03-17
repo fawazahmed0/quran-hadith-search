@@ -452,6 +452,18 @@ Wa 'Ataynāka Bil-Ĥaqqi Wa 'Innā Laşādiqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَتَيْنَاكَ بِالْحَقِّ وَإِنَّا لَصَادِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتيناك بالحق وانا لصادقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَتَیۡنَـٰكَ بِٱلۡحَقِّ وَإِنَّا لَصَـٰدِقُونَ
 
 | Details |  |

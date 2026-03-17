@@ -452,6 +452,18 @@ Qāla Qarīnuhu Rabbanā Mā 'Aţghaytuhu Wa Lakin Kāna Fī Đalālin Ba'īdin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ قَرِينُهُ رَبَّنَا مَا أَطْغَيْتُهُ وَلَكِنْ كَانَ فِي ضَلَالٍ بَعِيدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال قرينه ربنا ما اطغيته ولكن كان في ضلال بعيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ قَالَ قَرِینُهُۥ رَبَّنَا مَاۤ أَطۡغَیۡتُهُۥ وَلَـٰكِن كَانَ فِی ضَلَـٰلِۭ بَعِیدࣲ
 
 | Details |  |

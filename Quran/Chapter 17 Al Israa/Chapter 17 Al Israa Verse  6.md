@@ -452,6 +452,18 @@ Thumma Radadnā Lakumu Al-Karrata 'Alayhim Wa 'Amdadnākum Bi'amwālin Wa Banīn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ رَدَدْنَا لَكُمُ الْكَرَّةَ عَلَيْهِمْ وَأَمْدَدْنَاكُمْ بِأَمْوَالٍ وَبَنِينَ وَجَعَلْنَاكُمْ أَكْثَرَ نَفِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم رددنا لكم الكرة عليهم وامددناكم باموال وبنين وجعلناكم اكثر نفيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ رَدَدۡنَا لَكُمُ ٱلۡكَرَّةَ عَلَیۡهِمۡ وَأَمۡدَدۡنَـٰكُم بِأَمۡوَ ٰلࣲ وَبَنِینَ وَجَعَلۡنَـٰكُمۡ أَكۡثَرَ نَفِیرًا
 
 | Details |  |

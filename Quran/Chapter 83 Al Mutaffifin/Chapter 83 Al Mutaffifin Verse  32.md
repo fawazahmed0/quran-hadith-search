@@ -452,6 +452,18 @@ Wa 'Idhā Ra'awhum Qālū 'Inna Hā'uulā' Lađāllūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا رَأَوْهُمْ قَالُوا إِنَّ هَؤُلَاءِ لَضَالُّونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا راوهم قالوا ان هولاء لضالون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا رَأَوۡهُمۡ قَالُوۤا۟ إِنَّ هَـٰۤؤُلَاۤءِ لَضَاۤلُّونَ
 
 | Details |  |

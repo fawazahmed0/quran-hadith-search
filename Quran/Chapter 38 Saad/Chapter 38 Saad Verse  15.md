@@ -452,6 +452,18 @@ Wa Mā Yanžuru Hā'uulā' 'Illā Şayĥatan Wāĥidatan Mā Lahā Min Fawāqin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا يَنْظُرُ هَؤُلَاءِ إِلَّا صَيْحَةً وَاحِدَةً مَا لَهَا مِنْ فَوَاقٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ينظر هولاء الا صيحة واحدة ما لها من فواق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا یَنظُرُ هَـٰۤؤُلَاۤءِ إِلَّا صَیۡحَةࣰ وَ ٰحِدَةࣰ مَّا لَهَا مِن فَوَاقࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Alakumu Adh-Dhakaru Wa Lahu Al-'Unthá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَكُمُ الذَّكَرُ وَلَهُ الْأُنْثَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الكم الذكر وله الانثى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلۡأُنثَىٰ
 
 | Details |  |

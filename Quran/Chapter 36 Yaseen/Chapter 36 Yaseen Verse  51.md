@@ -452,6 +452,18 @@ Wa Nufikha Fī Aş-Şūri Fa'idhā Hum Mina Al-'Ajdāthi 'Ilá Rabbihim Yansilū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنُفِخَ فِي الصُّورِ فَإِذَا هُمْ مِنَ الْأَجْدَاثِ إِلَى رَبِّهِمْ يَنْسِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونفخ في الصور فاذا هم من الاجداث الى ربهم ينسلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنُفِخَ فِی ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلۡأَجۡدَاثِ إِلَىٰ رَبِّهِمۡ یَنسِلُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Yā 'Ayyuhā Al-Ladhīna 'Āamanū Lima Taqūlūna Mā Lā Taf'alūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايها الذين امنوا لم تقولون ما لا تفعلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفۡعَلُونَ
 
 | Details |  |

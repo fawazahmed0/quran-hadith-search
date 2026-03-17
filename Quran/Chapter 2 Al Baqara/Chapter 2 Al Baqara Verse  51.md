@@ -452,6 +452,18 @@ Wa 'Idh Wā'adnā Mūsá 'Arba'īna Laylatan Thumma Attakhadhtumu Al-'Ijla Min B
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذْ وَاعَدْنَا مُوسَى أَرْبَعِينَ لَيْلَةً ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِنْ بَعْدِهِ وَأَنْتُمْ ظَالِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذ واعدنا موسى اربعين ليلة ثم اتخذتم العجل من بعده وانتم ظالمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذۡ وَ ٰعَدۡنَا مُوسَىٰۤ أَرۡبَعِینَ لَیۡلَةࣰ ثُمَّ ٱتَّخَذۡتُمُ ٱلۡعِجۡلَ مِنۢ بَعۡدِهِۦ وَأَنتُمۡ ظَـٰلِمُونَ
 
 | Details |  |

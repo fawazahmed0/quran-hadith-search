@@ -452,6 +452,18 @@ Man Yahdi Allāhu Fahuwa Al-Muhtadī Wa Man Yuđlil Fa'ūlā'ika Humu Al-Khāsir
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَنْ يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِي وَمَنْ يُضْلِلْ فَأُولَئِكَ هُمُ الْخَاسِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من يهد الله فهو المهتدي ومن يضلل فاوليك هم الخاسرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَن یَهۡدِ ٱللَّهُ فَهُوَ ٱلۡمُهۡتَدِیۖ وَمَن یُضۡلِلۡ فَأُو۟لَـٰۤئِكَ هُمُ ٱلۡخَـٰسِرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna Fī Dhālika La'āyatan Lilmu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ فِي ذَلِكَ لَآيَةً لِلْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان في ذلك لاية للمومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ فِی ذَ ٰلِكَ لَءَایَةࣰ لِّلۡمُؤۡمِنِینَ
 
 | Details |  |

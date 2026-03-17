@@ -452,6 +452,18 @@ Wa An-Nahāri 'Idhā Jallāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالنَّهَارِ إِذَا جَلَّاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والنهار اذا جلاها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلنَّهَارِ إِذَا جَلَّىٰهَا
 
 | Details |  |

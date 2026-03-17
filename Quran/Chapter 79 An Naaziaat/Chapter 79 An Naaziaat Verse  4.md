@@ -452,6 +452,18 @@ Fālssābiqāti Sabqāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَالسَّابِقَاتِ سَبْقًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالسابقات سبقا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱلسَّـٰبِقَـٰتِ سَبۡقࣰا
 
 | Details |  |

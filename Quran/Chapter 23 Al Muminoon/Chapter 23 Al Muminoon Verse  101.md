@@ -452,6 +452,18 @@ Fa'idhā Nufikha Fī Aş-Şūri Falā 'Ansāba Baynahum Yawma'idhin Wa Lā Yatas
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِذَا نُفِخَ فِي الصُّورِ فَلَا أَنْسَابَ بَيْنَهُمْ يَوْمَئِذٍ وَلَا يَتَسَاءَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاذا نفخ في الصور فلا انساب بينهم يوميذ ولا يتساءلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِذَا نُفِخَ فِی ٱلصُّورِ فَلَاۤ أَنسَابَ بَیۡنَهُمۡ یَوۡمَئِذࣲ وَلَا یَتَسَاۤءَلُونَ
 
 | Details |  |

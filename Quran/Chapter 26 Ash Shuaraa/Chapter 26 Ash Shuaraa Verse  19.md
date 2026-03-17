@@ -452,6 +452,18 @@ Wa Fa'alta Fa'lataka Allatī Fa'alta Wa 'Anta Mina Al-Kāfirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفَعَلْتَ فَعْلَتَكَ الَّتِي فَعَلْتَ وَأَنْتَ مِنَ الْكَافِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفعلت فعلتك التي فعلت وانت من الكافرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفَعَلۡتَ فَعۡلَتَكَ ٱلَّتِی فَعَلۡتَ وَأَنتَ مِنَ ٱلۡكَـٰفِرِینَ
 
 | Details |  |

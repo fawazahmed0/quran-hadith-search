@@ -452,6 +452,18 @@ Afa'amina 'Ahlu Al-Qurá 'An Ya'tiyahum Ba'sunā Bayātāan Wa Hum Nā'imūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَأَمِنَ أَهْلُ الْقُرَى أَنْ يَأْتِيَهُمْ بَأْسُنَا بَيَاتًا وَهُمْ نَائِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افامن اهل القرى ان ياتيهم باسنا بياتا وهم نايمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَأَمِنَ أَهۡلُ ٱلۡقُرَىٰۤ أَن یَأۡتِیَهُم بَأۡسُنَا بَیَـٰتࣰا وَهُمۡ نَاۤئِمُونَ
 
 | Details |  |

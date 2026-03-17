@@ -452,6 +452,18 @@ Ula'ika Yusari'una Fi Al-Khayrati Wa Hum Laha Sabiquna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ يُسَارِعُونَ فِي الْخَيْرَاتِ وَهُمْ لَهَا سَابِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك يسارعون في الخيرات وهم لها سابقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ یُسَـٰرِعُونَ فِی ٱلۡخَیۡرَ ٰتِ وَهُمۡ لَهَا سَـٰبِقُونَ
 
 | Details |  |

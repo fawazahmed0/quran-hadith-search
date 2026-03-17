@@ -452,6 +452,18 @@ Khālidīna Fīhā 'Abadāan 'Inna Allāha 'Indahu 'Ajrun 'Ažīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خَالِدِينَ فِيهَا أَبَدًا إِنَّ اللَّهَ عِنْدَهُ أَجْرٌ عَظِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خالدين فيها ابدا ان الله عنده اجر عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خَـٰلِدِینَ فِیهَاۤ أَبَدًاۚ إِنَّ ٱللَّهَ عِندَهُۥۤ أَجۡرٌ عَظِیمࣱ
 
 | Details |  |

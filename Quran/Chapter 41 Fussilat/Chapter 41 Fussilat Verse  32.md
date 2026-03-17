@@ -452,6 +452,18 @@ Nuzulāan Min Ghafūrin Raĥīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نُزُلًا مِنْ غَفُورٍ رَحِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نزلا من غفور رحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نُزُلࣰا مِّنۡ غَفُورࣲ رَّحِیمࣲ
 
 | Details |  |

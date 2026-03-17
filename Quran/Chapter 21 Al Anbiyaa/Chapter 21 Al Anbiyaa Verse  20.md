@@ -452,6 +452,18 @@ Yusabbiĥūna Al-Layla Wa An-Nahāra Lā Yafturūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُسَبِّحُونَ اللَّيْلَ وَالنَّهَارَ لَا يَفْتُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يسبحون الليل والنهار لا يفترون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُسَبِّحُونَ ٱلَّیۡلَ وَٱلنَّهَارَ لَا یَفۡتُرُونَ
 
 | Details |  |

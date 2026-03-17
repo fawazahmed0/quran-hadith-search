@@ -452,6 +452,18 @@ Wujūhun Yawma'idhin Nāđirahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجوه يوميذ ناضرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وُجُوهࣱ یَوۡمَئِذࣲ نَّاضِرَةٌ
 
 | Details |  |

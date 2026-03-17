@@ -452,6 +452,18 @@ Faghashāhā Mā Ghashá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَغَشَّاهَا مَا غَشَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فغشاها ما غشى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَغَشَّىٰهَا مَا غَشَّىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna Dhālika Laĥaqqun Takhāşumu 'Ahli An-Nāri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ ذَلِكَ لَحَقٌّ تَخَاصُمُ أَهْلِ النَّارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان ذلك لحق تخاصم اهل النار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ذَ ٰلِكَ لَحَقࣱّ تَخَاصُمُ أَهۡلِ ٱلنَّارِ
 
 | Details |  |

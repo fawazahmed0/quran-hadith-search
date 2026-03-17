@@ -452,6 +452,18 @@ Fa'awjasa Fī Nafsihi Khīfatan Mūsá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَوْجَسَ فِي نَفْسِهِ خِيفَةً مُوسَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاوجس في نفسه خيفة موسى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَوۡجَسَ فِی نَفۡسِهِۦ خِیفَةࣰ مُّوسَىٰ
 
 | Details |  |

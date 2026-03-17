@@ -452,6 +452,18 @@ Min Sharri Mā Khalaqa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مِنْ شَرِّ مَا خَلَقَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من شر ما خلق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مِن شَرِّ مَا خَلَقَ
 
 | Details |  |

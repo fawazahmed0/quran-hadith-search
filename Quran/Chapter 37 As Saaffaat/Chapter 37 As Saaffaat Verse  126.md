@@ -452,6 +452,18 @@ Allāha Rabbakum Wa Rabba 'Ābā'ikumu Al-'Awwalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اللَّهَ رَبَّكُمْ وَرَبَّ آبَائِكُمُ الْأَوَّلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الله ربكم ورب ابايكم الاولين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱللَّهَ رَبَّكُمۡ وَرَبَّ ءَابَاۤئِكُمُ ٱلۡأَوَّلِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Idh Hum 'Alayhā Qu'ūdun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ هُمْ عَلَيْهَا قُعُودٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ هم عليها قعود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ هُمۡ عَلَیۡهَا قُعُودࣱ
 
 | Details |  |

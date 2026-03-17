@@ -452,6 +452,18 @@ Wa As-Samā'i Wa Mā Banāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالسَّمَاءِ وَمَا بَنَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والسماء وما بناها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلسَّمَاۤءِ وَمَا بَنَىٰهَا
 
 | Details |  |

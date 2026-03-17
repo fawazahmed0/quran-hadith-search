@@ -452,6 +452,18 @@ Wa Laqad 'Andharahum Baţshatanā Fatamāraw Bin-Nudhuri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ أَنْذَرَهُمْ بَطْشَتَنَا فَتَمَارَوْا بِالنُّذُرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد انذرهم بطشتنا فتماروا بالنذر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ أَنذَرَهُم بَطۡشَتَنَا فَتَمَارَوۡا۟ بِٱلنُّذُرِ
 
 | Details |  |

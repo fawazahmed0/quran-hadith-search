@@ -452,6 +452,18 @@ In Kullu Nafsin Lammā 'Alayhā Ĥāfižun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان كل نفس لما عليها حافظ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِن كُلُّ نَفۡسࣲ لَّمَّا عَلَیۡهَا حَافِظࣱ
 
 | Details |  |

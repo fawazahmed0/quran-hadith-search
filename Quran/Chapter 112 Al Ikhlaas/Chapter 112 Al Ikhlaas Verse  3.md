@@ -452,6 +452,18 @@ Lam Yalid Wa Lam Yūlad
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَمْ يَلِدْ وَلَمْ يُولَدْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لم يلد ولم يولد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَمۡ یَلِدۡ وَلَمۡ یُولَدۡ
 
 | Details |  |

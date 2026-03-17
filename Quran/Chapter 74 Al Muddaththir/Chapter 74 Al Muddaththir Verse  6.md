@@ -452,6 +452,18 @@ Wa Lā Tamnun Tastakthiru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تَمْنُنْ تَسْتَكْثِرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تمنن تستكثر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تَمۡنُن تَسۡتَكۡثِرُ
 
 | Details |  |

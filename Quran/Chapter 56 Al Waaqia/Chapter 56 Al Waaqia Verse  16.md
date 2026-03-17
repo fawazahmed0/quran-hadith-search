@@ -452,6 +452,18 @@ Muttaki'īna 'Alayhā Mutaqābilīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مُتَّكِئِينَ عَلَيْهَا مُتَقَابِلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+متكيين عليها متقابلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مُّتَّكِءِینَ عَلَیۡهَا مُتَقَـٰبِلِینَ
 
 | Details |  |

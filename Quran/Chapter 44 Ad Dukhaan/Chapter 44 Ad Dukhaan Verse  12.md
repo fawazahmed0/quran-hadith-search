@@ -452,6 +452,18 @@ Rabbanā Akshif 'Annā Al-'Adhāba 'Innā Mu'uminūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبَّنَا اكْشِفْ عَنَّا الْعَذَابَ إِنَّا مُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ربنا اكشف عنا العذاب انا مومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَّبَّنَا ٱكۡشِفۡ عَنَّا ٱلۡعَذَابَ إِنَّا مُؤۡمِنُونَ
 
 | Details |  |

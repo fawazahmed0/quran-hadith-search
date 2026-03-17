@@ -452,6 +452,18 @@ Wa Lā Yatamannawnahu 'Abadāan Bimā Qaddamat 'Aydīhim Wa Allāhu 'Alīmun Bi�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا يَتَمَنَّوْنَهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا يتمنونه ابدا بما قدمت ايديهم والله عليم بالظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا یَتَمَنَّوۡنَهُۥۤ أَبَدَۢا بِمَا قَدَّمَتۡ أَیۡدِیهِمۡۚ وَٱللَّهُ عَلِیمُۢ بِٱلظَّـٰلِمِینَ
 
 | Details |  |

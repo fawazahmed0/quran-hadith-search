@@ -452,6 +452,18 @@ Wa 'Anjaynā Mūsá Wa Man Ma'ahu 'Ajma'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنْجَيْنَا مُوسَى وَمَنْ مَعَهُ أَجْمَعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانجينا موسى ومن معه اجمعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنجَیۡنَا مُوسَىٰ وَمَن مَّعَهُۥۤ أَجۡمَعِینَ
 
 | Details |  |

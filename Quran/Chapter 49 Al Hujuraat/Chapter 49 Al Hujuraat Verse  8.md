@@ -452,6 +452,18 @@ Fađlāan Mina Allāhi Wa Ni'matan Wa Allāhu 'Alīmun Ĥakīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَضْلًا مِنَ اللَّهِ وَنِعْمَةً وَاللَّهُ عَلِيمٌ حَكِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فضلا من الله ونعمة والله عليم حكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَضۡلࣰا مِّنَ ٱللَّهِ وَنِعۡمَةࣰۚ وَٱللَّهُ عَلِیمٌ حَكِیمࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Yā 'Ayyatuhā An-Nafsu Al-Muţma'innahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايتها النفس المطمينة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَیَّتُهَا ٱلنَّفۡسُ ٱلۡمُطۡمَئِنَّةُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Mā Tas'aluhum 'Alayhi Min 'Ajrin 'In Huwa 'Illā Dhikrun Lil'ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا تَسْأَلُهُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما تسالهم عليه من اجر ان هو الا ذكر للعالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا تَسۡءَلُهُمۡ عَلَیۡهِ مِنۡ أَجۡرٍۚ إِنۡ هُوَ إِلَّا ذِكۡرࣱ لِّلۡعَـٰلَمِینَ
 
 | Details |  |

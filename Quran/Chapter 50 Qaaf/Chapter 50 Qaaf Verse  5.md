@@ -452,6 +452,18 @@ Bal Kadhabū Bil-Ĥaqqi Lammā Jā'ahum Fahum Fī 'Amrin Marījin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ كَذَّبُوا بِالْحَقِّ لَمَّا جَاءَهُمْ فَهُمْ فِي أَمْرٍ مَرِيجٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل كذبوا بالحق لما جاءهم فهم في امر مريج
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ كَذَّبُوا۟ بِٱلۡحَقِّ لَمَّا جَاۤءَهُمۡ فَهُمۡ فِیۤ أَمۡرࣲ مَّرِیجٍ
 
 | Details |  |

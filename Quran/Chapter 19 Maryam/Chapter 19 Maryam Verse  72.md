@@ -452,6 +452,18 @@ Thumma Nunajjī Al-Ladhīna Attaqaw Wa Nadharu Až-Žālimīna Fīhā Jithīyāa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ نُنَجِّي الَّذِينَ اتَّقَوْا وَنَذَرُ الظَّالِمِينَ فِيهَا جِثِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم ننجي الذين اتقوا ونذر الظالمين فيها جثيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ نُنَجِّی ٱلَّذِینَ ٱتَّقَوا۟ وَّنَذَرُ ٱلظَّـٰلِمِینَ فِیهَا جِثِیࣰّا
 
 | Details |  |

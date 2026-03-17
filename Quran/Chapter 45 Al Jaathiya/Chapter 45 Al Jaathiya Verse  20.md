@@ -452,6 +452,18 @@ Hādhā Başā'iru Lilnnāsi Wa Hudáan Wa Raĥmatun Liqawmin Yūqinūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذَا بَصَائِرُ لِلنَّاسِ وَهُدًى وَرَحْمَةٌ لِقَوْمٍ يُوقِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذا بصاير للناس وهدى ورحمة لقوم يوقنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذَا بَصَـٰۤئِرُ لِلنَّاسِ وَهُدࣰى وَرَحۡمَةࣱ لِّقَوۡمࣲ یُوقِنُونَ
 
 | Details |  |

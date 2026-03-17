@@ -452,6 +452,18 @@ Allama Al-Qur'āna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَلَّمَ الْقُرْآنَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+علم القران
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَلَّمَ ٱلۡقُرۡءَانَ
 
 | Details |  |

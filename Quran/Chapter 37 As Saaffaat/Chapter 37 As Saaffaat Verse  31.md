@@ -452,6 +452,18 @@ Faĥaqqa 'Alaynā Qawlu Rabbinā 'Innā Ladhā'iqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَا إِنَّا لَذَائِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فحق علينا قول ربنا انا لذايقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَحَقَّ عَلَیۡنَا قَوۡلُ رَبِّنَاۤۖ إِنَّا لَذَاۤئِقُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Kāf-Hā-Yā-'Ayn-Şād
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كهيعص
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كهيعص
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كۤهیعۤصۤ
 
 | Details |  |

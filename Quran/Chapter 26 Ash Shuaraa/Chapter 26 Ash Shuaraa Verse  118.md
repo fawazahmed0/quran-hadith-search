@@ -452,6 +452,18 @@ Fāftaĥ Baynī Wa Baynahum Fatĥāan Wa Najjinī Wa Man Ma'ī Mina Al-Mu'uminī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَافْتَحْ بَيْنِي وَبَيْنَهُمْ فَتْحًا وَنَجِّنِي وَمَنْ مَعِيَ مِنَ الْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فافتح بيني وبينهم فتحا ونجني ومن معي من المومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱفۡتَحۡ بَیۡنِی وَبَیۡنَهُمۡ فَتۡحࣰا وَنَجِّنِی وَمَن مَّعِیَ مِنَ ٱلۡمُؤۡمِنِینَ
 
 | Details |  |

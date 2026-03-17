@@ -452,6 +452,18 @@ Wa Fākihatin Kathīrahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفَاكِهَةٍ كَثِيرَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفاكهة كثيرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفَـٰكِهَةࣲ كَثِیرَةࣲ
 
 | Details |  |

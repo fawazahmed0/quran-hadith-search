@@ -452,6 +452,18 @@ Darajātin Minhu Wa Maghfiratan Wa Raĥmatan Wa Kāna Allāhu Ghafūrāan Raĥī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+دَرَجَاتٍ مِنْهُ وَمَغْفِرَةً وَرَحْمَةً وَكَانَ اللَّهُ غَفُورًا رَحِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+درجات منه ومغفرة ورحمة وكان الله غفورا رحيما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 دَرَجَـٰتࣲ مِّنۡهُ وَمَغۡفِرَةࣰ وَرَحۡمَةࣰۚ وَكَانَ ٱللَّهُ غَفُورࣰا رَّحِیمًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Idhā Kālūhum 'Aw Wazanūhum Yukhsirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا كالوهم او وزنوهم يخسرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا كَالُوهُمۡ أَو وَّزَنُوهُمۡ یُخۡسِرُونَ
 
 | Details |  |

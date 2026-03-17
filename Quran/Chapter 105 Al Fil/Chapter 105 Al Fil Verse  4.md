@@ -452,6 +452,18 @@ Tarmīhim Biĥijāratin Min Sijjīlin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَرْمِيهِمْ بِحِجَارَةٍ مِنْ سِجِّيلٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ترميهم بحجارة من سجيل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَرۡمِیهِم بِحِجَارَةࣲ مِّن سِجِّیلࣲ
 
 | Details |  |

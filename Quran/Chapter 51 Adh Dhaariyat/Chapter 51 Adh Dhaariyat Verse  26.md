@@ -452,6 +452,18 @@ Farāgha 'Ilá 'Ahlihi Fajā'a Bi'ijlin Samīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَرَاغَ إِلَى أَهْلِهِ فَجَاءَ بِعِجْلٍ سَمِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فراغ الى اهله فجاء بعجل سمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَرَاغَ إِلَىٰۤ أَهۡلِهِۦ فَجَاۤءَ بِعِجۡلࣲ سَمِینࣲ
 
 | Details |  |

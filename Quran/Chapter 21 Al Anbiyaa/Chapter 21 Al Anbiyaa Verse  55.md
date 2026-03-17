@@ -452,6 +452,18 @@ Qālū 'Aji'tanā Bil-Ĥaqqi 'Am 'Anta Mina Al-Lā'ibīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا أَجِئْتَنَا بِالْحَقِّ أَمْ أَنْتَ مِنَ اللَّاعِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا اجيتنا بالحق ام انت من اللاعبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوۤا۟ أَجِئۡتَنَا بِٱلۡحَقِّ أَمۡ أَنتَ مِنَ ٱللَّـٰعِبِینَ
 
 | Details |  |

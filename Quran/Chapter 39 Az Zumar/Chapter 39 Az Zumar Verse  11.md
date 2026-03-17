@@ -452,6 +452,18 @@ Qul 'Innī 'Umirtu 'An 'A'buda Allāha Mukhlişāan Lahu Ad-Dīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ إِنِّي أُمِرْتُ أَنْ أَعْبُدَ اللَّهَ مُخْلِصًا لَهُ الدِّينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل اني امرت ان اعبد الله مخلصا له الدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ إِنِّیۤ أُمِرۡتُ أَنۡ أَعۡبُدَ ٱللَّهَ مُخۡلِصࣰا لَّهُ ٱلدِّینَ
 
 | Details |  |

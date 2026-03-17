@@ -452,6 +452,18 @@ Wa 'Alayhā Wa 'Alá Al-Fulki Tuĥmalūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَعَلَيْهَا وَعَلَى الْفُلْكِ تُحْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وعليها وعلى الفلك تحملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَعَلَیۡهَا وَعَلَى ٱلۡفُلۡكِ تُحۡمَلُونَ
 
 | Details |  |

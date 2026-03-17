@@ -452,6 +452,18 @@ Falammā Dhahaba 'An 'Ibrāhīma Ar-Raw'u Wa Jā'at/hu Al-Bushrá Yujādilunā F
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا ذَهَبَ عَنْ إِبْرَاهِيمَ الرَّوْعُ وَجَاءَتْهُ الْبُشْرَى يُجَادِلُنَا فِي قَوْمِ لُوطٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما ذهب عن ابراهيم الروع وجاءته البشرى يجادلنا في قوم لوط
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّا ذَهَبَ عَنۡ إِبۡرَ ٰهِیمَ ٱلرَّوۡعُ وَجَاۤءَتۡهُ ٱلۡبُشۡرَىٰ یُجَـٰدِلُنَا فِی قَوۡمِ لُوطٍ
 
 | Details |  |

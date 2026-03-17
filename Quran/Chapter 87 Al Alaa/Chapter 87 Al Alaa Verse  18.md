@@ -452,6 +452,18 @@ Inna Hādhā Lafī Aş-Şuĥufi Al-'Ūlá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ هَذَا لَفِي الصُّحُفِ الْأُولَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هذا لفي الصحف الاولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ هَـٰذَا لَفِی ٱلصُّحُفِ ٱلۡأُولَىٰ
 
 | Details |  |

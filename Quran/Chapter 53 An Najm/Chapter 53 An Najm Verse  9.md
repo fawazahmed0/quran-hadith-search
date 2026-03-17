@@ -452,6 +452,18 @@ Fakāna Qāba Qawsayni 'Aw 'Adná
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكان قاب قوسين او ادنى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكَانَ قَابَ قَوۡسَیۡنِ أَوۡ أَدۡنَىٰ
 
 | Details |  |

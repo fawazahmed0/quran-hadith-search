@@ -452,6 +452,18 @@ Ashdud Bihi 'Azrī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اشْدُدْ بِهِ أَزْرِي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اشدد به ازري
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱشۡدُدۡ بِهِۦۤ أَزۡرِی
 
 | Details |  |

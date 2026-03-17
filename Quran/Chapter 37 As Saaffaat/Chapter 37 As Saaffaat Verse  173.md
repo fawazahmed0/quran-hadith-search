@@ -452,6 +452,18 @@ Wa 'Inna Jundanā Lahumu Al-Ghālibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ جُنْدَنَا لَهُمُ الْغَالِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان جندنا لهم الغالبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ جُندَنَا لَهُمُ ٱلۡغَـٰلِبُونَ
 
 | Details |  |

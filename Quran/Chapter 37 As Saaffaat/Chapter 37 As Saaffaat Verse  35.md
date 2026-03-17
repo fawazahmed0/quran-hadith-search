@@ -452,6 +452,18 @@ Innahum Kānū 'Idhā Qīla Lahum Lā 'Ilāha 'Illā Allāhu Yastakbirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُمْ كَانُوا إِذَا قِيلَ لَهُمْ لَا إِلَهَ إِلَّا اللَّهُ يَسْتَكْبِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انهم كانوا اذا قيل لهم لا اله الا الله يستكبرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُمۡ كَانُوۤا۟ إِذَا قِیلَ لَهُمۡ لَاۤ إِلَـٰهَ إِلَّا ٱللَّهُ یَسۡتَكۡبِرُونَ
 
 | Details |  |

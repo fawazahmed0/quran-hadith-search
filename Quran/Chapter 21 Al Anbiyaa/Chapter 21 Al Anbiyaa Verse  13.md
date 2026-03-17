@@ -452,6 +452,18 @@ Lā Tarkuđū Wa Arji'ū 'Ilá Mā 'Utriftum Fīhi Wa Masākinikum La'allakum Tu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا تَرْكُضُوا وَارْجِعُوا إِلَى مَا أُتْرِفْتُمْ فِيهِ وَمَسَاكِنِكُمْ لَعَلَّكُمْ تُسْأَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا تركضوا وارجعوا الى ما اترفتم فيه ومساكنكم لعلكم تسالون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا تَرۡكُضُوا۟ وَٱرۡجِعُوۤا۟ إِلَىٰ مَاۤ أُتۡرِفۡتُمۡ فِیهِ وَمَسَـٰكِنِكُمۡ لَعَلَّكُمۡ تُسۡءَلُونَ
 
 | Details |  |

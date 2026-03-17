@@ -452,6 +452,18 @@ Mā Nunazzilu Al-Malā'ikata 'Illā Bil-Ĥaqqi Wa Mā Kānū 'Idhāan Munžarīn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا نُنَزِّلُ الْمَلَائِكَةَ إِلَّا بِالْحَقِّ وَمَا كَانُوا إِذًا مُنْظَرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما ننزل الملايكة الا بالحق وما كانوا اذا منظرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا نُنَزِّلُ ٱلۡمَلَـٰۤئِكَةَ إِلَّا بِٱلۡحَقِّ وَمَا كَانُوۤا۟ إِذࣰا مُّنظَرِینَ
 
 | Details |  |

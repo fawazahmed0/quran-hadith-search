@@ -452,6 +452,18 @@ Afara'aytumu An-Nāra Allatī Tūrūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَرَأَيْتُمُ النَّارَ الَّتِي تُورُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افرايتم النار التي تورون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَرَءَیۡتُمُ ٱلنَّارَ ٱلَّتِی تُورُونَ
 
 | Details |  |

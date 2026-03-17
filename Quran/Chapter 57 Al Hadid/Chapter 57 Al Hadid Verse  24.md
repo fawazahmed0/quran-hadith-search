@@ -452,6 +452,18 @@ Al-Ladhīna Yabkhalūna Wa Ya'murūna An-Nāsa Bil-Bukhli Wa Man Yatawalla Fa'in
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ وَمَنْ يَتَوَلَّ فَإِنَّ اللَّهَ هُوَ الْغَنِيُّ الْحَمِيدُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين يبخلون ويامرون الناس بالبخل ومن يتول فان الله هو الغني الحميد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ یَبۡخَلُونَ وَیَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبُخۡلِۗ وَمَن یَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلۡغَنِیُّ ٱلۡحَمِیدُ
 
 | Details |  |

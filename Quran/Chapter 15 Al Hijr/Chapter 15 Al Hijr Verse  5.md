@@ -452,6 +452,18 @@ Mā Tasbiqu Min 'Ummatin 'Ajalahā Wa Mā Yasta'khirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَأْخِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما تسبق من امة اجلها وما يستاخرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّا تَسۡبِقُ مِنۡ أُمَّةٍ أَجَلَهَا وَمَا یَسۡتَءۡخِرُونَ
 
 | Details |  |

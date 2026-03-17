@@ -452,6 +452,18 @@ Yakhruju Min Bayni Aş-Şulbi Wa At-Tarā'ibi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يخرج من بين الصلب والترايب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَخۡرُجُ مِنۢ بَیۡنِ ٱلصُّلۡبِ وَٱلتَّرَاۤئِبِ
 
 | Details |  |

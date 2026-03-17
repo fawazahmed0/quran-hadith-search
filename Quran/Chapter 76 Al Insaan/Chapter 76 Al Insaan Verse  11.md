@@ -452,6 +452,18 @@ Fawaqāhumu Allāhu Sharra Dhālika Al-Yawmi Wa Laqqāhum Nađratan Wa Surūrāa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَوَقَاهُمُ اللَّهُ شَرَّ ذَلِكَ الْيَوْمِ وَلَقَّاهُمْ نَضْرَةً وَسُرُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فوقاهم الله شر ذلك اليوم ولقاهم نضرة وسرورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَ ٰلِكَ ٱلۡیَوۡمِ وَلَقَّىٰهُمۡ نَضۡرَةࣰ وَسُرُورࣰا
 
 | Details |  |

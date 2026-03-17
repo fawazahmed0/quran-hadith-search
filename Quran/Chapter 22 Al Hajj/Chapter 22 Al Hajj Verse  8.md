@@ -452,6 +452,18 @@ Wa Mina An-Nāsi Man Yujādilu Fī Allāhi Bighayri 'Ilmin Wa Lā Hudáan Wa Lā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنَ النَّاسِ مَنْ يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُنِيرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن الناس من يجادل في الله بغير علم ولا هدى ولا كتاب منير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِنَ ٱلنَّاسِ مَن یُجَـٰدِلُ فِی ٱللَّهِ بِغَیۡرِ عِلۡمࣲ وَلَا هُدࣰى وَلَا كِتَـٰبࣲ مُّنِیرࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Aşĥābu Al-Yamīni Mā 'Aşĥābu Al-Yamīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَصْحَابُ الْيَمِينِ مَا أَصْحَابُ الْيَمِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واصحاب اليمين ما اصحاب اليمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَصۡحَـٰبُ ٱلۡیَمِینِ مَاۤ أَصۡحَـٰبُ ٱلۡیَمِینِ
 
 | Details |  |

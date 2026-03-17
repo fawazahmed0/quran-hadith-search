@@ -452,6 +452,18 @@ Hādhā Falyadhūqūhu Ĥamīmun Wa Ghassāqun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذَا فَلْيَذُوقُوهُ حَمِيمٌ وَغَسَّاقٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذا فليذوقوه حميم وغساق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذَا فَلۡیَذُوقُوهُ حَمِیمࣱ وَغَسَّاقࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Famani Abtaghá Warā'a Dhālika Fa'ūlā'ika Humu Al-'Ādūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَنِ ابْتَغَى وَرَاءَ ذَلِكَ فَأُولَئِكَ هُمُ الْعَادُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فمن ابتغى وراء ذلك فاوليك هم العادون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَنِ ٱبۡتَغَىٰ وَرَاۤءَ ذَ ٰلِكَ فَأُو۟لَـٰۤئِكَ هُمُ ٱلۡعَادُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Innahu Lafī Zuburi Al-'Awwalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّهُ لَفِي زُبُرِ الْأَوَّلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه لفي زبر الاولين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّهُۥ لَفِی زُبُرِ ٱلۡأَوَّلِینَ
 
 | Details |  |

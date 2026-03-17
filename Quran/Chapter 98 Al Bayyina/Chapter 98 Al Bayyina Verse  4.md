@@ -452,6 +452,18 @@ Wa Mā Tafarraqa Al-Ladhīna 'Ūtū Al-Kitāba 'Illā Min Ba'di Mā Jā'at/humu 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا تَفَرَّقَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَةُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما تفرق الذين اوتوا الكتاب الا من بعد ما جاءتهم البينة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا تَفَرَّقَ ٱلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ إِلَّا مِنۢ بَعۡدِ مَا جَاۤءَتۡهُمُ ٱلۡبَیِّنَةُ
 
 | Details |  |

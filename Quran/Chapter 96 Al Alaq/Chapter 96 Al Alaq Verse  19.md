@@ -452,6 +452,18 @@ Kallā Lā Tuţi'hu Wa Asjud Wāqtarib
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا لا تطعه واسجد واقترب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّا لَا تُطِعۡهُ وَ̅ٱ̅سۡ̅جُ̅دۡ̅ وَٱقۡتَرِب ۩
 
 | Details |  |

@@ -452,6 +452,18 @@ Yukhādi'ūna Allāha Wa Al-Ladhīna 'Āmanū Wa Mā Yakhda'ūna 'Illā 'Anfusah
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلَّا أَنْفُسَهُمْ وَمَا يَشْعُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يخادعون الله والذين امنوا وما يخدعون الا انفسهم وما يشعرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُخَـٰدِعُونَ ٱللَّهَ وَٱلَّذِینَ ءَامَنُوا۟ وَمَا یَخۡدَعُونَ إِلَّاۤ أَنفُسَهُمۡ وَمَا یَشۡعُرُونَ
 
 | Details |  |

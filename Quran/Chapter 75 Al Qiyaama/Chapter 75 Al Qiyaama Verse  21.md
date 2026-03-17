@@ -452,6 +452,18 @@ Wa Tadharūna Al-'Ākhiraha
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَذَرُونَ الْآخِرَةَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتذرون الاخرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَذَرُونَ ٱلۡءَاخِرَةَ
 
 | Details |  |

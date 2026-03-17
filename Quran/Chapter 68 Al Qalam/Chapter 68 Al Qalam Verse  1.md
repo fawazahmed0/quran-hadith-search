@@ -452,6 +452,18 @@ Nūn Wa Al-Qalami Wa Mā Yasţurūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ن وَالْقَلَمِ وَمَا يَسْطُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ن والقلم وما يسطرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ نۤۚ وَٱلۡقَلَمِ وَمَا یَسۡطُرُونَ
 
 | Details |  |

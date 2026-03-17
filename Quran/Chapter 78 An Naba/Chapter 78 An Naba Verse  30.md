@@ -452,6 +452,18 @@ Fadhūqū Falan Nazīdakum 'Illā 'Adhābāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فذوقوا فلن نزيدكم الا عذابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَذُوقُوا۟ فَلَن نَّزِیدَكُمۡ إِلَّا عَذَابًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Al-Fajri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْفَجْرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والفجر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡفَجۡرِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Qīla Lilnnāsi Hal 'Antum Mujtami'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقِيلَ لِلنَّاسِ هَلْ أَنْتُمْ مُجْتَمِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقيل للناس هل انتم مجتمعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقِیلَ لِلنَّاسِ هَلۡ أَنتُم مُّجۡتَمِعُونَ
 
 | Details |  |

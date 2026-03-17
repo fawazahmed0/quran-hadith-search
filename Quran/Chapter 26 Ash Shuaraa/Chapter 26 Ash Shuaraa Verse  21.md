@@ -452,6 +452,18 @@ Fafarartu Minkum Lammā Khiftukum Fawahaba Lī Rabbī Ĥukmāan Wa Ja'alanī Min
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَفَرَرْتُ مِنْكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِي رَبِّي حُكْمًا وَجَعَلَنِي مِنَ الْمُرْسَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ففررت منكم لما خفتكم فوهب لي ربي حكما وجعلني من المرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَفَرَرۡتُ مِنكُمۡ لَمَّا خِفۡتُكُمۡ فَوَهَبَ لِی رَبِّی حُكۡمࣰا وَجَعَلَنِی مِنَ ٱلۡمُرۡسَلِینَ
 
 | Details |  |

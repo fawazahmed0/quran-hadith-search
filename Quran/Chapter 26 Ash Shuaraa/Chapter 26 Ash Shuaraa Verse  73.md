@@ -452,6 +452,18 @@ Aw Yanfa'ūnakum 'Aw Yađurrūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْ يَنْفَعُونَكُمْ أَوْ يَضُرُّونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+او ينفعونكم او يضرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوۡ یَنفَعُونَكُمۡ أَوۡ یَضُرُّونَ
 
 | Details |  |

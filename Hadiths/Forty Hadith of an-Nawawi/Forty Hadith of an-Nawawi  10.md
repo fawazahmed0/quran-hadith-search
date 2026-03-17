@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه و سلم "إنَّ اللَّهَ طَيِّبٌ لَا يَقْبَلُ إلَّا طَيِّبًا، وَإِنَّ اللَّهَ أَمَرَ الْمُؤْمِنِينَ بِمَا أَمَرَ بِهِ الْمُرْسَلِينَ فَقَالَ تَعَالَى: "يَا أَيُّهَا الرُّسُلُ كُلُوا مِنْ الطَّيِّبَاتِ وَاعْمَلُوا صَالِحًا"، وَقَالَ تَعَالَى: "يَا أَيُّهَا الَّذِينَ آمَنُوا كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ" ثُمَّ ذَكَرَ الرَّجُلَ يُطِيلُ السَّفَرَ أَشْعَثَ أَغْبَرَ يَمُدُّ يَدَيْهِ إلَى السَّمَاءِ: يَا رَبِّ! يَا رَبِّ! وَمَطْعَمُهُ حَرَامٌ، وَمَشْرَبُهُ حَرَامٌ، وَمَلْبَسُهُ حَرَامٌ، وَغُذِّيَ بِالْحَرَامِ، فَأَنَّى يُسْتَجَابُ لَهُ؟". \[رَوَاهُ مُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of Abu Hurayrah (ra): The Messenger of Allah (ﷺ) said, “All
 ## French
 
 Selon Abou Hourayra (qu’Allah l’agrée) : Le Messager d’Allah (ﷺ) a dit : « Allah le Tout-Puissant est Bon et Il n’accepte que ce qui est bon. Et Allah a ordonné aux croyants ce qu’Il a ordonné aux Messagers. Ainsi le Tout-Puissant a dit : “Ô Messagers ! Mangez de ce qui est pur et faites le bien.” \[23:51\] et Il a dit : “Ô vous qui croyez ! Mangez des choses licites que Nous vous avons accordées.” \[2:172\] » Puis il (ﷺ) a mentionné le cas d’un homme qui a voyagé longuement, ébouriffé et couvert de poussière, qui lève les mains vers le ciel en disant : “Ô Seigneur ! Ô Seigneur !” mais sa nourriture est illicite, sa boisson est illicite, ses vêtements sont illicites et il a été nourri de l’illicite, alors comment sa prière serait-elle exaucée ? \[Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 10 |
+| Arabic No | 10 |
+| Reference | Book 1 Hadith 10 |
+
+## Turkish
+
+Ebu Hureyre (ra) anlatıyor: Resulullah (ﷺ) şöyle buyurdu: "Allah Teala tayyibdir (temizdir), ancak tayyib olanı kabul eder. Allah, peygamberlere emrettiği şeyi müminlere de emretmiştir. Allah Teala şöyle buyurmuştur: 'Ey peygamberler! Temiz olan şeylerden yiyin ve salih ameller işleyin' (Mü'minun, 51). Yine şöyle buyurmuştur: 'Ey iman edenler! Size verdiğimiz rızıkların temiz olanlarından yiyin' (Bakara, 172)." Sonra Efendimiz (ﷺ) şunu anlattı: "Bir adam uzun bir yolculuğa çıkar; saçları darmadağınık, toz toprak içindedir. Ellerini göğe kaldırarak 'Ya Rabbi! Ya Rabbi!' diye dua eder. Halbuki yediği haram, içtiği haram, giydiği haram ve haramla beslenmiştir. Böyle birinin duası nasıl kabul edilsin?" \[Müslim\]
 
 | References: |  |
 | --- | --- |

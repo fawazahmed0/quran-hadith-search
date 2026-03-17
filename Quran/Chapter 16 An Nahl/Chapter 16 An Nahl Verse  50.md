@@ -452,6 +452,18 @@ Yakhāfūna Rabbahum Min Fawqihim Wa Yaf'alūna Mā Yu'umarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَخَافُونَ رَبَّهُمْ مِنْ فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يخافون ربهم من فوقهم ويفعلون ما يومرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَخَافُونَ رَبَّهُم مِّن فَوۡقِهِمۡ وَیَفۡعَلُونَ مَا یُؤۡمَرُونَ ۩
 
 | Details |  |

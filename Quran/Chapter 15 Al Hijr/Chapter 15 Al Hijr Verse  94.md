@@ -452,6 +452,18 @@ Fāşda' Bimā Tu'umaru Wa 'A'riđ 'Ani Al-Mushrikīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاصدع بما تومر واعرض عن المشركين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱصۡدَعۡ بِمَا تُؤۡمَرُ وَأَعۡرِضۡ عَنِ ٱلۡمُشۡرِكِینَ
 
 | Details |  |

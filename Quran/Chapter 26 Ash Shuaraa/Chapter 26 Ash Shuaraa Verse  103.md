@@ -452,6 +452,18 @@ Inna Fī Dhālika La'āyatan Wa Mā Kāna 'Aktharuhum Mu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان في ذلك لاية وما كان اكثرهم مومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ فِی ذَ ٰلِكَ لَءَایَةࣰۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِینَ
 
 | Details |  |

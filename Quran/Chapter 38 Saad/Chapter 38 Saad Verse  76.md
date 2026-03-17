@@ -452,6 +452,18 @@ Qāla 'Anā Khayrun Minhu Khalaqtanī Min Nārin Wa Khalaqtahu Min Ţīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ أَنَا خَيْرٌ مِنْهُ خَلَقْتَنِي مِنْ نَارٍ وَخَلَقْتَهُ مِنْ طِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال انا خير منه خلقتني من نار وخلقته من طين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ أَنَا۠ خَیۡرࣱ مِّنۡهُ خَلَقۡتَنِی مِن نَّارࣲ وَخَلَقۡتَهُۥ مِن طِینࣲ
 
 | Details |  |

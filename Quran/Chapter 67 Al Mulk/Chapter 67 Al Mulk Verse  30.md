@@ -452,6 +452,18 @@ Qul 'Ara'aytum 'In 'Aşbaĥa Mā'uukum Ghawrāan Faman Ya'tīkum Bimā'in Ma'īn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَنْ يَأْتِيكُمْ بِمَاءٍ مَعِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل ارايتم ان اصبح ماوكم غورا فمن ياتيكم بماء معين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ أَرَءَیۡتُمۡ إِنۡ أَصۡبَحَ مَاۤؤُكُمۡ غَوۡرࣰا فَمَن یَأۡتِیكُم بِمَاۤءࣲ مَّعِینِۭ
 
 | Details |  |

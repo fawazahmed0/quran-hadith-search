@@ -452,6 +452,18 @@ Wa 'Inna Hadhihi 'Ummatukum 'Ummatan Wāĥidatan Wa 'Anā Rabbukum Fa Attaqūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ هَذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً وَأَنَا رَبُّكُمْ فَاتَّقُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان هذه امتكم امة واحدة وانا ربكم فاتقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ هَـٰذِهِۦۤ أُمَّتُكُمۡ أُمَّةࣰ وَ ٰحِدَةࣰ وَأَنَا۠ رَبُّكُمۡ فَٱتَّقُونِ
 
 | Details |  |

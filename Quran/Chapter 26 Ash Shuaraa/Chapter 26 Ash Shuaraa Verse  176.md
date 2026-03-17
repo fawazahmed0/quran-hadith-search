@@ -452,6 +452,18 @@ Kadhaba 'Aşĥābu Al-'Aykati Al-Mursalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَّبَ أَصْحَابُ الْأَيْكَةِ الْمُرْسَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذب اصحاب الايكة المرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَّبَ أَصۡحَـٰبُ لۡءَیۡكَةِ ٱلۡمُرۡسَلِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Faqāla Lahum Rasūlu Allāhi Nāqata Allāhi Wa Suqyāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقال لهم رسول الله ناقة الله وسقياها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقَالَ لَهُمۡ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقۡیَـٰهَا
 
 | Details |  |

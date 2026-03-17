@@ -452,6 +452,18 @@ Fādkhulū 'Abwāba Jahannama Khālidīna Fīhā Falabi'sa Mathwá Al-Mutakabbir
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فادخلوا ابواب جهنم خالدين فيها فلبيس مثوى المتكبرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱدۡخُلُوۤا۟ أَبۡوَ ٰبَ جَهَنَّمَ خَـٰلِدِینَ فِیهَاۖ فَلَبِئۡسَ مَثۡوَى ٱلۡمُتَكَبِّرِینَ
 
 | Details |  |

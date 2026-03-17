@@ -452,6 +452,18 @@ Wa 'Allamnāhu Şan'ata Labūsin Lakum Lituĥşinakum Min Ba'sikum Fahal 'Antum 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَعَلَّمْنَاهُ صَنْعَةَ لَبُوسٍ لَكُمْ لِتُحْصِنَكُمْ مِنْ بَأْسِكُمْ فَهَلْ أَنْتُمْ شَاكِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وعلمناه صنعة لبوس لكم لتحصنكم من باسكم فهل انتم شاكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَعَلَّمۡنَـٰهُ صَنۡعَةَ لَبُوسࣲ لَّكُمۡ لِتُحۡصِنَكُم مِّنۢ بَأۡسِكُمۡۖ فَهَلۡ أَنتُمۡ شَـٰكِرُونَ
 
 | Details |  |

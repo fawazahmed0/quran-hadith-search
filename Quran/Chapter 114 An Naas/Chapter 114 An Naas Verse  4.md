@@ -452,6 +452,18 @@ Min Sharri Al-Waswāsi Al-Khannāsi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من شر الوسواس الخناس
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ
 
 | Details |  |

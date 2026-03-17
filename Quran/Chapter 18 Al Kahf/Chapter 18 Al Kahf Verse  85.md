@@ -452,6 +452,18 @@ Fa'atba'a Sababāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَتْبَعَ سَبَبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاتبع سببا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَتۡبَعَ سَبَبًا
 
 | Details |  |

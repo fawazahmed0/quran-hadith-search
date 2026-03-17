@@ -452,6 +452,18 @@ Falammā Jā'ahumu Al-Ĥaqqu Min 'Indinā Qālū 'Inna Hādhā Lasiĥrun Mubīnu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا جَاءَهُمُ الْحَقُّ مِنْ عِنْدِنَا قَالُوا إِنَّ هَذَا لَسِحْرٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما جاءهم الحق من عندنا قالوا ان هذا لسحر مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّا جَاۤءَهُمُ ٱلۡحَقُّ مِنۡ عِندِنَا قَالُوۤا۟ إِنَّ هَـٰذَا لَسِحۡرࣱ مُّبِینࣱ
 
 | Details |  |

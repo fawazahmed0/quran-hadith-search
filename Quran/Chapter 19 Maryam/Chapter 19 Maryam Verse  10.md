@@ -452,6 +452,18 @@ Qāla Rabbi Aj'al Lī 'Āyatan Qāla 'Āyatuka 'Allā Tukallima An-Nāsa Thalāt
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ اجْعَلْ لِي آيَةً قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَ لَيَالٍ سَوِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب اجعل لي اية قال ايتك الا تكلم الناس ثلاث ليال سويا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ ٱجۡعَل لِّیۤ ءَایَةࣰۖ قَالَ ءَایَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَ لَیَالࣲ سَوِیࣰّا
 
 | Details |  |

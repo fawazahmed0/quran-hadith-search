@@ -452,6 +452,18 @@ Mā 'Āmanat Qablahum Min Qaryatin 'Ahlaknāhā 'Afahum Yu'uminūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا آمَنَتْ قَبْلَهُمْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا أَفَهُمْ يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما امنت قبلهم من قرية اهلكناها افهم يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَاۤ ءَامَنَتۡ قَبۡلَهُم مِّن قَرۡیَةٍ أَهۡلَكۡنَـٰهَاۤۖ أَفَهُمۡ یُؤۡمِنُونَ
 
 | Details |  |

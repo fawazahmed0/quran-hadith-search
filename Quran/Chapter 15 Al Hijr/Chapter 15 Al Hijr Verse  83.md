@@ -452,6 +452,18 @@ Fa'akhadhat/humu Aş-Şayĥatu Muşbiĥīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَخَذَتْهُمُ الصَّيْحَةُ مُصْبِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاخذتهم الصيحة مصبحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَخَذَتۡهُمُ ٱلصَّیۡحَةُ مُصۡبِحِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Kunnā Nukadhibu Biyawmi Ad-Dīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكنا نكذب بيوم الدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكُنَّا نُكَذِّبُ بِیَوۡمِ ٱلدِّینِ
 
 | Details |  |

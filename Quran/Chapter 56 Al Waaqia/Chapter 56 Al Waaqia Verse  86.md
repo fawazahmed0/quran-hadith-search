@@ -452,6 +452,18 @@ Falawlā 'In Kuntum Ghayra Madīnīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَوْلَا إِنْ كُنْتُمْ غَيْرَ مَدِينِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلولا ان كنتم غير مدينين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَوۡلَاۤ إِن كُنتُمۡ غَیۡرَ مَدِینِینَ
 
 | Details |  |

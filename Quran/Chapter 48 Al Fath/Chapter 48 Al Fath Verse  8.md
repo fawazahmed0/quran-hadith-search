@@ -452,6 +452,18 @@ Innā 'Arsalnāka Shāhidāan Wa Mubashirāan Wa Nadhīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا أَرْسَلْنَاكَ شَاهِدًا وَمُبَشِّرًا وَنَذِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا ارسلناك شاهدا ومبشرا ونذيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّاۤ أَرۡسَلۡنَـٰكَ شَـٰهِدࣰا وَمُبَشِّرࣰا وَنَذِیرࣰا
 
 | Details |  |

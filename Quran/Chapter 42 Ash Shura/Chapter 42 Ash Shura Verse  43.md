@@ -452,6 +452,18 @@ Wa Laman Şabara Wa Ghafara 'Inna Dhālika Lamin 'Azmi Al-'Umūri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَمَنْ صَبَرَ وَغَفَرَ إِنَّ ذَلِكَ لَمِنْ عَزْمِ الْأُمُورِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولمن صبر وغفر ان ذلك لمن عزم الامور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَ ٰلِكَ لَمِنۡ عَزۡمِ ٱلۡأُمُورِ
 
 | Details |  |

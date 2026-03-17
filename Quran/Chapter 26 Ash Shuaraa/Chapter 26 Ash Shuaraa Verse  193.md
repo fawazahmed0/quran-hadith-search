@@ -452,6 +452,18 @@ Nazala Bihi Ar-Rūĥu Al-'Amīnu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نَزَلَ بِهِ الرُّوحُ الْأَمِينُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نزل به الروح الامين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نَزَلَ بِهِ ٱلرُّوحُ ٱلۡأَمِینُ
 
 | Details |  |

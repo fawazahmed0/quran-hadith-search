@@ -452,6 +452,18 @@ Bal 'Ajibta Wa Yaskharūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ عَجِبْتَ وَيَسْخَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل عجبت ويسخرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ عَجِبۡتَ وَیَسۡخَرُونَ
 
 | Details |  |

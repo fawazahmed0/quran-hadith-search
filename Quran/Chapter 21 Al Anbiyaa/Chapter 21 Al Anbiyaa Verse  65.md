@@ -452,6 +452,18 @@ Thumma Nukisū 'Alá Ru'ūsihim Laqad 'Alimta Mā Hā'uulā' Yanţiqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ نُكِسُوا عَلَى رُءُوسِهِمْ لَقَدْ عَلِمْتَ مَا هَؤُلَاءِ يَنْطِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم نكسوا على رءوسهم لقد علمت ما هولاء ينطقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ نُكِسُوا۟ عَلَىٰ رُءُوسِهِمۡ لَقَدۡ عَلِمۡتَ مَا هَـٰۤؤُلَاۤءِ یَنطِقُونَ
 
 | Details |  |

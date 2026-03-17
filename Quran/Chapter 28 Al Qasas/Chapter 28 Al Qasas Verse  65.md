@@ -452,6 +452,18 @@ Wa Yawma Yunādīhim Fayaqūlu Mādhā 'Ajabtumu Al-Mursalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ مَاذَا أَجَبْتُمُ الْمُرْسَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويوم يناديهم فيقول ماذا اجبتم المرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَوۡمَ یُنَادِیهِمۡ فَیَقُولُ مَاذَاۤ أَجَبۡتُمُ ٱلۡمُرۡسَلِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Min Kulli Shay'in Khalaqnā Zawjayni La'allakum Tadhakkarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنْ كُلِّ شَيْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن كل شيء خلقنا زوجين لعلكم تذكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِن كُلِّ شَیۡءٍ خَلَقۡنَا زَوۡجَیۡنِ لَعَلَّكُمۡ تَذَكَّرُونَ
 
 | Details |  |

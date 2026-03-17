@@ -452,6 +452,18 @@ Wa 'Innaka La'alá Khuluqin 'Ažīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّكَ لَعَلَى خُلُقٍ عَظِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانك لعلى خلق عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِیمࣲ
 
 | Details |  |

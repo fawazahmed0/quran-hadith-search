@@ -452,6 +452,18 @@ Lā Tubqī Wa Lā Tadharu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا تُبْقِي وَلَا تَذَرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا تبقي ولا تذر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا تُبۡقِی وَلَا تَذَرُ
 
 | Details |  |

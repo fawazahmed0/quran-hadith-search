@@ -452,6 +452,18 @@ Fakadhabūhu Fa'akhadhahum 'Adhābu Yawmi Až-Žullati 'Innahu Kāna 'Adhāba Ya
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكذبوه فاخذهم عذاب يوم الظلة انه كان عذاب يوم عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكَذَّبُوهُ فَأَخَذَهُمۡ عَذَابُ یَوۡمِ ٱلظُّلَّةِۚ إِنَّهُۥ كَانَ عَذَابَ یَوۡمٍ عَظِیمٍ
 
 | Details |  |

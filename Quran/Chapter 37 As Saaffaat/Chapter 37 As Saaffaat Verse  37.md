@@ -452,6 +452,18 @@ Bal Jā'a Bil-Ĥaqqi Wa Şaddaqa Al-Mursalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ جَاءَ بِالْحَقِّ وَصَدَّقَ الْمُرْسَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل جاء بالحق وصدق المرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ جَاۤءَ بِٱلۡحَقِّ وَصَدَّقَ ٱلۡمُرۡسَلِینَ
 
 | Details |  |

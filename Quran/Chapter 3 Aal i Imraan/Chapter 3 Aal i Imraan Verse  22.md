@@ -452,6 +452,18 @@ Ula'ika Al-Ladhina Habitat 'A'maluhum Fi Ad-Dunya Wa Al-'Akhirati Wa Ma Lahum Mi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ الَّذِينَ حَبِطَتْ أَعْمَالُهُمْ فِي الدُّنْيَا وَالْآخِرَةِ وَمَا لَهُمْ مِنْ نَاصِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك الذين حبطت اعمالهم في الدنيا والاخرة وما لهم من ناصرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ ٱلَّذِینَ حَبِطَتۡ أَعۡمَـٰلُهُمۡ فِی ٱلدُّنۡیَا وَٱلۡءَاخِرَةِ وَمَا لَهُم مِّن نَّـٰصِرِینَ
 
 | Details |  |

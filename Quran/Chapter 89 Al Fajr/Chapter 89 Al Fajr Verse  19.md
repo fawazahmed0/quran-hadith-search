@@ -452,6 +452,18 @@ Wa Ta'kulūna At-Turātha 'Aklāan Lammāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَمًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتاكلون التراث اكلا لما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَأۡكُلُونَ ٱلتُّرَاثَ أَكۡلࣰا لَّمࣰّا
 
 | Details |  |

@@ -452,6 +452,18 @@ Qul Kūnū Ĥijāratan 'Aw Ĥadīdāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ كُونُوا حِجَارَةً أَوْ حَدِيدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل كونوا حجارة او حديدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ قُلۡ كُونُوا۟ حِجَارَةً أَوۡ حَدِیدًا
 
 | Details |  |

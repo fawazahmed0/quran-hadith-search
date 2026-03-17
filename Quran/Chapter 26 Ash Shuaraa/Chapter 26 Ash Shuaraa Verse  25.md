@@ -452,6 +452,18 @@ Qāla Liman Ĥawlahu 'Alā Tastami'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ لِمَنْ حَوْلَهُ أَلَا تَسْتَمِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال لمن حوله الا تستمعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ لِمَنۡ حَوۡلَهُۥۤ أَلَا تَسۡتَمِعُونَ
 
 | Details |  |

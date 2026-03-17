@@ -452,6 +452,18 @@ Wa Yabqá Wajhu Rabbika Dhū Al-Jalāli Wa Al-'Ikrāmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَبْقَى وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويبقى وجه ربك ذو الجلال والاكرام
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَبۡقَىٰ وَجۡهُ رَبِّكَ ذُو ٱلۡجَلَـٰلِ وَٱلۡإِكۡرَامِ
 
 | Details |  |

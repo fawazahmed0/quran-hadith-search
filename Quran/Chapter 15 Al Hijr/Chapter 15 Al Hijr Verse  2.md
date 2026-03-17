@@ -452,6 +452,18 @@ Rubamā Yawaddu Al-Ladhīna Kafarū Law Kānū Muslimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رُبَمَا يَوَدُّ الَّذِينَ كَفَرُوا لَوْ كَانُوا مُسْلِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ربما يود الذين كفروا لو كانوا مسلمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رُّبَمَا یَوَدُّ ٱلَّذِینَ كَفَرُوا۟ لَوۡ كَانُوا۟ مُسۡلِمِینَ
 
 | Details |  |

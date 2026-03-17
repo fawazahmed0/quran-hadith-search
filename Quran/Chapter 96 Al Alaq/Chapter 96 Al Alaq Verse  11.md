@@ -452,6 +452,18 @@ Ara'ayta 'In Kāna 'Alá Al-Hudá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَرَأَيْتَ إِنْ كَانَ عَلَى الْهُدَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ارايت ان كان على الهدى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَرَءَیۡتَ إِن كَانَ عَلَى ٱلۡهُدَىٰۤ
 
 | Details |  |

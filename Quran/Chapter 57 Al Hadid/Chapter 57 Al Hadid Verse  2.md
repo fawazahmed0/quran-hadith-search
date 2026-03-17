@@ -452,6 +452,18 @@ Lahu Mulku As-Samāwāti Wa Al-'Arđi Yuĥyī Wa Yumītu Wa Huwa 'Alá Kulli Sha
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+له ملك السماوات والارض يحيي ويميت وهو على كل شيء قدير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَهُۥ مُلۡكُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۖ یُحۡیِۦ وَیُمِیتُۖ وَهُوَ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرٌ
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna Al-Ladhīna Kafarū Wa Žalamū Lam Yakuni Allāhu Liyaghfira Lahum Wa Lā 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ كَفَرُوا وَظَلَمُوا لَمْ يَكُنِ اللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ طَرِيقًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين كفروا وظلموا لم يكن الله ليغفر لهم ولا ليهديهم طريقا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ كَفَرُوا۟ وَظَلَمُوا۟ لَمۡ یَكُنِ ٱللَّهُ لِیَغۡفِرَ لَهُمۡ وَلَا لِیَهۡدِیَهُمۡ طَرِیقًا
 
 | Details |  |

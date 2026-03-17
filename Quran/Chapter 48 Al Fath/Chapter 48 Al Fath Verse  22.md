@@ -452,6 +452,18 @@ Wa Law Qātalakumu Al-Ladhīna Kafarū Lawallaw Al-'Adbāra Thumma Lā Yajidūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْ قَاتَلَكُمُ الَّذِينَ كَفَرُوا لَوَلَّوُا الْأَدْبَارَ ثُمَّ لَا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولو قاتلكم الذين كفروا لولوا الادبار ثم لا يجدون وليا ولا نصيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡ قَـٰتَلَكُمُ ٱلَّذِینَ كَفَرُوا۟ لَوَلَّوُا۟ ٱلۡأَدۡبَـٰرَ ثُمَّ لَا یَجِدُونَ وَلِیࣰّا وَلَا نَصِیرࣰا
 
 | Details |  |

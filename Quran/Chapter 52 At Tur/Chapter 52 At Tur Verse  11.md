@@ -452,6 +452,18 @@ Fawaylun Yawma'idhin Lilmukadhibīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَوَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فويل يوميذ للمكذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَوَیۡلࣱ یَوۡمَئِذࣲ لِّلۡمُكَذِّبِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Mā Žalamnāhum Wa Lakin Kānū Humu Až-Žālimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا ظَلَمْنَاهُمْ وَلَكِنْ كَانُوا هُمُ الظَّالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ظلمناهم ولكن كانوا هم الظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا ظَلَمۡنَـٰهُمۡ وَلَـٰكِن كَانُوا۟ هُمُ ٱلظَّـٰلِمِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Lā 'Uqsimu Bin-Nafsi Al-Lawwāmahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا اقسم بالنفس اللوامة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَاۤ أُقۡسِمُ بِٱلنَّفۡسِ ٱللَّوَّامَةِ
 
 | Details |  |

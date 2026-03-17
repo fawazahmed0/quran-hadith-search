@@ -452,6 +452,18 @@ Thumma Danā Fatadallá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ دَنَا فَتَدَلَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم دنا فتدلى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ دَنَا فَتَدَلَّىٰ
 
 | Details |  |

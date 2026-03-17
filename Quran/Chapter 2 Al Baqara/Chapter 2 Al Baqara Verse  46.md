@@ -452,6 +452,18 @@ Al-Ladhīna Yažunnūna 'Annahum Mulāqū Rabbihim Wa 'Annahum 'Ilayhi Rāji'ūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ يَظُنُّونَ أَنَّهُمْ مُلَاقُو رَبِّهِمْ وَأَنَّهُمْ إِلَيْهِ رَاجِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين يظنون انهم ملاقو ربهم وانهم اليه راجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ یَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ رَبِّهِمۡ وَأَنَّهُمۡ إِلَیۡهِ رَ ٰجِعُونَ
 
 | Details |  |

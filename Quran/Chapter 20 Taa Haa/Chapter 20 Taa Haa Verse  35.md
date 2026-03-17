@@ -452,6 +452,18 @@ Innaka Kunta Binā Başīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّكَ كُنْتَ بِنَا بَصِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انك كنت بنا بصيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّكَ كُنتَ بِنَا بَصِیرࣰا
 
 | Details |  |

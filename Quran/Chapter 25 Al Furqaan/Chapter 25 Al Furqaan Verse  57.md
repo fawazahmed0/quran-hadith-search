@@ -452,6 +452,18 @@ Qul MÄ 'As'alukum 'Alayhi Min 'Ajrin 'IllÄ Man ShÄ'a 'An Yattakhidha 'I
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ مَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِلَّا مَنْ شَاءَ أَنْ يَتَّخِذَ إِلَى رَبِّهِ سَبِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل ما اسالكم عليه من اجر الا من شاء ان يتخذ الى ربه سبيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ مَاۤ أَسۡءَلُكُمۡ عَلَیۡهِ مِنۡ أَجۡرٍ إِلَّا مَن شَاۤءَ أَن یَتَّخِذَ إِلَىٰ رَبِّهِۦ سَبِیلࣰا
 
 | Details |  |

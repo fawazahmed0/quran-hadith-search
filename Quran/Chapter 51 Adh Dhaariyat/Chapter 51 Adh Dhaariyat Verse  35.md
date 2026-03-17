@@ -452,6 +452,18 @@ Fa'akhrajnā Man Kāna Fīhā Mina Al-Mu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَخْرَجْنَا مَنْ كَانَ فِيهَا مِنَ الْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاخرجنا من كان فيها من المومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَخۡرَجۡنَا مَن كَانَ فِیهَا مِنَ ٱلۡمُؤۡمِنِینَ
 
 | Details |  |

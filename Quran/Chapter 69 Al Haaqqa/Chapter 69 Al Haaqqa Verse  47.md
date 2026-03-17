@@ -452,6 +452,18 @@ Famā Minkum Min 'Aĥadin 'Anhu Ĥājizīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَا مِنْكُمْ مِنْ أَحَدٍ عَنْهُ حَاجِزِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فما منكم من احد عنه حاجزين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَا مِنكُم مِّنۡ أَحَدٍ عَنۡهُ حَـٰجِزِینَ
 
 | Details |  |

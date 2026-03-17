@@ -452,6 +452,18 @@ Thumma 'Innakum 'Ayyuhā Ađ-Đāllūna Al-Mukadhibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ إِنَّكُمْ أَيُّهَا الضَّالُّونَ الْمُكَذِّبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم انكم ايها الضالون المكذبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ إِنَّكُمۡ أَیُّهَا ٱلضَّاۤلُّونَ ٱلۡمُكَذِّبُونَ
 
 | Details |  |

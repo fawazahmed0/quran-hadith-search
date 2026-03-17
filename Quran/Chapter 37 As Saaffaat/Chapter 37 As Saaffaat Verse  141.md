@@ -452,6 +452,18 @@ Fasāhama Fakāna Mina Al-Mudĥađīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَسَاهَمَ فَكَانَ مِنَ الْمُدْحَضِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فساهم فكان من المدحضين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَسَاهَمَ فَكَانَ مِنَ ٱلۡمُدۡحَضِینَ
 
 | Details |  |

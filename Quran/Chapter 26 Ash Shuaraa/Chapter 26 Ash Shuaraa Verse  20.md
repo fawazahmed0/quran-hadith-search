@@ -452,6 +452,18 @@ Qāla Fa'altuhā 'Idhāan Wa 'Anā Mina Ađ-Đāllīn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ فَعَلْتُهَا إِذًا وَأَنَا مِنَ الضَّالِّينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال فعلتها اذا وانا من الضالين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ فَعَلۡتُهَاۤ إِذࣰا وَأَنَا۠ مِنَ ٱلضَّاۤلِّینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fa'anjaynāhu Wa Man Ma'ahu Fī Al-Fulki Al-Mashĥūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَنْجَيْنَاهُ وَمَنْ مَعَهُ فِي الْفُلْكِ الْمَشْحُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانجيناه ومن معه في الفلك المشحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَنجَیۡنَـٰهُ وَمَن مَّعَهُۥ فِی ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ
 
 | Details |  |

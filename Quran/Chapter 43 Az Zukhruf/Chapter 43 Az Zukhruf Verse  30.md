@@ -452,6 +452,18 @@ Wa Lammā Jā'ahumu Al-Ĥaqqu Qālū Hādhā Siĥrun Wa 'Innā Bihi Kāfirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَمَّا جَاءَهُمُ الْحَقُّ قَالُوا هَذَا سِحْرٌ وَإِنَّا بِهِ كَافِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولما جاءهم الحق قالوا هذا سحر وانا به كافرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَمَّا جَاۤءَهُمُ ٱلۡحَقُّ قَالُوا۟ هَـٰذَا سِحۡرࣱ وَإِنَّا بِهِۦ كَـٰفِرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qālū Tilka 'Idhāan Karratun Khāsirahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا تلك اذا كرة خاسرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ تِلۡكَ إِذࣰا كَرَّةٌ خَاسِرَةࣱ
 
 | Details |  |

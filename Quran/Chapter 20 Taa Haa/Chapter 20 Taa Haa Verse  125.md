@@ -452,6 +452,18 @@ Qāla Rabbi Lima Ĥashartanī 'A'má Wa Qad Kuntu Başīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ لِمَ حَشَرْتَنِي أَعْمَى وَقَدْ كُنْتُ بَصِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب لم حشرتني اعمى وقد كنت بصيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ لِمَ حَشَرۡتَنِیۤ أَعۡمَىٰ وَقَدۡ كُنتُ بَصِیرࣰا
 
 | Details |  |

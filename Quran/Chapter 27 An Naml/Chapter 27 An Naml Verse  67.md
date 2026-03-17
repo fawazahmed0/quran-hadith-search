@@ -452,6 +452,18 @@ Wa Qāla Al-Ladhīna Kafarū 'A'idhā Kunnā Turābāan Wa 'Ābā'uunā 'A'innā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ الَّذِينَ كَفَرُوا أَإِذَا كُنَّا تُرَابًا وَآبَاؤُنَا أَئِنَّا لَمُخْرَجُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال الذين كفروا ااذا كنا ترابا واباونا اينا لمخرجون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ ٱلَّذِینَ كَفَرُوۤا۟ أَءِذَا كُنَّا تُرَ ٰبࣰا وَءَابَاۤؤُنَاۤ أَئِنَّا لَمُخۡرَجُونَ
 
 | Details |  |

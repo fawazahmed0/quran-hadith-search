@@ -452,6 +452,18 @@ Wa 'Innī Khiftu Al-Mawāliya Min Warā'ī Wa Kānati Amra'atī 'Āqirāan Fahab
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنِّي خِفْتُ الْمَوَالِيَ مِنْ وَرَائِي وَكَانَتِ امْرَأَتِي عَاقِرًا فَهَبْ لِي مِنْ لَدُنْكَ وَلِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واني خفت الموالي من ورايي وكانت امراتي عاقرا فهب لي من لدنك وليا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنِّی خِفۡتُ ٱلۡمَوَ ٰلِیَ مِن وَرَاۤءِی وَكَانَتِ ٱمۡرَأَتِی عَاقِرࣰا فَهَبۡ لِی مِن لَّدُنكَ وَلِیࣰّا
 
 | Details |  |

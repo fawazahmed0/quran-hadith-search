@@ -452,6 +452,18 @@ Qul 'Innamā 'Undhirukum Bil-Waĥyi Wa Lā Yasma'u Aş-Şummu Ad-Du'ā'a 'Idhā 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ إِنَّمَا أُنْذِرُكُمْ بِالْوَحْيِ وَلَا يَسْمَعُ الصُّمُّ الدُّعَاءَ إِذَا مَا يُنْذَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل انما انذركم بالوحي ولا يسمع الصم الدعاء اذا ما ينذرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ إِنَّمَاۤ أُنذِرُكُم بِٱلۡوَحۡیِۚ وَلَا یَسۡمَعُ ٱلصُّمُّ ٱلدُّعَاۤءَ إِذَا مَا یُنذَرُونَ
 
 | Details |  |

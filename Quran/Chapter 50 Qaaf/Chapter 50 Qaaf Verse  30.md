@@ -452,6 +452,18 @@ Yawma Naqūlu Lijahannama Hal Amtala'ti Wa Taqūlu Hal Min Mazīdin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ امْتَلَأْتِ وَتَقُولُ هَلْ مِنْ مَزِيدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم نقول لجهنم هل امتلات وتقول هل من مزيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمۡتَلَأۡتِ وَتَقُولُ هَلۡ مِن مَّزِیدࣲ
 
 | Details |  |

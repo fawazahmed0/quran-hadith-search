@@ -452,6 +452,18 @@ Falammā 'Ataw 'An Mā Nuhū 'Anhu Qulnā Lahum Kūnū Qiradatan Khāsi'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا عَتَوْا عَنْ مَا نُهُوا عَنْهُ قُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما عتوا عن ما نهوا عنه قلنا لهم كونوا قردة خاسيين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّا عَتَوۡا۟ عَن مَّا نُهُوا۟ عَنۡهُ قُلۡنَا لَهُمۡ كُونُوا۟ قِرَدَةً خَـٰسِءِینَ
 
 | Details |  |

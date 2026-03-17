@@ -452,6 +452,18 @@ Famanna Allāhu 'Alaynā Wa Waqānā 'Adhāba As-Samūmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَنَّ اللَّهُ عَلَيْنَا وَوَقَانَا عَذَابَ السَّمُومِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فمن الله علينا ووقانا عذاب السموم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَنَّ ٱللَّهُ عَلَیۡنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ
 
 | Details |  |

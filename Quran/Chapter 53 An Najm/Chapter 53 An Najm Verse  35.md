@@ -452,6 +452,18 @@ A'indahu 'Ilmu Al-Ghaybi Fahuwa Yará
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَعِنْدَهُ عِلْمُ الْغَيْبِ فَهُوَ يَرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اعنده علم الغيب فهو يرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَعِندَهُۥ عِلۡمُ ٱلۡغَیۡبِ فَهُوَ یَرَىٰۤ
 
 | Details |  |

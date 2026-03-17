@@ -452,6 +452,18 @@ Yuqallibu Allāhu Al-Layla Wa An-Nahāra 'Inna Fī Dhālika La'ibratan Li'wlī A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُقَلِّبُ اللَّهُ اللَّيْلَ وَالنَّهَارَ إِنَّ فِي ذَلِكَ لَعِبْرَةً لِأُولِي الْأَبْصَارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يقلب الله الليل والنهار ان في ذلك لعبرة لاولي الابصار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُقَلِّبُ ٱللَّهُ ٱلَّیۡلَ وَٱلنَّهَارَۚ إِنَّ فِی ذَ ٰلِكَ لَعِبۡرَةࣰ لِّأُو۟لِی ٱلۡأَبۡصَـٰرِ
 
 | Details |  |

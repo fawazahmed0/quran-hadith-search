@@ -452,6 +452,18 @@ Idhā Rujjati Al-'Arđu Rajjāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذَا رُجَّتِ الْأَرْضُ رَجًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذا رجت الارض رجا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجࣰّا
 
 | Details |  |

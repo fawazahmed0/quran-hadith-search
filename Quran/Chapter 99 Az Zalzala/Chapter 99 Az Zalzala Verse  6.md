@@ -452,6 +452,18 @@ Yawma'idhin Yaşduru An-Nāsu 'Ashtātāan Liyuraw 'A'mālahum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوميذ يصدر الناس اشتاتا ليروا اعمالهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَئِذࣲ یَصۡدُرُ ٱلنَّاسُ أَشۡتَاتࣰا لِّیُرَوۡا۟ أَعۡمَـٰلَهُمۡ
 
 | Details |  |

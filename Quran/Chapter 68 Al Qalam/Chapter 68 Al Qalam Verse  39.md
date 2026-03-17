@@ -452,6 +452,18 @@ Am Lakum 'Aymānun 'Alaynā Bālighatun 'Ilá Yawmi Al-Qiyāmati 'Inna Lakum Lam
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ لَكُمْ أَيْمَانٌ عَلَيْنَا بَالِغَةٌ إِلَى يَوْمِ الْقِيَامَةِ إِنَّ لَكُمْ لَمَا تَحْكُمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام لكم ايمان علينا بالغة الى يوم القيامة ان لكم لما تحكمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ لَكُمۡ أَیۡمَـٰنٌ عَلَیۡنَا بَـٰلِغَةٌ إِلَىٰ یَوۡمِ ٱلۡقِیَـٰمَةِ إِنَّ لَكُمۡ لَمَا تَحۡكُمُونَ
 
 | Details |  |

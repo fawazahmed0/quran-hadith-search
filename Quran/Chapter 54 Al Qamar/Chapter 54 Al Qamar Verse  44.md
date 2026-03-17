@@ -452,6 +452,18 @@ Am Yaqūlūna Naĥnu Jamī'un Muntaşirun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُنْتَصِرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام يقولون نحن جميع منتصر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ یَقُولُونَ نَحۡنُ جَمِیعࣱ مُّنتَصِرࣱ
 
 | Details |  |

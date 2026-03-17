@@ -452,6 +452,18 @@ Suhufi 'Ibrahima Wa Musa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+صُحُفِ إِبْرَاهِيمَ وَمُوسَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+صحف ابراهيم وموسى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 صُحُفِ إِبۡرَ ٰهِیمَ وَمُوسَىٰ
 
 | Details |  |

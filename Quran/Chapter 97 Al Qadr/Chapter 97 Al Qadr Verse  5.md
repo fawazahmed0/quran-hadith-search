@@ -452,6 +452,18 @@ Salāmun Hiya Ĥattá Maţla'i Al-Fajri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَلَامٌ هِيَ حَتَّى مَطْلَعِ الْفَجْرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سلام هي حتى مطلع الفجر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَلَـٰمٌ هِیَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ
 
 | Details |  |

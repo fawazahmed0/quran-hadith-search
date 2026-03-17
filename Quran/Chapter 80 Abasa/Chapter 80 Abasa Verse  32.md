@@ -452,6 +452,18 @@ Matā'āan Lakum Wa Li'an'āmikum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+متاعا لكم ولانعامكم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّتَـٰعࣰا لَّكُمۡ وَلِأَنۡعَـٰمِكُمۡ
 
 | Details |  |

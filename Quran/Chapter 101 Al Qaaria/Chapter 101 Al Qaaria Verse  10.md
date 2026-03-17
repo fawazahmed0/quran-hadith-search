@@ -452,6 +452,18 @@ Wa Mā 'Adrāka Mā Hiyah
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَدْرَاكَ مَا هِيَهْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ادراك ما هيه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَدۡرَىٰكَ مَا هِیَهۡ
 
 | Details |  |

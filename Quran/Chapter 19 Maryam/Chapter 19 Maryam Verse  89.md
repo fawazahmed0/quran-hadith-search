@@ -452,6 +452,18 @@ Laqad Ji'tum Shay'āan 'Iddāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَقَدْ جِئْتُمْ شَيْئًا إِدًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لقد جيتم شييا ادا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّقَدۡ جِئۡتُمۡ شَیۡءًا إِدࣰّا
 
 | Details |  |

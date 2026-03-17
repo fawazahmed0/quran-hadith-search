@@ -452,6 +452,18 @@ Wa As-Samā'i Dhāti Ar-Raj'i
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالسَّمَاءِ ذَاتِ الرَّجْعِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والسماء ذات الرجع
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلسَّمَاۤءِ ذَاتِ ٱلرَّجۡعِ
 
 | Details |  |

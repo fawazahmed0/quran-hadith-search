@@ -452,6 +452,18 @@ Inna Hādhā Al-Qur'āna Yaquşşu 'Alá Banī 'Isrā'īla 'Akthara Al-Ladhī Hu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ هَذَا الْقُرْآنَ يَقُصُّ عَلَى بَنِي إِسْرَائِيلَ أَكْثَرَ الَّذِي هُمْ فِيهِ يَخْتَلِفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هذا القران يقص على بني اسراييل اكثر الذي هم فيه يختلفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ هَـٰذَا ٱلۡقُرۡءَانَ یَقُصُّ عَلَىٰ بَنِیۤ إِسۡرَ ٰۤءِیلَ أَكۡثَرَ ٱلَّذِی هُمۡ فِیهِ یَخۡتَلِفُونَ
 
 | Details |  |

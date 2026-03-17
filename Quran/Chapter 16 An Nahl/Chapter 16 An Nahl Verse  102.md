@@ -452,6 +452,18 @@ Qul Nazzalahu Rūĥu Al-Qudusi Min Rabbika Bil-Ĥaqqi Liyuthabbita Al-Ladhīna '
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ نَزَّلَهُ رُوحُ الْقُدُسِ مِنْ رَبِّكَ بِالْحَقِّ لِيُثَبِّتَ الَّذِينَ آمَنُوا وَهُدًى وَبُشْرَى لِلْمُسْلِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل نزله روح القدس من ربك بالحق ليثبت الذين امنوا وهدى وبشرى للمسلمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ نَزَّلَهُۥ رُوحُ ٱلۡقُدُسِ مِن رَّبِّكَ بِٱلۡحَقِّ لِیُثَبِّتَ ٱلَّذِینَ ءَامَنُوا۟ وَهُدࣰى وَبُشۡرَىٰ لِلۡمُسۡلِمِینَ
 
 | Details |  |

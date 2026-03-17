@@ -452,6 +452,18 @@ Fata'ālá Allāhu Al-Maliku Al-Ĥaqqu Lā 'Ilāha 'Illā Huwa Rabbu Al-'Arshi A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ لَا إِلَهَ إِلَّا هُوَ رَبُّ الْعَرْشِ الْكَرِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فتعالى الله الملك الحق لا اله الا هو رب العرش الكريم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَتَعَـٰلَى ٱللَّهُ ٱلۡمَلِكُ ٱلۡحَقُّۖ لَاۤ إِلَـٰهَ إِلَّا هُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡكَرِیمِ
 
 | Details |  |

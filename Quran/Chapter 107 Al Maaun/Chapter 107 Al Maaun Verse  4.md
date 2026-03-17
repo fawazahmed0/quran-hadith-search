@@ -452,6 +452,18 @@ Fawaylun Lilmuşallīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَوَيْلٌ لِلْمُصَلِّينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فويل للمصلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَوَیۡلࣱ لِّلۡمُصَلِّینَ
 
 | Details |  |

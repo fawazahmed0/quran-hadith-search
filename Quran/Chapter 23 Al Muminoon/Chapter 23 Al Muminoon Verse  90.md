@@ -452,6 +452,18 @@ Bal 'Ataynāhum Bil-Ĥaqqi Wa 'Innahum Lakādhibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ أَتَيْنَاهُمْ بِالْحَقِّ وَإِنَّهُمْ لَكَاذِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل اتيناهم بالحق وانهم لكاذبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ أَتَیۡنَـٰهُم بِٱلۡحَقِّ وَإِنَّهُمۡ لَكَـٰذِبُونَ
 
 | Details |  |

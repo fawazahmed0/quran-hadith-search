@@ -452,6 +452,18 @@ Fakku Raqabahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكُّ رَقَبَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فك رقبة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكُّ رَقَبَةٍ
 
 | Details |  |

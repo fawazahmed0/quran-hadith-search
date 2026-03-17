@@ -452,6 +452,18 @@ Wa Al-Ladhīna Tad'ūna Min Dūnihi Lā Yastaţī'ūna Naşrakum Wa Lā 'Anfusah
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ تَدْعُونَ مِنْ دُونِهِ لَا يَسْتَطِيعُونَ نَصْرَكُمْ وَلَا أَنْفُسَهُمْ يَنْصُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين تدعون من دونه لا يستطيعون نصركم ولا انفسهم ينصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ تَدۡعُونَ مِن دُونِهِۦ لَا یَسۡتَطِیعُونَ نَصۡرَكُمۡ وَلَاۤ أَنفُسَهُمۡ یَنصُرُونَ
 
 | Details |  |

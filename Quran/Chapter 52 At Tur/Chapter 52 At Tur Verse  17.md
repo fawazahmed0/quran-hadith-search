@@ -452,6 +452,18 @@ Inna Al-Muttaqīna Fī Jannātin Wa Na'īmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَعِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان المتقين في جنات ونعيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلۡمُتَّقِینَ فِی جَنَّـٰتࣲ وَنَعِیمࣲ
 
 | Details |  |

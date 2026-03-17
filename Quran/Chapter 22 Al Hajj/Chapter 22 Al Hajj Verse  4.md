@@ -452,6 +452,18 @@ Kutiba 'Alayhi 'Annahu Man Tawallāhu Fa'annahu Yuđilluhu Wa Yahdīhi 'Ilá 'Ad
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كُتِبَ عَلَيْهِ أَنَّهُ مَنْ تَوَلَّاهُ فَأَنَّهُ يُضِلُّهُ وَيَهْدِيهِ إِلَى عَذَابِ السَّعِيرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كتب عليه انه من تولاه فانه يضله ويهديه الى عذاب السعير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كُتِبَ عَلَیۡهِ أَنَّهُۥ مَن تَوَلَّاهُ فَأَنَّهُۥ یُضِلُّهُۥ وَیَهۡدِیهِ إِلَىٰ عَذَابِ ٱلسَّعِیرِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla 'Abashartumūnī 'Alá 'An Massaniya Al-Kibaru Fabima Tubashirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ أَبَشَّرْتُمُونِي عَلَى أَنْ مَسَّنِيَ الْكِبَرُ فَبِمَ تُبَشِّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال ابشرتموني على ان مسني الكبر فبم تبشرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ أَبَشَّرۡتُمُونِی عَلَىٰۤ أَن مَّسَّنِیَ ٱلۡكِبَرُ فَبِمَ تُبَشِّرُونَ
 
 | Details |  |

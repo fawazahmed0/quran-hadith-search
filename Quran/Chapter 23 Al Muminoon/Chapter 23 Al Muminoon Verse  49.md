@@ -452,6 +452,18 @@ Wa Laqad 'Ātaynā Mūsá Al-Kitāba La'allahum Yahtadūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ لَعَلَّهُمْ يَهْتَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد اتينا موسى الكتاب لعلهم يهتدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ ءَاتَیۡنَا مُوسَى ٱلۡكِتَـٰبَ لَعَلَّهُمۡ یَهۡتَدُونَ
 
 | Details |  |

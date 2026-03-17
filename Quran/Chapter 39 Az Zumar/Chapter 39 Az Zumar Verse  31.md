@@ -452,6 +452,18 @@ Thumma 'Innakum Yawma Al-Qiyāmati 'Inda Rabbikum Takhtaşimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ إِنَّكُمْ يَوْمَ الْقِيَامَةِ عِنْدَ رَبِّكُمْ تَخْتَصِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم انكم يوم القيامة عند ربكم تختصمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ إِنَّكُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِ عِندَ رَبِّكُمۡ تَخۡتَصِمُونَ
 
 | Details |  |

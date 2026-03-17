@@ -452,6 +452,18 @@ Qālū Bal 'Antum Lā Marĥabāan Bikum 'Antum Qaddamtumūhu Lanā Fabi'sa Al-Qa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا بَلْ أَنْتُمْ لَا مَرْحَبًا بِكُمْ أَنْتُمْ قَدَّمْتُمُوهُ لَنَا فَبِئْسَ الْقَرَارُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا بل انتم لا مرحبا بكم انتم قدمتموه لنا فبيس القرار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ بَلۡ أَنتُمۡ لَا مَرۡحَبَۢا بِكُمۡۖ أَنتُمۡ قَدَّمۡتُمُوهُ لَنَاۖ فَبِئۡسَ ٱلۡقَرَارُ
 
 | Details |  |

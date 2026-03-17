@@ -452,6 +452,18 @@ Fakulū Mimmā Ghanimtum Ĥalālāan Ţayyibāan Wa Attaqū Allāha 'Inna Allāh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكُلُوا مِمَّا غَنِمْتُمْ حَلَالًا طَيِّبًا وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكلوا مما غنمتم حلالا طيبا واتقوا الله ان الله غفور رحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكُلُوا۟ مِمَّا غَنِمۡتُمۡ حَلَـٰلࣰا طَیِّبࣰاۚ وَٱتَّقُوا۟ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِیمࣱ
 
 | Details |  |

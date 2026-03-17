@@ -452,6 +452,18 @@ Wa Hadhā Şirāţu Rabbika Mustaqīmāan Qad Faşşalnā Al-'Āyāti Liqawmin Y
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهَذَا صِرَاطُ رَبِّكَ مُسْتَقِيمًا قَدْ فَصَّلْنَا الْآيَاتِ لِقَوْمٍ يَذَّكَّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهذا صراط ربك مستقيما قد فصلنا الايات لقوم يذكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهَـٰذَا صِرَ ٰطُ رَبِّكَ مُسۡتَقِیمࣰاۗ قَدۡ فَصَّلۡنَا ٱلۡءَایَـٰتِ لِقَوۡمࣲ یَذَّكَّرُونَ
 
 | Details |  |

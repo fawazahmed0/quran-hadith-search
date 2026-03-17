@@ -452,6 +452,18 @@ Lakum Fīhā Manāfi'u 'Ilá 'Ajalin Musammáan Thumma Maĥilluhā 'Ilá Al-Bayt
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَكُمْ فِيهَا مَنَافِعُ إِلَى أَجَلٍ مُسَمًّى ثُمَّ مَحِلُّهَا إِلَى الْبَيْتِ الْعَتِيقِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لكم فيها منافع الى اجل مسمى ثم محلها الى البيت العتيق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَكُمۡ فِیهَا مَنَـٰفِعُ إِلَىٰۤ أَجَلࣲ مُّسَمࣰّى ثُمَّ مَحِلُّهَاۤ إِلَى ٱلۡبَیۡتِ ٱلۡعَتِیقِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Laqad 'Aĥşāhum Wa 'Addahum 'Addāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَقَدْ أَحْصَاهُمْ وَعَدَّهُمْ عَدًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لقد احصاهم وعدهم عدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّقَدۡ أَحۡصَىٰهُمۡ وَعَدَّهُمۡ عَدࣰّا
 
 | Details |  |

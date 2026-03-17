@@ -452,6 +452,18 @@ Dhālika Al-Yawmu Al-Ĥaqqu Faman Shā'a Attakhadha 'Ilá Rabbihi Ma'ābāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ الْيَوْمُ الْحَقُّ فَمَنْ شَاءَ اتَّخَذَ إِلَى رَبِّهِ مَآبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك اليوم الحق فمن شاء اتخذ الى ربه مابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ ٱلۡیَوۡمُ ٱلۡحَقُّۖ فَمَن شَاۤءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَءَابًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Kallā Sayakfurūna Bi'ibādatihim Wa Yakūnūna 'Alayhim Điddāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا سيكفرون بعبادتهم ويكونون عليهم ضدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّاۚ سَیَكۡفُرُونَ بِعِبَادَتِهِمۡ وَیَكُونُونَ عَلَیۡهِمۡ ضِدًّا
 
 | Details |  |

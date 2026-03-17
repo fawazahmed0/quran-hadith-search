@@ -452,6 +452,18 @@ Waylun Lilmuţaffifīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيْلٌ لِلْمُطَفِّفِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويل للمطففين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیۡلࣱ لِّلۡمُطَفِّفِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Lilmuţallaqāti Matā'un Bil-Ma'rūfi Ĥaqqāan 'Alá Al-Muttaqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِلْمُطَلَّقَاتِ مَتَاعٌ بِالْمَعْرُوفِ حَقًّا عَلَى الْمُتَّقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وللمطلقات متاع بالمعروف حقا على المتقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِلۡمُطَلَّقَـٰتِ مَتَـٰعُۢ بِٱلۡمَعۡرُوفِۖ حَقًّا عَلَى ٱلۡمُتَّقِینَ
 
 | Details |  |

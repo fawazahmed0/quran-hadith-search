@@ -452,6 +452,18 @@ Wa Nazzalnā Mina As-Samā'i Mā'an Mubārakāan Fa'anbatnā Bihi Jannātin Wa �
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَزَّلْنَا مِنَ السَّمَاءِ مَاءً مُبَارَكًا فَأَنْبَتْنَا بِهِ جَنَّاتٍ وَحَبَّ الْحَصِيدِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونزلنا من السماء ماء مباركا فانبتنا به جنات وحب الحصيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَزَّلۡنَا مِنَ ٱلسَّمَاۤءِ مَاۤءࣰ مُّبَـٰرَكࣰا فَأَنۢبَتۡنَا بِهِۦ جَنَّـٰتࣲ وَحَبَّ ٱلۡحَصِیدِ
 
 | Details |  |

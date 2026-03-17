@@ -452,6 +452,18 @@ Amman Hādhā Al-Ladhī Yarzuqukum 'In 'Amsaka Rizqahu Bal Lajjū Fī 'Utūwin W
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمَّنْ هَذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ بَلْ لَجُّوا فِي عُتُوٍّ وَنُفُورٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+امن هذا الذي يرزقكم ان امسك رزقه بل لجوا في عتو ونفور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمَّنۡ هَـٰذَا ٱلَّذِی یَرۡزُقُكُمۡ إِنۡ أَمۡسَكَ رِزۡقَهُۥۚ بَل لَّجُّوا۟ فِی عُتُوࣲّ وَنُفُورٍ
 
 | Details |  |

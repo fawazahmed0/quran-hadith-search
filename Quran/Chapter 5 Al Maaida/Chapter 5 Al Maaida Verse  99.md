@@ -452,6 +452,18 @@ Mā 'Alá Ar-Rasūli 'Illā Al-Balāghu Wa Allāhu Ya'lamu Mā Tubdūna Wa Mā T
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا عَلَى الرَّسُولِ إِلَّا الْبَلَاغُ وَاللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما على الرسول الا البلاغ والله يعلم ما تبدون وما تكتمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّا عَلَى ٱلرَّسُولِ إِلَّا ٱلۡبَلَـٰغُۗ وَٱللَّهُ یَعۡلَمُ مَا تُبۡدُونَ وَمَا تَكۡتُمُونَ
 
 | Details |  |

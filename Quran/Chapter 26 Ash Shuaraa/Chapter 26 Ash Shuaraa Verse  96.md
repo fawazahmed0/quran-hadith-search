@@ -452,6 +452,18 @@ Qālū Wa Hum Fīhā Yakhtaşimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا وَهُمْ فِيهَا يَخْتَصِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا وهم فيها يختصمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ وَهُمۡ فِیهَا یَخۡتَصِمُونَ
 
 | Details |  |

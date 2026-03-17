@@ -452,6 +452,18 @@ Inna 'Ilá Rabbika Ar-Ruj'á
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ إِلَى رَبِّكَ الرُّجْعَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الى ربك الرجعى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجۡعَىٰۤ
 
 | Details |  |

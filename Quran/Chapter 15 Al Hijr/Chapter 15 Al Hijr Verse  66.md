@@ -452,6 +452,18 @@ Wa Qađaynā 'Ilayhi Dhālika Al-'Amra 'Anna Dābira Hā'uulā' Maqţū'un Muşb
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَضَيْنَا إِلَيْهِ ذَلِكَ الْأَمْرَ أَنَّ دَابِرَ هَؤُلَاءِ مَقْطُوعٌ مُصْبِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقضينا اليه ذلك الامر ان دابر هولاء مقطوع مصبحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَضَیۡنَاۤ إِلَیۡهِ ذَ ٰلِكَ ٱلۡأَمۡرَ أَنَّ دَابِرَ هَـٰۤؤُلَاۤءِ مَقۡطُوعࣱ مُّصۡبِحِینَ
 
 | Details |  |

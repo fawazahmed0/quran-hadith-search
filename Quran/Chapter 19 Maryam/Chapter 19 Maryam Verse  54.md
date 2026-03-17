@@ -452,6 +452,18 @@ Wa Adhkur Fī Al-Kitābi 'Ismā'īla 'Innahu Kāna Şādiqa Al-Wa'di Wa Kāna Ra
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاذْكُرْ فِي الْكِتَابِ إِسْمَاعِيلَ إِنَّهُ كَانَ صَادِقَ الْوَعْدِ وَكَانَ رَسُولًا نَبِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذكر في الكتاب اسماعيل انه كان صادق الوعد وكان رسولا نبيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱذۡكُرۡ فِی ٱلۡكِتَـٰبِ إِسۡمَـٰعِیلَۚ إِنَّهُۥ كَانَ صَادِقَ ٱلۡوَعۡدِ وَكَانَ رَسُولࣰا نَّبِیࣰّا
 
 | Details |  |

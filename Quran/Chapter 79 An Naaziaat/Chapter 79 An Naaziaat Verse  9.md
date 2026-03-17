@@ -452,6 +452,18 @@ Abşāruhā Khāshi'ahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَبْصَارُهَا خَاشِعَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ابصارها خاشعة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَبۡصَـٰرُهَا خَـٰشِعَةࣱ
 
 | Details |  |

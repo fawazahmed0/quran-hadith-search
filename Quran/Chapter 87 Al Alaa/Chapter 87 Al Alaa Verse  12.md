@@ -452,6 +452,18 @@ Al-Ladhī Yaşlá An-Nāra Al-Kubrá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي يَصْلَى النَّارَ الْكُبْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي يصلى النار الكبرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِی یَصۡلَى ٱلنَّارَ ٱلۡكُبۡرَىٰ
 
 | Details |  |

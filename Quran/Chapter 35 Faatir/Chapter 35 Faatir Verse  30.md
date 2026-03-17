@@ -452,6 +452,18 @@ Liyuwaffiyahum 'Ujūrahum Wa Yazīdahum Min Fađlihi 'Innahu Ghafūrun Shakūrun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُمْ مِنْ فَضْلِهِ إِنَّهُ غَفُورٌ شَكُورٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ليوفيهم اجورهم ويزيدهم من فضله انه غفور شكور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِیُوَفِّیَهُمۡ أُجُورَهُمۡ وَیَزِیدَهُم مِّن فَضۡلِهِۦۤۚ إِنَّهُۥ غَفُورࣱ شَكُورࣱ
 
 | Details |  |

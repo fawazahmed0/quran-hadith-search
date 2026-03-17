@@ -452,6 +452,18 @@ Qālū Na'budu 'Aşnāmāan Fanažallu Lahā 'Ākifīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَاكِفِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا نعبد اصناما فنظل لها عاكفين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ نَعۡبُدُ أَصۡنَامࣰا فَنَظَلُّ لَهَا عَـٰكِفِینَ
 
 | Details |  |

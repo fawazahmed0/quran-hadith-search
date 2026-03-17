@@ -452,6 +452,18 @@ Inna Al-Ladhīna Kafarū Bidh-Dhikri Lammā Jā'ahum Wa 'Innahu Lakitābun 'Azī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ كَفَرُوا بِالذِّكْرِ لَمَّا جَاءَهُمْ وَإِنَّهُ لَكِتَابٌ عَزِيزٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين كفروا بالذكر لما جاءهم وانه لكتاب عزيز
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ كَفَرُوا۟ بِٱلذِّكۡرِ لَمَّا جَاۤءَهُمۡۖ وَإِنَّهُۥ لَكِتَـٰبٌ عَزِیزࣱ
 
 | Details |  |

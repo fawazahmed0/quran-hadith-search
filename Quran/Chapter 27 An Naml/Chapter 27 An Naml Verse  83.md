@@ -452,6 +452,18 @@ Wa Yawma Naĥshuru Min Kulli 'Ummatin Fawjāan Mimman Yukadhibu Bi'āyātinā Fa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَوْمَ نَحْشُرُ مِنْ كُلِّ أُمَّةٍ فَوْجًا مِمَّنْ يُكَذِّبُ بِآيَاتِنَا فَهُمْ يُوزَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويوم نحشر من كل امة فوجا ممن يكذب باياتنا فهم يوزعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَوۡمَ نَحۡشُرُ مِن كُلِّ أُمَّةࣲ فَوۡجࣰا مِّمَّن یُكَذِّبُ بِءَایَـٰتِنَا فَهُمۡ یُوزَعُونَ
 
 | Details |  |

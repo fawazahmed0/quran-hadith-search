@@ -452,6 +452,18 @@ Wa Ja'alnā Lakum Fīhā Ma'āyisha Wa Man Lastum Lahu Birāziqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ وَمَنْ لَسْتُمْ لَهُ بِرَازِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلنا لكم فيها معايش ومن لستم له برازقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلۡنَا لَكُمۡ فِیهَا مَعَـٰیِشَ وَمَن لَّسۡتُمۡ لَهُۥ بِرَ ٰزِقِینَ
 
 | Details |  |

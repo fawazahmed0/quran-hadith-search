@@ -452,6 +452,18 @@ Faman Tawallá Ba'da Dhālika Fa'ūlā'ika Humu Al-Fāsiqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَنْ تَوَلَّى بَعْدَ ذَلِكَ فَأُولَئِكَ هُمُ الْفَاسِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فمن تولى بعد ذلك فاوليك هم الفاسقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَن تَوَلَّىٰ بَعۡدَ ذَ ٰلِكَ فَأُو۟لَـٰۤئِكَ هُمُ ٱلۡفَـٰسِقُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Mannā'in Lilkhayri Mu'tadin Murībin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَنَّاعٍ لِلْخَيْرِ مُعْتَدٍ مُرِيبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+مناع للخير معتد مريب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّنَّاعࣲ لِّلۡخَیۡرِ مُعۡتَدࣲ مُّرِیبٍ
 
 | Details |  |

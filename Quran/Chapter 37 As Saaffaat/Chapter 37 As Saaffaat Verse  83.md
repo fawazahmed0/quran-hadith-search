@@ -452,6 +452,18 @@ Wa 'Inna Min Shī'atihi La'ibrāhīma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ مِنْ شِيعَتِهِ لَإِبْرَاهِيمَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان من شيعته لابراهيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَإِنَّ مِن شِیعَتِهِۦ لَإِبۡرَ ٰهِیمَ
 
 | Details |  |

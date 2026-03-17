@@ -452,6 +452,18 @@ Wa Mina Al-Layli Fasabbiĥhu Wa 'Idbāra An-Nujūmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَإِدْبَارَ النُّجُومِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن الليل فسبحه وادبار النجوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِنَ ٱلَّیۡلِ فَسَبِّحۡهُ وَإِدۡبَـٰرَ ٱلنُّجُومِ
 
 | Details |  |

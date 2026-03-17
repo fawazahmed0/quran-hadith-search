@@ -452,6 +452,18 @@ Qul 'Adhalika Khayrun 'Am Jannatu Al-Khuldi Allatī Wu'ida Al-Muttaqūna Kānat 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ أَذَلِكَ خَيْرٌ أَمْ جَنَّةُ الْخُلْدِ الَّتِي وُعِدَ الْمُتَّقُونَ كَانَتْ لَهُمْ جَزَاءً وَمَصِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل اذلك خير ام جنة الخلد التي وعد المتقون كانت لهم جزاء ومصيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ أَذَ ٰلِكَ خَیۡرٌ أَمۡ جَنَّةُ ٱلۡخُلۡدِ ٱلَّتِی وُعِدَ ٱلۡمُتَّقُونَۚ كَانَتۡ لَهُمۡ جَزَاۤءࣰ وَمَصِیرࣰا
 
 | Details |  |

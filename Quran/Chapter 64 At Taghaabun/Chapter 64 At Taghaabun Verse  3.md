@@ -452,6 +452,18 @@ Khalaqa As-Samāwāti Wa Al-'Arđa Bil-Ĥaqqi Wa Şawwarakum Fa'aĥsana Şuwarak
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ وَإِلَيْهِ الْمَصِيرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خلق السماوات والارض بالحق وصوركم فاحسن صوركم واليه المصير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خَلَقَ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّ وَصَوَّرَكُمۡ فَأَحۡسَنَ صُوَرَكُمۡۖ وَإِلَیۡهِ ٱلۡمَصِیرُ
 
 | Details |  |

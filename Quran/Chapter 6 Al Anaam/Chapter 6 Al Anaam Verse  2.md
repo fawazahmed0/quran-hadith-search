@@ -452,6 +452,18 @@ Huwa Al-Ladhī Khalaqakum Min Ţīnin Thumma Qađá 'Ajalāan Wa 'Ajalun Musamm�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُوَ الَّذِي خَلَقَكُمْ مِنْ طِينٍ ثُمَّ قَضَى أَجَلًا وَأَجَلٌ مُسَمًّى عِنْدَهُ ثُمَّ أَنْتُمْ تَمْتَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هو الذي خلقكم من طين ثم قضى اجلا واجل مسمى عنده ثم انتم تمترون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُوَ ٱلَّذِی خَلَقَكُم مِّن طِینࣲ ثُمَّ قَضَىٰۤ أَجَلࣰاۖ وَأَجَلࣱ مُّسَمًّى عِندَهُۥۖ ثُمَّ أَنتُمۡ تَمۡتَرُونَ
 
 | Details |  |

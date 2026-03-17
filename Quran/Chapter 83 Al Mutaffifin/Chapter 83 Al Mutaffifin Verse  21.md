@@ -452,6 +452,18 @@ Yash/haduhu Al-Muqarrabūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَشْهَدُهُ الْمُقَرَّبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يشهده المقربون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَشۡهَدُهُ ٱلۡمُقَرَّبُونَ
 
 | Details |  |

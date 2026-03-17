@@ -452,6 +452,18 @@ Wa Ka'sāan Dihāqāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَأْسًا دِهَاقًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكاسا دهاقا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَأۡسࣰا دِهَاقࣰا
 
 | Details |  |

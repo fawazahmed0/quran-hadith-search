@@ -452,6 +452,18 @@ Al-Ladhī 'Anqađa Žahraka
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي أَنْقَضَ ظَهْرَكَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي انقض ظهرك
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِیۤ أَنقَضَ ظَهۡرَكَ
 
 | Details |  |

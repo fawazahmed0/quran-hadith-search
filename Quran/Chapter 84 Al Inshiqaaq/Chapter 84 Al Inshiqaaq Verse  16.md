@@ -452,6 +452,18 @@ FalÄ 'Uqsimu Bish-Shafaqi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَا أُقْسِمُ بِالشَّفَقِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلا اقسم بالشفق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَاۤ أُقۡسِمُ بِٱلشَّفَقِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Yu'adhibu Man Yashā'u Wa Yarĥamu Man Yashā'u Wa 'Ilayhi Tuqlabūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُعَذِّبُ مَنْ يَشَاءُ وَيَرْحَمُ مَنْ يَشَاءُ وَإِلَيْهِ تُقْلَبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يعذب من يشاء ويرحم من يشاء واليه تقلبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُعَذِّبُ مَن یَشَاۤءُ وَیَرۡحَمُ مَن یَشَاۤءُۖ وَإِلَیۡهِ تُقۡلَبُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fađarabnā 'Alá 'Ādhānihim Fī Al-Kahfi Sinīna 'Adadāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَضَرَبْنَا عَلَى آذَانِهِمْ فِي الْكَهْفِ سِنِينَ عَدَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فضربنا على اذانهم في الكهف سنين عددا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَضَرَبۡنَا عَلَىٰۤ ءَاذَانِهِمۡ فِی ٱلۡكَهۡفِ سِنِینَ عَدَدࣰا
 
 | Details |  |

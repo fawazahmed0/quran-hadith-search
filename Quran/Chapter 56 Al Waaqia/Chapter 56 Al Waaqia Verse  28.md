@@ -452,6 +452,18 @@ Fī Sidrin Makhđūdin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي سِدْرٍ مَخْضُودٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في سدر مخضود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِی سِدۡرࣲ مَّخۡضُودࣲ
 
 | Details |  |

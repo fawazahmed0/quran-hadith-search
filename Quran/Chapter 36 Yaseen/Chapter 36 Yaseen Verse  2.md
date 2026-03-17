@@ -452,6 +452,18 @@ Wa Al-Qur'āni Al-Ĥakīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْقُرْآنِ الْحَكِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والقران الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡقُرۡءَانِ ٱلۡحَكِیمِ
 
 | Details |  |

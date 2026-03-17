@@ -452,6 +452,18 @@ A'antum 'Ashaddu Khalqāan 'Ami As-Samā'u Banāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَأَنْتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ بَنَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اانتم اشد خلقا ام السماء بناها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ءَأَنتُمۡ أَشَدُّ خَلۡقًا أَمِ ٱلسَّمَاۤءُۚ بَنَىٰهَا
 
 | Details |  |

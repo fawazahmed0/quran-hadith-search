@@ -452,6 +452,18 @@ Fa'idhā Qara'ta Al-Qur'āna Fāsta'idh Billāhi Mina Ash-Shayţāni Ar-Rajīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاذا قرات القران فاستعذ بالله من الشيطان الرجيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِذَا قَرَأۡتَ ٱلۡقُرۡءَانَ فَٱسۡتَعِذۡ بِٱللَّهِ مِنَ ٱلشَّیۡطَـٰنِ ٱلرَّجِیمِ
 
 | Details |  |

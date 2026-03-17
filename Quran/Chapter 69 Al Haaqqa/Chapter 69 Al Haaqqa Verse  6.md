@@ -452,6 +452,18 @@ Wa 'Ammā 'Ādun Fa'uhlikū Birīĥin Şarşarin 'Ātiyahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما عاد فاهلكوا بريح صرصر عاتية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمَّا عَادࣱ فَأُهۡلِكُوا۟ بِرِیحࣲ صَرۡصَرٍ عَاتِیَةࣲ
 
 | Details |  |

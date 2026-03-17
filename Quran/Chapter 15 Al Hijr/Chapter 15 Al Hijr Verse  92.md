@@ -452,6 +452,18 @@ Fawarabbika Lanas'alannahum 'Ajma'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَوَرَبِّكَ لَنَسْأَلَنَّهُمْ أَجْمَعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فوربك لنسالنهم اجمعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَوَرَبِّكَ لَنَسۡءَلَنَّهُمۡ أَجۡمَعِینَ
 
 | Details |  |

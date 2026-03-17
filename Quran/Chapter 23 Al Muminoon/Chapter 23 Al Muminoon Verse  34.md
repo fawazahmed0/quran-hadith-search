@@ -452,6 +452,18 @@ Wa La'in 'Aţa'tum Basharāan Mithlakum 'Innakum 'Idhāan Lakhāsirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَئِنْ أَطَعْتُمْ بَشَرًا مِثْلَكُمْ إِنَّكُمْ إِذًا لَخَاسِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولين اطعتم بشرا مثلكم انكم اذا لخاسرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَئِنۡ أَطَعۡتُم بَشَرࣰا مِّثۡلَكُمۡ إِنَّكُمۡ إِذࣰا لَّخَـٰسِرُونَ
 
 | Details |  |

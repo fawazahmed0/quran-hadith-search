@@ -452,6 +452,18 @@ Wa Laqad Na'lamu 'Annaka Yađīqu Şadruka Bimā Yaqūlūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد نعلم انك يضيق صدرك بما يقولون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ نَعۡلَمُ أَنَّكَ یَضِیقُ صَدۡرُكَ بِمَا یَقُولُونَ
 
 | Details |  |

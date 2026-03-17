@@ -452,6 +452,18 @@ Wa Hal 'Atāka Naba'u Al-Khaşmi 'Idh Tasawwarū Al-Miĥrāba
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهَلْ أَتَاكَ نَبَأُ الْخَصْمِ إِذْ تَسَوَّرُوا الْمِحْرَابَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهل اتاك نبا الخصم اذ تسوروا المحراب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَهَلۡ أَتَىٰكَ نَبَؤُا۟ ٱلۡخَصۡمِ إِذۡ تَسَوَّرُوا۟ ٱلۡمِحۡرَابَ
 
 | Details |  |

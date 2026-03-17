@@ -452,6 +452,18 @@ Qāla Yā Qawmi Laysa Bī Safāhatun Wa Lakinnī Rasūlun Min Rabbi Al-'Ālamīn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ يَا قَوْمِ لَيْسَ بِي سَفَاهَةٌ وَلَكِنِّي رَسُولٌ مِنْ رَبِّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال يا قوم ليس بي سفاهة ولكني رسول من رب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ یَـٰقَوۡمِ لَیۡسَ بِی سَفَاهَةࣱ وَلَـٰكِنِّی رَسُولࣱ مِّن رَّبِّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

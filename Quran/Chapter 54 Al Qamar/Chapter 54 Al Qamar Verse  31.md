@@ -452,6 +452,18 @@ Innā 'Arsalnā 'Alayhim Şayĥatan Wāĥidatan Fakānū Kahashīmi Al-Muĥtaži
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَاحِدَةً فَكَانُوا كَهَشِيمِ الْمُحْتَظِرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا ارسلنا عليهم صيحة واحدة فكانوا كهشيم المحتظر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّاۤ أَرۡسَلۡنَا عَلَیۡهِمۡ صَیۡحَةࣰ وَ ٰحِدَةࣰ فَكَانُوا۟ كَهَشِیمِ ٱلۡمُحۡتَظِرِ
 
 | Details |  |

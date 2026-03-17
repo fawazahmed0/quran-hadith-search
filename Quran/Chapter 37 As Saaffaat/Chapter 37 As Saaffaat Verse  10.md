@@ -452,6 +452,18 @@ Illā Man Khaţifa Al-Khaţfata Fa'atba'ahu Shihābun Thāqibāun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا من خطف الخطفة فاتبعه شهاب ثاقب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا مَنۡ خَطِفَ ٱلۡخَطۡفَةَ فَأَتۡبَعَهُۥ شِهَابࣱ ثَاقِبࣱ
 
 | Details |  |

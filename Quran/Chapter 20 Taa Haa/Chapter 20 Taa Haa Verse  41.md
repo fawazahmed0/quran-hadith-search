@@ -452,6 +452,18 @@ Wa Aşţana'tuka Linafsī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاصْطَنَعْتُكَ لِنَفْسِي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واصطنعتك لنفسي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱصۡطَنَعۡتُكَ لِنَفۡسِی
 
 | Details |  |

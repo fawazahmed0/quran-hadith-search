@@ -452,6 +452,18 @@ Fī Raqqin Manshūrin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي رَقٍّ مَنْشُورٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في رق منشور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِی رَقࣲّ مَّنشُورࣲ
 
 | Details |  |

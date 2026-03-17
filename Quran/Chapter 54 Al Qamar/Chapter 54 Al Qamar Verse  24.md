@@ -452,6 +452,18 @@ Faqālū 'Abasharāan Minnā Wāĥidāan Nattabi'uhu 'Innā 'Idhāan Lafī Đal�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقَالُوا أَبَشَرًا مِنَّا وَاحِدًا نَتَّبِعُهُ إِنَّا إِذًا لَفِي ضَلَالٍ وَسُعُرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقالوا ابشرا منا واحدا نتبعه انا اذا لفي ضلال وسعر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقَالُوۤا۟ أَبَشَرࣰا مِّنَّا وَ ٰحِدࣰا نَّتَّبِعُهُۥۤ إِنَّاۤ إِذࣰا لَّفِی ضَلَـٰلࣲ وَسُعُرٍ
 
 | Details |  |

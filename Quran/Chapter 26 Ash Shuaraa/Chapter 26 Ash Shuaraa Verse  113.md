@@ -452,6 +452,18 @@ In Ĥisābuhum 'Illā 'Alá Rabbī Law Tash'urūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ حِسَابُهُمْ إِلَّا عَلَى رَبِّي لَوْ تَشْعُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان حسابهم الا على ربي لو تشعرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنۡ حِسَابُهُمۡ إِلَّا عَلَىٰ رَبِّیۖ لَوۡ تَشۡعُرُونَ
 
 | Details |  |

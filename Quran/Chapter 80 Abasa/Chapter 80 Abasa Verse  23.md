@@ -452,6 +452,18 @@ Kallā Lammā Yaqđi Mā 'Amarahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا لما يقض ما امره
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّا لَمَّا یَقۡضِ مَاۤ أَمَرَهُۥ
 
 | Details |  |

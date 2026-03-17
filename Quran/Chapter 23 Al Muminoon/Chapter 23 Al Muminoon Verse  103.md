@@ -452,6 +452,18 @@ Wa Man Khaffat Mawāzīnuhu Fa'ūlā'ika Al-Ladhīna Khasirū 'Anfusahum Fī Jah
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ خَفَّتْ مَوَازِينُهُ فَأُولَئِكَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ فِي جَهَنَّمَ خَالِدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن خفت موازينه فاوليك الذين خسروا انفسهم في جهنم خالدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَنۡ خَفَّتۡ مَوَ ٰزِینُهُۥ فَأُو۟لَـٰۤئِكَ ٱلَّذِینَ خَسِرُوۤا۟ أَنفُسَهُمۡ فِی جَهَنَّمَ خَـٰلِدُونَ
 
 | Details |  |

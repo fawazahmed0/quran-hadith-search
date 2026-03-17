@@ -452,6 +452,18 @@ Innahum Yakīdūna Kaydāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُمْ يَكِيدُونَ كَيْدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انهم يكيدون كيدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُمۡ یَكِیدُونَ كَیۡدࣰا
 
 | Details |  |

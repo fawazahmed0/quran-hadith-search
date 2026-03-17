@@ -452,6 +452,18 @@ Faghulibū Hunālika Wa Anqalabū Şāghirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَغُلِبُوا هُنَالِكَ وَانْقَلَبُوا صَاغِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فغلبوا هنالك وانقلبوا صاغرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَغُلِبُوا۟ هُنَالِكَ وَٱنقَلَبُوا۟ صَـٰغِرِینَ
 
 | Details |  |

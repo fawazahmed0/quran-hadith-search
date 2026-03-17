@@ -452,6 +452,18 @@ Wa Man Yaksib 'Ithmāan Fa'innamā Yaksibuhu 'Alá Nafsihi Wa Kāna Allāhu 'Al�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُ عَلَى نَفْسِهِ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن يكسب اثما فانما يكسبه على نفسه وكان الله عليما حكيما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن یَكۡسِبۡ إِثۡمࣰا فَإِنَّمَا یَكۡسِبُهُۥ عَلَىٰ نَفۡسِهِۦۚ وَكَانَ ٱللَّهُ عَلِیمًا حَكِیمࣰا
 
 | Details |  |

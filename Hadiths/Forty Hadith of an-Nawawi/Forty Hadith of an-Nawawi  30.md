@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي ثَعْلَبَةَ الْخُشَنِيِّ جُرْثُومِ بن نَاشِر رَضِيَ اللهُ عَنْهُ عَنْ رَسُولِ اللَّهِ صلى الله عليه و سلم قَال: "إنَّ اللَّهَ تَعَالَى فَرَضَ فَرَائِضَ فَلَا تُضَيِّعُوهَا، وَحَدَّ حُدُودًا فَلَا تَعْتَدُوهَا، وَحَرَّمَ أَشْيَاءَ فَلَا تَنْتَهِكُوهَا، وَسَكَتَ عَنْ أَشْيَاءَ رَحْمَةً لَكُمْ غَيْرَ نِسْيَانٍ فَلَا تَبْحَثُوا عَنْهَا". حَدِيثٌ حَسَنٌ، رَوَاهُ الدَّارَقُطْنِيّ ْ"في سننه" \[4/184\]، وَغَيْرُهُ
@@ -47,6 +49,16 @@ On the authority of Abu Tha’labah al-Kushanee — Jurthoom bin Nashir (may All
 ## French
 
 Selon Abou Tha’laba al-Kouchani — Jurthoum ibn Nashir (qu’Allah l’agrée) — le Messager d’Allah (ﷺ) a dit : « Allah a établi des obligations religieuses, ne les négligez pas ; Il a fixé des limites, ne les franchissez pas ; Il a interdit certaines choses, ne les transgressez pas ; et Il s’est tu sur d’autres choses, par miséricorde pour vous et non par oubli, ne cherchez donc pas à les connaître. » Un hadith bon rapporté par ad-Daraqutni et d’autres
+
+| References: |  |
+| --- | --- |
+| Hadith No | 30 |
+| Arabic No | 30 |
+| Reference | Book 1 Hadith 30 |
+
+## Turkish
+
+Ebu Sa’lebe el-Huşeni (ra) anlatıyor: Resulullah (ﷺ) şöyle buyurdu: "Allah Teala birtakım farzlar kılmıştır, onları zayi etmeyin. Bazı sınırlar koymuştur, onları aşmayın. Bazı şeyleri haram kılmıştır, onları çiğnemeyin. Bazı şeyler hakkında da —unutkanlıktan değil— size rahmet olması için susmuştur, onları deşelemeyin." \[Darekutni\]
 
 | References: |  |
 | --- | --- |

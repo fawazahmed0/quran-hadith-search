@@ -452,6 +452,18 @@ Thumma Yaţma'u 'An 'Azīda
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ يَطْمَعُ أَنْ أَزِيدَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم يطمع ان ازيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ یَطۡمَعُ أَنۡ أَزِیدَ
 
 | Details |  |

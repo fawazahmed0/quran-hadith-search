@@ -452,6 +452,18 @@ Falammā Jāwazā Qāla Lifatāhu 'Ātinā Ghadā'anā Laqad Laqīnā Min Safari
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا جَاوَزَا قَالَ لِفَتَاهُ آتِنَا غَدَاءَنَا لَقَدْ لَقِينَا مِنْ سَفَرِنَا هَذَا نَصَبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما جاوزا قال لفتاه اتنا غداءنا لقد لقينا من سفرنا هذا نصبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّا جَاوَزَا قَالَ لِفَتَىٰهُ ءَاتِنَا غَدَاۤءَنَا لَقَدۡ لَقِینَا مِن سَفَرِنَا هَـٰذَا نَصَبࣰا
 
 | Details |  |

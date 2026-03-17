@@ -452,6 +452,18 @@ Wa La'in Massat/hum Nafĥatun Min 'Adhābi Rabbika Layaqūlunna Yā Waylanā 'In
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَئِنْ مَسَّتْهُمْ نَفْحَةٌ مِنْ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَا وَيْلَنَا إِنَّا كُنَّا ظَالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولين مستهم نفحة من عذاب ربك ليقولن يا ويلنا انا كنا ظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَئِن مَّسَّتۡهُمۡ نَفۡحَةࣱ مِّنۡ عَذَابِ رَبِّكَ لَیَقُولُنَّ یَـٰوَیۡلَنَاۤ إِنَّا كُنَّا ظَـٰلِمِینَ
 
 | Details |  |

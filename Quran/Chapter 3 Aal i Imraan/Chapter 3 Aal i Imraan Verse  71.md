@@ -452,6 +452,18 @@ Yā 'Ahla Al-Kitābi Lima Talbisūna Al-Ĥaqqa Bil-Bāţili Wa Taktumūna Al-Ĥa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَهْلَ الْكِتَابِ لِمَ تَلْبِسُونَ الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُونَ الْحَقَّ وَأَنْتُمْ تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا اهل الكتاب لم تلبسون الحق بالباطل وتكتمون الحق وانتم تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَهۡلَ ٱلۡكِتَـٰبِ لِمَ تَلۡبِسُونَ ٱلۡحَقَّ بِٱلۡبَـٰطِلِ وَتَكۡتُمُونَ ٱلۡحَقَّ وَأَنتُمۡ تَعۡلَمُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla Lā Takhāfā 'Innanī Ma'akumā 'Asma'u Wa 'Ará
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ لَا تَخَافَا إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال لا تخافا انني معكما اسمع وارى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ لَا تَخَافَاۤۖ إِنَّنِی مَعَكُمَاۤ أَسۡمَعُ وَأَرَىٰ
 
 | Details |  |

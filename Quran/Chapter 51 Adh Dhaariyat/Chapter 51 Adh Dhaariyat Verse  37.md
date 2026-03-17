@@ -452,6 +452,18 @@ Wa Taraknā Fīhā 'Āyatan Lilladhīna Yakhāfūna Al-'Adhāba Al-'Alīma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَرَكْنَا فِيهَا آيَةً لِلَّذِينَ يَخَافُونَ الْعَذَابَ الْأَلِيمَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتركنا فيها اية للذين يخافون العذاب الاليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَرَكۡنَا فِیهَاۤ ءَایَةࣰ لِّلَّذِینَ یَخَافُونَ ٱلۡعَذَابَ ٱلۡأَلِیمَ
 
 | Details |  |

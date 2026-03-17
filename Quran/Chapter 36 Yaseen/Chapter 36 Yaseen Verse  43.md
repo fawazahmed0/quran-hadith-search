@@ -452,6 +452,18 @@ Wa 'In Nasha' Nughriqhum Falā Şarīkha Lahum Wa Lā Hum Yunqadhūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ نَشَأْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَلَا هُمْ يُنْقَذُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان نشا نغرقهم فلا صريخ لهم ولا هم ينقذون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن نَّشَأۡ نُغۡرِقۡهُمۡ فَلَا صَرِیخَ لَهُمۡ وَلَا هُمۡ یُنقَذُونَ
 
 | Details |  |

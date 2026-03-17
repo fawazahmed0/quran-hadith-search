@@ -452,6 +452,18 @@ Balá Qad Jā'atka 'Āyātī Fakadhabta Bihā Wa Astakbarta Wa Kunta Mina Al-Kā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلَى قَدْ جَاءَتْكَ آيَاتِي فَكَذَّبْتَ بِهَا وَاسْتَكْبَرْتَ وَكُنْتَ مِنَ الْكَافِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بلى قد جاءتك اياتي فكذبت بها واستكبرت وكنت من الكافرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلَىٰ قَدۡ جَاۤءَتۡكَ ءَایَـٰتِی فَكَذَّبۡتَ بِهَا وَٱسۡتَكۡبَرۡتَ وَكُنتَ مِنَ ٱلۡكَـٰفِرِینَ
 
 | Details |  |

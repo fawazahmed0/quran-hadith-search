@@ -452,6 +452,18 @@ Al-Ladhīna 'Idhā Aktālū 'Alá An-Nāsi Yastawfūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين اذا اكتالوا على الناس يستوفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ إِذَا ٱكۡتَالُوا۟ عَلَى ٱلنَّاسِ یَسۡتَوۡفُونَ
 
 | Details |  |

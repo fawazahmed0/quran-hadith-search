@@ -452,6 +452,18 @@ Alimu Al-Ghaybi Wa Ash-Shahadati Al-'Azizu Al-Hakimu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الْحَكِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عالم الغيب والشهادة العزيز الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَـٰلِمُ ٱلۡغَیۡبِ وَٱلشَّهَـٰدَةِ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Jā'a Fir'awnu Wa Man Qablahu Wa Al-Mu'utafikātu Bil-Khāţi'ahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَاءَ فِرْعَوْنُ وَمَنْ قَبْلَهُ وَالْمُؤْتَفِكَاتُ بِالْخَاطِئَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجاء فرعون ومن قبله والموتفكات بالخاطية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَاۤءَ فِرۡعَوۡنُ وَمَن قَبۡلَهُۥ وَٱلۡمُؤۡتَفِكَـٰتُ بِٱلۡخَاطِئَةِ
 
 | Details |  |

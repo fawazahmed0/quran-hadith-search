@@ -452,6 +452,18 @@ Lā Yassamma'ūna 'Ilá Al-Mala'i Al-'A'lá Wa Yuqdhafūna Min Kulli Jānibin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَسَّمَّعُونَ إِلَى الْمَلَإِ الْأَعْلَى وَيُقْذَفُونَ مِنْ كُلِّ جَانِبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يسمعون الى الملا الاعلى ويقذفون من كل جانب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا یَسَّمَّعُونَ إِلَى ٱلۡمَلَإِ ٱلۡأَعۡلَىٰ وَیُقۡذَفُونَ مِن كُلِّ جَانِبࣲ
 
 | Details |  |

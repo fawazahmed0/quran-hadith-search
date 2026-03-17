@@ -452,6 +452,18 @@ Wa Qāsamahumā 'Innī Lakumā Lamina An-Nāşiĥīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَاسَمَهُمَا إِنِّي لَكُمَا لَمِنَ النَّاصِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقاسمهما اني لكما لمن الناصحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَاسَمَهُمَاۤ إِنِّی لَكُمَا لَمِنَ ٱلنَّـٰصِحِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Allāhu Yaĥkumu Baynakum Yawma Al-Qiyāmati Fīmā Kuntum Fīhi Takhtalifūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ الْقِيَامَةِ فِيمَا كُنْتُمْ فِيهِ تَخْتَلِفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الله يحكم بينكم يوم القيامة فيما كنتم فيه تختلفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱللَّهُ یَحۡكُمُ بَیۡنَكُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِ فِیمَا كُنتُمۡ فِیهِ تَخۡتَلِفُونَ
 
 | Details |  |

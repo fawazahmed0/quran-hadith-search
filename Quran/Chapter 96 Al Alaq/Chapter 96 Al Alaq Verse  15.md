@@ -452,6 +452,18 @@ Kallā La'in Lam Yantahi Lanasfa'ā Bin-Nāşiyahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا لَئِنْ لَمْ يَنْتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا لين لم ينته لنسفعا بالناصية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّا لَئِن لَّمۡ یَنتَهِ لَنَسۡفَعَۢا بِٱلنَّاصِیَةِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Likulli 'Ummatin 'Ajalun Fa'idhā Jā'a 'Ajaluhum Lā Yasta'khirūna Sā'atan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِكُلِّ أُمَّةٍ أَجَلٌ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولكل امة اجل فاذا جاء اجلهم لا يستاخرون ساعة ولا يستقدمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِكُلِّ أُمَّةٍ أَجَلࣱۖ فَإِذَا جَاۤءَ أَجَلُهُمۡ لَا یَسۡتَأۡخِرُونَ سَاعَةࣰ وَلَا یَسۡتَقۡدِمُونَ
 
 | Details |  |

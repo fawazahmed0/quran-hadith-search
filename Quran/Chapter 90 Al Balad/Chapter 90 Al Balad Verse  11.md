@@ -452,6 +452,18 @@ Falā Aqtaĥama Al-'Aqabaha
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَا اقْتَحَمَ الْعَقَبَةَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلا اقتحم العقبة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ
 
 | Details |  |

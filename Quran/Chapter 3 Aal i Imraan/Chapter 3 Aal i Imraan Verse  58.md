@@ -452,6 +452,18 @@ Dhālika Natlūhu 'Alayka Mina Al-'Āyāti Wa Adh-Dhikri Al-Ĥakīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ نَتْلُوهُ عَلَيْكَ مِنَ الْآيَاتِ وَالذِّكْرِ الْحَكِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك نتلوه عليك من الايات والذكر الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ نَتۡلُوهُ عَلَیۡكَ مِنَ ٱلۡءَایَـٰتِ وَٱلذِّكۡرِ ٱلۡحَكِیمِ
 
 | Details |  |

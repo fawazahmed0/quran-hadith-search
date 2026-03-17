@@ -452,6 +452,18 @@ Thumma 'Atba'a Sababāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ أَتْبَعَ سَبَبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم اتبع سببا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ أَتۡبَعَ سَبَبًا
 
 | Details |  |

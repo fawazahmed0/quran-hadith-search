@@ -452,6 +452,18 @@ Fa'idhā Bariqa Al-Başaru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِذَا بَرِقَ الْبَصَرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاذا برق البصر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِذَا بَرِقَ ٱلۡبَصَرُ
 
 | Details |  |

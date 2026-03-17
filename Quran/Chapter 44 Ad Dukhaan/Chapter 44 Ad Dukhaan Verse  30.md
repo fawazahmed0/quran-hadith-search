@@ -452,6 +452,18 @@ Wa Laqad Najjaynā Banī 'Isrā'īla Mina Al-'Adhābi Al-Muhīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ نَجَّيْنَا بَنِي إِسْرَائِيلَ مِنَ الْعَذَابِ الْمُهِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد نجينا بني اسراييل من العذاب المهين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ نَجَّیۡنَا بَنِیۤ إِسۡرَ ٰۤءِیلَ مِنَ ٱلۡعَذَابِ ٱلۡمُهِینِ
 
 | Details |  |

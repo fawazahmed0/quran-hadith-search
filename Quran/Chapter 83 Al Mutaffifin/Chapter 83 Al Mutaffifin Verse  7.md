@@ -452,6 +452,18 @@ Kallā 'Inna Kitāba Al-Fujjāri Lafī Sijjīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا إِنَّ كِتَابَ الْفُجَّارِ لَفِي سِجِّينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا ان كتاب الفجار لفي سجين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّاۤ إِنَّ كِتَـٰبَ ٱلۡفُجَّارِ لَفِی سِجِّینࣲ
 
 | Details |  |

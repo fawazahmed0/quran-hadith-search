@@ -452,6 +452,18 @@ Ahum Khayrun 'Am Qawmu Tubba'in Wa Al-Ladhīna Min Qablihim 'Ahlaknāhum 'Innahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَهُمْ خَيْرٌ أَمْ قَوْمُ تُبَّعٍ وَالَّذِينَ مِنْ قَبْلِهِمْ أَهْلَكْنَاهُمْ إِنَّهُمْ كَانُوا مُجْرِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اهم خير ام قوم تبع والذين من قبلهم اهلكناهم انهم كانوا مجرمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَهُمۡ خَیۡرٌ أَمۡ قَوۡمُ تُبَّعࣲ وَٱلَّذِینَ مِن قَبۡلِهِمۡ أَهۡلَكۡنَـٰهُمۡۚ إِنَّهُمۡ كَانُوا۟ مُجۡرِمِینَ
 
 | Details |  |

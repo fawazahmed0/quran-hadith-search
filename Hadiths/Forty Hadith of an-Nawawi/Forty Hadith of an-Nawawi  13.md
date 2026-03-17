@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي حَمْزَةَ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللهُ عَنْهُ خَادِمِ رَسُولِ اللَّهِ صلى الله عليه و سلم عَنْ النَّبِيِّ صلى الله عليه و سلم قَالَ: لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ . رَوَاهُ الْبُخَارِيُّ \[رقم:13\]، وَمُسْلِمٌ \[رقم:45\].(br)\[رَوَاهُ الْبُخَارِيُّ\] ، \[وَمُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of Abu Hamzah Anas bin Malik (may Allah be pleased with him) �
 ## French
 
 Selon Abou Hamza Anas ibn Malik (qu’Allah l’agrée) — serviteur du Messager d’Allah (ﷺ) — le Prophète (ﷺ) a dit : Aucun de vous ne croit vraiment tant qu’il n’aime pas pour son frère ce qu’il aime pour lui-même. \[Boukhari\] \[Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 13 |
+| Arabic No | 13 |
+| Reference | Book 1 Hadith 13 |
+
+## Turkish
+
+Resulullah'ın (ﷺ) hizmetkarı Ebu Hamza Enes bin Malik (ra) anlatıyor: Peygamber (ﷺ) şöyle buyurdu: "Sizden biriniz, kendisi için istediğini kardeşi için de istemedikçe (gerçek manada) iman etmiş olmaz." \[Buhari ve Müslim\]
 
 | References: |  |
 | --- | --- |

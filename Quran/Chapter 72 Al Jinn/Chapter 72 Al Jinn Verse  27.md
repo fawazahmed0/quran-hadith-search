@@ -452,6 +452,18 @@ Illā Mani Artađá Min Rasūlin Fa'innahu Yasluku Min Bayni Yadayhi Wa Min Khal
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا مَنِ ارْتَضَى مِنْ رَسُولٍ فَإِنَّهُ يَسْلُكُ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ رَصَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا من ارتضى من رسول فانه يسلك من بين يديه ومن خلفه رصدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا مَنِ ٱرۡتَضَىٰ مِن رَّسُولࣲ فَإِنَّهُۥ یَسۡلُكُ مِنۢ بَیۡنِ یَدَیۡهِ وَمِنۡ خَلۡفِهِۦ رَصَدࣰا
 
 | Details |  |

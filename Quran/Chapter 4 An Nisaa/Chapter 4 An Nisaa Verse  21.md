@@ -452,6 +452,18 @@ Wa Kayfa Ta'khudhūnahu Wa Qad 'Afđá Ba'đukum 'Ilá Ba'đin Wa 'Akhadhna Mink
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَيْفَ تَأْخُذُونَهُ وَقَدْ أَفْضَى بَعْضُكُمْ إِلَى بَعْضٍ وَأَخَذْنَ مِنْكُمْ مِيثَاقًا غَلِيظًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكيف تاخذونه وقد افضى بعضكم الى بعض واخذن منكم ميثاقا غليظا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَیۡفَ تَأۡخُذُونَهُۥ وَقَدۡ أَفۡضَىٰ بَعۡضُكُمۡ إِلَىٰ بَعۡضࣲ وَأَخَذۡنَ مِنكُم مِّیثَـٰقًا غَلِیظࣰا
 
 | Details |  |

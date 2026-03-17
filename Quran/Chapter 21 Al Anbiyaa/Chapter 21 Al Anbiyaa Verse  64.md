@@ -452,6 +452,18 @@ Faraja'ū 'Ilá 'Anfusihim Faqālū 'Innakum 'Antumu Až-Žālimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَرَجَعُوا إِلَى أَنْفُسِهِمْ فَقَالُوا إِنَّكُمْ أَنْتُمُ الظَّالِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فرجعوا الى انفسهم فقالوا انكم انتم الظالمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَرَجَعُوۤا۟ إِلَىٰۤ أَنفُسِهِمۡ فَقَالُوۤا۟ إِنَّكُمۡ أَنتُمُ ٱلظَّـٰلِمُونَ
 
 | Details |  |

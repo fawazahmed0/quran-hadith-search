@@ -452,6 +452,18 @@ Wa Jī'a Yawma'idhin Bijahannama Yawma'idhin Yatadhakkaru Al-'Insānu Wa 'Anná 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنْسَانُ وَأَنَّى لَهُ الذِّكْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجيء يوميذ بجهنم يوميذ يتذكر الانسان وانى له الذكرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجِا۟یۤءَ یَوۡمَئِذِۭ بِجَهَنَّمَۚ یَوۡمَئِذࣲ یَتَذَكَّرُ ٱلۡإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكۡرَىٰ
 
 | Details |  |

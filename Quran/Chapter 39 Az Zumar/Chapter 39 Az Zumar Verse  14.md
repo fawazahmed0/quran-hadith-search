@@ -452,6 +452,18 @@ Quli Allāha 'A'budu Mukhlişāan Lahu Dīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلِ اللَّهَ أَعْبُدُ مُخْلِصًا لَهُ دِينِي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل الله اعبد مخلصا له ديني
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلِ ٱللَّهَ أَعۡبُدُ مُخۡلِصࣰا لَّهُۥ دِینِی
 
 | Details |  |

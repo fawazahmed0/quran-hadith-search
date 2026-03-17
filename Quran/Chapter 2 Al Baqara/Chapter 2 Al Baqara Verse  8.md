@@ -452,6 +452,18 @@ Wa Mina An-Nāsi Man Yaqūlu 'Āmannā Billāhi Wa Bil-Yawmi Al-'Ākhiri Wa Mā 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنَ النَّاسِ مَنْ يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ وَمَا هُمْ بِمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن الناس من يقول امنا بالله وباليوم الاخر وما هم بمومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِنَ ٱلنَّاسِ مَن یَقُولُ ءَامَنَّا بِٱللَّهِ وَبِٱلۡیَوۡمِ ٱلۡءَاخِرِ وَمَا هُم بِمُؤۡمِنِینَ
 
 | Details |  |

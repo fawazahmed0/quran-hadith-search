@@ -452,6 +452,18 @@ Wa 'Inabāan Wa Qađbāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَعِنَبًا وَقَضْبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وعنبا وقضبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَعِنَبࣰا وَقَضۡبࣰا
 
 | Details |  |

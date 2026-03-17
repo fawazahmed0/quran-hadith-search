@@ -452,6 +452,18 @@ Wa Naĥnu 'Aqrabu 'Ilayhi Minkum Wa Lakin Lā Tubşirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْكُمْ وَلَكِنْ لَا تُبْصِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونحن اقرب اليه منكم ولكن لا تبصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَحۡنُ أَقۡرَبُ إِلَیۡهِ مِنكُمۡ وَلَـٰكِن لَّا تُبۡصِرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Hādhā 'Aţā'uunā Fāmnun 'Aw 'Amsik Bighayri Ĥisābin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذَا عَطَاؤُنَا فَامْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذا عطاونا فامنن او امسك بغير حساب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذَا عَطَاۤؤُنَا فَٱمۡنُنۡ أَوۡ أَمۡسِكۡ بِغَیۡرِ حِسَابࣲ
 
 | Details |  |

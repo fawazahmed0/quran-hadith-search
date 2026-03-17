@@ -452,6 +452,18 @@ Wa Al-Qamari 'Idhā Talāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْقَمَرِ إِذَا تَلَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والقمر اذا تلاها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡقَمَرِ إِذَا تَلَىٰهَا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Al-Ladhī Nazzala Mina As-Samā'i Mā'an Biqadarin Fa'ansharnā Bihi Baldatan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِي نَزَّلَ مِنَ السَّمَاءِ مَاءً بِقَدَرٍ فَأَنْشَرْنَا بِهِ بَلْدَةً مَيْتًا كَذَلِكَ تُخْرَجُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذي نزل من السماء ماء بقدر فانشرنا به بلدة ميتا كذلك تخرجون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِی نَزَّلَ مِنَ ٱلسَّمَاۤءِ مَاۤءَۢ بِقَدَرࣲ فَأَنشَرۡنَا بِهِۦ بَلۡدَةࣰ مَّیۡتࣰاۚ كَذَ ٰلِكَ تُخۡرَجُونَ
 
 | Details |  |

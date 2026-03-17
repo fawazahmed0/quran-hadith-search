@@ -452,6 +452,18 @@ Man 'A'rađa 'Anhu Fa'innahu Yaĥmilu Yawma Al-Qiyāmati Wizrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَنْ أَعْرَضَ عَنْهُ فَإِنَّهُ يَحْمِلُ يَوْمَ الْقِيَامَةِ وِزْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من اعرض عنه فانه يحمل يوم القيامة وزرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّنۡ أَعۡرَضَ عَنۡهُ فَإِنَّهُۥ یَحۡمِلُ یَوۡمَ ٱلۡقِیَـٰمَةِ وِزۡرًا
 
 | Details |  |

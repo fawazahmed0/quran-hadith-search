@@ -452,6 +452,18 @@ Hādhā Nadhīrun Mina An-Nudhuri Al-'Ūlá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذَا نَذِيرٌ مِنَ النُّذُرِ الْأُولَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذا نذير من النذر الاولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذَا نَذِیرࣱ مِّنَ ٱلنُّذُرِ ٱلۡأُولَىٰۤ
 
 | Details |  |

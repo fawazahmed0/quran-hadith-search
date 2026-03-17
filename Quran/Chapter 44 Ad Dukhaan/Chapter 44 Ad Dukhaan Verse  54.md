@@ -452,6 +452,18 @@ Kadhālika Wa Zawwajnāhum Biĥūrin 'Īnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَلِكَ وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذلك وزوجناهم بحور عين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَ ٰلِكَ وَزَوَّجۡنَـٰهُم بِحُورٍ عِینࣲ
 
 | Details |  |

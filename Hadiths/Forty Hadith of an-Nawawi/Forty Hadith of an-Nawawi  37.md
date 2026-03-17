@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا عَنْ رَسُولِ اللَّهِ صلى الله عليه و سلم فِيمَا يَرْوِيهِ عَنْ رَبِّهِ تَبَارَكَ وَتَعَالَى، قَالَ: "إنَّ اللَّهَ كَتَبَ الْحَسَنَاتِ وَالسَّيِّئَاتِ، ثُمَّ بَيَّنَ ذَلِكَ، فَمَنْ هَمَّ بِحَسَنَةٍ فَلَمْ يَعْمَلْهَا كَتَبَهَا اللَّهُ عِنْدَهُ حَسَنَةً كَامِلَةً، وَإِنْ هَمَّ بِهَا فَعَمِلَهَا كَتَبَهَا اللَّهُ عِنْدَهُ عَشْرَ حَسَنَاتٍ إلَى سَبْعِمِائَةِ ضِعْفٍ إلَى أَضْعَافٍ كَثِيرَةٍ، وَإِنْ هَمَّ بِسَيِّئَةٍ فَلَمْ يَعْمَلْهَا كَتَبَهَا اللَّهُ عِنْدَهُ حَسَنَةً كَامِلَةً، وَإِنْ هَمَّ بِهَا فَعَمِلَهَا كَتَبَهَا اللَّهُ سَيِّئَةً وَاحِدَةً".(br)\[رَوَاهُ الْبُخَارِيُّ\] ، \[وَمُسْلِمٌ\]، في "صحيحيهما" بهذه الحروف
@@ -47,6 +49,16 @@ On the authority of Ibn Abbas (may Allah be pleased with him), from the Messenge
 ## French
 
 Selon Ibn Abbas (qu’Allah l’agrée), du Messager d’Allah (ﷺ), d’après son Seigneur : « Allah a inscrit les bonnes et les mauvaises actions, puis Il les a expliquées : Celui qui a l’intention de faire une bonne action mais ne la fait pas, Allah l’inscrit auprès de Lui comme une bonne action complète. S’il a l’intention de la faire et la fait, Allah l’inscrit comme dix bonnes actions, jusqu’à sept cents fois, voire plus. S’il a l’intention de commettre une mauvaise action mais ne la fait pas, Allah l’inscrit comme une bonne action complète. S’il a l’intention et la fait, Allah l’inscrit comme une seule mauvaise action. » \[Boukhari\] \[Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 37 |
+| Arabic No | 37 |
+| Reference | Book 1 Hadith 37 |
+
+## Turkish
+
+İbn Abbas (ra) anlatıyor: Resulullah (ﷺ) Rabbinden naklederek şöyle buyurdu: "Allah iyilikleri ve kötülükleri takdir etti (yazdı), sonra onları şöyle açıkladı: Kim bir iyilik yapmaya niyetlenir de yapamazsa, Allah onu kendi katında tam bir iyilik olarak yazar. Eğer niyetlenir ve yaparsa, Allah onu on kattan yedi yüz kata ve daha fazlasına kadar iyilik olarak yazar. Kim bir kötülüğe niyetlenir de (Allah korkusuyla) yapmazsa, Allah onu kendi katında tam bir iyilik olarak yazar. Eğer niyetlenir ve yaparsa, Allah onu sadece bir kötülük olarak yazar." \[Buhari ve Müslim\]
 
 | References: |  |
 | --- | --- |

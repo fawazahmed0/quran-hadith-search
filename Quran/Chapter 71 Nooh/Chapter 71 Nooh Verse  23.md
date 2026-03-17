@@ -452,6 +452,18 @@ Wa Qālū Lā Tadharunna 'Ālihatakum Wa Lā Tadharunna Waddāan Wa Lā Suwā'ā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا لا تذرن الهتكم ولا تذرن ودا ولا سواعا ولا يغوث ويعوق ونسرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ لَا تَذَرُنَّ ءَالِهَتَكُمۡ وَلَا تَذَرُنَّ وَدࣰّا وَلَا سُوَاعࣰا وَلَا یَغُوثَ وَیَعُوقَ وَنَسۡرࣰا
 
 | Details |  |

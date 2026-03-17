@@ -452,6 +452,18 @@ Law Kāna Fīhimā 'Ālihatun 'Illā Allāhu Lafasadatā Fasubĥāna Allāhi Rab
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا فَسُبْحَانَ اللَّهِ رَبِّ الْعَرْشِ عَمَّا يَصِفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لو كان فيهما الهة الا الله لفسدتا فسبحان الله رب العرش عما يصفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَوۡ كَانَ فِیهِمَاۤ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَاۚ فَسُبۡحَـٰنَ ٱللَّهِ رَبِّ ٱلۡعَرۡشِ عَمَّا یَصِفُونَ
 
 | Details |  |

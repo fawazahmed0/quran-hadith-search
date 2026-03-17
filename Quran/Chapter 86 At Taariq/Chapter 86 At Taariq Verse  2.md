@@ -452,6 +452,18 @@ Wa Mā 'Adrāka Mā Aţ-Ţāriqu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَدْرَاكَ مَا الطَّارِقُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ادراك ما الطارق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَدۡرَىٰكَ مَا ٱلطَّارِقُ
 
 | Details |  |

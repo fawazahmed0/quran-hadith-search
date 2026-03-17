@@ -452,6 +452,18 @@ Wa Qālū Lan Nu'umina Laka Ĥattá Tafjura Lanā Mina Al-'Arđi Yanbū'āan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا لَنْ نُؤْمِنَ لَكَ حَتَّى تَفْجُرَ لَنَا مِنَ الْأَرْضِ يَنْبُوعًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا لن نومن لك حتى تفجر لنا من الارض ينبوعا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ لَن نُّؤۡمِنَ لَكَ حَتَّىٰ تَفۡجُرَ لَنَا مِنَ ٱلۡأَرۡضِ یَنۢبُوعًا
 
 | Details |  |

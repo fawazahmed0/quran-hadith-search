@@ -452,6 +452,18 @@ Balá Man 'Awfá Bi'ahdihi Wa Attaqá Fa'inna Allāha Yuĥibbu Al-Muttaqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلَى مَنْ أَوْفَى بِعَهْدِهِ وَاتَّقَى فَإِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بلى من اوفى بعهده واتقى فان الله يحب المتقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلَىٰۚ مَنۡ أَوۡفَىٰ بِعَهۡدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ یُحِبُّ ٱلۡمُتَّقِینَ
 
 | Details |  |

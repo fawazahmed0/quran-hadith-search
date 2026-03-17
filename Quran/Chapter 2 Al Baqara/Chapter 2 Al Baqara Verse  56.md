@@ -452,6 +452,18 @@ Thumma Ba'athnākum Min Ba'di Mawtikum La'allakum Tashkurūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ بَعَثْنَاكُمْ مِنْ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم بعثناكم من بعد موتكم لعلكم تشكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ بَعَثۡنَـٰكُم مِّنۢ بَعۡدِ مَوۡتِكُمۡ لَعَلَّكُمۡ تَشۡكُرُونَ
 
 | Details |  |

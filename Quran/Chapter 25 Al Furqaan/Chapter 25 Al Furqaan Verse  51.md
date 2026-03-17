@@ -452,6 +452,18 @@ Wa Law Shi'nā Laba'athnā Fī Kulli Qaryatin Nadhīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْ شِئْنَا لَبَعَثْنَا فِي كُلِّ قَرْيَةٍ نَذِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولو شينا لبعثنا في كل قرية نذيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡ شِئۡنَا لَبَعَثۡنَا فِی كُلِّ قَرۡیَةࣲ نَّذِیرࣰا
 
 | Details |  |

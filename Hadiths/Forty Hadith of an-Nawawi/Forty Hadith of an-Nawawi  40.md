@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ ابْن عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: أَخَذَ رَسُولُ اللَّهِ صلى الله عليه و سلم بِمَنْكِبِي، وَقَالَ: كُنْ فِي الدُّنْيَا كَأَنَّك غَرِيبٌ أَوْ عَابِرُ سَبِيلٍ . وَكَانَ ابْنُ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا يَقُولُ: إذَا أَمْسَيْتَ فَلَا تَنْتَظِرْ الصَّبَاحَ، وَإِذَا أَصْبَحْتَ فَلَا تَنْتَظِرْ الْمَسَاءَ، وَخُذْ مِنْ صِحَّتِك لِمَرَضِك، وَمِنْ حَيَاتِك لِمَوْتِك. \[رَوَاهُ الْبُخَارِيُّ\]
@@ -47,6 +49,16 @@ On the authority of Abdullah ibn Umar (may Allah be pleased with him), who said:
 ## French
 
 Selon Abdallah ibn ‘Omar (qu’Allah l’agrée), qui a dit : Le Messager d’Allah (ﷺ) m’a pris par l’épaule et a dit : « Sois dans ce monde comme un étranger ou un voyageur. » Et Ibn ‘Omar (qu’Allah l’agrée) disait : « Quand tu es le soir, n’attends pas le matin ; quand tu es le matin, n’attends pas le soir. Profite de ta santé avant la maladie, et de ta vie avant la mort. » \[Boukhari\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 40 |
+| Arabic No | 40 |
+| Reference | Book 1 Hadith 40 |
+
+## Turkish
+
+Abdullah bin Ömer (ra) anlatıyor: Resulullah (ﷺ) omzumdan tuttu ve şöyle buyurdu: "Dünyada tıpkı bir yabancı veya bir yolcu gibi ol." İbn Ömer (ra) şöyle derdi: "Akşama erdiğinde sabahı bekleme, sabaha erdiğinde de akşamı bekleme. Sağlıklı olduğun zaman hastalık halin için, hayatın boyunca da ölümün için hazırlık yap." \[Buhari\]
 
 | References: |  |
 | --- | --- |

@@ -452,6 +452,18 @@ Wa 'Ammā 'Idhā Mā Abtalāhu Faqadara 'Alayhi Rizqahu Fayaqūlu Rabbī 'Ahāna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما اذا ما ابتلاه فقدر عليه رزقه فيقول ربي اهانن
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمَّاۤ إِذَا مَا ٱبۡتَلَىٰهُ فَقَدَرَ عَلَیۡهِ رِزۡقَهُۥ فَیَقُولُ رَبِّیۤ أَهَـٰنَنِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla 'Innaka Mina Al-Munžarīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ إِنَّكَ مِنَ الْمُنْظَرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال انك من المنظرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ إِنَّكَ مِنَ ٱلۡمُنظَرِینَ
 
 | Details |  |

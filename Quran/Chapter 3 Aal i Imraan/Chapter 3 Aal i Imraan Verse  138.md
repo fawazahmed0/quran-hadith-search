@@ -452,6 +452,18 @@ Hādhā Bayānun Lilnnāsi Wa Hudáan Wa Maw'ižatun Lilmuttaqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذَا بَيَانٌ لِلنَّاسِ وَهُدًى وَمَوْعِظَةٌ لِلْمُتَّقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذا بيان للناس وهدى وموعظة للمتقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذَا بَیَانࣱ لِّلنَّاسِ وَهُدࣰى وَمَوۡعِظَةࣱ لِّلۡمُتَّقِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna Baţsha Rabbika Lashadīdun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان بطش ربك لشديد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ بَطۡشَ رَبِّكَ لَشَدِیدٌ
 
 | Details |  |

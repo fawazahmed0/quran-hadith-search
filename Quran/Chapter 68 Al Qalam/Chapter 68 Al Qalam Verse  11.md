@@ -452,6 +452,18 @@ Hammāzin Mashā'in Binamīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَمَّازٍ مَشَّاءٍ بِنَمِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هماز مشاء بنميم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَمَّازࣲ مَّشَّاۤءِۭ بِنَمِیمࣲ
 
 | Details |  |

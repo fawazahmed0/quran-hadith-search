@@ -452,6 +452,18 @@ Muttaki'īna 'Alá Sururin Maşfūfatin Wa Zawwajnāhum Biĥūrin 'Īnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مُتَّكِئِينَ عَلَى سُرُرٍ مَصْفُوفَةٍ وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+متكيين على سرر مصفوفة وزوجناهم بحور عين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مُتَّكِءِینَ عَلَىٰ سُرُرࣲ مَّصۡفُوفَةࣲۖ وَزَوَّجۡنَـٰهُم بِحُورٍ عِینࣲ
 
 | Details |  |

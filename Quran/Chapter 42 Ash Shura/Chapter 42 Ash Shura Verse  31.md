@@ -452,6 +452,18 @@ Wa Mā 'Antum Bimu'jizīna Fī Al-'Arđi Wa Mā Lakum Min Dūni Allāhi Min Wa L
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَنْتُمْ بِمُعْجِزِينَ فِي الْأَرْضِ وَمَا لَكُمْ مِنْ دُونِ اللَّهِ مِنْ وَلِيٍّ وَلَا نَصِيرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما انتم بمعجزين في الارض وما لكم من دون الله من ولي ولا نصير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَنتُم بِمُعۡجِزِینَ فِی ٱلۡأَرۡضِۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِیࣲّ وَلَا نَصِیرࣲ
 
 | Details |  |

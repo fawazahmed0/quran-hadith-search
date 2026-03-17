@@ -452,6 +452,18 @@ Thumma 'Aghraqnā Al-'Ākharīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ أَغْرَقْنَا الْآخَرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم اغرقنا الاخرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ أَغۡرَقۡنَا ٱلۡءَاخَرِینَ
 
 | Details |  |

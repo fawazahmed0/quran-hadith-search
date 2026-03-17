@@ -452,6 +452,18 @@ In Hiya 'Illā Ĥayātunā Ad-Dunyā Namūtu Wa Naĥyā Wa Mā Naĥnu Bimab'ūth
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هي الا حياتنا الدنيا نموت ونحيا وما نحن بمبعوثين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنۡ هِیَ إِلَّا حَیَاتُنَا ٱلدُّنۡیَا نَمُوتُ وَنَحۡیَا وَمَا نَحۡنُ بِمَبۡعُوثِینَ
 
 | Details |  |

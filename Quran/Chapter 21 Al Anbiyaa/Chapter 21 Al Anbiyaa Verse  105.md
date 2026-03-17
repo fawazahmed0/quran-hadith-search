@@ -452,6 +452,18 @@ Wa Laqad Katabnā Fī Az-Zabūri Min Ba'di Adh-Dhikri 'Anna Al-'Arđa Yarithuhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد كتبنا في الزبور من بعد الذكر ان الارض يرثها عبادي الصالحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ كَتَبۡنَا فِی ٱلزَّبُورِ مِنۢ بَعۡدِ ٱلذِّكۡرِ أَنَّ ٱلۡأَرۡضَ یَرِثُهَا عِبَادِیَ ٱلصَّـٰلِحُونَ
 
 | Details |  |

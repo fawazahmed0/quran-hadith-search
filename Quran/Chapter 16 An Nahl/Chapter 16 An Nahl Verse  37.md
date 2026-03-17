@@ -452,6 +452,18 @@ In Taĥriş 'Alá Hudāhum Fa'inna Allāha Lā Yahdī Man Yuđillu Wa Mā Lahum 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ تَحْرِصْ عَلَى هُدَاهُمْ فَإِنَّ اللَّهَ لَا يَهْدِي مَنْ يُضِلُّ وَمَا لَهُمْ مِنْ نَاصِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان تحرص على هداهم فان الله لا يهدي من يضل وما لهم من ناصرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِن تَحۡرِصۡ عَلَىٰ هُدَىٰهُمۡ فَإِنَّ ٱللَّهَ لَا یَهۡدِی مَن یُضِلُّۖ وَمَا لَهُم مِّن نَّـٰصِرِینَ
 
 | Details |  |

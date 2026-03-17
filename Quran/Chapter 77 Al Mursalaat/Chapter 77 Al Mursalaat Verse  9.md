@@ -452,6 +452,18 @@ Wa 'Idhā As-Samā'u Furijat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا السَّمَاءُ فُرِجَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا السماء فرجت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱلسَّمَاۤءُ فُرِجَتۡ
 
 | Details |  |

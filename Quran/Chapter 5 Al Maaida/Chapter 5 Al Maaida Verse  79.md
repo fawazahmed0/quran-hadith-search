@@ -452,6 +452,18 @@ Kānū Lā Yatanāhawna 'An Munkarin Fa'alūhu Labi'sa Mā Kānū Yaf'alūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَانُوا لَا يَتَنَاهَوْنَ عَنْ مُنْكَرٍ فَعَلُوهُ لَبِئْسَ مَا كَانُوا يَفْعَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كانوا لا يتناهون عن منكر فعلوه لبيس ما كانوا يفعلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَانُوا۟ لَا یَتَنَاهَوۡنَ عَن مُّنكَرࣲ فَعَلُوهُۚ لَبِئۡسَ مَا كَانُوا۟ یَفۡعَلُونَ
 
 | Details |  |

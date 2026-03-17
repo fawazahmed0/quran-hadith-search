@@ -452,6 +452,18 @@ Wa Ja'alnā An-Nahāra Ma'āshāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلْنَا النَّهَارَ مَعَاشًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلنا النهار معاشا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلۡنَا ٱلنَّهَارَ مَعَاشࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Lā Yas'amu Al-'Insānu Min Du'ā'i Al-Khayri Wa 'In Massahu Ash-Sharru Faya'ūs
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَسْأَمُ الْإِنْسَانُ مِنْ دُعَاءِ الْخَيْرِ وَإِنْ مَسَّهُ الشَّرُّ فَيَئُوسٌ قَنُوطٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يسام الانسان من دعاء الخير وان مسه الشر فييوس قنوط
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا یَسۡءَمُ ٱلۡإِنسَـٰنُ مِن دُعَاۤءِ ٱلۡخَیۡرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَیَءُوسࣱ قَنُوطࣱ
 
 | Details |  |

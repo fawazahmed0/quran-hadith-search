@@ -452,6 +452,18 @@ Wa Taqallubaka Fī As-Sājidīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَقَلُّبَكَ فِي السَّاجِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتقلبك في الساجدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَقَلُّبَكَ فِی ٱلسَّـٰجِدِینَ
 
 | Details |  |

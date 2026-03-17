@@ -452,6 +452,18 @@ Wa Law Tará 'Idh Fazi'ū Falā Fawta Wa 'Ukhidhū Min Makānin Qarībin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْ تَرَى إِذْ فَزِعُوا فَلَا فَوْتَ وَأُخِذُوا مِنْ مَكَانٍ قَرِيبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولو ترى اذ فزعوا فلا فوت واخذوا من مكان قريب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡ تَرَىٰۤ إِذۡ فَزِعُوا۟ فَلَا فَوۡتَ وَأُخِذُوا۟ مِن مَّكَانࣲ قَرِیبࣲ
 
 | Details |  |

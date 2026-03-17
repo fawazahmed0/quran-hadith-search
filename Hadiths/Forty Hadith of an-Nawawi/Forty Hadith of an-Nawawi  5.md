@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أُمِّ الْمُؤْمِنِينَ أُمِّ عَبْدِ اللَّهِ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا، قَالَتْ: قَالَ: رَسُولُ اللَّهِ صلى الله عليه و سلم مَنْ أَحْدَثَ فِي أَمْرِنَا هَذَا مَا لَيْسَ مِنْهُ فَهُوَ رَدٌّ \[رَوَاهُ الْبُخَارِيُّ\] ،\[وَمُسْلِمٌ\] وَفِي رِوَايَةٍ لِمُسْلِمٍ: مَنْ عَمِلَ عَمَلًا لَيْسَ عَلَيْهِ أَمْرُنَا فَهُوَ رَدٌّ
@@ -47,6 +49,16 @@ On the authority of the mother of the faithful, Aisha (ra), who said: The Messen
 ## French
 
 Selon la mère des croyants, ‘Aïcha (qu’Allah l’agrée), qui a dit : Le Messager d’Allah (ﷺ) a dit : « Celui qui introduit dans notre religion quelque chose qui n’en fait pas partie, cela lui sera rejeté. » \[Boukhari & Mouslim\] Dans une autre version chez Mouslim : « Celui qui accomplit un acte que nous n’avons pas ordonné, cela lui sera rejeté. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5 |
+| Arabic No | 5 |
+| Reference | Book 1 Hadith 5 |
+
+## Turkish
+
+Müminlerin annesi Aişe (ra) anlatıyor: Resulullah (ﷺ) şöyle buyurdu: "Kim bizim bu işimizde (dinimizde) ondan olmayan bir şeyi sonradan uydurursa, o reddedilir." \[Buhari ve Müslim\]. Müslim'in bir rivayetinde ise şöyledir: "Kim bizim emrimiz olmayan bir iş yaparsa, o reddedilir
 
 | References: |  |
 | --- | --- |

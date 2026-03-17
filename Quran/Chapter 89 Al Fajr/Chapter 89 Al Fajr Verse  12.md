@@ -452,6 +452,18 @@ Fa'aktharū Fīhā Al-Fasāda
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَكْثَرُوا فِيهَا الْفَسَادَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاكثروا فيها الفساد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَكۡثَرُوا۟ فِیهَا ٱلۡفَسَادَ
 
 | Details |  |

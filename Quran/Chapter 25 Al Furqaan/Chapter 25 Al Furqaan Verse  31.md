@@ -452,6 +452,18 @@ Wa Kadhalika Ja'alnā Likulli Nabīyin 'Adūwāan Mina Al-Mujrimīna Wa Kafá Bi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَذَلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ عَدُوًّا مِنَ الْمُجْرِمِينَ وَكَفَى بِرَبِّكَ هَادِيًا وَنَصِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكذلك جعلنا لكل نبي عدوا من المجرمين وكفى بربك هاديا ونصيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَذَ ٰلِكَ جَعَلۡنَا لِكُلِّ نَبِیٍّ عَدُوࣰّا مِّنَ ٱلۡمُجۡرِمِینَۗ وَكَفَىٰ بِرَبِّكَ هَادِیࣰا وَنَصِیرࣰا
 
 | Details |  |

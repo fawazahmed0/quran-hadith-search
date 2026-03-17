@@ -452,6 +452,18 @@ Ka'annahunna Bayđun Maknūnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَأَنَّهُنَّ بَيْضٌ مَكْنُونٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كانهن بيض مكنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَأَنَّهُنَّ بَیۡضࣱ مَّكۡنُونࣱ
 
 | Details |  |

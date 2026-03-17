@@ -452,6 +452,18 @@ Min Nuţfatin Khalaqahu Faqaddarahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من نطفة خلقه فقدره
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مِن نُّطۡفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ
 
 | Details |  |

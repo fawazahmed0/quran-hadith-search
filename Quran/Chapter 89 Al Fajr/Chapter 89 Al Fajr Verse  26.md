@@ -452,6 +452,18 @@ Wa Lā Yūthiqu Wathāqahu 'Aĥadun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا يوثق وثاقه احد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا یُوثِقُ وَثَاقَهُۥۤ أَحَدࣱ
 
 | Details |  |

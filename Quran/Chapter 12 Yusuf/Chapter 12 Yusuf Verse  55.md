@@ -452,6 +452,18 @@ Qāla Aj'alnī 'Alá Khazā'ini Al-'Arđi 'Innī Ĥafīžun 'Alīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ اجْعَلْنِي عَلَى خَزَائِنِ الْأَرْضِ إِنِّي حَفِيظٌ عَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال اجعلني على خزاين الارض اني حفيظ عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ ٱجۡعَلۡنِی عَلَىٰ خَزَاۤئِنِ ٱلۡأَرۡضِۖ إِنِّی حَفِیظٌ عَلِیمࣱ
 
 | Details |  |

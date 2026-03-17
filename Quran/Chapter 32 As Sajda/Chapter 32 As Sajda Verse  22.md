@@ -452,6 +452,18 @@ Wa Man 'Ažlamu Mimman Dhukkira Bi'āyāti Rabbihi Thumma 'A'rađa 'Anhā 'Innā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ أَظْلَمُ مِمَّنْ ذُكِّرَ بِآيَاتِ رَبِّهِ ثُمَّ أَعْرَضَ عَنْهَا إِنَّا مِنَ الْمُجْرِمِينَ مُنْتَقِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن اظلم ممن ذكر بايات ربه ثم اعرض عنها انا من المجرمين منتقمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَنۡ أَظۡلَمُ مِمَّن ذُكِّرَ بِءَایَـٰتِ رَبِّهِۦ ثُمَّ أَعۡرَضَ عَنۡهَاۤۚ إِنَّا مِنَ ٱلۡمُجۡرِمِینَ مُنتَقِمُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Sayahdīhim Wa Yuşliĥu Bālahum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَيَهْدِيهِمْ وَيُصْلِحُ بَالَهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سيهديهم ويصلح بالهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَیَهۡدِیهِمۡ وَیُصۡلِحُ بَالَهُمۡ
 
 | Details |  |

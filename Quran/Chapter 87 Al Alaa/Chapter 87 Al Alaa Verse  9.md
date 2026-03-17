@@ -452,6 +452,18 @@ Fadhakkir 'In Nafa'ati Adh-Dhikrá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَذَكِّرْ إِنْ نَفَعَتِ الذِّكْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فذكر ان نفعت الذكرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَذَكِّرۡ إِن نَّفَعَتِ ٱلذِّكۡرَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Laqad 'Ađalla Minkum Jibillāan Kathīrāan 'Afalam Takūnū Ta'qilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ أَضَلَّ مِنْكُمْ جِبِلًّا كَثِيرًا أَفَلَمْ تَكُونُوا تَعْقِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد اضل منكم جبلا كثيرا افلم تكونوا تعقلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ أَضَلَّ مِنكُمۡ جِبِلࣰّا كَثِیرًاۖ أَفَلَمۡ تَكُونُوا۟ تَعۡقِلُونَ
 
 | Details |  |

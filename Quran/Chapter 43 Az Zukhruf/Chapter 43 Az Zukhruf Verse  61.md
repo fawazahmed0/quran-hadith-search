@@ -452,6 +452,18 @@ Wa 'Innahu La'ilmun Lilssā'ati Falā Tamtarunna Bihā Wa Attabi'ūnī Hādhā �
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّهُ لَعِلْمٌ لِلسَّاعَةِ فَلَا تَمْتَرُنَّ بِهَا وَاتَّبِعُونِ هَذَا صِرَاطٌ مُسْتَقِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه لعلم للساعة فلا تمترن بها واتبعون هذا صراط مستقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّهُۥ لَعِلۡمࣱ لِّلسَّاعَةِ فَلَا تَمۡتَرُنَّ بِهَا وَٱتَّبِعُونِۚ هَـٰذَا صِرَ ٰطࣱ مُّسۡتَقِیمࣱ
 
 | Details |  |

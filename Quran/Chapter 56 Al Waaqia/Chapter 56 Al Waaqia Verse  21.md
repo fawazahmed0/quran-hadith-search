@@ -452,6 +452,18 @@ Wa Laĥmi Ţayrin Mimmā Yashtahūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَحْمِ طَيْرٍ مِمَّا يَشْتَهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولحم طير مما يشتهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَحۡمِ طَیۡرࣲ مِّمَّا یَشۡتَهُونَ
 
 | Details |  |

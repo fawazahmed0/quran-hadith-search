@@ -452,6 +452,18 @@ Man Kāna Yarjū Liqā'a Allāhi Fa'inna 'Ajala Allāhi La'ātin Wa Huwa As-Sam�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَنْ كَانَ يَرْجُو لِقَاءَ اللَّهِ فَإِنَّ أَجَلَ اللَّهِ لَآتٍ وَهُوَ السَّمِيعُ الْعَلِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من كان يرجو لقاء الله فان اجل الله لات وهو السميع العليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَن كَانَ یَرۡجُوا۟ لِقَاۤءَ ٱللَّهِ فَإِنَّ أَجَلَ ٱللَّهِ لَءَاتࣲۚ وَهُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ
 
 | Details |  |

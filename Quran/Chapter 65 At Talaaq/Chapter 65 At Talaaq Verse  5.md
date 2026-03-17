@@ -452,6 +452,18 @@ Dhālika 'Amru Allāhi 'Anzalahu 'Ilaykum Wa Man Yattaqi Allāha Yukaffir 'Anhu 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ أَمْرُ اللَّهِ أَنْزَلَهُ إِلَيْكُمْ وَمَنْ يَتَّقِ اللَّهَ يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُعْظِمْ لَهُ أَجْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك امر الله انزله اليكم ومن يتق الله يكفر عنه سيياته ويعظم له اجرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ أَمۡرُ ٱللَّهِ أَنزَلَهُۥۤ إِلَیۡكُمۡۚ وَمَن یَتَّقِ ٱللَّهَ یُكَفِّرۡ عَنۡهُ سَیِّءَاتِهِۦ وَیُعۡظِمۡ لَهُۥۤ أَجۡرًا
 
 | Details |  |

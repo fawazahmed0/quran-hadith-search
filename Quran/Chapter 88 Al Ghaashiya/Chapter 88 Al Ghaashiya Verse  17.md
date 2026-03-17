@@ -452,6 +452,18 @@ Afalā Yanžurūna 'Ilá Al-'Ibili Kayfa Khuliqat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَلَا يَنْظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افلا ينظرون الى الابل كيف خلقت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَلَا یَنظُرُونَ إِلَى ٱلۡإِبِلِ كَیۡفَ خُلِقَتۡ
 
 | Details |  |

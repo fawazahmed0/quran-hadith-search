@@ -452,6 +452,18 @@ Innā Kulla Shay'in Khalaqnāhu Biqadarin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا كل شيء خلقناه بقدر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا كُلَّ شَیۡءٍ خَلَقۡنَـٰهُ بِقَدَرࣲ
 
 | Details |  |

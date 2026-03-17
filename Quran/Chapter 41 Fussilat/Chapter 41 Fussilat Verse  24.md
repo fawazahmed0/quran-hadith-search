@@ -452,6 +452,18 @@ Fa'in Yaşbirū Fālnnāru Mathwáan Lahum Wa 'In Yasta'tibū Famā Hum Mina Al-
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنْ يَصْبِرُوا فَالنَّارُ مَثْوًى لَهُمْ وَإِنْ يَسْتَعْتِبُوا فَمَا هُمْ مِنَ الْمُعْتَبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فان يصبروا فالنار مثوى لهم وان يستعتبوا فما هم من المعتبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِن یَصۡبِرُوا۟ فَٱلنَّارُ مَثۡوࣰى لَّهُمۡۖ وَإِن یَسۡتَعۡتِبُوا۟ فَمَا هُم مِّنَ ٱلۡمُعۡتَبِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Wahabnā Lahu 'Ahlahu Wa Mithlahum Ma'ahum Raĥmatan Minnā Wa Dhikrá Li'wl�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَوَهَبْنَا لَهُ أَهْلَهُ وَمِثْلَهُمْ مَعَهُمْ رَحْمَةً مِنَّا وَذِكْرَى لِأُولِي الْأَلْبَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ووهبنا له اهله ومثلهم معهم رحمة منا وذكرى لاولي الالباب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَوَهَبۡنَا لَهُۥۤ أَهۡلَهُۥ وَمِثۡلَهُم مَّعَهُمۡ رَحۡمَةࣰ مِّنَّا وَذِكۡرَىٰ لِأُو۟لِی ٱلۡأَلۡبَـٰبِ
 
 | Details |  |

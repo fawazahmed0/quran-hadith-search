@@ -452,6 +452,18 @@ Awlá Laka Fa'awlá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْلَى لَكَ فَأَوْلَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اولى لك فاولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوۡلَىٰ لَكَ فَأَوۡلَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fālmulqiyāti Dhikrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَالْمُلْقِيَاتِ ذِكْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالملقيات ذكرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱلۡمُلۡقِیَـٰتِ ذِكۡرًا
 
 | Details |  |

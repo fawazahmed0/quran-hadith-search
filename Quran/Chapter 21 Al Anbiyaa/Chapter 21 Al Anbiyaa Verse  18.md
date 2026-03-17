@@ -452,6 +452,18 @@ Bal Naqdhifu Bil-Ĥaqqi 'Alá Al-Bāţili Fayadmaghuhu Fa'idhā Huwa Zāhiqun Wa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ نَقْذِفُ بِالْحَقِّ عَلَى الْبَاطِلِ فَيَدْمَغُهُ فَإِذَا هُوَ زَاهِقٌ وَلَكُمُ الْوَيْلُ مِمَّا تَصِفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل نقذف بالحق على الباطل فيدمغه فاذا هو زاهق ولكم الويل مما تصفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ نَقۡذِفُ بِٱلۡحَقِّ عَلَى ٱلۡبَـٰطِلِ فَیَدۡمَغُهُۥ فَإِذَا هُوَ زَاهِقࣱۚ وَلَكُمُ ٱلۡوَیۡلُ مِمَّا تَصِفُونَ
 
 | Details |  |

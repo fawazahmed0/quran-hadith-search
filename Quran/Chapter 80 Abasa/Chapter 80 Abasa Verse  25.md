@@ -452,6 +452,18 @@ Annā Şababnā Al-Mā'a Şabbāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَنَّا صَبَبْنَا الْمَاءَ صَبًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا صببنا الماء صبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَنَّا صَبَبۡنَا ٱلۡمَاۤءَ صَبࣰّا
 
 | Details |  |

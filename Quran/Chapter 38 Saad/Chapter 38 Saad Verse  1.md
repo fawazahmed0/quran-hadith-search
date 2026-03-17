@@ -452,6 +452,18 @@ Sad Wa Al-Qur'ani Dhi Adh-Dhikri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ص وَالْقُرْآنِ ذِي الذِّكْرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ص والقران ذي الذكر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 صۤۚ وَٱلۡقُرۡءَانِ ذِی ٱلذِّكۡرِ
 
 | Details |  |

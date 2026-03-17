@@ -452,6 +452,18 @@ Kadhālika Wa 'Awrathnāhā Banī 'Isrā'īla
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَلِكَ وَأَوْرَثْنَاهَا بَنِي إِسْرَائِيلَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذلك واورثناها بني اسراييل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَ ٰلِكَۖ وَأَوۡرَثۡنَـٰهَا بَنِیۤ إِسۡرَ ٰۤءِیلَ
 
 | Details |  |

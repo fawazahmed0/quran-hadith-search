@@ -452,6 +452,18 @@ Fa'innamā Hiya Zajratun Wāĥidahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانما هي زجرة واحدة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِنَّمَا هِیَ زَجۡرَةࣱ وَ ٰحِدَةࣱ
 
 | Details |  |

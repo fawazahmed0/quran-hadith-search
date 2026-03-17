@@ -452,6 +452,18 @@ Inna Al-Ladhīna 'Inda Rabbika Lā Yastakbirūna 'An 'Ibādatihi Wa Yusabbiĥūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ عِنْدَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِ وَيُسَبِّحُونَهُ وَلَهُ يَسْجُدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين عند ربك لا يستكبرون عن عبادته ويسبحونه وله يسجدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ عِندَ رَبِّكَ لَا یَسۡتَكۡبِرُونَ عَنۡ عِبَادَتِهِۦ وَیُسَبِّحُونَهُۥ وَلَهُۥ یَ̅سۡ̅جُ̅دُ̅و̅نَ̅ ۩
 
 | Details |  |

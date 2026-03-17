@@ -452,6 +452,18 @@ Law Nashā'u Ja'alnāhu 'Ujājāan Falawlā Tashkurūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَوْ نَشَاءُ جَعَلْنَاهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لو نشاء جعلناه اجاجا فلولا تشكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَوۡ نَشَاۤءُ جَعَلۡنَـٰهُ أُجَاجࣰا فَلَوۡلَا تَشۡكُرُونَ
 
 | Details |  |

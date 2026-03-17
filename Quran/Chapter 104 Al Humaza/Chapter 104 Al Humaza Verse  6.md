@@ -452,6 +452,18 @@ Nāru Allāhi Al-Mūqadahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نَارُ اللَّهِ الْمُوقَدَةُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نار الله الموقدة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ
 
 | Details |  |

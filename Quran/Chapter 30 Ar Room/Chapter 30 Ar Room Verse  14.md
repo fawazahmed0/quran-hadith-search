@@ -452,6 +452,18 @@ Wa Yawma Taqūmu As-Sā'atu Yawma'idhin Yatafarraqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَتَفَرَّقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويوم تقوم الساعة يوميذ يتفرقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَوۡمَ تَقُومُ ٱلسَّاعَةُ یَوۡمَئِذࣲ یَتَفَرَّقُونَ
 
 | Details |  |

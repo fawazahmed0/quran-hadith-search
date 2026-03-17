@@ -452,6 +452,18 @@ Mā 'Anzalnā 'Alayka Al-Qur'āna Litashqá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا أَنْزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما انزلنا عليك القران لتشقى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَاۤ أَنزَلۡنَا عَلَیۡكَ ٱلۡقُرۡءَانَ لِتَشۡقَىٰۤ
 
 | Details |  |

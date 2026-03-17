@@ -452,6 +452,18 @@ Qāla 'Innakum Qawmun Munkarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ إِنَّكُمْ قَوْمٌ مُنْكَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال انكم قوم منكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ إِنَّكُمۡ قَوۡمࣱ مُّنكَرُونَ
 
 | Details |  |

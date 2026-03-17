@@ -452,6 +452,18 @@ Alam Ya'lamū 'Anna Allāha Ya'lamu Sirrahum Wa Najwāhum Wa 'Anna Allāha 'All�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ يَعْلَمُ سِرَّهُمْ وَنَجْوَاهُمْ وَأَنَّ اللَّهَ عَلَّامُ الْغُيُوبِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم يعلموا ان الله يعلم سرهم ونجواهم وان الله علام الغيوب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ یَعۡلَمُوۤا۟ أَنَّ ٱللَّهَ یَعۡلَمُ سِرَّهُمۡ وَنَجۡوَىٰهُمۡ وَأَنَّ ٱللَّهَ عَلَّـٰمُ ٱلۡغُیُوبِ
 
 | Details |  |

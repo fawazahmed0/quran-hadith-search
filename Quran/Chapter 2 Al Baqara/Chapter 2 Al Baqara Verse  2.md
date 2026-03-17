@@ -452,6 +452,18 @@ Dhālika Al-Kitābu Lā Rayba Fīhi Hudáan Lilmuttaqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك الكتاب لا ريب فيه هدى للمتقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ ٱلۡكِتَـٰبُ لَا رَیۡبَۛ فِیهِۛ هُدࣰى لِّلۡمُتَّقِینَ
 
 | Details |  |

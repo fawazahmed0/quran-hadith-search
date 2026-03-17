@@ -452,6 +452,18 @@ Wa Ĥamalnāhu 'Alá Dhāti 'Alwāĥin Wa Dusurin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَحَمَلْنَاهُ عَلَى ذَاتِ أَلْوَاحٍ وَدُسُرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وحملناه على ذات الواح ودسر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَحَمَلۡنَـٰهُ عَلَىٰ ذَاتِ أَلۡوَ ٰحࣲ وَدُسُرࣲ
 
 | Details |  |

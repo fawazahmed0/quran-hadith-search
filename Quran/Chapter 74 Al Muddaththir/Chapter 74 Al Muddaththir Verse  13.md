@@ -452,6 +452,18 @@ Wa Banīna Shuhūdāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَبَنِينَ شُهُودًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وبنين شهودا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَبَنِینَ شُهُودࣰا
 
 | Details |  |

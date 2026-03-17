@@ -452,6 +452,18 @@ Wa Lahu Al-Jawāri Al-Munsha'ātu Fī Al-Baĥri Kāl'a'lāmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَهُ الْجَوَارِ الْمُنْشَآتُ فِي الْبَحْرِ كَالْأَعْلَامِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وله الجوار المنشات في البحر كالاعلام
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَهُ ٱلۡجَوَارِ ٱلۡمُنشَءَاتُ فِی ٱلۡبَحۡرِ كَٱلۡأَعۡلَـٰمِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Yawma'idhin Lā Tanfa'u Ash-Shafā'atu 'Illā Man 'Adhina Lahu Ar-Raĥmānu Wa R
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَئِذٍ لَا تَنْفَعُ الشَّفَاعَةُ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَنُ وَرَضِيَ لَهُ قَوْلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوميذ لا تنفع الشفاعة الا من اذن له الرحمن ورضي له قولا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَئِذࣲ لَّا تَنفَعُ ٱلشَّفَـٰعَةُ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَـٰنُ وَرَضِیَ لَهُۥ قَوۡلࣰا
 
 | Details |  |

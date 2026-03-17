@@ -452,6 +452,18 @@ Fa'idhā Faraghta Fānşab
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِذَا فَرَغْتَ فَانْصَبْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاذا فرغت فانصب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِذَا فَرَغۡتَ فَٱنصَبۡ
 
 | Details |  |

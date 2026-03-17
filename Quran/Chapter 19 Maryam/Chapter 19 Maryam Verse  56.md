@@ -452,6 +452,18 @@ Wa Adhkur Fī Al-Kitābi 'Idrīsa 'Innahu Kāna Şiddīqāan Nabīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاذْكُرْ فِي الْكِتَابِ إِدْرِيسَ إِنَّهُ كَانَ صِدِّيقًا نَبِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذكر في الكتاب ادريس انه كان صديقا نبيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱذۡكُرۡ فِی ٱلۡكِتَـٰبِ إِدۡرِیسَۚ إِنَّهُۥ كَانَ صِدِّیقࣰا نَّبِیࣰّا
 
 | Details |  |

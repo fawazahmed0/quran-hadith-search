@@ -452,6 +452,18 @@ Wa Libuyūtihim 'Abwābāan Wa Sururāan 'Alayhā Yattaki'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِبُيُوتِهِمْ أَبْوَابًا وَسُرُرًا عَلَيْهَا يَتَّكِئُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولبيوتهم ابوابا وسررا عليها يتكيون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِبُیُوتِهِمۡ أَبۡوَ ٰبࣰا وَسُرُرًا عَلَیۡهَا یَتَّكِءُونَ
 
 | Details |  |

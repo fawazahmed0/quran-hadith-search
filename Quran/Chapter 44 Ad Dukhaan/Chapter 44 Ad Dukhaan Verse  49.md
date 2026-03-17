@@ -452,6 +452,18 @@ Dhuq 'Innaka 'Anta Al-'Azīzu Al-Karīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذُقْ إِنَّكَ أَنْتَ الْعَزِيزُ الْكَرِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذق انك انت العزيز الكريم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذُقۡ إِنَّكَ أَنتَ ٱلۡعَزِیزُ ٱلۡكَرِیمُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qālū Yā 'Abānā Mā Laka Lā Ta'mannā 'Alá Yūsufa Wa 'Innā Lahu Lanāşi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا يَا أَبَانَا مَا لَكَ لَا تَأْمَنَّا عَلَى يُوسُفَ وَإِنَّا لَهُ لَنَاصِحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا يا ابانا ما لك لا تامنا على يوسف وانا له لناصحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ یَـٰۤأَبَانَا مَالَكَ لَا تَأۡمَـ۫نَّا عَلَىٰ یُوسُفَ وَإِنَّا لَهُۥ لَنَـٰصِحُونَ
 
 | Details |  |

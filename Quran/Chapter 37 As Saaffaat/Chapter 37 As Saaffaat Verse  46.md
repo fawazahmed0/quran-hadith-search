@@ -452,6 +452,18 @@ Bayđā'a Ladhatin Lilshāribīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَيْضَاءَ لَذَّةٍ لِلشَّارِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بيضاء لذة للشاربين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَیۡضَاۤءَ لَذَّةࣲ لِّلشَّـٰرِبِینَ
 
 | Details |  |

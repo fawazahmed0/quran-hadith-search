@@ -452,6 +452,18 @@ Man Khashiya Ar-Raĥmana Bil-Ghaybi Wa Jā'a Biqalbin Munībin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَنْ خَشِيَ الرَّحْمَنَ بِالْغَيْبِ وَجَاءَ بِقَلْبٍ مُنِيبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من خشي الرحمن بالغيب وجاء بقلب منيب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّنۡ خَشِیَ ٱلرَّحۡمَـٰنَ بِٱلۡغَیۡبِ وَجَاۤءَ بِقَلۡبࣲ مُّنِیبٍ
 
 | Details |  |

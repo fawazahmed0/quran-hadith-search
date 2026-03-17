@@ -452,6 +452,18 @@ Ara'ayta Al-Ladhī Yukadhibu Bid-Dīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ارايت الذي يكذب بالدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَرَءَیۡتَ ٱلَّذِی یُكَذِّبُ بِٱلدِّینِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Al-Ladhīna Hum 'Alá Şalātihim Dā'imūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ هُمْ عَلَى صَلَاتِهِمْ دَائِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين هم على صلاتهم دايمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ هُمۡ عَلَىٰ صَلَاتِهِمۡ دَاۤئِمُونَ
 
 | Details |  |

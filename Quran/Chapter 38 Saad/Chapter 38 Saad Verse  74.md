@@ -452,6 +452,18 @@ Illā 'Iblīsa Astakbara Wa Kāna Mina Al-Kāfirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا إِبْلِيسَ اسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا ابليس استكبر وكان من الكافرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّاۤ إِبۡلِیسَ ٱسۡتَكۡبَرَ وَكَانَ مِنَ ٱلۡكَـٰفِرِینَ
 
 | Details |  |

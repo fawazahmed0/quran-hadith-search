@@ -452,6 +452,18 @@ Fa'idhā Hum Bis-Sāhirahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِذَا هُمْ بِالسَّاهِرَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاذا هم بالساهرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِذَا هُم بِٱلسَّاهِرَةِ
 
 | Details |  |

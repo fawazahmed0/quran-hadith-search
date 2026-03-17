@@ -452,6 +452,18 @@ Wa Allāhu Min Warā'ihim Muĥīţun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاللَّهُ مِنْ وَرَائِهِمْ مُحِيطٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والله من ورايهم محيط
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱللَّهُ مِن وَرَاۤئِهِم مُّحِیطُۢ
 
 | Details |  |

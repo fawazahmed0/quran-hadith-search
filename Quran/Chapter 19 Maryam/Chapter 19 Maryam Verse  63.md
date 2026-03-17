@@ -452,6 +452,18 @@ Tilka Al-Jannatu Allatī Nūrithu Min 'Ibādinā Man Kāna Taqīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تِلْكَ الْجَنَّةُ الَّتِي نُورِثُ مِنْ عِبَادِنَا مَنْ كَانَ تَقِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تلك الجنة التي نورث من عبادنا من كان تقيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تِلۡكَ ٱلۡجَنَّةُ ٱلَّتِی نُورِثُ مِنۡ عِبَادِنَا مَن كَانَ تَقِیࣰّا
 
 | Details |  |

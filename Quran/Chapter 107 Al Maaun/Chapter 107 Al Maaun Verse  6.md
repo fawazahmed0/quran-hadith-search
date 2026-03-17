@@ -452,6 +452,18 @@ Al-Ladhīna Hum Yurā'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ هُمْ يُرَاءُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين هم يراءون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ هُمۡ یُرَاۤءُونَ
 
 | Details |  |

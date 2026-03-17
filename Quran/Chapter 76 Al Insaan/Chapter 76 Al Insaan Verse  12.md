@@ -452,6 +452,18 @@ Wa Jazāhum Bimā Şabarū Jannatan Wa Ĥarīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَزَاهُمْ بِمَا صَبَرُوا جَنَّةً وَحَرِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجزاهم بما صبروا جنة وحريرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَزَىٰهُم بِمَا صَبَرُوا۟ جَنَّةࣰ وَحَرِیرࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Laqad Sabaqat Kalimatunā Li'ibādinā Al-Mursalīn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْسَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد سبقت كلمتنا لعبادنا المرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ سَبَقَتۡ كَلِمَتُنَا لِعِبَادِنَا ٱلۡمُرۡسَلِینَ
 
 | Details |  |

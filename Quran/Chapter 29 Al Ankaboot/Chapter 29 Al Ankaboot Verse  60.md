@@ -452,6 +452,18 @@ Wa Ka'ayyin Min Dābbatin Lā Taĥmilu Rizqahā Allāhu Yarzuquhā Wa 'Īyākum 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَأَيِّنْ مِنْ دَابَّةٍ لَا تَحْمِلُ رِزْقَهَا اللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ وَهُوَ السَّمِيعُ الْعَلِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكاين من دابة لا تحمل رزقها الله يرزقها واياكم وهو السميع العليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَأَیِّن مِّن دَاۤبَّةࣲ لَّا تَحۡمِلُ رِزۡقَهَا ٱللَّهُ یَرۡزُقُهَا وَإِیَّاكُمۡۚ وَهُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ
 
 | Details |  |

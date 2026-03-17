@@ -452,6 +452,18 @@ Fawasaţna Bihi Jam'āan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَوَسَطْنَ بِهِ جَمْعًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فوسطن به جمعا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَوَسَطۡنَ بِهِۦ جَمۡعًا
 
 | Details |  |

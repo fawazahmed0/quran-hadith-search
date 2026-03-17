@@ -452,6 +452,18 @@ Wa 'Inna Rabbaka Lahuwa Al-'Azīzu Ar-Raĥīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان ربك لهو العزيز الرحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ
 
 | Details |  |

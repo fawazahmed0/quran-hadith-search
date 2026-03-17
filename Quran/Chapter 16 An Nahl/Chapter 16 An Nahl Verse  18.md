@@ -452,6 +452,18 @@ Wa 'In Ta'uddū Ni'mata Allāhi Lā Tuĥşūhā 'Inna Allāha Laghafūrun Raĥī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ تَعُدُّوا نِعْمَةَ اللَّهِ لَا تُحْصُوهَا إِنَّ اللَّهَ لَغَفُورٌ رَحِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان تعدوا نعمة الله لا تحصوها ان الله لغفور رحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن تَعُدُّوا۟ نِعۡمَةَ ٱللَّهِ لَا تُحۡصُوهَاۤۗ إِنَّ ٱللَّهَ لَغَفُورࣱ رَّحِیمࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Bashīrāan Wa Nadhīrāan Fa'a'rađa 'Aktharuhum Fahum Lā Yasma'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَشِيرًا وَنَذِيرًا فَأَعْرَضَ أَكْثَرُهُمْ فَهُمْ لَا يَسْمَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بشيرا ونذيرا فاعرض اكثرهم فهم لا يسمعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَشِیرࣰا وَنَذِیرࣰا فَأَعۡرَضَ أَكۡثَرُهُمۡ فَهُمۡ لَا یَسۡمَعُونَ
 
 | Details |  |

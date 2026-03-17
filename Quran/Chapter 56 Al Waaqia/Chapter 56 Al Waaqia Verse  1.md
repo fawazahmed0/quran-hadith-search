@@ -452,6 +452,18 @@ Idhā Waqa'ati Al-Wāqi'ahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذَا وَقَعَتِ الْوَاقِعَةُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذا وقعت الواقعة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ
 
 | Details |  |

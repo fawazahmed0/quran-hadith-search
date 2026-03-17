@@ -452,6 +452,18 @@ Wa 'Aqīmū Al-Wazna Bil-Qisţi Wa Lā Tukhsirū Al-Mīzāna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واقيموا الوزن بالقسط ولا تخسروا الميزان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَقِیمُوا۟ ٱلۡوَزۡنَ بِٱلۡقِسۡطِ وَلَا تُخۡسِرُوا۟ ٱلۡمِیزَانَ
 
 | Details |  |

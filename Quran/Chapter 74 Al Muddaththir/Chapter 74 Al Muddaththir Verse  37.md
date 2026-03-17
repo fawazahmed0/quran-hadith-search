@@ -452,6 +452,18 @@ Liman Shā'a Minkum 'An Yataqaddama 'Aw Yata'akhkhara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِمَنْ شَاءَ مِنْكُمْ أَنْ يَتَقَدَّمَ أَوْ يَتَأَخَّرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لمن شاء منكم ان يتقدم او يتاخر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِمَن شَاۤءَ مِنكُمۡ أَن یَتَقَدَّمَ أَوۡ یَتَأَخَّرَ
 
 | Details |  |

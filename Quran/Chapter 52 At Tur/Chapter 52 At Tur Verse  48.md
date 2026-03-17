@@ -452,6 +452,18 @@ Wa Aşbir Liĥukmi Rabbika Fa'innaka Bi'a'yuninā Wa Sabbiĥ Biĥamdi Rabbika Ĥ
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واصبر لحكم ربك فانك باعيننا وسبح بحمد ربك حين تقوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ فَإِنَّكَ بِأَعۡیُنِنَاۖ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ حِینَ تَقُومُ
 
 | Details |  |

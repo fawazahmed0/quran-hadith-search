@@ -452,6 +452,18 @@ Lā Jarama 'Annahum Fī Al-'Ākhirati Humu Al-Khāsirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا جَرَمَ أَنَّهُمْ فِي الْآخِرَةِ هُمُ الْخَاسِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا جرم انهم في الاخرة هم الخاسرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا جَرَمَ أَنَّهُمۡ فِی ٱلۡءَاخِرَةِ هُمُ ٱلۡخَـٰسِرُونَ
 
 | Details |  |

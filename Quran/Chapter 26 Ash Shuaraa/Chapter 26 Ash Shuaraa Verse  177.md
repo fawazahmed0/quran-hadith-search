@@ -452,6 +452,18 @@ Idh Qāla Lahum Shu'aybun 'Alā Tattaqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ قال لهم شعيب الا تتقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ قَالَ لَهُمۡ شُعَیۡبٌ أَلَا تَتَّقُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Kay Nusabbiĥaka Kathīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَيْ نُسَبِّحَكَ كَثِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كي نسبحك كثيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَیۡ نُسَبِّحَكَ كَثِیرࣰا
 
 | Details |  |

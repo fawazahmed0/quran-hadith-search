@@ -452,6 +452,18 @@ Fāşfaĥ 'Anhum Wa Qul Salāmun Fasawfa Ya'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاصْفَحْ عَنْهُمْ وَقُلْ سَلَامٌ فَسَوْفَ يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاصفح عنهم وقل سلام فسوف يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱصۡفَحۡ عَنۡهُمۡ وَقُلۡ سَلَـٰمࣱۚ فَسَوۡفَ یَعۡلَمُونَ
 
 | Details |  |

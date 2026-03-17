@@ -452,6 +452,18 @@ Qāla Rabbi 'Innī Wahana Al-'Ažmu Minnī Wa Ashta'ala Ar-Ra'su Shaybāan Wa La
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ إِنِّي وَهَنَ الْعَظْمُ مِنِّي وَاشْتَعَلَ الرَّأْسُ شَيْبًا وَلَمْ أَكُنْ بِدُعَائِكَ رَبِّ شَقِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب اني وهن العظم مني واشتعل الراس شيبا ولم اكن بدعايك رب شقيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ إِنِّی وَهَنَ ٱلۡعَظۡمُ مِنِّی وَٱشۡتَعَلَ ٱلرَّأۡسُ شَیۡبࣰا وَلَمۡ أَكُنۢ بِدُعَاۤئِكَ رَبِّ شَقِیࣰّا
 
 | Details |  |

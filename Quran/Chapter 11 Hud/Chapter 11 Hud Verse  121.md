@@ -452,6 +452,18 @@ Wa Qul Lilladhīna Lā Yu'uminūna A'malū 'Alá Makānatikum 'Innā 'Āmilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقُلْ لِلَّذِينَ لَا يُؤْمِنُونَ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنَّا عَامِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقل للذين لا يومنون اعملوا على مكانتكم انا عاملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقُل لِّلَّذِینَ لَا یُؤۡمِنُونَ ٱعۡمَلُوا۟ عَلَىٰ مَكَانَتِكُمۡ إِنَّا عَـٰمِلُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fala'allaka Bākhi'un Nafsaka 'Alá 'Āthārihim 'In Lam Yu'uminū Bihadhā Al-�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَعَلَّكَ بَاخِعٌ نَفْسَكَ عَلَى آثَارِهِمْ إِنْ لَمْ يُؤْمِنُوا بِهَذَا الْحَدِيثِ أَسَفًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلعلك باخع نفسك على اثارهم ان لم يومنوا بهذا الحديث اسفا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَعَلَّكَ بَـٰخِعࣱ نَّفۡسَكَ عَلَىٰۤ ءَاثَـٰرِهِمۡ إِن لَّمۡ یُؤۡمِنُوا۟ بِهَـٰذَا ٱلۡحَدِیثِ أَسَفًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Amdadnāhum Bifākihatin Wa Laĥmin Mimmā Yashtahūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمْدَدْنَاهُمْ بِفَاكِهَةٍ وَلَحْمٍ مِمَّا يَشْتَهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وامددناهم بفاكهة ولحم مما يشتهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمۡدَدۡنَـٰهُم بِفَـٰكِهَةࣲ وَلَحۡمࣲ مِّمَّا یَشۡتَهُونَ
 
 | Details |  |

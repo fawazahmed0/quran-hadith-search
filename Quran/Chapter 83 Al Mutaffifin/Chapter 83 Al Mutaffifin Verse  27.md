@@ -452,6 +452,18 @@ Wa Mizājuhu Min Tasnīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِزَاجُهُ مِنْ تَسْنِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومزاجه من تسنيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِزَاجُهُۥ مِن تَسۡنِیمٍ
 
 | Details |  |

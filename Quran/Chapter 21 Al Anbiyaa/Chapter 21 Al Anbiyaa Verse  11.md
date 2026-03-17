@@ -452,6 +452,18 @@ Wa Kam Qaşamnā Min Qaryatin Kānat Žālimatan Wa 'Ansha'nā Ba'dahā Qawmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَمْ قَصَمْنَا مِنْ قَرْيَةٍ كَانَتْ ظَالِمَةً وَأَنْشَأْنَا بَعْدَهَا قَوْمًا آخَرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكم قصمنا من قرية كانت ظالمة وانشانا بعدها قوما اخرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَمۡ قَصَمۡنَا مِن قَرۡیَةࣲ كَانَتۡ ظَالِمَةࣰ وَأَنشَأۡنَا بَعۡدَهَا قَوۡمًا ءَاخَرِینَ
 
 | Details |  |

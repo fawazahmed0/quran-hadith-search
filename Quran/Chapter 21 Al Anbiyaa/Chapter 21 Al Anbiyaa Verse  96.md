@@ -452,6 +452,18 @@ Hatta 'Idha Futihat Ya'juju Wa Ma'juju Wa Hum Min Kulli Hadabin Yansiluna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+حَتَّى إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُمْ مِنْ كُلِّ حَدَبٍ يَنْسِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+حتى اذا فتحت ياجوج وماجوج وهم من كل حدب ينسلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 حَتَّىٰۤ إِذَا فُتِحَتۡ یَأۡجُوجُ وَمَأۡجُوجُ وَهُم مِّن كُلِّ حَدَبࣲ یَنسِلُونَ
 
 | Details |  |

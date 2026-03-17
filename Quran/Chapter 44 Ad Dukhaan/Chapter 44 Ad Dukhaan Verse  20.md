@@ -452,6 +452,18 @@ Wa 'Innī 'Udhtu Birabbī Wa Rabbikum 'An Tarjumūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنِّي عُذْتُ بِرَبِّي وَرَبِّكُمْ أَنْ تَرْجُمُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واني عذت بربي وربكم ان ترجمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنِّی عُذۡتُ بِرَبِّی وَرَبِّكُمۡ أَن تَرۡجُمُونِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna As-Sā'ata 'Ātiyatun 'Akādu 'Ukhfīhā Litujzá Kullu Nafsin Bimā Tas'á
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ السَّاعَةَ آتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَى كُلُّ نَفْسٍ بِمَا تَسْعَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الساعة اتية اكاد اخفيها لتجزى كل نفس بما تسعى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلسَّاعَةَ ءَاتِیَةٌ أَكَادُ أُخۡفِیهَا لِتُجۡزَىٰ كُلُّ نَفۡسِۭ بِمَا تَسۡعَىٰ
 
 | Details |  |

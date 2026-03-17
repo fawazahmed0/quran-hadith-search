@@ -452,6 +452,18 @@ Faqulnā Yā 'Ādamu 'Inna Hādhā 'Adūwun Laka Wa Lizawjika Falā Yukhrijannak
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقُلْنَا يَا آدَمُ إِنَّ هَذَا عَدُوٌّ لَكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ الْجَنَّةِ فَتَشْقَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقلنا يا ادم ان هذا عدو لك ولزوجك فلا يخرجنكما من الجنة فتشقى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقُلۡنَا یَـٰۤءَادَمُ إِنَّ هَـٰذَا عَدُوࣱّ لَّكَ وَلِزَوۡجِكَ فَلَا یُخۡرِجَنَّكُمَا مِنَ ٱلۡجَنَّةِ فَتَشۡقَىٰۤ
 
 | Details |  |

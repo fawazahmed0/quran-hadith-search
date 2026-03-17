@@ -452,6 +452,18 @@ Limithli Hādhā Falya'mali Al-'Āmilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِمِثْلِ هَذَا فَلْيَعْمَلِ الْعَامِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لمثل هذا فليعمل العاملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِمِثۡلِ هَـٰذَا فَلۡیَعۡمَلِ ٱلۡعَـٰمِلُونَ
 
 | Details |  |

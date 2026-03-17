@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي ذَرٍّ الْغِفَارِيِّ رَضِيَ اللهُ عَنْهُ عَنْ النَّبِيِّ صلى الله عليه و سلم فِيمَا يَرْوِيهِ عَنْ رَبِّهِ تَبَارَكَ وَتَعَالَى، أَنَّهُ قَالَ: يَا عِبَادِي: إنِّي حَرَّمْت الظُّلْمَ عَلَى نَفْسِي، وَجَعَلْته بَيْنَكُمْ مُحَرَّمًا؛ فَلَا تَظَالَمُوا. يَا عِبَادِي! كُلُّكُمْ ضَالٌّ إلَّا مَنْ هَدَيْته، فَاسْتَهْدُونِي أَهْدِكُمْ. يَا عِبَادِي! كُلُّكُمْ جَائِعٌ إلَّا مَنْ أَطْعَمْته، فَاسْتَطْعِمُونِي أُطْعِمْكُمْ. يَا عِبَادِي! كُلُّكُمْ عَارٍ إلَّا مَنْ كَسَوْته، فَاسْتَكْسُونِي أَكْسُكُمْ. يَا عِبَادِي! إنَّكُمْ تُخْطِئُونَ بِاللَّيْلِ وَالنَّهَارِ، وَأَنَا أَغْفِرُ الذُّنُوبَ جَمِيعًا؛ فَاسْتَغْفِرُونِي أَغْفِرْ لَكُمْ. يَا عِبَادِي! إنَّكُمْ لَنْ تَبْلُغُوا ضُرِّي فَتَضُرُّونِي، وَلَنْ تَبْلُغُوا نَفْعِي فَتَنْفَعُونِي. يَا عِبَادِي! لَوْ أَنَّ أَوَّلَكُمْ وَآخِرَكُمْ وَإِنْسَكُمْ وَجِنَّكُمْ كَانُوا عَلَى أَتْقَى قَلْبِ رَجُلٍ وَاحِدٍ مِنْكُمْ، مَا زَادَ ذَلِكَ فِي مُلْكِي شَيْئًا. يَا عِبَادِي! لَوْ أَنَّ أَوَّلَكُمْ وَآخِرَكُمْ وَإِنْسَكُمْ وَجِنَّكُمْ كَانُوا عَلَى أَفْجَرِ قَلْبِ رَجُلٍ وَاحِدٍ مِنْكُمْ، مَا نَقَصَ ذَلِكَ مِنْ مُلْكِي شَيْئًا. يَا عِبَادِي! لَوْ أَنَّ أَوَّلَكُمْ وَآخِرَكُمْ وَإِنْسَكُمْ وَجِنَّكُمْ قَامُوا فِي صَعِيدٍ وَاحِدٍ، فَسَأَلُونِي، فَأَعْطَيْت كُلَّ وَاحِدٍ مَسْأَلَته، مَا نَقَصَ ذَلِكَ مِمَّا عِنْدِي إلَّا كَمَا يَنْقُصُ الْمِخْيَطُ إذَا أُدْخِلَ الْبَحْرَ. يَا عِبَادِي! إنَّمَا هِيَ أَعْمَالُكُمْ أُحْصِيهَا لَكُمْ، ثُمَّ أُوَفِّيكُمْ إيَّاهَا؛ فَمَنْ وَجَدَ خَيْرًا فَلْيَحْمَدْ اللَّهَ، وَمَنْ وَجَدَ غَيْرَ ذَلِكَ فَلَا يَلُومَن إلَّا نَفْسَهُ . \[رَوَاهُ مُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of Abu Dharr al-Ghifaree (may Allah be pleased with him) from t
 ## French
 
 Selon Abou Dharr al-Ghifari (qu’Allah l’agrée), d’après le Prophète (ﷺ), d’après son Seigneur : « Ô Mes serviteurs ! Je me suis interdit l’injustice et Je l’ai interdite entre vous, ne vous faites donc pas de tort les uns aux autres. Ô Mes serviteurs, vous êtes tous égarés sauf celui que J’ai guidé, demandez-Moi donc la guidée, Je vous guiderai. Ô Mes serviteurs, vous êtes tous affamés sauf celui que J’ai nourri, demandez-Moi donc de la nourriture, Je vous nourrirai. Ô Mes serviteurs, vous êtes tous nus sauf celui que J’ai vêtu, demandez-Moi donc des vêtements, Je vous vêtirai. Ô Mes serviteurs, vous commettez des péchés nuit et jour, et Moi Je pardonne tous les péchés, demandez-Moi pardon, Je vous pardonnerai. Ô Mes serviteurs, vous ne pourrez jamais Me nuire, ni M’être utile. Ô Mes serviteurs, si les premiers et les derniers d’entre vous, humains et djinns, avaient le cœur le plus pieux, cela n’augmenterait rien à Mon Royaume. Si les premiers et les derniers d’entre vous, humains et djinns, avaient le cœur le plus mauvais, cela n’enlèverait rien à Mon Royaume. Si tous se levaient pour Me demander et que Je donnais à chacun ce qu’il demande, cela ne diminuerait Ma Propriété que de ce qu’une aiguille retire de la mer. Ô Mes serviteurs, ce ne sont que vos actes que Je compte pour vous, puis Je vous en rends la rétribution. Celui qui trouve du bien, qu’il loue Allah, et celui qui trouve autre chose, qu’il ne blâme que lui-même. » \[Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 24 |
+| Arabic No | 24 |
+| Reference | Book 1 Hadith 24 |
+
+## Turkish
+
+Ebu Zer el-Gıfari (ra) anlatıyor: Peygamber (ﷺ) Aziz ve Celil olan Rabbinden naklen şöyle buyurdu: "Ey kullarım! Ben zulmü kendime haram kıldım, onu sizin aranızda da haram kıldım; birbirinize zulmetmeyin. Ey kullarım! Benim hidayet verdiklerim hariç hepiniz delalettesiniz; Benden hidayet isteyin ki sizi hidayete erdireyim. Ey kullarım! Benim doyurduklarım hariç hepiniz açsınız; Benden yemek isteyin ki sizi doyurayım... Ey kullarım! Sizin ilkiniz ve sonunuz, insanınız ve cinniniz, içinizdeki en takva sahibi kişinin kalbi üzere olsanız, bu Benim mülküme hiçbir şey katmaz. Ey kullarım! İlkiniz ve sonunuz, insanınız ve cinniniz, içinizdeki en günahkar kişinin kalbi üzere olsanız, bu Benim mülkümden hiçbir şey eksiltmez... Ey kullarım! Bunlar ancak sizin amellerinizdir; onları sizin için sayıyor, sonra da karşılığını veriyorum. Kim bir hayır bulursa Allah’a hamd etsin; kim de bundan başkasını bulursa ancak kendi nefsini kınasın." \[Müslim\]
 
 | References: |  |
 | --- | --- |

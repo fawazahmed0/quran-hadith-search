@@ -452,6 +452,18 @@ Wa 'Utbi'ū Fī Hadhihi La'natan Wa Yawma Al-Qiyāmati Bi'sa Ar-Rifdu Al-Marfūd
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأُتْبِعُوا فِي هَذِهِ لَعْنَةً وَيَوْمَ الْقِيَامَةِ بِئْسَ الرِّفْدُ الْمَرْفُودُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتبعوا في هذه لعنة ويوم القيامة بيس الرفد المرفود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأُتۡبِعُوا۟ فِی هَـٰذِهِۦ لَعۡنَةࣰ وَیَوۡمَ ٱلۡقِیَـٰمَةِۚ بِئۡسَ ٱلرِّفۡدُ ٱلۡمَرۡفُودُ
 
 | Details |  |

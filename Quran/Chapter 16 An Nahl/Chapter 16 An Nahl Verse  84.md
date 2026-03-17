@@ -452,6 +452,18 @@ Wa Yawma Nab'athu Min Kulli 'Ummatin Shahīdāan Thumma Lā Yu'udhanu Lilladhīn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَوْمَ نَبْعَثُ مِنْ كُلِّ أُمَّةٍ شَهِيدًا ثُمَّ لَا يُؤْذَنُ لِلَّذِينَ كَفَرُوا وَلَا هُمْ يُسْتَعْتَبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويوم نبعث من كل امة شهيدا ثم لا يوذن للذين كفروا ولا هم يستعتبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَوۡمَ نَبۡعَثُ مِن كُلِّ أُمَّةࣲ شَهِیدࣰا ثُمَّ لَا یُؤۡذَنُ لِلَّذِینَ كَفَرُوا۟ وَلَا هُمۡ یُسۡتَعۡتَبُونَ
 
 | Details |  |

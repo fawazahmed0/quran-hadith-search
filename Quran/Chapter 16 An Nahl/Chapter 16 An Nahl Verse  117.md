@@ -452,6 +452,18 @@ Matā'un Qalīlun Wa Lahum 'Adhābun 'Alīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَتَاعٌ قَلِيلٌ وَلَهُمْ عَذَابٌ أَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+متاع قليل ولهم عذاب اليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَتَـٰعࣱ قَلِیلࣱ وَلَهُمۡ عَذَابٌ أَلِیمࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Hudáan Wa Bushrá Lilmu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُدًى وَبُشْرَى لِلْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هدى وبشرى للمومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُدࣰى وَبُشۡرَىٰ لِلۡمُؤۡمِنِینَ
 
 | Details |  |

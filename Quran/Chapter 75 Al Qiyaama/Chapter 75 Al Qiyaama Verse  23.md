@@ -452,6 +452,18 @@ Ilá Rabbihā Nāžirahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَى رَبِّهَا نَاظِرَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الى ربها ناظرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَىٰ رَبِّهَا نَاظِرَةࣱ
 
 | Details |  |

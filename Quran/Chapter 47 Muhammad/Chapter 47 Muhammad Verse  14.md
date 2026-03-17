@@ -452,6 +452,18 @@ Afaman Kāna 'Alá Bayyinatin Min Rabbihi Kaman Zuyyina Lahu Sū'u 'Amalihi Wa A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَمَنْ كَانَ عَلَى بَيِّنَةٍ مِنْ رَبِّهِ كَمَنْ زُيِّنَ لَهُ سُوءُ عَمَلِهِ وَاتَّبَعُوا أَهْوَاءَهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افمن كان على بينة من ربه كمن زين له سوء عمله واتبعوا اهواءهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَمَن كَانَ عَلَىٰ بَیِّنَةࣲ مِّن رَّبِّهِۦ كَمَن زُیِّنَ لَهُۥ سُوۤءُ عَمَلِهِۦ وَٱتَّبَعُوۤا۟ أَهۡوَاۤءَهُم
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Alāmātin Wa Bin-Najmi Hum Yahtadūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَعَلَامَاتٍ وَبِالنَّجْمِ هُمْ يَهْتَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وعلامات وبالنجم هم يهتدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَعَلَـٰمَـٰتࣲۚ وَبِٱلنَّجۡمِ هُمۡ یَهۡتَدُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Qālū Attakhadha Ar-Raĥmānu Waladāan Subĥānahu Bal 'Ibādun Mukramūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا اتَّخَذَ الرَّحْمَنُ وَلَدًا سُبْحَانَهُ بَلْ عِبَادٌ مُكْرَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا اتخذ الرحمن ولدا سبحانه بل عباد مكرمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحۡمَـٰنُ وَلَدࣰاۗ سُبۡحَـٰنَهُۥۚ بَلۡ عِبَادࣱ مُّكۡرَمُونَ
 
 | Details |  |

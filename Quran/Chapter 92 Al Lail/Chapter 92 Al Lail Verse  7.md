@@ -452,6 +452,18 @@ Fasanuyassiruhu Lilyusrá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَسَنُيَسِّرُهُ لِلْيُسْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فسنيسره لليسرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَسَنُیَسِّرُهُۥ لِلۡیُسۡرَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Ađrib Lahum Mathalāan 'Aşĥāba Al-Qaryati 'Idh Jā'ahā Al-Mursalūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاضْرِبْ لَهُمْ مَثَلًا أَصْحَابَ الْقَرْيَةِ إِذْ جَاءَهَا الْمُرْسَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واضرب لهم مثلا اصحاب القرية اذ جاءها المرسلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱضۡرِبۡ لَهُم مَّثَلًا أَصۡحَـٰبَ ٱلۡقَرۡیَةِ إِذۡ جَاۤءَهَا ٱلۡمُرۡسَلُونَ
 
 | Details |  |

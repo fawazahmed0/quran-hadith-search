@@ -452,6 +452,18 @@ Thumma Shaqaqnā Al-'Arđa Shaqqāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم شققنا الارض شقا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ شَقَقۡنَا ٱلۡأَرۡضَ شَقࣰّا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Wajadaka Đāllāan Fahadá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَوَجَدَكَ ضَالًّا فَهَدَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ووجدك ضالا فهدى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَوَجَدَكَ ضَاۤلࣰّا فَهَدَىٰ
 
 | Details |  |

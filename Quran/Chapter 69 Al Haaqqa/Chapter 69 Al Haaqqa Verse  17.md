@@ -452,6 +452,18 @@ Wa Al-Malaku 'Alá 'Arjā'ihā Wa Yaĥmilu 'Arsha Rabbika Fawqahum Yawma'idhin T
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْمَلَكُ عَلَى أَرْجَائِهَا وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَانِيَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والملك على ارجايها ويحمل عرش ربك فوقهم يوميذ ثمانية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡمَلَكُ عَلَىٰۤ أَرۡجَاۤئِهَاۚ وَیَحۡمِلُ عَرۡشَ رَبِّكَ فَوۡقَهُمۡ یَوۡمَئِذࣲ ثَمَـٰنِیَةࣱ
 
 | Details |  |

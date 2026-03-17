@@ -452,6 +452,18 @@ Wa Al-Kitābi Al-Mubīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْكِتَابِ الْمُبِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والكتاب المبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡكِتَـٰبِ ٱلۡمُبِینِ
 
 | Details |  |

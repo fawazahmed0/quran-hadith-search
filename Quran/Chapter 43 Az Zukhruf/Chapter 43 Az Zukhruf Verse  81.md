@@ -452,6 +452,18 @@ Qul 'In Kāna Lilrraĥmani Waladun Fa'anā 'Awwalu Al-'Ābidīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ إِنْ كَانَ لِلرَّحْمَنِ وَلَدٌ فَأَنَا أَوَّلُ الْعَابِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل ان كان للرحمن ولد فانا اول العابدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ إِن كَانَ لِلرَّحۡمَـٰنِ وَلَدࣱ فَأَنَا۠ أَوَّلُ ٱلۡعَـٰبِدِینَ
 
 | Details |  |

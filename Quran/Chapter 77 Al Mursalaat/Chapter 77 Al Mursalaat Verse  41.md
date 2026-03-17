@@ -452,6 +452,18 @@ Inna Al-Muttaqīna Fī Žilālin Wa 'Uyūnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الْمُتَّقِينَ فِي ظِلَالٍ وَعُيُونٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان المتقين في ظلال وعيون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلۡمُتَّقِینَ فِی ظِلَـٰلࣲ وَعُیُونࣲ
 
 | Details |  |

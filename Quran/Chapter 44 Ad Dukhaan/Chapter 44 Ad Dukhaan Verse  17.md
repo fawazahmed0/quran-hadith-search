@@ -452,6 +452,18 @@ Wa Laqad Fatannā Qablahum Qawma Fir'awna Wa Jā'ahum Rasūlun Karīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَاءَهُمْ رَسُولٌ كَرِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد فتنا قبلهم قوم فرعون وجاءهم رسول كريم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَلَقَدۡ فَتَنَّا قَبۡلَهُمۡ قَوۡمَ فِرۡعَوۡنَ وَجَاۤءَهُمۡ رَسُولࣱ كَرِیمٌ
 
 | Details |  |

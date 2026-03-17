@@ -452,6 +452,18 @@ Rabbu As-Samāwāti Wa Al-'Arđi Wa Mā Baynahumā Al-'Azīzu Al-Ghaffāru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الْعَزِيزُ الْغَفَّارُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+رب السماوات والارض وما بينهما العزيز الغفار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَبُّ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ وَمَا بَیۡنَهُمَا ٱلۡعَزِیزُ ٱلۡغَفَّـٰرُ
 
 | Details |  |

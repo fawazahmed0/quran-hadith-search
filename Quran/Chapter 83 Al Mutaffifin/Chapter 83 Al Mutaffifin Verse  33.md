@@ -452,6 +452,18 @@ Wa Mā 'Ursilū 'Alayhim Ĥāfižīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أُرْسِلُوا عَلَيْهِمْ حَافِظِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ارسلوا عليهم حافظين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أُرۡسِلُوا۟ عَلَیۡهِمۡ حَـٰفِظِینَ
 
 | Details |  |

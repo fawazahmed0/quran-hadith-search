@@ -452,6 +452,18 @@ Innī Jazaytuhumu Al-Yawma Bimā Şabarū 'Annahum Humu Al-Fā'izūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنِّي جَزَيْتُهُمُ الْيَوْمَ بِمَا صَبَرُوا أَنَّهُمْ هُمُ الْفَائِزُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اني جزيتهم اليوم بما صبروا انهم هم الفايزون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنِّی جَزَیۡتُهُمُ ٱلۡیَوۡمَ بِمَا صَبَرُوۤا۟ أَنَّهُمۡ هُمُ ٱلۡفَاۤئِزُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Indahum Qāşirātu Aţ-Ţarfi 'Īnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَعِنْدَهُمْ قَاصِرَاتُ الطَّرْفِ عِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وعندهم قاصرات الطرف عين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَعِندَهُمۡ قَـٰصِرَ ٰتُ ٱلطَّرۡفِ عِینࣱ
 
 | Details |  |

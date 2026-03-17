@@ -452,6 +452,18 @@ Tabāraka Asmu Rabbika Dhī Al-Jalāli Wa Al-'Ikrāmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَبَارَكَ اسْمُ رَبِّكَ ذِي الْجَلَالِ وَالْإِكْرَامِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تبارك اسم ربك ذي الجلال والاكرام
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَبَـٰرَكَ ٱسۡمُ رَبِّكَ ذِی ٱلۡجَلَـٰلِ وَٱلۡإِكۡرَامِ
 
 | Details |  |

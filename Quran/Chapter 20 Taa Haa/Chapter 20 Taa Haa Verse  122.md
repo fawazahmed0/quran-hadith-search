@@ -452,6 +452,18 @@ Thumma Ajtabāhu Rabbuhu Fatāba 'Alayhi Wa Hadá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ اجْتَبَاهُ رَبُّهُ فَتَابَ عَلَيْهِ وَهَدَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم اجتباه ربه فتاب عليه وهدى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ ٱجۡتَبَـٰهُ رَبُّهُۥ فَتَابَ عَلَیۡهِ وَهَدَىٰ
 
 | Details |  |

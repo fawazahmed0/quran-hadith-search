@@ -452,6 +452,18 @@ Wa Mā 'Ahlaknā Min Qaryatin 'Illā Wa Lahā Kitābun Ma'lūmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَهْلَكْنَا مِنْ قَرْيَةٍ إِلَّا وَلَهَا كِتَابٌ مَعْلُومٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما اهلكنا من قرية الا ولها كتاب معلوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَهۡلَكۡنَا مِن قَرۡیَةٍ إِلَّا وَلَهَا كِتَابࣱ مَّعۡلُومࣱ
 
 | Details |  |

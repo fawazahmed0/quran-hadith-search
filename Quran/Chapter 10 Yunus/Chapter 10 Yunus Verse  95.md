@@ -452,6 +452,18 @@ Wa Lā Takūnanna Mina Al-Ladhīna Kadhabū Bi'āyāti Allāhi Fatakūna Mina Al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تَكُونَنَّ مِنَ الَّذِينَ كَذَّبُوا بِآيَاتِ اللَّهِ فَتَكُونَ مِنَ الْخَاسِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تكونن من الذين كذبوا بايات الله فتكون من الخاسرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تَكُونَنَّ مِنَ ٱلَّذِینَ كَذَّبُوا۟ بِءَایَـٰتِ ٱللَّهِ فَتَكُونَ مِنَ ٱلۡخَـٰسِرِینَ
 
 | Details |  |

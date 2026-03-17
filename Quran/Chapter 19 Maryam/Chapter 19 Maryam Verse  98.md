@@ -452,6 +452,18 @@ Wa Kam 'Ahlaknā Qablahum Min Qarnin Hal Tuĥissu Minhum Min 'Aĥadin 'Aw Tasma'
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَمْ أَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ هَلْ تُحِسُّ مِنْهُمْ مِنْ أَحَدٍ أَوْ تَسْمَعُ لَهُمْ رِكْزًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكم اهلكنا قبلهم من قرن هل تحس منهم من احد او تسمع لهم ركزا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّن قَرۡنٍ هَلۡ تُحِسُّ مِنۡهُم مِّنۡ أَحَدٍ أَوۡ تَسۡمَعُ لَهُمۡ رِكۡزَۢا
 
 | Details |  |

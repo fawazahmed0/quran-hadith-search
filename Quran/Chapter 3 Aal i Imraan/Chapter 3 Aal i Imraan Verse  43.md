@@ -452,6 +452,18 @@ Yā Maryamu Aqnutī Lirabbiki Wa Asjudī Wa Arka'ī Ma'a Ar-Rāki'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا مَرْيَمُ اقْنُتِي لِرَبِّكِ وَاسْجُدِي وَارْكَعِي مَعَ الرَّاكِعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا مريم اقنتي لربك واسجدي واركعي مع الراكعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰمَرۡیَمُ ٱقۡنُتِی لِرَبِّكِ وَٱسۡجُدِی وَٱرۡكَعِی مَعَ ٱلرَّ ٰكِعِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Al-Ladhīna Yu'uminūna Bil-Ghaybi Wa Yuqīmūna Aş-Şalāata Wa Mimmā Razaqn�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين يومنون بالغيب ويقيمون الصلاة ومما رزقناهم ينفقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ یُؤۡمِنُونَ بِٱلۡغَیۡبِ وَیُقِیمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَـٰهُمۡ یُنفِقُونَ
 
 | Details |  |

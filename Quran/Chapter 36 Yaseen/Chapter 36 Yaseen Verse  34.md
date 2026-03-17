@@ -452,6 +452,18 @@ Wa Ja'alnā Fīhā Jannātin Min Nakhīlin Wa 'A'nābin Wa Fajjarnā Fīhā Mina
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلْنَا فِيهَا جَنَّاتٍ مِنْ نَخِيلٍ وَأَعْنَابٍ وَفَجَّرْنَا فِيهَا مِنَ الْعُيُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلنا فيها جنات من نخيل واعناب وفجرنا فيها من العيون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلۡنَا فِیهَا جَنَّـٰتࣲ مِّن نَّخِیلࣲ وَأَعۡنَـٰبࣲ وَفَجَّرۡنَا فِیهَا مِنَ ٱلۡعُیُونِ
 
 | Details |  |

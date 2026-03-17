@@ -452,6 +452,18 @@ Qul 'Innamā 'Ad'ū Rabbī Wa Lā 'Ushriku Bihi 'Aĥadāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ إِنَّمَا أَدْعُو رَبِّي وَلَا أُشْرِكُ بِهِ أَحَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل انما ادعو ربي ولا اشرك به احدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ إِنَّمَاۤ أَدۡعُوا۟ رَبِّی وَلَاۤ أُشۡرِكُ بِهِۦۤ أَحَدࣰا
 
 | Details |  |

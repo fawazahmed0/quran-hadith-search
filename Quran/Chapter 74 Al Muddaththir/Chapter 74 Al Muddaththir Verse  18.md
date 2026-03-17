@@ -452,6 +452,18 @@ Innahu Fakkara Wa Qaddara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُ فَكَّرَ وَقَدَّرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انه فكر وقدر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُۥ فَكَّرَ وَقَدَّرَ
 
 | Details |  |

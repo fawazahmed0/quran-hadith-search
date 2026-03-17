@@ -452,6 +452,18 @@ Afaman Kāna Mu'umināan Kaman Kāna Fāsiqāan Lā Yastawūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَمَنْ كَانَ مُؤْمِنًا كَمَنْ كَانَ فَاسِقًا لَا يَسْتَوُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افمن كان مومنا كمن كان فاسقا لا يستوون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَمَن كَانَ مُؤۡمِنࣰا كَمَن كَانَ فَاسِقࣰاۚ لَّا یَسۡتَوُۥنَ
 
 | Details |  |

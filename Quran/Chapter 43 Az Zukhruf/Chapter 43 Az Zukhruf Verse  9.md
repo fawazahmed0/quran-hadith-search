@@ -452,6 +452,18 @@ Wa La'in Sa'altahum Man Khalaqa As-Samāwāti Wa Al-'Arđa Layaqūlunna Khalaqah
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ خَلَقَهُنَّ الْعَزِيزُ الْعَلِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولين سالتهم من خلق السماوات والارض ليقولن خلقهن العزيز العليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضَ لَیَقُولُنَّ خَلَقَهُنَّ ٱلۡعَزِیزُ ٱلۡعَلِیمُ
 
 | Details |  |

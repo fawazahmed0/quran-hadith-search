@@ -452,6 +452,18 @@ Wa 'Innahu Laqasamun Law Ta'lamūna 'Ažīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه لقسم لو تعلمون عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّهُۥ لَقَسَمࣱ لَّوۡ تَعۡلَمُونَ عَظِیمٌ
 
 | Details |  |

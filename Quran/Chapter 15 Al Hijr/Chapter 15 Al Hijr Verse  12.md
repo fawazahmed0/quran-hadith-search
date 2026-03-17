@@ -452,6 +452,18 @@ Kadhālika Naslukuhu Fī Qulūbi Al-Mujrimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَلِكَ نَسْلُكُهُ فِي قُلُوبِ الْمُجْرِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذلك نسلكه في قلوب المجرمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَ ٰلِكَ نَسۡلُكُهُۥ فِی قُلُوبِ ٱلۡمُجۡرِمِینَ
 
 | Details |  |

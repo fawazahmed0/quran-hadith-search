@@ -452,6 +452,18 @@ Wa YaÅŸlÃ¡ Sa'Ä«rÄan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَصْلَى سَعِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويصلى سعيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَصۡلَىٰ سَعِیرًا
 
 | Details |  |

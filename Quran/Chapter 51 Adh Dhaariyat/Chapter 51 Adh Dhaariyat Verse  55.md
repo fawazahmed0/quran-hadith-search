@@ -452,6 +452,18 @@ Wa Dhakkir Fa'inna Adh-Dhikrá Tanfa'u Al-Mu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَذَكِّرْ فَإِنَّ الذِّكْرَى تَنْفَعُ الْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وذكر فان الذكرى تنفع المومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَذَكِّرۡ فَإِنَّ ٱلذِّكۡرَىٰ تَنفَعُ ٱلۡمُؤۡمِنِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla Bal 'Alqū Fa'idhā Ĥibāluhum Wa 'Işīyuhum Yukhayyalu 'Ilayhi Min Siĥ
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ بَلْ أَلْقُوا فَإِذَا حِبَالُهُمْ وَعِصِيُّهُمْ يُخَيَّلُ إِلَيْهِ مِنْ سِحْرِهِمْ أَنَّهَا تَسْعَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال بل القوا فاذا حبالهم وعصيهم يخيل اليه من سحرهم انها تسعى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ بَلۡ أَلۡقُوا۟ۖ فَإِذَا حِبَالُهُمۡ وَعِصِیُّهُمۡ یُخَیَّلُ إِلَیۡهِ مِن سِحۡرِهِمۡ أَنَّهَا تَسۡعَىٰ
 
 | Details |  |

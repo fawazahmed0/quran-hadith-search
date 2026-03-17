@@ -452,6 +452,18 @@ Wa Lūţāan 'Idh Qāla Liqawmihi 'Ata'tūna Al-Fāĥishata Wa 'Antum Tubşirūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلُوطًا إِذْ قَالَ لِقَوْمِهِ أَتَأْتُونَ الْفَاحِشَةَ وَأَنْتُمْ تُبْصِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولوطا اذ قال لقومه اتاتون الفاحشة وانتم تبصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلُوطًا إِذۡ قَالَ لِقَوۡمِهِۦۤ أَتَأۡتُونَ ٱلۡفَـٰحِشَةَ وَأَنتُمۡ تُبۡصِرُونَ
 
 | Details |  |

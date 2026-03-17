@@ -452,6 +452,18 @@ Awalā Ya'lamūna 'Anna Allāha Ya'lamu Mā Yusirrūna Wa Mā Yu'linūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوَلَا يَعْلَمُونَ أَنَّ اللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اولا يعلمون ان الله يعلم ما يسرون وما يعلنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوَ لَا یَعۡلَمُونَ أَنَّ ٱللَّهَ یَعۡلَمُ مَا یُسِرُّونَ وَمَا یُعۡلِنُونَ
 
 | Details |  |

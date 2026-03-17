@@ -452,6 +452,18 @@ Al-Ladhīna Hum Fī Ghamratin Sāhūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ هُمْ فِي غَمْرَةٍ سَاهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين هم في غمرة ساهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ هُمۡ فِی غَمۡرَةࣲ سَاهُونَ
 
 | Details |  |

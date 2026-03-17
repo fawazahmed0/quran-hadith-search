@@ -452,6 +452,18 @@ Wa 'Ātaynāhum Mina Al-'Āyāti Mā Fīhi Balā'un Mubīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَآتَيْنَاهُمْ مِنَ الْآيَاتِ مَا فِيهِ بَلَاءٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتيناهم من الايات ما فيه بلاء مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَءَاتَیۡنَـٰهُم مِّنَ ٱلۡءَایَـٰتِ مَا فِیهِ بَلَـٰۤؤࣱا۟ مُّبِینٌ
 
 | Details |  |

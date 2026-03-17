@@ -452,6 +452,18 @@ Wa 'In Yurīdū Khiyānataka Faqad Khānū Allāha Min Qablu Fa'amkana Minhum Wa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ يُرِيدُوا خِيَانَتَكَ فَقَدْ خَانُوا اللَّهَ مِنْ قَبْلُ فَأَمْكَنَ مِنْهُمْ وَاللَّهُ عَلِيمٌ حَكِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان يريدوا خيانتك فقد خانوا الله من قبل فامكن منهم والله عليم حكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن یُرِیدُوا۟ خِیَانَتَكَ فَقَدۡ خَانُوا۟ ٱللَّهَ مِن قَبۡلُ فَأَمۡكَنَ مِنۡهُمۡۗ وَٱللَّهُ عَلِیمٌ حَكِیمٌ
 
 | Details |  |

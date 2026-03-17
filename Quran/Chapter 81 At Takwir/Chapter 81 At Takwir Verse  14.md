@@ -452,6 +452,18 @@ Alimat Nafsun Mā 'Aĥđarat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+علمت نفس ما احضرت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَلِمَتۡ نَفۡسࣱ مَّاۤ أَحۡضَرَتۡ
 
 | Details |  |

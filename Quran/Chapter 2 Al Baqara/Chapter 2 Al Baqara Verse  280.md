@@ -452,6 +452,18 @@ Wa 'In Kāna Dhū 'Usratin Fanažiratun 'Ilá Maysaratin Wa 'An Taşaddaqū Khay
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَى مَيْسَرَةٍ وَأَنْ تَصَدَّقُوا خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان كان ذو عسرة فنظرة الى ميسرة وان تصدقوا خير لكم ان كنتم تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن كَانَ ذُو عُسۡرَةࣲ فَنَظِرَةٌ إِلَىٰ مَیۡسَرَةࣲۚ وَأَن تَصَدَّقُوا۟ خَیۡرࣱ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Tabāraka Al-Ladhī Nazzala Al-Furqāna 'Alá 'Abdihi Liyakūna Lil'ālamīna Na
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ عَلَى عَبْدِهِ لِيَكُونَ لِلْعَالَمِينَ نَذِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تبارك الذي نزل الفرقان على عبده ليكون للعالمين نذيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ تَبَارَكَ ٱلَّذِی نَزَّلَ ٱلۡفُرۡقَانَ عَلَىٰ عَبۡدِهِۦ لِیَكُونَ لِلۡعَـٰلَمِینَ نَذِیرًا
 
 | Details |  |

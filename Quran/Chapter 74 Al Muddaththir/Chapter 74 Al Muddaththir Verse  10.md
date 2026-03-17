@@ -452,6 +452,18 @@ Alá Al-Kāfirīna Ghayru Yasīrin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَلَى الْكَافِرِينَ غَيْرُ يَسِيرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+على الكافرين غير يسير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَلَى ٱلۡكَـٰفِرِینَ غَیۡرُ یَسِیرࣲ
 
 | Details |  |

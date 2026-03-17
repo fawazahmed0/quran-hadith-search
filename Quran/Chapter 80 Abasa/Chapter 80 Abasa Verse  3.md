@@ -452,6 +452,18 @@ Wa Mā Yudrīka La'allahu Yazzakká
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما يدريك لعله يزكى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا یُدۡرِیكَ لَعَلَّهُۥ یَزَّكَّىٰۤ
 
 | Details |  |

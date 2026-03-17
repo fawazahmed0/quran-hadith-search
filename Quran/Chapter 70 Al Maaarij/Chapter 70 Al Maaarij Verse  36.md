@@ -452,6 +452,18 @@ Famāli Al-Ladhīna Kafarū Qibalaka Muhţi'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَالِ الَّذِينَ كَفَرُوا قِبَلَكَ مُهْطِعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فمال الذين كفروا قبلك مهطعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَالِ ٱلَّذِینَ كَفَرُوا۟ قِبَلَكَ مُهۡطِعِینَ
 
 | Details |  |

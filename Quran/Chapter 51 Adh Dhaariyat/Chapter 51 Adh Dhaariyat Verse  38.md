@@ -452,6 +452,18 @@ Wa Fī Mūsá 'Idh 'Arsalnāhu 'Ilá Fir'awna Bisulţānin Mubīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفِي مُوسَى إِذْ أَرْسَلْنَاهُ إِلَى فِرْعَوْنَ بِسُلْطَانٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفي موسى اذ ارسلناه الى فرعون بسلطان مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفِی مُوسَىٰۤ إِذۡ أَرۡسَلۡنَـٰهُ إِلَىٰ فِرۡعَوۡنَ بِسُلۡطَـٰنࣲ مُّبِینࣲ
 
 | Details |  |

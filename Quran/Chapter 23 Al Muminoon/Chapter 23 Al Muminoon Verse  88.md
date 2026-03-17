@@ -452,6 +452,18 @@ Qul Man Biyadihi Malakūtu Kulli Shay'in Wa Huwa Yujīru Wa Lā Yujāru 'Alayhi 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ مَنْ بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِنْ كُنْتُمْ تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل من بيده ملكوت كل شيء وهو يجير ولا يجار عليه ان كنتم تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ مَنۢ بِیَدِهِۦ مَلَكُوتُ كُلِّ شَیۡءࣲ وَهُوَ یُجِیرُ وَلَا یُجَارُ عَلَیۡهِ إِن كُنتُمۡ تَعۡلَمُونَ
 
 | Details |  |

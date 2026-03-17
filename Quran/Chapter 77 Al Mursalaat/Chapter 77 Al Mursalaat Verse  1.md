@@ -452,6 +452,18 @@ Wa Al-Mursalāti 'Urfāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْمُرْسَلَاتِ عُرْفًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والمرسلات عرفا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡمُرۡسَلَـٰتِ عُرۡفࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'In Yukadhibūka Faqad Kudhibat Rusulun Min Qablika Wa 'Ilá Allāhi Turja'u 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ يُكَذِّبُوكَ فَقَدْ كُذِّبَتْ رُسُلٌ مِنْ قَبْلِكَ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان يكذبوك فقد كذبت رسل من قبلك والى الله ترجع الامور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن یُكَذِّبُوكَ فَقَدۡ كُذِّبَتۡ رُسُلࣱ مِّن قَبۡلِكَۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ
 
 | Details |  |

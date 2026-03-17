@@ -452,6 +452,18 @@ Lā Yasma'ūna Fīhā Laghwan Wa Lā Kidhābāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يسمعون فيها لغوا ولا كذابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا یَسۡمَعُونَ فِیهَا لَغۡوࣰا وَلَا كِذَّ ٰبࣰا
 
 | Details |  |

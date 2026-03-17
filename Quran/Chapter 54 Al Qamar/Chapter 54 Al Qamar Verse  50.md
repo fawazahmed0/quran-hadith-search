@@ -452,6 +452,18 @@ Wa Mā 'Amrunā 'Illā Wāĥidatun Kalamĥin Bil-Başari
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَمْرُنَا إِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما امرنا الا واحدة كلمح بالبصر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَمۡرُنَاۤ إِلَّا وَ ٰحِدَةࣱ كَلَمۡحِۭ بِٱلۡبَصَرِ
 
 | Details |  |

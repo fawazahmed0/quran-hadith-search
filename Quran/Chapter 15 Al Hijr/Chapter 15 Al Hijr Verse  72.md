@@ -452,6 +452,18 @@ La'amruka 'Innahum Lafī Sakratihim Ya'mahūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَعَمْرُكَ إِنَّهُمْ لَفِي سَكْرَتِهِمْ يَعْمَهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لعمرك انهم لفي سكرتهم يعمهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَعَمۡرُكَ إِنَّهُمۡ لَفِی سَكۡرَتِهِمۡ یَعۡمَهُونَ
 
 | Details |  |

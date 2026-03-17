@@ -452,6 +452,18 @@ Wa Thamūdu Wa Qawmu Lūţin Wa 'Aşĥābu Al-'Aykati 'Ūlā'ika Al-'Aĥzābu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَثَمُودُ وَقَوْمُ لُوطٍ وَأَصْحَابُ الْأَيْكَةِ أُولَئِكَ الْأَحْزَابُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وثمود وقوم لوط واصحاب الايكة اوليك الاحزاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَثَمُودُ وَقَوۡمُ لُوطࣲ وَأَصۡحَـٰبُ لۡءَیۡكَةِۚ أُو۟لَـٰۤئِكَ ٱلۡأَحۡزَابُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fawaswasa 'Ilayhi Ash-Shayţānu Qāla Yā 'Ādamu Hal 'Adulluka 'Alá Shajarati
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَوَسْوَسَ إِلَيْهِ الشَّيْطَانُ قَالَ يَا آدَمُ هَلْ أَدُلُّكَ عَلَى شَجَرَةِ الْخُلْدِ وَمُلْكٍ لَا يَبْلَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فوسوس اليه الشيطان قال يا ادم هل ادلك على شجرة الخلد وملك لا يبلى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَوَسۡوَسَ إِلَیۡهِ ٱلشَّیۡطَـٰنُ قَالَ یَـٰۤءَادَمُ هَلۡ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلۡخُلۡدِ وَمُلۡكࣲ لَّا یَبۡلَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Likulli Amri'in Minhum Yawma'idhin Sha'nun Yughnīhi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لكل امري منهم يوميذ شان يغنيه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِكُلِّ ٱمۡرِئࣲ مِّنۡهُمۡ یَوۡمَئِذࣲ شَأۡنࣱ یُغۡنِیهِ
 
 | Details |  |

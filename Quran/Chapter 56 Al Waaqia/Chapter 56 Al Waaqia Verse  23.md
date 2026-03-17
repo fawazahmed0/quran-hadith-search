@@ -452,6 +452,18 @@ Ka'amthāli Al-Lu'ulu'ui Al-Maknūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَأَمْثَالِ اللُّؤْلُؤِ الْمَكْنُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كامثال اللولو المكنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَأَمۡثَـٰلِ ٱللُّؤۡلُؤِ ٱلۡمَكۡنُونِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Innā Ja'alnāhu Qur'ānāan 'Arabīyāan La'allakum Ta'qilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا جَعَلْنَاهُ قُرْآنًا عَرَبِيًّا لَعَلَّكُمْ تَعْقِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا جعلناه قرانا عربيا لعلكم تعقلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا جَعَلۡنَـٰهُ قُرۡءَ ٰنًا عَرَبِیࣰّا لَّعَلَّكُمۡ تَعۡقِلُونَ
 
 | Details |  |

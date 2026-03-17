@@ -452,6 +452,18 @@ Wa Likulli 'Ummatin Rasūlun Fa'idhā Jā'a Rasūluhum Quđiya Baynahum Bil-Qis�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِكُلِّ أُمَّةٍ رَسُولٌ فَإِذَا جَاءَ رَسُولُهُمْ قُضِيَ بَيْنَهُمْ بِالْقِسْطِ وَهُمْ لَا يُظْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولكل امة رسول فاذا جاء رسولهم قضي بينهم بالقسط وهم لا يظلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِكُلِّ أُمَّةࣲ رَّسُولࣱۖ فَإِذَا جَاۤءَ رَسُولُهُمۡ قُضِیَ بَیۡنَهُم بِٱلۡقِسۡطِ وَهُمۡ لَا یُظۡلَمُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Ka'ayyin Min Qaryatin 'Amlaytu Lahā Wa Hiya Žālimatun Thumma 'Akhadhtuhā 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَأَيِّنْ مِنْ قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِيَ ظَالِمَةٌ ثُمَّ أَخَذْتُهَا وَإِلَيَّ الْمَصِيرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكاين من قرية امليت لها وهي ظالمة ثم اخذتها والي المصير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَأَیِّن مِّن قَرۡیَةٍ أَمۡلَیۡتُ لَهَا وَهِیَ ظَالِمَةࣱ ثُمَّ أَخَذۡتُهَا وَإِلَیَّ ٱلۡمَصِیرُ
 
 | Details |  |

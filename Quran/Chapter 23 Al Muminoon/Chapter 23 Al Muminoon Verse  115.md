@@ -452,6 +452,18 @@ Afaĥasibtum 'Annamā Khalaqnākum 'Abathāan Wa 'Annakum 'Ilaynā Lā Turja'ūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افحسبتم انما خلقناكم عبثا وانكم الينا لا ترجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَحَسِبۡتُمۡ أَنَّمَا خَلَقۡنَـٰكُمۡ عَبَثࣰا وَأَنَّكُمۡ إِلَیۡنَا لَا تُرۡجَعُونَ
 
 | Details |  |

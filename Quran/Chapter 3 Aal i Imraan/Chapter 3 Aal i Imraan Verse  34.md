@@ -452,6 +452,18 @@ Dhurrīyatan Ba'đuhā Min Ba'đin Wa Allāhu Samī'un 'Alīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذُرِّيَّةً بَعْضُهَا مِنْ بَعْضٍ وَاللَّهُ سَمِيعٌ عَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذرية بعضها من بعض والله سميع عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذُرِّیَّةَۢ بَعۡضُهَا مِنۢ بَعۡضࣲۗ وَٱللَّهُ سَمِیعٌ عَلِیمٌ
 
 | Details |  |

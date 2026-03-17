@@ -452,6 +452,18 @@ Wa Al-'Arđi Wa Mā Ţaĥāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْأَرْضِ وَمَا طَحَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والارض وما طحاها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡأَرۡضِ وَمَا طَحَىٰهَا
 
 | Details |  |

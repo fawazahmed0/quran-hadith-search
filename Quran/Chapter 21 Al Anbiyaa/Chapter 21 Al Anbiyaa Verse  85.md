@@ -452,6 +452,18 @@ Wa 'Ismā'īla Wa 'Idrīsa Wa Dhā Al-Kifli Kullun Mina Aş-Şābirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِسْمَاعِيلَ وَإِدْرِيسَ وَذَا الْكِفْلِ كُلٌّ مِنَ الصَّابِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واسماعيل وادريس وذا الكفل كل من الصابرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِسۡمَـٰعِیلَ وَإِدۡرِیسَ وَذَا ٱلۡكِفۡلِۖ كُلࣱّ مِّنَ ٱلصَّـٰبِرِینَ
 
 | Details |  |

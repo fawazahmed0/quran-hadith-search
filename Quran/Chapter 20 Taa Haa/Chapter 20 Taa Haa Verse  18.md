@@ -452,6 +452,18 @@ Qāla Hiya 'Aşāya 'Atawakka'u 'Alayhā Wa 'Ahushu Bihā 'Alá Ghanamī Wa Liya
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ هِيَ عَصَايَ أَتَوَكَّأُ عَلَيْهَا وَأَهُشُّ بِهَا عَلَى غَنَمِي وَلِيَ فِيهَا مَآرِبُ أُخْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال هي عصاي اتوكا عليها واهش بها على غنمي ولي فيها مارب اخرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ هِیَ عَصَایَ أَتَوَكَّؤُا۟ عَلَیۡهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِی وَلِیَ فِیهَا مَءَارِبُ أُخۡرَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla Rabbī 'A'lamu Bimā Ta'malūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّي أَعْلَمُ بِمَا تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال ربي اعلم بما تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّیۤ أَعۡلَمُ بِمَا تَعۡمَلُونَ
 
 | Details |  |

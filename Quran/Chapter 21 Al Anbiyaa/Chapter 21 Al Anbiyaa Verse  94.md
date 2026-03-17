@@ -452,6 +452,18 @@ Faman Ya'mal Mina Aş-Şāliĥāti Wa Huwa Mu'uminun Falā Kufrāna Lisa'yihi Wa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَنْ يَعْمَلْ مِنَ الصَّالِحَاتِ وَهُوَ مُؤْمِنٌ فَلَا كُفْرَانَ لِسَعْيِهِ وَإِنَّا لَهُ كَاتِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فمن يعمل من الصالحات وهو مومن فلا كفران لسعيه وانا له كاتبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَن یَعۡمَلۡ مِنَ ٱلصَّـٰلِحَـٰتِ وَهُوَ مُؤۡمِنࣱ فَلَا كُفۡرَانَ لِسَعۡیِهِۦ وَإِنَّا لَهُۥ كَـٰتِبُونَ
 
 | Details |  |

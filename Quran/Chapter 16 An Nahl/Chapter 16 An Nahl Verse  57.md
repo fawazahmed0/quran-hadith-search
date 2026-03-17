@@ -452,6 +452,18 @@ Wa Yaj'alūna Lillāhi Al-Banāti Subĥānahu Wa Lahum Mā Yashtahūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَجْعَلُونَ لِلَّهِ الْبَنَاتِ سُبْحَانَهُ وَلَهُمْ مَا يَشْتَهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويجعلون لله البنات سبحانه ولهم ما يشتهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَجۡعَلُونَ لِلَّهِ ٱلۡبَنَـٰتِ سُبۡحَـٰنَهُۥ وَلَهُم مَّا یَشۡتَهُونَ
 
 | Details |  |

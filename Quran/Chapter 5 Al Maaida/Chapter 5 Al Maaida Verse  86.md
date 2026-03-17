@@ -452,6 +452,18 @@ Wa Al-Ladhīna Kafarū Wa Kadhabū Bi'āyātinā 'Ūlā'ika 'Aşĥābu Al-Jaĥī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَئِكَ أَصْحَابُ الْجَحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين كفروا وكذبوا باياتنا اوليك اصحاب الجحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ كَفَرُوا۟ وَكَذَّبُوا۟ بِءَایَـٰتِنَاۤ أُو۟لَـٰۤئِكَ أَصۡحَـٰبُ ٱلۡجَحِیمِ
 
 | Details |  |

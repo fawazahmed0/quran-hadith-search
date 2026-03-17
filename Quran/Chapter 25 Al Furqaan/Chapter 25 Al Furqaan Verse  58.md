@@ -452,6 +452,18 @@ Wa Tawakkal 'Alá Al-Ĥayyi Al-Ladhī Lā Yamūtu Wa Sabbiĥ Biĥamdihi Wa Kafá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَوَكَّلْ عَلَى الْحَيِّ الَّذِي لَا يَمُوتُ وَسَبِّحْ بِحَمْدِهِ وَكَفَى بِهِ بِذُنُوبِ عِبَادِهِ خَبِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتوكل على الحي الذي لا يموت وسبح بحمده وكفى به بذنوب عباده خبيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَوَكَّلۡ عَلَى ٱلۡحَیِّ ٱلَّذِی لَا یَمُوتُ وَسَبِّحۡ بِحَمۡدِهِۦۚ وَكَفَىٰ بِهِۦ بِذُنُوبِ عِبَادِهِۦ خَبِیرًا
 
 | Details |  |

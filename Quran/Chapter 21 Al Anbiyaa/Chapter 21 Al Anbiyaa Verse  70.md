@@ -452,6 +452,18 @@ Wa 'Arādū Bihi Kaydāan Faja'alnāhumu Al-'Akhsarīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَرَادُوا بِهِ كَيْدًا فَجَعَلْنَاهُمُ الْأَخْسَرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وارادوا به كيدا فجعلناهم الاخسرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَرَادُوا۟ بِهِۦ كَیۡدࣰا فَجَعَلۡنَـٰهُمُ ٱلۡأَخۡسَرِینَ
 
 | Details |  |

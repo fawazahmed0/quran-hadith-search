@@ -452,6 +452,18 @@ Qāla Rabbi Bimā 'An'amta 'Alayya Falan 'Akūna Žahīrāan Lilmujrimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ بِمَا أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيرًا لِلْمُجْرِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب بما انعمت علي فلن اكون ظهيرا للمجرمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ بِمَاۤ أَنۡعَمۡتَ عَلَیَّ فَلَنۡ أَكُونَ ظَهِیرࣰا لِّلۡمُجۡرِمِینَ
 
 | Details |  |

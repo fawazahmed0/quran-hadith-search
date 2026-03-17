@@ -452,6 +452,18 @@ Naĥnu 'A'lamu Bimā Yaqūlūna Wa Mā 'Anta 'Alayhim Bijabbārin Fadhakkir Bil-
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نَحْنُ أَعْلَمُ بِمَا يَقُولُونَ وَمَا أَنْتَ عَلَيْهِمْ بِجَبَّارٍ فَذَكِّرْ بِالْقُرْآنِ مَنْ يَخَافُ وَعِيدِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نحن اعلم بما يقولون وما انت عليهم بجبار فذكر بالقران من يخاف وعيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نَّحۡنُ أَعۡلَمُ بِمَا یَقُولُونَۖ وَمَاۤ أَنتَ عَلَیۡهِم بِجَبَّارࣲۖ فَذَكِّرۡ بِٱلۡقُرۡءَانِ مَن یَخَافُ وَعِیدِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Al-Layli 'Idhā Yasri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاللَّيْلِ إِذَا يَسْرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والليل اذا يسر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّیۡلِ إِذَا یَسۡرِ
 
 | Details |  |

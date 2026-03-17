@@ -452,6 +452,18 @@ Huwa Al-Ladhī Yuşawwirukum Fī Al-'Arĥāmi Kayfa Yashā'u Lā 'Ilāha 'Illā 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُوَ الَّذِي يُصَوِّرُكُمْ فِي الْأَرْحَامِ كَيْفَ يَشَاءُ لَا إِلَهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هو الذي يصوركم في الارحام كيف يشاء لا اله الا هو العزيز الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُوَ ٱلَّذِی یُصَوِّرُكُمۡ فِی ٱلۡأَرۡحَامِ كَیۡفَ یَشَاۤءُۚ لَاۤ إِلَـٰهَ إِلَّا هُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Idh Dakhalū 'Alayhi Faqālū Salāmāan Qāla 'Innā Minkum Wajilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ دَخَلُوا عَلَيْهِ فَقَالُوا سَلَامًا قَالَ إِنَّا مِنْكُمْ وَجِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ دخلوا عليه فقالوا سلاما قال انا منكم وجلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ دَخَلُوا۟ عَلَیۡهِ فَقَالُوا۟ سَلَـٰمࣰا قَالَ إِنَّا مِنكُمۡ وَجِلُونَ
 
 | Details |  |

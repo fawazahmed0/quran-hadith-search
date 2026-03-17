@@ -452,6 +452,18 @@ Qul Jā'a Al-Ĥaqqu Wa Mā Yubdi'u Al-Bāţilu Wa Mā Yu'īdu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ جَاءَ الْحَقُّ وَمَا يُبْدِئُ الْبَاطِلُ وَمَا يُعِيدُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل جاء الحق وما يبدي الباطل وما يعيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ جَاۤءَ ٱلۡحَقُّ وَمَا یُبۡدِئُ ٱلۡبَـٰطِلُ وَمَا یُعِیدُ
 
 | Details |  |

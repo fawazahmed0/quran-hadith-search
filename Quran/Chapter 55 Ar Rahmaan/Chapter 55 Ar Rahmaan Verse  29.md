@@ -452,6 +452,18 @@ Yas'aluhu Man Fī As-Samāwāti Wa Al-'Arđi Kulla Yawmin Huwa Fī Sha'nin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَسْأَلُهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يساله من في السماوات والارض كل يوم هو في شان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَسۡءَلُهُۥ مَن فِی ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۚ كُلَّ یَوۡمٍ هُوَ فِی شَأۡنࣲ
 
 | Details |  |

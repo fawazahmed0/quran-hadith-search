@@ -452,6 +452,18 @@ Wa Mā 'Adrāka Mā Saqaru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَدْرَاكَ مَا سَقَرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ادراك ما سقر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَدۡرَىٰكَ مَا سَقَرُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Tilka 'Āyātu Al-Kitābi Al-Ĥakīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تِلْكَ آيَاتُ الْكِتَابِ الْحَكِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تلك ايات الكتاب الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تِلۡكَ ءَایَـٰتُ ٱلۡكِتَـٰبِ ٱلۡحَكِیمِ
 
 | Details |  |

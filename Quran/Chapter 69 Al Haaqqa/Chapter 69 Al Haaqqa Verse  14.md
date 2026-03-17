@@ -452,6 +452,18 @@ Wa Ĥumilati Al-'Arđu Wa Al-Jibālu Fadukkatā Dakkatan Wāĥidahan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَحُمِلَتِ الْأَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وحملت الارض والجبال فدكتا دكة واحدة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَحُمِلَتِ ٱلۡأَرۡضُ وَٱلۡجِبَالُ فَدُكَّتَا دَكَّةࣰ وَ ٰحِدَةࣰ
 
 | Details |  |

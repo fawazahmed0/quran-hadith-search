@@ -452,6 +452,18 @@ Kallā Bal Rāna 'Alá Qulūbihim Mā Kānū Yaksibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا بَلْ رَانَ عَلَى قُلُوبِهِمْ مَا كَانُوا يَكْسِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا بل ران على قلوبهم ما كانوا يكسبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّاۖ بَلۡۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ یَكۡسِبُونَ
 
 | Details |  |

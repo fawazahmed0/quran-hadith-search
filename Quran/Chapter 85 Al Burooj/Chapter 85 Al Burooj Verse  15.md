@@ -452,6 +452,18 @@ Dhū Al-'Arshi Al-Majīdu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذُو الْعَرْشِ الْمَجِيدُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذو العرش المجيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذُو ٱلۡعَرۡشِ ٱلۡمَجِیدُ
 
 | Details |  |

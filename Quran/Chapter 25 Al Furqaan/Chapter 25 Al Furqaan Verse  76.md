@@ -452,6 +452,18 @@ Khālidīna Fīhā Ĥasunat Mustaqarrāan Wa Muqāmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خَالِدِينَ فِيهَا حَسُنَتْ مُسْتَقَرًّا وَمُقَامًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خالدين فيها حسنت مستقرا ومقاما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خَـٰلِدِینَ فِیهَاۚ حَسُنَتۡ مُسۡتَقَرࣰّا وَمُقَامࣰا
 
 | Details |  |

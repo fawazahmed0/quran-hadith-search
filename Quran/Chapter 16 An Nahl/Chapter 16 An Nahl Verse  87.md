@@ -452,6 +452,18 @@ Wa 'Alqaw 'Ilá Allāhi Yawma'idhin As-Salama Wa Đalla 'Anhum Mā Kānū Yaftar
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَلْقَوْا إِلَى اللَّهِ يَوْمَئِذٍ السَّلَمَ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والقوا الى الله يوميذ السلم وضل عنهم ما كانوا يفترون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَلۡقَوۡا۟ إِلَى ٱللَّهِ یَوۡمَئِذٍ ٱلسَّلَمَۖ وَضَلَّ عَنۡهُم مَّا كَانُوا۟ یَفۡتَرُونَ
 
 | Details |  |

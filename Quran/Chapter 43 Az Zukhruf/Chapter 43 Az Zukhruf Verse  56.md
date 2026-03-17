@@ -452,6 +452,18 @@ Faja'alnāhum Salafāan Wa Mathalāan Lil'ākhirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَجَعَلْنَاهُمْ سَلَفًا وَمَثَلًا لِلْآخِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فجعلناهم سلفا ومثلا للاخرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَجَعَلۡنَـٰهُمۡ سَلَفࣰا وَمَثَلࣰا لِّلۡءَاخِرِینَ
 
 | Details |  |

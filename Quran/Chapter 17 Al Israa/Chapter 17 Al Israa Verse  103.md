@@ -452,6 +452,18 @@ Fa'arāda 'An Yastafizzahum Mina Al-'Arđi Fa'aghraqnāhu Wa Man Ma'ahu Jamī'ā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَرَادَ أَنْ يَسْتَفِزَّهُمْ مِنَ الْأَرْضِ فَأَغْرَقْنَاهُ وَمَنْ مَعَهُ جَمِيعًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاراد ان يستفزهم من الارض فاغرقناه ومن معه جميعا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَرَادَ أَن یَسۡتَفِزَّهُم مِّنَ ٱلۡأَرۡضِ فَأَغۡرَقۡنَـٰهُ وَمَن مَّعَهُۥ جَمِیعࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Am 'Amintum Man Fī As-Samā'i 'An Yursila 'Alaykum Ĥāşibāan Fasata'lamūna 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ أَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام امنتم من في السماء ان يرسل عليكم حاصبا فستعلمون كيف نذير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ أَمِنتُم مَّن فِی ٱلسَّمَاۤءِ أَن یُرۡسِلَ عَلَیۡكُمۡ حَاصِبࣰاۖ فَسَتَعۡلَمُونَ كَیۡفَ نَذِیرِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Awalam Yara Al-'Insānu 'Annā Khalaqnāhu Min Nuţfatin Fa'idhā Huwa Khaşīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوَلَمْ يَرَ الْإِنْسَانُ أَنَّا خَلَقْنَاهُ مِنْ نُطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اولم ير الانسان انا خلقناه من نطفة فاذا هو خصيم مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوَ لَمۡ یَرَ ٱلۡإِنسَـٰنُ أَنَّا خَلَقۡنَـٰهُ مِن نُّطۡفَةࣲ فَإِذَا هُوَ خَصِیمࣱ مُّبِینࣱ
 
 | Details |  |

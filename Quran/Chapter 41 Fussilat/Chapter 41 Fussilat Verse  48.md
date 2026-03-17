@@ -452,6 +452,18 @@ Wa Đalla 'Anhum Mā Kānū Yad'ūna Min Qablu Wa Žannū Mā Lahum Min Maĥīş
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَضَلَّ عَنْهُمْ مَا كَانُوا يَدْعُونَ مِنْ قَبْلُ وَظَنُّوا مَا لَهُمْ مِنْ مَحِيصٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وضل عنهم ما كانوا يدعون من قبل وظنوا ما لهم من محيص
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَضَلَّ عَنۡهُم مَّا كَانُوا۟ یَدۡعُونَ مِن قَبۡلُۖ وَظَنُّوا۟ مَا لَهُم مِّن مَّحِیصࣲ
 
 | Details |  |

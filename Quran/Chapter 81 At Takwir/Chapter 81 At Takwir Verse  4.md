@@ -452,6 +452,18 @@ Wa 'Idhā Al-'Ishāru 'Uţţilat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا الْعِشَارُ عُطِّلَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا العشار عطلت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱلۡعِشَارُ عُطِّلَتۡ
 
 | Details |  |

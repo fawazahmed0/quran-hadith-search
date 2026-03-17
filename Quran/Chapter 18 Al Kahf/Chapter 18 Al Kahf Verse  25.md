@@ -452,6 +452,18 @@ Wa Labithū Fī Kahfihim Thalātha Miā'atin Sinīna Wa Azdādū Tis'āan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولبثوا في كهفهم ثلاث ماية سنين وازدادوا تسعا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَبِثُوا۟ فِی كَهۡفِهِمۡ ثَلَـٰثَ مِا۟ئَةࣲ سِنِینَ وَٱزۡدَادُوا۟ تِسۡعࣰا
 
 | Details |  |

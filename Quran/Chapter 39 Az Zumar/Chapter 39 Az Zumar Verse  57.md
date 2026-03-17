@@ -452,6 +452,18 @@ Aw Taqūla Law 'Anna Allāha Hadānī Lakuntu Mina Al-Muttaqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْ تَقُولَ لَوْ أَنَّ اللَّهَ هَدَانِي لَكُنْتُ مِنَ الْمُتَّقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+او تقول لو ان الله هداني لكنت من المتقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوۡ تَقُولَ لَوۡ أَنَّ ٱللَّهَ هَدَىٰنِی لَكُنتُ مِنَ ٱلۡمُتَّقِینَ
 
 | Details |  |

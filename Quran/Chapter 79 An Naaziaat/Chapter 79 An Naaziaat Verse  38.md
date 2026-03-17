@@ -452,6 +452,18 @@ Wa 'Āthara Al-Ĥayāata Ad-Dunyā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَآثَرَ الْحَيَاةَ الدُّنْيَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واثر الحياة الدنيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَءَاثَرَ ٱلۡحَیَوٰةَ ٱلدُّنۡیَا
 
 | Details |  |

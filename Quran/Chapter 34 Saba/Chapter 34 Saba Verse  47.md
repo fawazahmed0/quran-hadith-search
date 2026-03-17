@@ -452,6 +452,18 @@ Qul Mā Sa'altukum Min 'Ajrin Fahuwa Lakum 'In 'Ajriya 'Illā 'Alá Allāhi Wa H
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ مَا سَأَلْتُكُمْ مِنْ أَجْرٍ فَهُوَ لَكُمْ إِنْ أَجْرِيَ إِلَّا عَلَى اللَّهِ وَهُوَ عَلَى كُلِّ شَيْءٍ شَهِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل ما سالتكم من اجر فهو لكم ان اجري الا على الله وهو على كل شيء شهيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ مَا سَأَلۡتُكُم مِّنۡ أَجۡرࣲ فَهُوَ لَكُمۡۖ إِنۡ أَجۡرِیَ إِلَّا عَلَى ٱللَّهِۖ وَهُوَ عَلَىٰ كُلِّ شَیۡءࣲ شَهِیدࣱ
 
 | Details |  |

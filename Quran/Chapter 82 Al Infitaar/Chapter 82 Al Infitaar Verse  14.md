@@ -452,6 +452,18 @@ Wa 'Inna Al-Fujjāra Lafī Jaĥīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان الفجار لفي جحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ ٱلۡفُجَّارَ لَفِی جَحِیمࣲ
 
 | Details |  |

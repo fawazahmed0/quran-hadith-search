@@ -452,6 +452,18 @@ Wa Laqad 'Ahlaknā Mā Ĥawlakum Mina Al-Qurá Wa Şarrafnā Al-'Āyāti La'alla
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ أَهْلَكْنَا مَا حَوْلَكُمْ مِنَ الْقُرَى وَصَرَّفْنَا الْآيَاتِ لَعَلَّهُمْ يَرْجِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد اهلكنا ما حولكم من القرى وصرفنا الايات لعلهم يرجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ أَهۡلَكۡنَا مَا حَوۡلَكُم مِّنَ ٱلۡقُرَىٰ وَصَرَّفۡنَا ٱلۡءَایَـٰتِ لَعَلَّهُمۡ یَرۡجِعُونَ
 
 | Details |  |

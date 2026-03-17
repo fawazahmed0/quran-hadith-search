@@ -452,6 +452,18 @@ Qāla Kam Labithtum Fī Al-'Arđi 'Adada Sinīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ كَمْ لَبِثْتُمْ فِي الْأَرْضِ عَدَدَ سِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال كم لبثتم في الارض عدد سنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَـٰلَ كَمۡ لَبِثۡتُمۡ فِی ٱلۡأَرۡضِ عَدَدَ سِنِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla Wa Mā 'Ilmī Bimā Kānū Ya'malūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ وَمَا عِلْمِي بِمَا كَانُوا يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال وما علمي بما كانوا يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ وَمَا عِلۡمِی بِمَا كَانُوا۟ یَعۡمَلُونَ
 
 | Details |  |

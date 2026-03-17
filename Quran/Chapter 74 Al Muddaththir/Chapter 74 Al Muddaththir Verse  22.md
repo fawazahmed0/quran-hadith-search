@@ -452,6 +452,18 @@ Thumma 'Abasa Wa Basara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ عَبَسَ وَبَسَرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم عبس وبسر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ عَبَسَ وَبَسَرَ
 
 | Details |  |

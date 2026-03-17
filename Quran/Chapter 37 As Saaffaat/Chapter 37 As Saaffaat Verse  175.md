@@ -452,6 +452,18 @@ Wa 'Abşirhum Fasawfa Yubşirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وابصرهم فسوف يبصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَبۡصِرۡهُمۡ فَسَوۡفَ یُبۡصِرُونَ
 
 | Details |  |

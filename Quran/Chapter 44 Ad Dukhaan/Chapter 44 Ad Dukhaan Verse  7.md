@@ -452,6 +452,18 @@ Rabbi As-Samāwāti Wa Al-'Arđi Wa Mā Baynahumā 'In Kuntum Mūqinīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِنْ كُنْتُمْ مُوقِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+رب السماوات والارض وما بينهما ان كنتم موقنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَبِّ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ وَمَا بَیۡنَهُمَاۤۖ إِن كُنتُم مُّوقِنِینَ
 
 | Details |  |

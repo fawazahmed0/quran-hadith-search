@@ -452,6 +452,18 @@ Lakunnā 'Ibāda Allāhi Al-Mukhlaşīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَكُنَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لكنا عباد الله المخلصين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَكُنَّا عِبَادَ ٱللَّهِ ٱلۡمُخۡلَصِینَ
 
 | Details |  |

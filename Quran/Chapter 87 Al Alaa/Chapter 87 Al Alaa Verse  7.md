@@ -452,6 +452,18 @@ Illā Mā Shā'a Allāhu 'Innahu Ya'lamu Al-Jahra Wa Mā Yakhfá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا مَا شَاءَ اللَّهُ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا ما شاء الله انه يعلم الجهر وما يخفى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا مَا شَاۤءَ ٱللَّهُۚ إِنَّهُۥ یَعۡلَمُ ٱلۡجَهۡرَ وَمَا یَخۡفَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Mā Lakum Kayfa Taĥkumūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا لَكُمْ كَيْفَ تَحْكُمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما لكم كيف تحكمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا لَكُمۡ كَیۡفَ تَحۡكُمُونَ
 
 | Details |  |

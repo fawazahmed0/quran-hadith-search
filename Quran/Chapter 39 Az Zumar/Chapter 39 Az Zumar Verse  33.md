@@ -452,6 +452,18 @@ Wa Al-Ladhī Jā'a Biş-Şidqi Wa Şaddaqa Bihi 'Ūlā'ika Humu Al-Muttaqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِي جَاءَ بِالصِّدْقِ وَصَدَّقَ بِهِ أُولَئِكَ هُمُ الْمُتَّقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذي جاء بالصدق وصدق به اوليك هم المتقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِی جَاۤءَ بِٱلصِّدۡقِ وَصَدَّقَ بِهِۦۤ أُو۟لَـٰۤئِكَ هُمُ ٱلۡمُتَّقُونَ
 
 | Details |  |

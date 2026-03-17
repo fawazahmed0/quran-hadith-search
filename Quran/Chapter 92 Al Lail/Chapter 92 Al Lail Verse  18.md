@@ -452,6 +452,18 @@ Al-Ladhī Yu'utī Mālahu Yatazakká
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي يوتي ماله يتزكى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِی یُؤۡتِی مَالَهُۥ یَتَزَكَّىٰ
 
 | Details |  |

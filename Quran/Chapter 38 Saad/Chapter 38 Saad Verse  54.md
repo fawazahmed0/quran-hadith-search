@@ -452,6 +452,18 @@ Inna Hādhā Larizqunā Mā Lahu Min Nafādin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ هَذَا لَرِزْقُنَا مَا لَهُ مِنْ نَفَادٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هذا لرزقنا ما له من نفاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ هَـٰذَا لَرِزۡقُنَا مَا لَهُۥ مِن نَّفَادٍ
 
 | Details |  |

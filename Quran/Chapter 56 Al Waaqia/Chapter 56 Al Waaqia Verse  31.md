@@ -452,6 +452,18 @@ Wa Mā'in Maskūbin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَاءٍ مَسْكُوبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وماء مسكوب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤءࣲ مَّسۡكُوبࣲ
 
 | Details |  |

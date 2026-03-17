@@ -452,6 +452,18 @@ Wa Mā Yaf'alū Min Khayrin Falan Yukfarūhu Wa Allāhu 'Alīmun Bil-Muttaqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا يَفْعَلُوا مِنْ خَيْرٍ فَلَنْ يُكْفَرُوهُ وَاللَّهُ عَلِيمٌ بِالْمُتَّقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما يفعلوا من خير فلن يكفروه والله عليم بالمتقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا یَفۡعَلُوا۟ مِنۡ خَیۡرࣲ فَلَن یُكۡفَرُوهُۗ وَٱللَّهُ عَلِیمُۢ بِٱلۡمُتَّقِینَ
 
 | Details |  |

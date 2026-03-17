@@ -452,6 +452,18 @@ Faja'alahu Ghuthā'an 'Aĥwá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَجَعَلَهُ غُثَاءً أَحْوَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فجعله غثاء احوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَجَعَلَهُۥ غُثَاۤءً أَحۡوَىٰ
 
 | Details |  |

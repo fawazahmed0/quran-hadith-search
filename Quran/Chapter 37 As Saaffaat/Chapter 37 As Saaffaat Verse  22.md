@@ -452,6 +452,18 @@ Aĥshurū Al-Ladhīna Žalamū Wa 'Azwājahum Wa Mā Kānū Ya'budūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+احْشُرُوا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ وَمَا كَانُوا يَعْبُدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+احشروا الذين ظلموا وازواجهم وما كانوا يعبدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ ٱحۡشُرُوا۟ ٱلَّذِینَ ظَلَمُوا۟ وَأَزۡوَ ٰجَهُمۡ وَمَا كَانُوا۟ یَعۡبُدُونَ
 
 | Details |  |

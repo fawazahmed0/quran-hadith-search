@@ -452,6 +452,18 @@ Wa Ĥafižnāhā Min Kulli Shayţānin Rajīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَحَفِظْنَاهَا مِنْ كُلِّ شَيْطَانٍ رَجِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وحفظناها من كل شيطان رجيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَحَفِظۡنَـٰهَا مِن كُلِّ شَیۡطَـٰنࣲ رَّجِیمٍ
 
 | Details |  |

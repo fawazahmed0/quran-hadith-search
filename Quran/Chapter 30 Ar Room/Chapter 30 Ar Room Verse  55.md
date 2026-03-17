@@ -452,6 +452,18 @@ Wa Yawma Taqūmu As-Sā'atu Yuqsimu Al-Mujrimūna Mā Labithū Ghayra Sā'atin K
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِمُونَ مَا لَبِثُوا غَيْرَ سَاعَةٍ كَذَلِكَ كَانُوا يُؤْفَكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويوم تقوم الساعة يقسم المجرمون ما لبثوا غير ساعة كذلك كانوا يوفكون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَوۡمَ تَقُومُ ٱلسَّاعَةُ یُقۡسِمُ ٱلۡمُجۡرِمُونَ مَا لَبِثُوا۟ غَیۡرَ سَاعَةࣲۚ كَذَ ٰلِكَ كَانُوا۟ یُؤۡفَكُونَ
 
 | Details |  |

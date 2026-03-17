@@ -452,6 +452,18 @@ Wa Ĥushira Lisulaymāna Junūduhu Mina Al-Jinni Wa Al-'Insi Wa Aţ-Ţayri Fahum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَحُشِرَ لِسُلَيْمَانَ جُنُودُهُ مِنَ الْجِنِّ وَالْإِنْسِ وَالطَّيْرِ فَهُمْ يُوزَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وحشر لسليمان جنوده من الجن والانس والطير فهم يوزعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَحُشِرَ لِسُلَیۡمَـٰنَ جُنُودُهُۥ مِنَ ٱلۡجِنِّ وَٱلۡإِنسِ وَٱلطَّیۡرِ فَهُمۡ یُوزَعُونَ
 
 | Details |  |

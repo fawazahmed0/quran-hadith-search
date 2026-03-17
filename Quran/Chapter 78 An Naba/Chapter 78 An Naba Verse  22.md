@@ -452,6 +452,18 @@ Lilţţāghīna Ma'ābāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِلطَّاغِينَ مَآبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+للطاغين مابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِّلطَّـٰغِینَ مَءَابࣰا
 
 | Details |  |

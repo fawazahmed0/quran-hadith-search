@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي ذَرٍّ رَضِيَ اللهُ عَنْهُ أَيْضًا، أَنَّ نَاسًا مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه و سلم قَالُوا لِلنَّبِيِّ صلى الله عليه و سلم يَا رَسُولَ اللَّهِ ذَهَبَ أَهْلُ الدُّثُورِ بِالْأُجُورِ؛ يُصَلُّونَ كَمَا نُصَلِّي، وَيَصُومُونَ كَمَا نَصُومُ، وَيَتَصَدَّقُونَ بِفُضُولِ أَمْوَالِهِمْ. قَالَ: أَوَلَيْسَ قَدْ جَعَلَ اللَّهُ لَكُمْ مَا تَصَّدَّقُونَ؟ إنَّ بِكُلِّ تَسْبِيحَةٍ صَدَقَةً، وَكُلِّ تَكْبِيرَةٍ صَدَقَةً، وَكُلِّ تَحْمِيدَةٍ صَدَقَةً، وَكُلِّ تَهْلِيلَةٍ صَدَقَةً، وَأَمْرٌ بِمَعْرُوفٍ صَدَقَةٌ، وَنَهْيٌ عَنْ مُنْكَرٍ صَدَقَةٌ، وَفِي بُضْعِ أَحَدِكُمْ صَدَقَةٌ. قَالُوا: يَا رَسُولَ اللَّهِ أَيَأْتِي أَحَدُنَا شَهْوَتَهُ وَيَكُونُ لَهُ فِيهَا أَجْرٌ؟ قَالَ: أَرَأَيْتُمْ لَوْ وَضَعَهَا فِي حَرَامٍ أَكَانَ عَلَيْهِ وِزْرٌ؟ فَكَذَلِكَ إذَا وَضَعَهَا فِي الْحَلَالِ، كَانَ لَهُ أَجْرٌ . \[رَوَاهُ مُسْلِمٌ\]
@@ -47,6 +49,16 @@ Also on the authority of Abu Dharr (may Allah be pleased with him): Some people 
 ## French
 
 Toujours d’après Abou Dharr (qu’Allah l’agrée) : Certains compagnons du Messager d’Allah (ﷺ) dirent au Prophète (ﷺ) : « Ô Messager d’Allah, les riches ont emporté toutes les récompenses ! Ils prient comme nous, jeûnent comme nous, et donnent beaucoup en aumône grâce à leur richesse. » Il (ﷺ) dit : « Allah ne vous a-t-Il pas donné de quoi faire l’aumône ? Chaque “SubhanAllah” est une aumône, chaque “Allahu Akbar” est une aumône, chaque “Alhamdoulillah” est une aumône, chaque “La ilaha illAllah” est une aumône. Ordonner le bien est une aumône, interdire le mal est une aumône, et dans le rapport intime de chacun de vous, il y a une aumône. » Ils dirent : « Ô Messager d’Allah, quand l’un de nous satisfait son désir, il a une récompense ? » Il dit : « Voyez-vous, s’il l’avait fait de façon illicite, il aurait eu un péché ? Ainsi, s’il le fait de façon licite, il a une récompense. » \[Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 25 |
+| Arabic No | 25 |
+| Reference | Book 1 Hadith 25 |
+
+## Turkish
+
+Ebu Zer (ra) anlatıyor: Resulullah’ın (ﷺ) ashabından bir kısmı Peygamber'e dediler ki: "Ey Allah’ın Resulü, varlıklı olanlar sevapları alıp götürdüler. Bizim kıldığımız gibi namaz kılıyor, tuttuğumuz gibi oruç tutuyorlar; bir de mallarının fazlasından sadaka veriyorlar." Efendimiz buyurdu ki: "Allah size sadaka vereceğiniz şeyler vermedi mi? Her tesbih bir sadakadır, her tekbir bir sadakadır, her tahmid bir sadakadır, her tehlil bir sadakadır. İyiliği emretmek sadaka, kötülükten nehyetmek sadakadır. Hatta birinizin eşiyle birlikteliğinde bile sadaka vardır." Dediler ki: "Ey Allah’ın Resulü, birimiz şehvetini tatmin etse bundan sevap mı alır?" Şöyle buyurdu: "Görmez misiniz, eğer onu haram yolla yapsaydı günah olmayacak mıydı? İşte helal yolla yapınca da onun için sevap vardır." \[Müslim\]
 
 | References: |  |
 | --- | --- |

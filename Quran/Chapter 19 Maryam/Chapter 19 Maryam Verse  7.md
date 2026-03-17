@@ -452,6 +452,18 @@ Yā Zakarīyā 'Innā Nubashiruka Bighulāmin Asmuhu Yaĥyá Lam Naj'al Lahu Min
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا زَكَرِيَّا إِنَّا نُبَشِّرُكَ بِغُلَامٍ اسْمُهُ يَحْيَى لَمْ نَجْعَلْ لَهُ مِنْ قَبْلُ سَمِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا زكريا انا نبشرك بغلام اسمه يحيى لم نجعل له من قبل سميا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰزَكَرِیَّاۤ إِنَّا نُبَشِّرُكَ بِغُلَـٰمٍ ٱسۡمُهُۥ یَحۡیَىٰ لَمۡ نَجۡعَل لَّهُۥ مِن قَبۡلُ سَمِیࣰّا
 
 | Details |  |

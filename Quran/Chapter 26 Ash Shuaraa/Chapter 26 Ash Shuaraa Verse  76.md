@@ -452,6 +452,18 @@ Antum Wa 'Ābā'uukumu Al-'Aqdamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَنْتُمْ وَآبَاؤُكُمُ الْأَقْدَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انتم واباوكم الاقدمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَنتُمۡ وَءَابَاۤؤُكُمُ ٱلۡأَقۡدَمُونَ
 
 | Details |  |

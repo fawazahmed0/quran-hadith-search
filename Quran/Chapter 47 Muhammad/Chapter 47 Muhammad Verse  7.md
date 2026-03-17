@@ -452,6 +452,18 @@ Yā 'Ayyuhā Al-Ladhīna 'Āmanū 'In Tanşurū Allāha Yanşurkum Wa Yuthabbit 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايها الذين امنوا ان تنصروا الله ينصركم ويثبت اقدامكم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِن تَنصُرُوا۟ ٱللَّهَ یَنصُرۡكُمۡ وَیُثَبِّتۡ أَقۡدَامَكُمۡ
 
 | Details |  |

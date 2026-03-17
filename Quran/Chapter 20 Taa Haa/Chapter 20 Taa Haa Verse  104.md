@@ -452,6 +452,18 @@ Naĥnu 'A'lamu Bimā Yaqūlūna 'Idh Yaqūlu 'Amthaluhum Ţarīqatan 'In Labitht
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نَحْنُ أَعْلَمُ بِمَا يَقُولُونَ إِذْ يَقُولُ أَمْثَلُهُمْ طَرِيقَةً إِنْ لَبِثْتُمْ إِلَّا يَوْمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نحن اعلم بما يقولون اذ يقول امثلهم طريقة ان لبثتم الا يوما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نَّحۡنُ أَعۡلَمُ بِمَا یَقُولُونَ إِذۡ یَقُولُ أَمۡثَلُهُمۡ طَرِیقَةً إِن لَّبِثۡتُمۡ إِلَّا یَوۡمࣰا
 
 | Details |  |

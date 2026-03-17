@@ -452,6 +452,18 @@ Wa Fī 'Ādin 'Idh 'Arsalnā 'Alayhimu Ar-Rīĥa Al-'Aqīma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفِي عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ الرِّيحَ الْعَقِيمَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفي عاد اذ ارسلنا عليهم الريح العقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفِی عَادٍ إِذۡ أَرۡسَلۡنَا عَلَیۡهِمُ ٱلرِّیحَ ٱلۡعَقِیمَ
 
 | Details |  |

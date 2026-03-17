@@ -452,6 +452,18 @@ Wa Man 'A'rađa 'An Dhikrī Fa'inna Lahu Ma'īshatan Đankāan Wa Naĥshuruhu Ya
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنْكًا وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن اعرض عن ذكري فان له معيشة ضنكا ونحشره يوم القيامة اعمى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَنۡ أَعۡرَضَ عَن ذِكۡرِی فَإِنَّ لَهُۥ مَعِیشَةࣰ ضَنكࣰا وَنَحۡشُرُهُۥ یَوۡمَ ٱلۡقِیَـٰمَةِ أَعۡمَىٰ
 
 | Details |  |

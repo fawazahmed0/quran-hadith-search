@@ -452,6 +452,18 @@ Mā 'Anta 'Illā Basharun Mithlunā Fa'ti Bi'āyatin 'In Kunta Mina Aş-Şādiq�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا أَنْتَ إِلَّا بَشَرٌ مِثْلُنَا فَأْتِ بِآيَةٍ إِنْ كُنْتَ مِنَ الصَّادِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما انت الا بشر مثلنا فات باية ان كنت من الصادقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَاۤ أَنتَ إِلَّا بَشَرࣱ مِّثۡلُنَا فَأۡتِ بِءَایَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِینَ
 
 | Details |  |

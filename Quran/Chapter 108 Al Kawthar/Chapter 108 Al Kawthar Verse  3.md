@@ -452,6 +452,18 @@ Inna Shāni'aka Huwa Al-'Abtaru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان شانيك هو الابتر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ
 
 | Details |  |

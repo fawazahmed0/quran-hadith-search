@@ -452,6 +452,18 @@ Wa 'Aşĥābu Al-'Aykati Wa Qawmu Tubba'in Kullun Kadhaba Ar-Rusula Faĥaqqa Wa'
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَصْحَابُ الْأَيْكَةِ وَقَوْمُ تُبَّعٍ كُلٌّ كَذَّبَ الرُّسُلَ فَحَقَّ وَعِيدِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واصحاب الايكة وقوم تبع كل كذب الرسل فحق وعيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَصۡحَـٰبُ ٱلۡأَیۡكَةِ وَقَوۡمُ تُبَّعࣲۚ كُلࣱّ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِیدِ
 
 | Details |  |

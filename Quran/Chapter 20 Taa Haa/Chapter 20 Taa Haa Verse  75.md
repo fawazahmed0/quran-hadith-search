@@ -452,6 +452,18 @@ Wa Man Ya'tihi Mu'umināan Qad 'Amila Aş-Şāliĥāti Fa'ūlā'ika Lahumu Ad-Da
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ يَأْتِهِ مُؤْمِنًا قَدْ عَمِلَ الصَّالِحَاتِ فَأُولَئِكَ لَهُمُ الدَّرَجَاتُ الْعُلَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن ياته مومنا قد عمل الصالحات فاوليك لهم الدرجات العلى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن یَأۡتِهِۦ مُؤۡمِنࣰا قَدۡ عَمِلَ ٱلصَّـٰلِحَـٰتِ فَأُو۟لَـٰۤئِكَ لَهُمُ ٱلدَّرَجَـٰتُ ٱلۡعُلَىٰ
 
 | Details |  |

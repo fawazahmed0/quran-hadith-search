@@ -452,6 +452,18 @@ Innā Ja'alnā Fī 'A'nāqihim 'Aghlālāan Fahiya 'Ilá Al-'Adhqāni Fahum Muqm
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا جَعَلْنَا فِي أَعْنَاقِهِمْ أَغْلَالًا فَهِيَ إِلَى الْأَذْقَانِ فَهُمْ مُقْمَحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا جعلنا في اعناقهم اغلالا فهي الى الاذقان فهم مقمحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا جَعَلۡنَا فِیۤ أَعۡنَـٰقِهِمۡ أَغۡلَـٰلࣰا فَهِیَ إِلَى ٱلۡأَذۡقَانِ فَهُم مُّقۡمَحُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Yamna'ūna Al-Mā'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَمْنَعُونَ الْمَاعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويمنعون الماعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَمۡنَعُونَ ٱلۡمَاعُونَ
 
 | Details |  |

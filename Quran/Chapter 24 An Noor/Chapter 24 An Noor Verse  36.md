@@ -452,6 +452,18 @@ Fī Buyūtin 'Adhina Allāhu 'An Turfa'a Wa Yudhkara Fīhā Asmuhu Yusabbiĥu La
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في بيوت اذن الله ان ترفع ويذكر فيها اسمه يسبح له فيها بالغدو والاصال
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِی بُیُوتٍ أَذِنَ ٱللَّهُ أَن تُرۡفَعَ وَیُذۡكَرَ فِیهَا ٱسۡمُهُۥ یُسَبِّحُ لَهُۥ فِیهَا بِٱلۡغُدُوِّ وَٱلۡءَاصَالِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Yūsufu 'A'riđ 'An Hādhā Wa Astaghfirī Lidhanbiki 'Innaki Kunti Mina Al-Khā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُوسُفُ أَعْرِضْ عَنْ هَذَا وَاسْتَغْفِرِي لِذَنْبِكِ إِنَّكِ كُنْتِ مِنَ الْخَاطِئِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوسف اعرض عن هذا واستغفري لذنبك انك كنت من الخاطيين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُوسُفُ أَعۡرِضۡ عَنۡ هَـٰذَاۚ وَٱسۡتَغۡفِرِی لِذَنۢبِكِۖ إِنَّكِ كُنتِ مِنَ ٱلۡخَاطِءِینَ
 
 | Details |  |

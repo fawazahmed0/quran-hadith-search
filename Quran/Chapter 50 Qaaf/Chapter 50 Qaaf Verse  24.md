@@ -452,6 +452,18 @@ Alqiyā Fī Jahannama Kulla Kaffārin 'Anīdin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلْقِيَا فِي جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+القيا في جهنم كل كفار عنيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلۡقِیَا فِی جَهَنَّمَ كُلَّ كَفَّارٍ عَنِیدࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Lā Yastaţī'ūna Lahum Naşrāan Wa Lā 'Anfusahum Yanşurūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا يَسْتَطِيعُونَ لَهُمْ نَصْرًا وَلَا أَنْفُسَهُمْ يَنْصُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا يستطيعون لهم نصرا ولا انفسهم ينصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا یَسۡتَطِیعُونَ لَهُمۡ نَصۡرࣰا وَلَاۤ أَنفُسَهُمۡ یَنصُرُونَ
 
 | Details |  |

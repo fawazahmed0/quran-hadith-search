@@ -452,6 +452,18 @@ Yuţāfu 'Alayhim Bika'sin Min Ma'īnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُطَافُ عَلَيْهِمْ بِكَأْسٍ مِنْ مَعِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يطاف عليهم بكاس من معين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُطَافُ عَلَیۡهِم بِكَأۡسࣲ مِّن مَّعِینِۭ
 
 | Details |  |

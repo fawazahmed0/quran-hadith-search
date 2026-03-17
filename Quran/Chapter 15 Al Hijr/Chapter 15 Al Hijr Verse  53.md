@@ -452,6 +452,18 @@ Qālū Lā Tawjal 'Innā Nubashiruka Bighulāmin 'Alīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَامٍ عَلِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا لا توجل انا نبشرك بغلام عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ لَا تَوۡجَلۡ إِنَّا نُبَشِّرُكَ بِغُلَـٰمٍ عَلِیمࣲ
 
 | Details |  |

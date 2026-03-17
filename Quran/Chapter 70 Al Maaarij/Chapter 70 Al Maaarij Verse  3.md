@@ -452,6 +452,18 @@ Mina Allāhi Dhī Al-Ma'āriji
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مِنَ اللَّهِ ذِي الْمَعَارِجِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من الله ذي المعارج
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مِّنَ ٱللَّهِ ذِی ٱلۡمَعَارِجِ
 
 | Details |  |

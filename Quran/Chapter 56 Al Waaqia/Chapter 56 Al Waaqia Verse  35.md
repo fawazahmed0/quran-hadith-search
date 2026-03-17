@@ -452,6 +452,18 @@ Innā 'Ansha'nāhunna 'Inshā'an
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا أَنْشَأْنَاهُنَّ إِنْشَاءً
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا انشاناهن انشاء
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّاۤ أَنشَأۡنَـٰهُنَّ إِنشَاۤءࣰ
 
 | Details |  |

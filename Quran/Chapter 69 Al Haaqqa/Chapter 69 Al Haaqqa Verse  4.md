@@ -452,6 +452,18 @@ Kadhabat Thamūdu Wa 'Ādun Bil-Qāri'ahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَّبَتْ ثَمُودُ وَعَادٌ بِالْقَارِعَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذبت ثمود وعاد بالقارعة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَّبَتۡ ثَمُودُ وَعَادُۢ بِٱلۡقَارِعَةِ
 
 | Details |  |

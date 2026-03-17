@@ -452,6 +452,18 @@ Sunnata Allāhi Fī Al-Ladhīna Khalaw Min Qablu Wa Lan Tajida Lisunnati Allāhi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا مِنْ قَبْلُ وَلَنْ تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سنة الله في الذين خلوا من قبل ولن تجد لسنة الله تبديلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سُنَّةَ ٱللَّهِ فِی ٱلَّذِینَ خَلَوۡا۟ مِن قَبۡلُۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبۡدِیلࣰا
 
 | Details |  |

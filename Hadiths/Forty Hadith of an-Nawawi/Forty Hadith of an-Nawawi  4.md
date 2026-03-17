@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي عَبْدِ الرَّحْمَنِ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللهُ عَنْهُ قَالَ: حَدَّثَنَا رَسُولُ اللَّهِ صلى الله عليه و سلم -وَهُوَ الصَّادِقُ الْمَصْدُوقُ-: إنَّ أَحَدَكُمْ يُجْمَعُ خَلْقُهُ فِي بَطْنِ أُمِّهِ أَرْبَعِينَ يَوْمًا نُطْفَةً، ثُمَّ يَكُونُ عَلَقَةً مِثْلَ ذَلِكَ، ثُمَّ يَكُونُ مُضْغَةً مِثْلَ ذَلِكَ، ثُمَّ يُرْسَلُ إلَيْهِ الْمَلَكُ فَيَنْفُخُ فِيهِ الرُّوحَ، وَيُؤْمَرُ بِأَرْبَعِ كَلِمَاتٍ: بِكَتْبِ رِزْقِهِ، وَأَجَلِهِ، وَعَمَلِهِ، وَشَقِيٍّ أَمْ سَعِيدٍ؛ فَوَاَللَّهِ الَّذِي لَا إلَهَ غَيْرُهُ إنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ الْجَنَّةِ حَتَّى مَا يَكُونُ بَيْنَهُ وَبَيْنَهَا إلَّا ذِرَاعٌ فَيَسْبِقُ عَلَيْهِ الْكِتَابُ فَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ فَيَدْخُلُهَا. وَإِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ حَتَّى مَا يَكُونُ بَيْنَهُ وَبَيْنَهَا إلَّا ذِرَاعٌ فَيَسْبِقُ عَلَيْهِ الْكِتَابُ فَيَعْمَلُ بِعَمَلِ أَهْلِ الْجَنَّةِ فَيَدْخُلُهَا . \[رَوَاهُ الْبُخَارِيُّ\] ، \[وَمُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of Abdullah ibn Masood (ra), who said: The Messenger of Allah (
 ## French
 
 Selon Abdallah ibn Mas‘oud (qu’Allah l’agrée), qui a dit : Le Messager d’Allah (ﷺ), le véridique, le digne de confiance, nous a raconté : « La création de chacun d’entre vous s’accomplit dans le ventre de sa mère pendant quarante jours sous forme d’une goutte, puis il devient une adhérence pour une période semblable, puis un morceau de chair pour une période semblable. Ensuite, un ange est envoyé, qui insuffle l’âme et reçoit l’ordre d’écrire quatre choses : sa subsistance, la durée de sa vie, ses actions, et s’il sera heureux ou malheureux (c’est-à-dire s’il entrera au Paradis ou en Enfer). Par Celui en dehors de qui il n’y a pas de divinité, il arrive que l’un d’entre vous accomplisse les œuvres des gens du Paradis jusqu’à ce qu’il ne reste entre lui et le Paradis qu’une coudée, mais ce qui a été écrit l’emporte et il accomplit alors les actes des gens de l’Enfer, ce qui le fait entrer en Enfer. Et il arrive que l’un d’entre vous accomplisse les œuvres des gens de l’Enfer jusqu’à ce qu’il ne reste entre lui et l’Enfer qu’une coudée, mais ce qui a été écrit l’emporte et il accomplit alors les actes des gens du Paradis, ce qui le fait entrer au Paradis. » \[Boukhari & Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4 |
+| Arabic No | 4 |
+| Reference | Book 1 Hadith 4 |
+
+## Turkish
+
+Abdullah bin Mes'ud (ra) anlatıyor: Doğru sözlü ve sözü tasdik edilen Resulullah (ﷺ) bize şöyle buyurdu: "Sizden birinin yaratılışı, annesinin karnında kırk gün nutfe (damla) olarak toplanır. Sonra aynı süre kadar 'alaka' (kan pıhtısı) olur. Sonra aynı süre kadar 'mudga' (bir çiğnem et) olur. Sonra ona melek gönderilir, ruh üfler ve şu dört şeyi yazması emredilir: Rızkı, eceli, ameli ve şaki (bedbaht) mi yoksa said (mutlu/cennetlik) mi olacağı. Kendisinden başka ilah olmayan Allah’a yemin ederim ki, sizden biri cennetliklerin amelini işler, öyle ki kendisiyle cennet arasında sadece bir arşın mesafe kalır, derken yazgı (kader) önüne geçer ve cehennemliklerin amelini işleyerek oraya girer. Yine sizden biri cehennemliklerin amelini işler, kendisiyle ateş arasında bir arşın mesafe kalır, derken yazgı önüne geçer ve cennetliklerin amelini işleyerek oraya girer." \[Buhari ve Müslim\]
 
 | References: |  |
 | --- | --- |

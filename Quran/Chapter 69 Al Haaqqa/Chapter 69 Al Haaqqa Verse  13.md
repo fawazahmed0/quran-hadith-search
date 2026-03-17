@@ -452,6 +452,18 @@ Fa'idhā Nufikha Fī Aş-Şūri Nafkhatun Wāĥidahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِذَا نُفِخَ فِي الصُّورِ نَفْخَةٌ وَاحِدَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاذا نفخ في الصور نفخة واحدة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِذَا نُفِخَ فِی ٱلصُّورِ نَفۡخَةࣱ وَ ٰحِدَةࣱ
 
 | Details |  |

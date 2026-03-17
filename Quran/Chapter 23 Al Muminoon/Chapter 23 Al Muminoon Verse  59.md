@@ -452,6 +452,18 @@ Wa Al-Ladhīna Hum Birabbihim Lā Yushrikūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ هُمْ بِرَبِّهِمْ لَا يُشْرِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين هم بربهم لا يشركون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ هُم بِرَبِّهِمۡ لَا یُشۡرِكُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Mā Yujādilu Fī 'Āyāti Allāhi 'Illā Al-Ladhīna Kafarū Falā Yaghrurka Ta
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا يُجَادِلُ فِي آيَاتِ اللَّهِ إِلَّا الَّذِينَ كَفَرُوا فَلَا يَغْرُرْكَ تَقَلُّبُهُمْ فِي الْبِلَادِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما يجادل في ايات الله الا الذين كفروا فلا يغررك تقلبهم في البلاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا یُجَـٰدِلُ فِیۤ ءَایَـٰتِ ٱللَّهِ إِلَّا ٱلَّذِینَ كَفَرُوا۟ فَلَا یَغۡرُرۡكَ تَقَلُّبُهُمۡ فِی ٱلۡبِلَـٰدِ
 
 | Details |  |

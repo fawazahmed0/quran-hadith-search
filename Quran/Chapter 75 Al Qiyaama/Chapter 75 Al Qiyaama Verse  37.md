@@ -452,6 +452,18 @@ Alam Yaku Nuţfatan Min Manīyin Yumná
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ يَكُ نُطْفَةً مِنْ مَنِيٍّ يُمْنَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم يك نطفة من مني يمنى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ یَكُ نُطۡفَةࣰ مِّن مَّنِیࣲّ یُمۡنَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Ayushrikūna Mā Lā Yakhluqu Shay'āan Wa Hum Yukhlaqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَيُشْرِكُونَ مَا لَا يَخْلُقُ شَيْئًا وَهُمْ يُخْلَقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ايشركون ما لا يخلق شييا وهم يخلقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَیُشۡرِكُونَ مَا لَا یَخۡلُقُ شَیۡءࣰا وَهُمۡ یُخۡلَقُونَ
 
 | Details |  |

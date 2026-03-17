@@ -452,6 +452,18 @@ Wa Qālū 'Asāţīru Al-'Awwalīna Aktatabahā Fahiya Tumlá 'Alayhi Bukratan W
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا أَسَاطِيرُ الْأَوَّلِينَ اكْتَتَبَهَا فَهِيَ تُمْلَى عَلَيْهِ بُكْرَةً وَأَصِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا اساطير الاولين اكتتبها فهي تملى عليه بكرة واصيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوۤا۟ أَسَـٰطِیرُ ٱلۡأَوَّلِینَ ٱكۡتَتَبَهَا فَهِیَ تُمۡلَىٰ عَلَیۡهِ بُكۡرَةࣰ وَأَصِیلࣰا
 
 | Details |  |

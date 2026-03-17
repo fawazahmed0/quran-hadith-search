@@ -452,6 +452,18 @@ Innī 'Āmantu Birabbikum Fāsma'ūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنِّي آمَنْتُ بِرَبِّكُمْ فَاسْمَعُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اني امنت بربكم فاسمعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنِّیۤ ءَامَنتُ بِرَبِّكُمۡ فَٱسۡمَعُونِ
 
 | Details |  |

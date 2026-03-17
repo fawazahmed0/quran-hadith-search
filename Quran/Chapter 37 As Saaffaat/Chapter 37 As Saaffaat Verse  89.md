@@ -452,6 +452,18 @@ Faqāla 'Innī Saqīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقَالَ إِنِّي سَقِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقال اني سقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقَالَ إِنِّی سَقِیمࣱ
 
 | Details |  |

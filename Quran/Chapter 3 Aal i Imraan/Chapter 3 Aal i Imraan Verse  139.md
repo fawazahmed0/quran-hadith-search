@@ -452,6 +452,18 @@ Wa Lā Tahinū Wa Lā Taĥzanū Wa 'Antumu Al-'A'lawna 'In Kuntum Mu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنْتُمُ الْأَعْلَوْنَ إِنْ كُنْتُمْ مُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تهنوا ولا تحزنوا وانتم الاعلون ان كنتم مومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تَهِنُوا۟ وَلَا تَحۡزَنُوا۟ وَأَنتُمُ ٱلۡأَعۡلَوۡنَ إِن كُنتُم مُّؤۡمِنِینَ
 
 | Details |  |

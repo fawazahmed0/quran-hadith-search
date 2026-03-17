@@ -452,6 +452,18 @@ Inna Fī Dhālika La'āyātin Lilmutawassimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ فِي ذَلِكَ لَآيَاتٍ لِلْمُتَوَسِّمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان في ذلك لايات للمتوسمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ فِی ذَ ٰلِكَ لَءَایَـٰتࣲ لِّلۡمُتَوَسِّمِینَ
 
 | Details |  |

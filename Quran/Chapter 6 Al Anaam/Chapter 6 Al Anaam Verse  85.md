@@ -452,6 +452,18 @@ Wa Zakarīyā Wa Yaĥyá Wa 'Īsá Wa 'Ilyāsa Kullun Mina Aş-Şāliĥīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَزَكَرِيَّا وَيَحْيَى وَعِيسَى وَإِلْيَاسَ كُلٌّ مِنَ الصَّالِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وزكريا ويحيى وعيسى والياس كل من الصالحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَزَكَرِیَّا وَیَحۡیَىٰ وَعِیسَىٰ وَإِلۡیَاسَۖ كُلࣱّ مِّنَ ٱلصَّـٰلِحِینَ
 
 | Details |  |

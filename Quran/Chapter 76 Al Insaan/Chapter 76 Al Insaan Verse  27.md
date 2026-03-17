@@ -452,6 +452,18 @@ Inna Hā'uulā' Yuĥibbūna Al-'Ājilata Wa Yadharūna Warā'ahum Yawmāan Thaq�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ هَؤُلَاءِ يُحِبُّونَ الْعَاجِلَةَ وَيَذَرُونَ وَرَاءَهُمْ يَوْمًا ثَقِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هولاء يحبون العاجلة ويذرون وراءهم يوما ثقيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ هَـٰۤؤُلَاۤءِ یُحِبُّونَ ٱلۡعَاجِلَةَ وَیَذَرُونَ وَرَاۤءَهُمۡ یَوۡمࣰا ثَقِیلࣰا
 
 | Details |  |

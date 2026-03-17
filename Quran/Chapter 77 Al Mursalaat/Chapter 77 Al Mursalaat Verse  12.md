@@ -452,6 +452,18 @@ L'ayyi Yawmin 'Ujjilat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِأَيِّ يَوْمٍ أُجِّلَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لاي يوم اجلت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِأَیِّ یَوۡمٍ أُجِّلَتۡ
 
 | Details |  |

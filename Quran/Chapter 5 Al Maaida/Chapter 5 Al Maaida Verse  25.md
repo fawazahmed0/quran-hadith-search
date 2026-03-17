@@ -452,6 +452,18 @@ Qāla Rabbi 'Innī Lā 'Amliku 'Illā Nafsī Wa 'Akhī Fāfruq Baynanā Wa Bayna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ إِنِّي لَا أَمْلِكُ إِلَّا نَفْسِي وَأَخِي فَافْرُقْ بَيْنَنَا وَبَيْنَ الْقَوْمِ الْفَاسِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب اني لا املك الا نفسي واخي فافرق بيننا وبين القوم الفاسقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ إِنِّی لَاۤ أَمۡلِكُ إِلَّا نَفۡسِی وَأَخِیۖ فَٱفۡرُقۡ بَیۡنَنَا وَبَیۡنَ ٱلۡقَوۡمِ ٱلۡفَـٰسِقِینَ
 
 | Details |  |

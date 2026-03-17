@@ -452,6 +452,18 @@ Wa Wahabnā Lahu 'Isĥāqa Wa Ya'qūba Nāfilatan Wa Kullāan Ja'alnā Şāliĥ�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ نَافِلَةً وَكُلًّا جَعَلْنَا صَالِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ووهبنا له اسحاق ويعقوب نافلة وكلا جعلنا صالحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَوَهَبۡنَا لَهُۥۤ إِسۡحَـٰقَ وَیَعۡقُوبَ نَافِلَةࣰۖ وَكُلࣰّا جَعَلۡنَا صَـٰلِحِینَ
 
 | Details |  |

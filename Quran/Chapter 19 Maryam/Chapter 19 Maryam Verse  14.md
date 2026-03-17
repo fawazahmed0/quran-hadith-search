@@ -452,6 +452,18 @@ Wa Barrāan Biwālidayhi Wa Lam Yakun Jabbārāan 'Aşīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَبَرًّا بِوَالِدَيْهِ وَلَمْ يَكُنْ جَبَّارًا عَصِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وبرا بوالديه ولم يكن جبارا عصيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَبَرَّۢا بِوَ ٰلِدَیۡهِ وَلَمۡ یَكُن جَبَّارًا عَصِیࣰّا
 
 | Details |  |

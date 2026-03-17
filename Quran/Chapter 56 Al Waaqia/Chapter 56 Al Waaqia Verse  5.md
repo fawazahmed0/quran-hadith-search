@@ -452,6 +452,18 @@ Wa Bussati Al-Jibālu Bassāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَبُسَّتِ الْجِبَالُ بَسًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وبست الجبال بسا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَبُسَّتِ ٱلۡجِبَالُ بَسࣰّا
 
 | Details |  |

@@ -452,6 +452,18 @@ Bashiri Al-Munāfiqīna Bi'anna Lahum 'Adhābāan 'Alīmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَشِّرِ الْمُنَافِقِينَ بِأَنَّ لَهُمْ عَذَابًا أَلِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بشر المنافقين بان لهم عذابا اليما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَشِّرِ ٱلۡمُنَـٰفِقِینَ بِأَنَّ لَهُمۡ عَذَابًا أَلِیمًا
 
 | Details |  |

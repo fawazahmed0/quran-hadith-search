@@ -452,6 +452,18 @@ Qālū 'Ađghāthu 'Aĥlāmin Wa Mā Naĥnu Bita'wīli Al-'Aĥlāmi Bi'ālimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا أَضْغَاثُ أَحْلَامٍ وَمَا نَحْنُ بِتَأْوِيلِ الْأَحْلَامِ بِعَالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا اضغاث احلام وما نحن بتاويل الاحلام بعالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوۤا۟ أَضۡغَـٰثُ أَحۡلَـٰمࣲۖ وَمَا نَحۡنُ بِتَأۡوِیلِ ٱلۡأَحۡلَـٰمِ بِعَـٰلِمِینَ
 
 | Details |  |

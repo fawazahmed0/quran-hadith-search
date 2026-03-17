@@ -452,6 +452,18 @@ Inna Nāshi'ata Al-Layli Hiya 'Ashaddu Waţ'āan Wa 'Aqwamu Qīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان ناشية الليل هي اشد وطيا واقوم قيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ نَاشِئَةَ ٱلَّیۡلِ هِیَ أَشَدُّ وَطۡءࣰا وَأَقۡوَمُ قِیلًا
 
 | Details |  |

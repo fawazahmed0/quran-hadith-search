@@ -452,6 +452,18 @@ Wa Mā Nu'uakhkhiruhu 'Illā Li'jalin Ma'dūdin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا نُؤَخِّرُهُ إِلَّا لِأَجَلٍ مَعْدُودٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما نوخره الا لاجل معدود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا نُؤَخِّرُهُۥۤ إِلَّا لِأَجَلࣲ مَّعۡدُودࣲ
 
 | Details |  |

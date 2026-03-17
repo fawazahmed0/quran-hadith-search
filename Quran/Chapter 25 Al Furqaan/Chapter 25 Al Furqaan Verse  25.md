@@ -452,6 +452,18 @@ Wa Yawma Tashaqqaqu As-Samā'u Bil-Ghamāmi Wa Nuzzila Al-Malā'ikatu Tanzīlāa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَوْمَ تَشَقَّقُ السَّمَاءُ بِالْغَمَامِ وَنُزِّلَ الْمَلَائِكَةُ تَنْزِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويوم تشقق السماء بالغمام ونزل الملايكة تنزيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَوۡمَ تَشَقَّقُ ٱلسَّمَاۤءُ بِٱلۡغَمَـٰمِ وَنُزِّلَ ٱلۡمَلَـٰۤئِكَةُ تَنزِیلًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla 'Inna Hā'uulā' Đayfī Falā Tafđaĥūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ إِنَّ هَؤُلَاءِ ضَيْفِي فَلَا تَفْضَحُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال ان هولاء ضيفي فلا تفضحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ إِنَّ هَـٰۤؤُلَاۤءِ ضَیۡفِی فَلَا تَفۡضَحُونِ
 
 | Details |  |

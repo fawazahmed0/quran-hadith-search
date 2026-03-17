@@ -452,6 +452,18 @@ Wa Kadhalika Nuwallī Ba'đa Až-Žālimīna Ba'đāan Bimā Kānū Yaksibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَذَلِكَ نُوَلِّي بَعْضَ الظَّالِمِينَ بَعْضًا بِمَا كَانُوا يَكْسِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكذلك نولي بعض الظالمين بعضا بما كانوا يكسبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَذَ ٰلِكَ نُوَلِّی بَعۡضَ ٱلظَّـٰلِمِینَ بَعۡضَۢا بِمَا كَانُوا۟ یَكۡسِبُونَ
 
 | Details |  |

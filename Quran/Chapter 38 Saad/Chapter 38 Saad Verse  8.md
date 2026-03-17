@@ -452,6 +452,18 @@ A'uunzila 'Alayhi Adh-Dhikru Min Bayninā Bal Hum Fī Shakkin Min Dhikrī Bal La
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَأُنْزِلَ عَلَيْهِ الذِّكْرُ مِنْ بَيْنِنَا بَلْ هُمْ فِي شَكٍّ مِنْ ذِكْرِي بَلْ لَمَّا يَذُوقُوا عَذَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اانزل عليه الذكر من بيننا بل هم في شك من ذكري بل لما يذوقوا عذاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَءُنزِلَ عَلَیۡهِ ٱلذِّكۡرُ مِنۢ بَیۡنِنَاۚ بَلۡ هُمۡ فِی شَكࣲّ مِّن ذِكۡرِیۚ بَل لَّمَّا یَذُوقُوا۟ عَذَابِ
 
 | Details |  |

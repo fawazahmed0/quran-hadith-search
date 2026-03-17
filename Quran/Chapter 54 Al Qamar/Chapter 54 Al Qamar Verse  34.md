@@ -452,6 +452,18 @@ Innā 'Arsalnā 'Alayhim Ĥāşibāan 'Illā 'Āla Lūţin Najjaynāhum Bisaĥar
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّا آلَ لُوطٍ نَجَّيْنَاهُمْ بِسَحَرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا ارسلنا عليهم حاصبا الا ال لوط نجيناهم بسحر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّاۤ أَرۡسَلۡنَا عَلَیۡهِمۡ حَاصِبًا إِلَّاۤ ءَالَ لُوطࣲۖ نَّجَّیۡنَـٰهُم بِسَحَرࣲ
 
 | Details |  |

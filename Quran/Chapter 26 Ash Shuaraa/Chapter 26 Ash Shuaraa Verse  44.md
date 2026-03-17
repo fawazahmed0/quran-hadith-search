@@ -452,6 +452,18 @@ Fa'alqaw Ĥibālahum Wa 'Işīyahum Wa Qālū Bi'izzati Fir'awna 'Innā Lanaĥnu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَلْقَوْا حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ الْغَالِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالقوا حبالهم وعصيهم وقالوا بعزة فرعون انا لنحن الغالبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَلۡقَوۡا۟ حِبَالَهُمۡ وَعِصِیَّهُمۡ وَقَالُوا۟ بِعِزَّةِ فِرۡعَوۡنَ إِنَّا لَنَحۡنُ ٱلۡغَـٰلِبُونَ
 
 | Details |  |

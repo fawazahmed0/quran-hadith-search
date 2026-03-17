@@ -452,6 +452,18 @@ Wa Qālū Yā 'Ayyuhā As-Sāĥiru Ad'u Lanā Rabbaka Bimā 'Ahida 'Indaka 'Inna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا يَا أَيُّهَ السَّاحِرُ ادْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِنْدَكَ إِنَّنَا لَمُهْتَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا يا ايه الساحر ادع لنا ربك بما عهد عندك اننا لمهتدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ یَـٰۤأَیُّهَ ٱلسَّاحِرُ ٱدۡعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهۡتَدُونَ
 
 | Details |  |

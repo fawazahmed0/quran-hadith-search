@@ -452,6 +452,18 @@ Kadhabat 'Ādun Al-Mursalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَّبَتْ عَادٌ الْمُرْسَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذبت عاد المرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَّبَتۡ عَادٌ ٱلۡمُرۡسَلِینَ
 
 | Details |  |

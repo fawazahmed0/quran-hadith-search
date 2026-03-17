@@ -452,6 +452,18 @@ Wa Law Fataĥnā 'Alayhim Bābāan Mina As-Samā'i Fažallū Fīhi Ya'rujūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْ فَتَحْنَا عَلَيْهِمْ بَابًا مِنَ السَّمَاءِ فَظَلُّوا فِيهِ يَعْرُجُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولو فتحنا عليهم بابا من السماء فظلوا فيه يعرجون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡ فَتَحۡنَا عَلَیۡهِم بَابࣰا مِّنَ ٱلسَّمَاۤءِ فَظَلُّوا۟ فِیهِ یَعۡرُجُونَ
 
 | Details |  |

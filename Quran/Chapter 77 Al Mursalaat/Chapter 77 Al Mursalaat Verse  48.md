@@ -452,6 +452,18 @@ Wa 'Idhā Qīla Lahumu Arka'ū Lā Yarka'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا قِيلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا قيل لهم اركعوا لا يركعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا قِیلَ لَهُمُ ٱرۡكَعُوا۟ لَا یَرۡكَعُونَ
 
 | Details |  |

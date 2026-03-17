@@ -452,6 +452,18 @@ Inna Al-Ladhīna Yunādūnaka Min Warā'i Al-Ĥujurāti 'Aktharuhum Lā Ya'qilū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ يُنَادُونَكَ مِنْ وَرَاءِ الْحُجُرَاتِ أَكْثَرُهُمْ لَا يَعْقِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين ينادونك من وراء الحجرات اكثرهم لا يعقلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ یُنَادُونَكَ مِن وَرَاۤءِ ٱلۡحُجُرَ ٰتِ أَكۡثَرُهُمۡ لَا یَعۡقِلُونَ
 
 | Details |  |

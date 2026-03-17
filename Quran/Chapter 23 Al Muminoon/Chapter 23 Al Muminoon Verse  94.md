@@ -452,6 +452,18 @@ Rabbi Falā Taj'alnī Fī Al-Qawmi Až-Žālimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبِّ فَلَا تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+رب فلا تجعلني في القوم الظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَبِّ فَلَا تَجۡعَلۡنِی فِی ٱلۡقَوۡمِ ٱلظَّـٰلِمِینَ
 
 | Details |  |

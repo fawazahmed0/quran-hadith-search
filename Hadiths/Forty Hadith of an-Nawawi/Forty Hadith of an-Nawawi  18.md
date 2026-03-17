@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي ذَرٍّ جُنْدَبِ بْنِ جُنَادَةَ، وَأَبِي عَبْدِ الرَّحْمَنِ مُعَاذِ بْنِ جَبَلٍ رَضِيَ اللَّهُ عَنْهُمَا، عَنْ رَسُولِ اللَّهِ صلى الله عليه و سلم قَالَ: اتَّقِ اللَّهَ حَيْثُمَا كُنْت، وَأَتْبِعْ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا، وَخَالِقْ النَّاسَ بِخُلُقٍ حَسَنٍ . رَوَاهُ التِّرْمِذِيُّ \[رقم:1987\] وَقَالَ: حَدِيثٌ حَسَنٌ، وَفِي بَعْضِ النُّسَخِ: حَسَنٌ صَحِيحٌ
@@ -47,6 +49,16 @@ On the authority of Abu Dharr Jundub ibn Junadah, and Abu Abdur-Rahman Muadh bin
 ## French
 
 Selon Abou Dharr Joundoub ibn Jounada et Abou Abderrahman Mou’adh ibn Jabal (qu’Allah les agrée), le Messager d’Allah (ﷺ) a dit : « Crains Allah où que tu sois, fais suivre une mauvaise action par une bonne qui l’effacera, et comporte-toi bien envers les gens. » Rapporté par at-Tirmidhi, qui l’a jugé bon (hasan) ; dans certains exemplaires, il est qualifié de bon et authentique (hasan sahih)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 18 |
+| Arabic No | 18 |
+| Reference | Book 1 Hadith 18 |
+
+## Turkish
+
+Ebu Zer ve Muaz bin Cebel (ra) anlatıyor: Resulullah (ﷺ) şöyle buyurdu: "Nerede olursan ol Allah’tan kork. Kötülüğün peşinden onu silecek bir iyilik yap ve insanlara güzel ahlakla davran." \[Tirmizi\]
 
 | References: |  |
 | --- | --- |

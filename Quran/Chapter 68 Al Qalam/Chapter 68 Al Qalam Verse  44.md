@@ -452,6 +452,18 @@ Fadharnī Wa Man Yukadhibu Bihadhā Al-Ĥadīthi Sanastadrijuhum Min Ĥaythu Lā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَذَرْنِي وَمَنْ يُكَذِّبُ بِهَذَا الْحَدِيثِ سَنَسْتَدْرِجُهُمْ مِنْ حَيْثُ لَا يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فذرني ومن يكذب بهذا الحديث سنستدرجهم من حيث لا يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَذَرۡنِی وَمَن یُكَذِّبُ بِهَـٰذَا ٱلۡحَدِیثِۖ سَنَسۡتَدۡرِجُهُم مِّنۡ حَیۡثُ لَا یَعۡلَمُونَ
 
 | Details |  |

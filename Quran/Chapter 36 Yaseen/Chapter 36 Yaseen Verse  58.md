@@ -452,6 +452,18 @@ Salāmun Qawlāan Min Rabbin Raĥīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَلَامٌ قَوْلًا مِنْ رَبٍّ رَحِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سلام قولا من رب رحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَلَـٰمࣱ قَوۡلࣰا مِّن رَّبࣲّ رَّحِیمࣲ
 
 | Details |  |

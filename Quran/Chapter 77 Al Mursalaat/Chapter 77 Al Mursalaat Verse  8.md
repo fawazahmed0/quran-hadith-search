@@ -452,6 +452,18 @@ Fa'idhā An-Nujūmu Ţumisat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِذَا النُّجُومُ طُمِسَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاذا النجوم طمست
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِذَا ٱلنُّجُومُ طُمِسَتۡ
 
 | Details |  |

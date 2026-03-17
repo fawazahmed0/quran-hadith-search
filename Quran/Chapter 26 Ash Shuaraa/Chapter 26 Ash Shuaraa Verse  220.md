@@ -452,6 +452,18 @@ Innahu Huwa As-Samī'u Al-'Alīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انه هو السميع العليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُۥ هُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ
 
 | Details |  |

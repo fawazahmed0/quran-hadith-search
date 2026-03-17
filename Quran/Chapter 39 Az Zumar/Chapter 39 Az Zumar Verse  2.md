@@ -452,6 +452,18 @@ Innā 'Anzalnā 'Ilayka Al-Kitāba Bil-Ĥaqqi Fā'budi Allāha Mukhlişāan Lahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا أَنْزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ فَاعْبُدِ اللَّهَ مُخْلِصًا لَهُ الدِّينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا انزلنا اليك الكتاب بالحق فاعبد الله مخلصا له الدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّاۤ أَنزَلۡنَاۤ إِلَیۡكَ ٱلۡكِتَـٰبَ بِٱلۡحَقِّ فَٱعۡبُدِ ٱللَّهَ مُخۡلِصࣰا لَّهُ ٱلدِّینَ
 
 | Details |  |

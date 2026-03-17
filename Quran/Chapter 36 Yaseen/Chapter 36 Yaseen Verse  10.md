@@ -452,6 +452,18 @@ Wa Sawā'un 'Alayhim 'A'andhartahum 'Am Lam Tundhirhum Lā Yu'uminūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَسَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لَا يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وسواء عليهم اانذرتهم ام لم تنذرهم لا يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَسَوَاۤءٌ عَلَیۡهِمۡ ءَأَنذَرۡتَهُمۡ أَمۡ لَمۡ تُنذِرۡهُمۡ لَا یُؤۡمِنُونَ
 
 | Details |  |

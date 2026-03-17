@@ -452,6 +452,18 @@ Illā Man Žalama Thumma Baddala Ĥusnāan Ba'da Sū'in Fa'innī Ghafūrun Raĥ�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا مَنْ ظَلَمَ ثُمَّ بَدَّلَ حُسْنًا بَعْدَ سُوءٍ فَإِنِّي غَفُورٌ رَحِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا من ظلم ثم بدل حسنا بعد سوء فاني غفور رحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا مَن ظَلَمَ ثُمَّ بَدَّلَ حُسۡنَۢا بَعۡدَ سُوۤءࣲ فَإِنِّی غَفُورࣱ رَّحِیمࣱ
 
 | Details |  |

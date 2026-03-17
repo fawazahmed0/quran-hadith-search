@@ -452,6 +452,18 @@ Huwa Al-Ladhī 'Anzala Mina As-Samā'i Mā'an Lakum Minhu Sharābun Wa Minhu Sha
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُوَ الَّذِي أَنْزَلَ مِنَ السَّمَاءِ مَاءً لَكُمْ مِنْهُ شَرَابٌ وَمِنْهُ شَجَرٌ فِيهِ تُسِيمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هو الذي انزل من السماء ماء لكم منه شراب ومنه شجر فيه تسيمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُوَ ٱلَّذِیۤ أَنزَلَ مِنَ ٱلسَّمَاۤءِ مَاۤءࣰۖ لَّكُم مِّنۡهُ شَرَابࣱ وَمِنۡهُ شَجَرࣱ فِیهِ تُسِیمُونَ
 
 | Details |  |

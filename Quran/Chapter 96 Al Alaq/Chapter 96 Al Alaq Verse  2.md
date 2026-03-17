@@ -452,6 +452,18 @@ Khalaqa Al-'Insāna Min 'Alaqin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خَلَقَ الْإِنْسَانَ مِنْ عَلَقٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خلق الانسان من علق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خَلَقَ ٱلۡإِنسَـٰنَ مِنۡ عَلَقٍ
 
 | Details |  |

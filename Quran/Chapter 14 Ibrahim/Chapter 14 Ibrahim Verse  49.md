@@ -452,6 +452,18 @@ Wa Tará Al-Mujrimīna Yawma'idhin Muqarranīna Fī Al-'Aşfādi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَرَى الْمُجْرِمِينَ يَوْمَئِذٍ مُقَرَّنِينَ فِي الْأَصْفَادِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وترى المجرمين يوميذ مقرنين في الاصفاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَرَى ٱلۡمُجۡرِمِینَ یَوۡمَئِذࣲ مُّقَرَّنِینَ فِی ٱلۡأَصۡفَادِ
 
 | Details |  |

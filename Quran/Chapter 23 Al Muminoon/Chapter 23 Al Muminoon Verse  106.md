@@ -452,6 +452,18 @@ Qālū Rabbanā Ghalabat 'Alaynā Shiqwatunā Wa Kunnā Qawmāan Đāllīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْمًا ضَالِّينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا ربنا غلبت علينا شقوتنا وكنا قوما ضالين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ رَبَّنَا غَلَبَتۡ عَلَیۡنَا شِقۡوَتُنَا وَكُنَّا قَوۡمࣰا ضَاۤلِّینَ
 
 | Details |  |

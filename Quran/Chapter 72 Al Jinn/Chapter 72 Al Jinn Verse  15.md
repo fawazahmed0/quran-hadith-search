@@ -452,6 +452,18 @@ Wa 'Ammā Al-Qāsiţūna Fakānū Lijahannama Ĥaţabāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما القاسطون فكانوا لجهنم حطبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمَّا ٱلۡقَـٰسِطُونَ فَكَانُوا۟ لِجَهَنَّمَ حَطَبࣰا
 
 | Details |  |

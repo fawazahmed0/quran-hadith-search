@@ -452,6 +452,18 @@ Qāla 'In Kunta Ji'ta Bi'āyatin Fa'ti Bihā 'In Kunta Mina Aş-Şādiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ إِنْ كُنْتَ جِئْتَ بِآيَةٍ فَأْتِ بِهَا إِنْ كُنْتَ مِنَ الصَّادِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال ان كنت جيت باية فات بها ان كنت من الصادقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ إِن كُنتَ جِئۡتَ بِءَایَةࣲ فَأۡتِ بِهَاۤ إِن كُنتَ مِنَ ٱلصَّـٰدِقِینَ
 
 | Details |  |

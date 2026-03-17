@@ -452,6 +452,18 @@ Fasubĥāna Allāhi Ĥīna Tumsūna Wa Ĥīna Tuşbiĥūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَسُبْحَانَ اللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فسبحان الله حين تمسون وحين تصبحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَسُبۡحَـٰنَ ٱللَّهِ حِینَ تُمۡسُونَ وَحِینَ تُصۡبِحُونَ
 
 | Details |  |

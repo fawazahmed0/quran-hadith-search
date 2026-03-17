@@ -452,6 +452,18 @@ Wa 'Ilá Al-Jibāli Kayfa Nuşibat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والى الجبال كيف نصبت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِلَى ٱلۡجِبَالِ كَیۡفَ نُصِبَتۡ
 
 | Details |  |

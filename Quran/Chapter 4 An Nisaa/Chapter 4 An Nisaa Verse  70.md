@@ -452,6 +452,18 @@ Dhālika Al-Fađlu Mina Allāhi Wa Kafá Billāhi 'Alīmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ الْفَضْلُ مِنَ اللَّهِ وَكَفَى بِاللَّهِ عَلِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك الفضل من الله وكفى بالله عليما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ ٱلۡفَضۡلُ مِنَ ٱللَّهِۚ وَكَفَىٰ بِٱللَّهِ عَلِیمࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa A'bud Rabbaka Ĥattá Ya'tiyaka Al-Yaqīnu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاعْبُدْ رَبَّكَ حَتَّى يَأْتِيَكَ الْيَقِينُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واعبد ربك حتى ياتيك اليقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱعۡبُدۡ رَبَّكَ حَتَّىٰ یَأۡتِیَكَ ٱلۡیَقِینُ
 
 | Details |  |

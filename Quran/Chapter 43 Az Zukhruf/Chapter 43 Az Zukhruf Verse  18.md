@@ -452,6 +452,18 @@ Awaman Yunasha'u Fī Al-Ĥilyati Wa Huwa Fī Al-Khişāmi Ghayru Mubīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوَمَنْ يُنَشَّأُ فِي الْحِلْيَةِ وَهُوَ فِي الْخِصَامِ غَيْرُ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اومن ينشا في الحلية وهو في الخصام غير مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوَ مَن یُنَشَّؤُا۟ فِی ٱلۡحِلۡیَةِ وَهُوَ فِی ٱلۡخِصَامِ غَیۡرُ مُبِینࣲ
 
 | Details |  |

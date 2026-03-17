@@ -452,6 +452,18 @@ Qālū Ta-Allāhi Laqad 'Ātharaka Allāhu 'Alaynā Wa 'In Kunnā Lakhāţi'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا تَاللَّهِ لَقَدْ آثَرَكَ اللَّهُ عَلَيْنَا وَإِنْ كُنَّا لَخَاطِئِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا تالله لقد اثرك الله علينا وان كنا لخاطيين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ تَٱللَّهِ لَقَدۡ ءَاثَرَكَ ٱللَّهُ عَلَیۡنَا وَإِن كُنَّا لَخَـٰطِءِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Lā Yamassuhu 'Illā Al-Muţahharūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يمسه الا المطهرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا یَمَسُّهُۥۤ إِلَّا ٱلۡمُطَهَّرُونَ
 
 | Details |  |

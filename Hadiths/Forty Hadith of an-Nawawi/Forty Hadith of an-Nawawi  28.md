@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي نَجِيحٍ الْعِرْبَاضِ بْنِ سَارِيَةَ رَضِيَ اللهُ عَنْهُ قَالَ: وَعَظَنَا رَسُولُ اللَّهِ صلى الله عليه و سلم مَوْعِظَةً وَجِلَتْ مِنْهَا الْقُلُوبُ، وَذَرَفَتْ مِنْهَا الْعُيُونُ، فَقُلْنَا: يَا رَسُولَ اللَّهِ! كَأَنَّهَا مَوْعِظَةُ مُوَدِّعٍ فَأَوْصِنَا، قَالَ: أُوصِيكُمْ بِتَقْوَى اللَّهِ، وَالسَّمْعِ وَالطَّاعَةِ وَإِنْ تَأَمَّرَ عَلَيْكُمْ عَبْدٌ، فَإِنَّهُ مَنْ يَعِشْ مِنْكُمْ فَسَيَرَى اخْتِلَافًا كَثِيرًا، فَعَلَيْكُمْ بِسُنَّتِي وَسُنَّةِ الْخُلَفَاءِ الرَّاشِدِينَ الْمَهْدِيينَ، عَضُّوا عَلَيْهَا بِالنَّوَاجِذِ، وَإِيَّاكُمْ وَمُحْدَثَاتِ الْأُمُورِ؛ فَإِنَّ كُلَّ بِدْعَةٍ ضَلَالَةٌ . \[رَوَاهُ أَبُو دَاوُدَ\]، وَاَلتِّرْمِذِيُّ \[رقم:266\] وَقَالَ: حَدِيثٌ حَسَنٌ صَحِيحٌ
@@ -47,6 +49,16 @@ On the authority of Abu Najeeh al-’Irbaad ibn Saariyah (may Allah be pleased w
 ## French
 
 Selon Abou Najih al-‘Irbad ibn Sariyah (qu’Allah l’agrée), qui a dit : Le Messager d’Allah (ﷺ) nous a adressé un sermon qui fit frissonner nos cœurs et couler nos larmes. Nous lui avons dit : « Ô Messager d’Allah, c’est comme un sermon d’adieu, conseille-nous donc. » Il (ﷺ) a dit : « Je vous recommande la crainte d’Allah, d’écouter et d’obéir \[à votre chef\], même si un esclave devient votre chef. Celui d’entre vous qui vivra verra beaucoup de divergences. Tenez-vous à ma Sounnah et à la Sounnah des califes bien guidés après moi. Accrochez-vous-y fermement ! Prenez garde aux innovations \[en religion\], car chaque innovation est un égarement. » \[Abou Dawoud\], rapporté aussi par at-Tirmidhi qui a dit qu’il est bon et authentique
+
+| References: |  |
+| --- | --- |
+| Hadith No | 28 |
+| Arabic No | 28 |
+| Reference | Book 1 Hadith 28 |
+
+## Turkish
+
+Ebu Necih el-Irbâd bin Sâriye (ra) anlatıyor: Resulullah (ﷺ) bize öyle bir vaaz verdi ki, kalpler ürperdi, gözler yaşardı. Dedik ki: "Ey Allah’ın Resulü! Bu bir veda konuşması gibi; bize ne tavsiye edersiniz?" Buyurdu ki: "Size Allah’tan korkmanızı (takvayı) ve başınızdaki yönetici bir köle olsa bile dinleyip itaat etmenizi tavsiye ederim. Benden sonra yaşayanlarınız çok ihtilaf görecekler. O zaman size düşen, benim sünnetime ve doğru yoldaki raşid halifelerin sünnetine sarılmaktır. Ona azı dişlerinizle tutunur gibi sımsıkı sarılın. Sonradan uydurulan işlerden sakının; çünkü her bid'at sapıklıktır." \[Ebu Davud ve Tirmizi\]
 
 | References: |  |
 | --- | --- |

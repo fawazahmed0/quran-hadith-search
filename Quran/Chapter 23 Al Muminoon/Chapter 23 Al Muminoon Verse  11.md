@@ -452,6 +452,18 @@ Al-Ladhīna Yarithūna Al-Firdawsa Hum Fīhā Khālidūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ يَرِثُونَ الْفِرْدَوْسَ هُمْ فِيهَا خَالِدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين يرثون الفردوس هم فيها خالدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ یَرِثُونَ ٱلۡفِرۡدَوۡسَ هُمۡ فِیهَا خَـٰلِدُونَ
 
 | Details |  |

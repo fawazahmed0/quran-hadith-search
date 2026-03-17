@@ -452,6 +452,18 @@ Yubaşşarūnahum Yawaddu Al-Mujrimu Law Yaftadī Min 'Adhābi Yawmi'idhin Biban
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُبَصَّرُونَهُمْ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ يَوْمِئِذٍ بِبَنِيهِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يبصرونهم يود المجرم لو يفتدي من عذاب يوميذ ببنيه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُبَصَّرُونَهُمۡۚ یَوَدُّ ٱلۡمُجۡرِمُ لَوۡ یَفۡتَدِی مِنۡ عَذَابِ یَوۡمِئِذِۭ بِبَنِیهِ
 
 | Details |  |

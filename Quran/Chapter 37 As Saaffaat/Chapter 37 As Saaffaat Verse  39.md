@@ -452,6 +452,18 @@ Wa Mā Tujzawna 'Illā Mā Kuntum Ta'malūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا تُجْزَوْنَ إِلَّا مَا كُنْتُمْ تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما تجزون الا ما كنتم تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا تُجۡزَوۡنَ إِلَّا مَا كُنتُمۡ تَعۡمَلُونَ
 
 | Details |  |

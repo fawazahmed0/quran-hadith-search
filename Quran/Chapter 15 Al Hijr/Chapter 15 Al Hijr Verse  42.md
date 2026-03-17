@@ -452,6 +452,18 @@ Inna 'Ibādī Laysa Laka 'Alayhim Sulţānun 'Illā Mani Attaba'aka Mina Al-Ghā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ إِلَّا مَنِ اتَّبَعَكَ مِنَ الْغَاوِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان عبادي ليس لك عليهم سلطان الا من اتبعك من الغاوين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ عِبَادِی لَیۡسَ لَكَ عَلَیۡهِمۡ سُلۡطَـٰنٌ إِلَّا مَنِ ٱتَّبَعَكَ مِنَ ٱلۡغَاوِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Law Mā Ta'tīnā Bil-Malā'ikati 'In Kunta Mina Aş-Şādiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَوْ مَا تَأْتِينَا بِالْمَلَائِكَةِ إِنْ كُنْتَ مِنَ الصَّادِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لو ما تاتينا بالملايكة ان كنت من الصادقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّوۡ مَا تَأۡتِینَا بِٱلۡمَلَـٰۤئِكَةِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِینَ
 
 | Details |  |

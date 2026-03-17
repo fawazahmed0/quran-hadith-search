@@ -452,6 +452,18 @@ Yā 'Ukhta Hārūna Mā Kāna 'Abūki Amra'a Saw'in Wa Mā Kānat 'Ummuki Baghī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أُخْتَ هَارُونَ مَا كَانَ أَبُوكِ امْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا اخت هارون ما كان ابوك امرا سوء وما كانت امك بغيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأُخۡتَ هَـٰرُونَ مَا كَانَ أَبُوكِ ٱمۡرَأَ سَوۡءࣲ وَمَا كَانَتۡ أُمُّكِ بَغِیࣰّا
 
 | Details |  |

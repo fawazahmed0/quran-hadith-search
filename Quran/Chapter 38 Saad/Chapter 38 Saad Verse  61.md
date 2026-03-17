@@ -452,6 +452,18 @@ Qālū Rabbanā Man Qaddama Lanā Hādhā Fazid/hu 'Adhābāan Đi'fāan Fī An-
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا رَبَّنَا مَنْ قَدَّمَ لَنَا هَذَا فَزِدْهُ عَذَابًا ضِعْفًا فِي النَّارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا ربنا من قدم لنا هذا فزده عذابا ضعفا في النار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ رَبَّنَا مَن قَدَّمَ لَنَا هَـٰذَا فَزِدۡهُ عَذَابࣰا ضِعۡفࣰا فِی ٱلنَّارِ
 
 | Details |  |

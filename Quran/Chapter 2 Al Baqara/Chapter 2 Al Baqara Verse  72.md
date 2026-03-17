@@ -452,6 +452,18 @@ Wa 'Idh Qataltum Nafsāan Fa Addāra'tum Fīhā Wa Allāhu Mukhrijun Mā Kuntum 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذْ قَتَلْتُمْ نَفْسًا فَادَّارَأْتُمْ فِيهَا وَاللَّهُ مُخْرِجٌ مَا كُنْتُمْ تَكْتُمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذ قتلتم نفسا فاداراتم فيها والله مخرج ما كنتم تكتمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذۡ قَتَلۡتُمۡ نَفۡسࣰا فَٱدَّ ٰرَءۡتُمۡ فِیهَاۖ وَٱللَّهُ مُخۡرِجࣱ مَّا كُنتُمۡ تَكۡتُمُونَ
 
 | Details |  |

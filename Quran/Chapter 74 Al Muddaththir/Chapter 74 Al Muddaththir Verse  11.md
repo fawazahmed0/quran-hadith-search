@@ -452,6 +452,18 @@ Dharnī Wa Man Khalaqtu Waĥīdāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَرْنِي وَمَنْ خَلَقْتُ وَحِيدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذرني ومن خلقت وحيدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَرۡنِی وَمَنۡ خَلَقۡتُ وَحِیدࣰا
 
 | Details |  |

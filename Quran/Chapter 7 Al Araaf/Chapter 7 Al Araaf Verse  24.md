@@ -452,6 +452,18 @@ Qāla Ahbiţū Ba'đukum Liba'đin 'Adūwun Wa Lakum Fī Al-'Arđi Mustaqarrun W
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال اهبطوا بعضكم لبعض عدو ولكم في الارض مستقر ومتاع الى حين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ ٱهۡبِطُوا۟ بَعۡضُكُمۡ لِبَعۡضٍ عَدُوࣱّۖ وَلَكُمۡ فِی ٱلۡأَرۡضِ مُسۡتَقَرࣱّ وَمَتَـٰعٌ إِلَىٰ حِینࣲ
 
 | Details |  |

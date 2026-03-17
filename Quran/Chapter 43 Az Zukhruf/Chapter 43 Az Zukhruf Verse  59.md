@@ -452,6 +452,18 @@ In Huwa 'Illā 'Abdun 'An'amnā 'Alayhi Wa Ja'alnāhu Mathalāan Libanī 'Isrā'
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَاهُ مَثَلًا لِبَنِي إِسْرَائِيلَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هو الا عبد انعمنا عليه وجعلناه مثلا لبني اسراييل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنۡ هُوَ إِلَّا عَبۡدٌ أَنۡعَمۡنَا عَلَیۡهِ وَجَعَلۡنَـٰهُ مَثَلࣰا لِّبَنِیۤ إِسۡرَ ٰۤءِیلَ
 
 | Details |  |

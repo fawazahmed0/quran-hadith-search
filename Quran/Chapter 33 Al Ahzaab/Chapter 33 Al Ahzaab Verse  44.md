@@ -452,6 +452,18 @@ Taĥīyatuhum Yawma Yalqawnahu Salāmun Wa 'A'adda Lahum 'Ajrāan Karīmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُ سَلَامٌ وَأَعَدَّ لَهُمْ أَجْرًا كَرِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تحيتهم يوم يلقونه سلام واعد لهم اجرا كريما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَحِیَّتُهُمۡ یَوۡمَ یَلۡقَوۡنَهُۥ سَلَـٰمࣱۚ وَأَعَدَّ لَهُمۡ أَجۡرࣰا كَرِیمࣰا
 
 | Details |  |

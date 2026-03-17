@@ -452,6 +452,18 @@ Fa'ūlā'ika 'Asá Allāhu 'An Ya'fuwa 'Anhum Wa Kāna Allāhu 'Afūwāan Ghafū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأُولَئِكَ عَسَى اللَّهُ أَنْ يَعْفُوَ عَنْهُمْ وَكَانَ اللَّهُ عَفُوًّا غَفُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاوليك عسى الله ان يعفو عنهم وكان الله عفوا غفورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأُو۟لَـٰۤئِكَ عَسَى ٱللَّهُ أَن یَعۡفُوَ عَنۡهُمۡۚ وَكَانَ ٱللَّهُ عَفُوًّا غَفُورࣰا
 
 | Details |  |

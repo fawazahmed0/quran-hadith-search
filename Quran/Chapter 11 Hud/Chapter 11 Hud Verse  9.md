@@ -452,6 +452,18 @@ Wa La'in 'Adhaqnā Al-'Insāna Minnā Raĥmatan Thumma Naza'nāhā Minhu 'Innahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَئِنْ أَذَقْنَا الْإِنْسَانَ مِنَّا رَحْمَةً ثُمَّ نَزَعْنَاهَا مِنْهُ إِنَّهُ لَيَئُوسٌ كَفُورٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولين اذقنا الانسان منا رحمة ثم نزعناها منه انه لييوس كفور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَئِنۡ أَذَقۡنَا ٱلۡإِنسَـٰنَ مِنَّا رَحۡمَةࣰ ثُمَّ نَزَعۡنَـٰهَا مِنۡهُ إِنَّهُۥ لَیَءُوسࣱ كَفُورࣱ
 
 | Details |  |

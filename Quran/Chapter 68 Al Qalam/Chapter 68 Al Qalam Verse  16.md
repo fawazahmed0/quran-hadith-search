@@ -452,6 +452,18 @@ Sanasimuhu 'Alá Al-Khurţūmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَنَسِمُهُ عَلَى الْخُرْطُومِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سنسمه على الخرطوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَنَسِمُهُۥ عَلَى ٱلۡخُرۡطُومِ
 
 | Details |  |

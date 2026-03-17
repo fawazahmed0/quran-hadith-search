@@ -452,6 +452,18 @@ Wa Atlu 'Alayhim Naba'a 'Ibrāhīma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاتْلُ عَلَيْهِمْ نَبَأَ إِبْرَاهِيمَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتل عليهم نبا ابراهيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱتۡلُ عَلَیۡهِمۡ نَبَأَ إِبۡرَ ٰهِیمَ
 
 | Details |  |

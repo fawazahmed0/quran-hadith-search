@@ -452,6 +452,18 @@ Wa 'Idhā Al-Jibālu Suyyirat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا الْجِبَالُ سُيِّرَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا الجبال سيرت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱلۡجِبَالُ سُیِّرَتۡ
 
 | Details |  |

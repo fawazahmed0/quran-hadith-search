@@ -452,6 +452,18 @@ Khalaqa Al-'Insāna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خَلَقَ الْإِنْسَانَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خلق الانسان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خَلَقَ ٱلۡإِنسَـٰنَ
 
 | Details |  |

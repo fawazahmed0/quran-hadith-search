@@ -452,6 +452,18 @@ Wa Al-Ladhīna Hum Min 'Adhābi Rabbihim Mushfiqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ هُمْ مِنْ عَذَابِ رَبِّهِمْ مُشْفِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين هم من عذاب ربهم مشفقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ هُم مِّنۡ عَذَابِ رَبِّهِم مُّشۡفِقُونَ
 
 | Details |  |

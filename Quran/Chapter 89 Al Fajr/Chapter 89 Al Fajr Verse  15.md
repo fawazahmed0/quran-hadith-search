@@ -452,6 +452,18 @@ Fa'ammā Al-'Insānu 'Idhā Mā Abtalāhu Rabbuhu Fa'akramahu Wa Na''amahu Fayaq
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَمَّا الْإِنْسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاما الانسان اذا ما ابتلاه ربه فاكرمه ونعمه فيقول ربي اكرمن
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَمَّا ٱلۡإِنسَـٰنُ إِذَا مَا ٱبۡتَلَىٰهُ رَبُّهُۥ فَأَكۡرَمَهُۥ وَنَعَّمَهُۥ فَیَقُولُ رَبِّیۤ أَكۡرَمَنِ
 
 | Details |  |

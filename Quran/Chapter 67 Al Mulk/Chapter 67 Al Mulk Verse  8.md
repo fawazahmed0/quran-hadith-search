@@ -452,6 +452,18 @@ Takādu Tamayyazu Mina Al-Ghayži Kullamā 'Ulqiya Fīhā Fawjun Sa'alahum Khaza
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَكَادُ تَمَيَّزُ مِنَ الْغَيْظِ كُلَّمَا أُلْقِيَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَا أَلَمْ يَأْتِكُمْ نَذِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تكاد تميز من الغيظ كلما القي فيها فوج سالهم خزنتها الم ياتكم نذير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَكَادُ تَمَیَّزُ مِنَ ٱلۡغَیۡظِۖ كُلَّمَاۤ أُلۡقِیَ فِیهَا فَوۡجࣱ سَأَلَهُمۡ خَزَنَتُهَاۤ أَلَمۡ یَأۡتِكُمۡ نَذِیرࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Al-Ladhīna Hum Lilzzakāati Fā'ilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ هُمْ لِلزَّكَاةِ فَاعِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين هم للزكاة فاعلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ هُمۡ لِلزَّكَوٰةِ فَـٰعِلُونَ
 
 | Details |  |

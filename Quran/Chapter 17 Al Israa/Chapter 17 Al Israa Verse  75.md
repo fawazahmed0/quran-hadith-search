@@ -452,6 +452,18 @@ Idhāan La'adhaqnāka Đi'fa Al-Ĥayāati Wa Đi'fa Al-Mamāti Thumma Lā Tajidu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذًا لَأَذَقْنَاكَ ضِعْفَ الْحَيَاةِ وَضِعْفَ الْمَمَاتِ ثُمَّ لَا تَجِدُ لَكَ عَلَيْنَا نَصِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذا لاذقناك ضعف الحياة وضعف الممات ثم لا تجد لك علينا نصيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذࣰا لَّأَذَقۡنَـٰكَ ضِعۡفَ ٱلۡحَیَوٰةِ وَضِعۡفَ ٱلۡمَمَاتِ ثُمَّ لَا تَجِدُ لَكَ عَلَیۡنَا نَصِیرࣰا
 
 | Details |  |

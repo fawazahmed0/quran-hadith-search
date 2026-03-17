@@ -452,6 +452,18 @@ Kullāan Numiddu Hā'uulā' Wa Hā'uulā' Min 'Aţā'i Rabbika Wa Mā Kāna 'Aţ
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كُلًّا نُمِدُّ هَؤُلَاءِ وَهَؤُلَاءِ مِنْ عَطَاءِ رَبِّكَ وَمَا كَانَ عَطَاءُ رَبِّكَ مَحْظُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا نمد هولاء وهولاء من عطاء ربك وما كان عطاء ربك محظورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كُلࣰّا نُّمِدُّ هَـٰۤؤُلَاۤءِ وَهَـٰۤؤُلَاۤءِ مِنۡ عَطَاۤءِ رَبِّكَۚ وَمَا كَانَ عَطَاۤءُ رَبِّكَ مَحۡظُورًا
 
 | Details |  |

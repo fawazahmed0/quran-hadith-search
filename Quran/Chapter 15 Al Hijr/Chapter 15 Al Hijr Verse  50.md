@@ -452,6 +452,18 @@ Wa 'Anna 'Adhābī Huwa Al-'Adhābu Al-'Alīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّ عَذَابِي هُوَ الْعَذَابُ الْأَلِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان عذابي هو العذاب الاليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّ عَذَابِی هُوَ ٱلۡعَذَابُ ٱلۡأَلِیمُ
 
 | Details |  |

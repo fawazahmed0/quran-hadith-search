@@ -452,6 +452,18 @@ Wa 'Innā Lanaĥnu Al-Musabbiĥūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّا لَنَحْنُ الْمُسَبِّحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانا لنحن المسبحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّا لَنَحۡنُ ٱلۡمُسَبِّحُونَ
 
 | Details |  |

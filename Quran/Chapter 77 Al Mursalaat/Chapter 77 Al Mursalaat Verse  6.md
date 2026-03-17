@@ -452,6 +452,18 @@ Udhrāan 'Aw Nudhrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عُذْرًا أَوْ نُذْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عذرا او نذرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عُذۡرًا أَوۡ نُذۡرًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Lawlā 'An Tadārakahu Ni'matun Min Rabbihi Lanubidha Bil-'Arā'i Wa Huwa Madhm�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَوْلَا أَنْ تَدَارَكَهُ نِعْمَةٌ مِنْ رَبِّهِ لَنُبِذَ بِالْعَرَاءِ وَهُوَ مَذْمُومٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لولا ان تداركه نعمة من ربه لنبذ بالعراء وهو مذموم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّوۡلَاۤ أَن تَدَ ٰرَكَهُۥ نِعۡمَةࣱ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلۡعَرَاۤءِ وَهُوَ مَذۡمُومࣱ
 
 | Details |  |

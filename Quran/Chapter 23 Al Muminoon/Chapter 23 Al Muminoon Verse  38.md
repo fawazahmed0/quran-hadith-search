@@ -452,6 +452,18 @@ In Huwa 'Illā Rajulun Aftará 'Alá Allāhi Kadhibāan Wa Mā Naĥnu Lahu Bimu'
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ هُوَ إِلَّا رَجُلٌ افْتَرَى عَلَى اللَّهِ كَذِبًا وَمَا نَحْنُ لَهُ بِمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هو الا رجل افترى على الله كذبا وما نحن له بمومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنۡ هُوَ إِلَّا رَجُلٌ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبࣰا وَمَا نَحۡنُ لَهُۥ بِمُؤۡمِنِینَ
 
 | Details |  |

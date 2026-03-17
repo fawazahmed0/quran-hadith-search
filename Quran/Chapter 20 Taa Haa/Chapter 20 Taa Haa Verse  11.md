@@ -452,6 +452,18 @@ Falammā 'Atāhā Nūdī Yā Mūsá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا أَتَاهَا نُودِيَ يَا مُوسَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما اتاها نودي يا موسى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّاۤ أَتَىٰهَا نُودِیَ یَـٰمُوسَىٰۤ
 
 | Details |  |

@@ -452,6 +452,18 @@ Am Tas'aluhum 'Ajrāan Fahum Min Maghramin Muthqalūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ تَسْأَلُهُمْ أَجْرًا فَهُمْ مِنْ مَغْرَمٍ مُثْقَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام تسالهم اجرا فهم من مغرم مثقلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ تَسۡءَلُهُمۡ أَجۡرࣰا فَهُم مِّن مَّغۡرَمࣲ مُّثۡقَلُونَ
 
 | Details |  |

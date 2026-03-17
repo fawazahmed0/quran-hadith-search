@@ -452,6 +452,18 @@ Sirata Al-Ladhina 'An'amta 'Alayhim Ghayri Al-Maghđubi 'Alayhim Wa La Ađ-Đall
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+صراط الذين انعمت عليهم غير المغضوب عليهم ولا الضالين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 صِرَ ٰطَ ٱلَّذِینَ أَنۡعَمۡتَ عَلَیۡهِمۡ غَیۡرِ ٱلۡمَغۡضُوبِ عَلَیۡهِمۡ وَلَا ٱلضَّاۤلِّینَ
 
 | Details |  |

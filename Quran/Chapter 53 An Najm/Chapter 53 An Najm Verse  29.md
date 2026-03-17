@@ -452,6 +452,18 @@ Fa'a'riđ 'An Man Tawallá 'An Dhikrinā Wa Lam Yurid 'Illā Al-Ĥayāata Ad-Dun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَعْرِضْ عَنْ مَنْ تَوَلَّى عَنْ ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا الْحَيَاةَ الدُّنْيَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاعرض عن من تولى عن ذكرنا ولم يرد الا الحياة الدنيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَعۡرِضۡ عَن مَّن تَوَلَّىٰ عَن ذِكۡرِنَا وَلَمۡ یُرِدۡ إِلَّا ٱلۡحَیَوٰةَ ٱلدُّنۡیَا
 
 | Details |  |

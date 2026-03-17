@@ -452,6 +452,18 @@ Al-Ladhīna 'Āhadta Minhum Thumma Yanquđūna 'Ahdahum Fī Kulli Marratin Wa Hu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ عَاهَدْتَ مِنْهُمْ ثُمَّ يَنْقُضُونَ عَهْدَهُمْ فِي كُلِّ مَرَّةٍ وَهُمْ لَا يَتَّقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين عاهدت منهم ثم ينقضون عهدهم في كل مرة وهم لا يتقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ عَـٰهَدتَّ مِنۡهُمۡ ثُمَّ یَنقُضُونَ عَهۡدَهُمۡ فِی كُلِّ مَرَّةࣲ وَهُمۡ لَا یَتَّقُونَ
 
 | Details |  |

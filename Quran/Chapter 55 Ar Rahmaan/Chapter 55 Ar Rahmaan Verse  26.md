@@ -452,6 +452,18 @@ Kullu Man 'Alayhā Fānin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كُلُّ مَنْ عَلَيْهَا فَانٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كل من عليها فان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كُلُّ مَنۡ عَلَیۡهَا فَانࣲ
 
 | Details |  |

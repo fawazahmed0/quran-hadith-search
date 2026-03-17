@@ -452,6 +452,18 @@ Qul Kullun Ya'malu 'Alá Shākilatihi Farabbukum 'A'lamu Biman Huwa 'Ahdá Sabī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ كُلٌّ يَعْمَلُ عَلَى شَاكِلَتِهِ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَى سَبِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل كل يعمل على شاكلته فربكم اعلم بمن هو اهدى سبيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ كُلࣱّ یَعۡمَلُ عَلَىٰ شَاكِلَتِهِۦ فَرَبُّكُمۡ أَعۡلَمُ بِمَنۡ هُوَ أَهۡدَىٰ سَبِیلࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Laqad Ji'nāhum Bikitābin Faşşalnāhu 'Alá 'Ilmin Hudáan Wa Raĥmatan Li
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ جِئْنَاهُمْ بِكِتَابٍ فَصَّلْنَاهُ عَلَى عِلْمٍ هُدًى وَرَحْمَةً لِقَوْمٍ يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد جيناهم بكتاب فصلناه على علم هدى ورحمة لقوم يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ جِئۡنَـٰهُم بِكِتَـٰبࣲ فَصَّلۡنَـٰهُ عَلَىٰ عِلۡمٍ هُدࣰى وَرَحۡمَةࣰ لِّقَوۡمࣲ یُؤۡمِنُونَ
 
 | Details |  |

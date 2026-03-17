@@ -452,6 +452,18 @@ Kallā 'Idhā Balaghati At-Tarāqī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا إِذَا بَلَغَتِ التَّرَاقِيَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا اذا بلغت التراقي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّاۤ إِذَا بَلَغَتِ ٱلتَّرَاقِیَ
 
 | Details |  |

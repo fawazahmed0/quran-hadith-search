@@ -452,6 +452,18 @@ Innahu 'Alá Raj'ihi Laqādirun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُ عَلَى رَجْعِهِ لَقَادِرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انه على رجعه لقادر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِرࣱ
 
 | Details |  |

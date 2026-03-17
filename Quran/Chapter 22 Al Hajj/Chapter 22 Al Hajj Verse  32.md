@@ -452,6 +452,18 @@ Dhālika Wa Man Yu'ažžim Sha'ā'ira Allāhi Fa'innahā Min Taqwá Al-Qulūbi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى الْقُلُوبِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك ومن يعظم شعاير الله فانها من تقوى القلوب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَۖ وَمَن یُعَظِّمۡ شَعَـٰۤئِرَ ٱللَّهِ فَإِنَّهَا مِن تَقۡوَى ٱلۡقُلُوبِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Idhā Ra'at/hum Min Makānin Ba'īdin Sami'ū Lahā Taghayyužāan Wa Zafīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذَا رَأَتْهُمْ مِنْ مَكَانٍ بَعِيدٍ سَمِعُوا لَهَا تَغَيُّظًا وَزَفِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذا راتهم من مكان بعيد سمعوا لها تغيظا وزفيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذَا رَأَتۡهُم مِّن مَّكَانِۭ بَعِیدࣲ سَمِعُوا۟ لَهَا تَغَیُّظࣰا وَزَفِیرࣰا
 
 | Details |  |

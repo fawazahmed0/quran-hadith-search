@@ -452,6 +452,18 @@ Wa 'Anībū 'Ilá Rabbikum Wa 'Aslimū Lahu Min Qabli 'An Ya'tiyakumu Al-'Adhāb
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنِيبُوا إِلَى رَبِّكُمْ وَأَسْلِمُوا لَهُ مِنْ قَبْلِ أَنْ يَأْتِيَكُمُ الْعَذَابُ ثُمَّ لَا تُنْصَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانيبوا الى ربكم واسلموا له من قبل ان ياتيكم العذاب ثم لا تنصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنِیبُوۤا۟ إِلَىٰ رَبِّكُمۡ وَأَسۡلِمُوا۟ لَهُۥ مِن قَبۡلِ أَن یَأۡتِیَكُمُ ٱلۡعَذَابُ ثُمَّ لَا تُنصَرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla Hum 'Ūlā'i 'Alá 'Atharī Wa 'Ajiltu 'Ilayka Rabbi Litarđá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ هُمْ أُولَاءِ عَلَى أَثَرِي وَعَجِلْتُ إِلَيْكَ رَبِّ لِتَرْضَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال هم اولاء على اثري وعجلت اليك رب لترضى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ هُمۡ أُو۟لَاۤءِ عَلَىٰۤ أَثَرِی وَعَجِلۡتُ إِلَیۡكَ رَبِّ لِتَرۡضَىٰ
 
 | Details |  |

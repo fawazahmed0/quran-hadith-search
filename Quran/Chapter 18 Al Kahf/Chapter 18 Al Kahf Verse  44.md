@@ -452,6 +452,18 @@ Hunālika Al-Walāyatu Lillāhi Al-Ĥaqqi Huwa Khayrun Thawābāan Wa Khayrun 'U
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُنَالِكَ الْوَلَايَةُ لِلَّهِ الْحَقِّ هُوَ خَيْرٌ ثَوَابًا وَخَيْرٌ عُقْبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هنالك الولاية لله الحق هو خير ثوابا وخير عقبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُنَالِكَ ٱلۡوَلَـٰیَةُ لِلَّهِ ٱلۡحَقِّۚ هُوَ خَیۡرࣱ ثَوَابࣰا وَخَیۡرٌ عُقۡبࣰا
 
 | Details |  |

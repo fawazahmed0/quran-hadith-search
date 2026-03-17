@@ -452,6 +452,18 @@ Nabbi' 'Ibādī 'Annī 'Anā Al-Ghafūru Ar-Raĥīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نَبِّئْ عِبَادِي أَنِّي أَنَا الْغَفُورُ الرَّحِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نبي عبادي اني انا الغفور الرحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ نَبِّئۡ عِبَادِیۤ أَنِّیۤ أَنَا ٱلۡغَفُورُ ٱلرَّحِیمُ
 
 | Details |  |

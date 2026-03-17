@@ -452,6 +452,18 @@ Qul Şadaqa Allāhu Fa Attabi'ū Millata 'Ibrāhīma Ĥanīfāan Wa Mā Kāna Mi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ صَدَقَ اللَّهُ فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل صدق الله فاتبعوا ملة ابراهيم حنيفا وما كان من المشركين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ صَدَقَ ٱللَّهُۗ فَٱتَّبِعُوا۟ مِلَّةَ إِبۡرَ ٰهِیمَ حَنِیفࣰاۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِینَ
 
 | Details |  |

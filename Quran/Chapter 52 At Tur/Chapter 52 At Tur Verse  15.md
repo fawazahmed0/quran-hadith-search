@@ -452,6 +452,18 @@ Afasiĥrun Hādhā 'Am 'Antum Lā Tubşirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَسِحْرٌ هَذَا أَمْ أَنْتُمْ لَا تُبْصِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افسحر هذا ام انتم لا تبصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَسِحۡرٌ هَـٰذَاۤ أَمۡ أَنتُمۡ لَا تُبۡصِرُونَ
 
 | Details |  |

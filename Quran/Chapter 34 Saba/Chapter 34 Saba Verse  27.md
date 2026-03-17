@@ -452,6 +452,18 @@ Qul 'Arūniya Al-Ladhīna 'Alĥaqtum Bihi Shurakā'a Kallā Bal Huwa Allāhu Al-
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ أَرُونِيَ الَّذِينَ أَلْحَقْتُمْ بِهِ شُرَكَاءَ كَلَّا بَلْ هُوَ اللَّهُ الْعَزِيزُ الْحَكِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل اروني الذين الحقتم به شركاء كلا بل هو الله العزيز الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ أَرُونِیَ ٱلَّذِینَ أَلۡحَقۡتُم بِهِۦ شُرَكَاۤءَۖ كَلَّاۚ بَلۡ هُوَ ٱللَّهُ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
 
 | Details |  |

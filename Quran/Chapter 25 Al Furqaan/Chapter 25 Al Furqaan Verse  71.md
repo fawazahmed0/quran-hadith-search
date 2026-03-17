@@ -452,6 +452,18 @@ Wa Man Tāba Wa 'Amila Şāliĥāan Fa'innahu Yatūbu 'Ilá Allāhi Matābāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ تَابَ وَعَمِلَ صَالِحًا فَإِنَّهُ يَتُوبُ إِلَى اللَّهِ مَتَابًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن تاب وعمل صالحا فانه يتوب الى الله متابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن تَابَ وَعَمِلَ صَـٰلِحࣰا فَإِنَّهُۥ یَتُوبُ إِلَى ٱللَّهِ مَتَابࣰا
 
 | Details |  |

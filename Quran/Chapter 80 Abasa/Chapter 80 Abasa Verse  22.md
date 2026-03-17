@@ -452,6 +452,18 @@ Thumma 'Idhā Shā'a 'Ansharahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ إِذَا شَاءَ أَنْشَرَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم اذا شاء انشره
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ إِذَا شَاۤءَ أَنشَرَهُۥ
 
 | Details |  |

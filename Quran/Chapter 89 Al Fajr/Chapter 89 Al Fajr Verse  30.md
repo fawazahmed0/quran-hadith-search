@@ -452,6 +452,18 @@ Wa Adkhulī Jannatī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَادْخُلِي جَنَّتِي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وادخلي جنتي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱدۡخُلِی جَنَّتِی
 
 | Details |  |

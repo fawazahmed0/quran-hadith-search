@@ -452,6 +452,18 @@ Inna Al-Muttaqīna Fī Maqāmin 'Amīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الْمُتَّقِينَ فِي مَقَامٍ أَمِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان المتقين في مقام امين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلۡمُتَّقِینَ فِی مَقَامٍ أَمِینࣲ
 
 | Details |  |

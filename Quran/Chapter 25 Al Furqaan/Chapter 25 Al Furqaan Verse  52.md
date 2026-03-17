@@ -452,6 +452,18 @@ Falā Tuţi'i Al-Kāfirīna Wa Jāhid/hum Bihi Jihādāan Kabīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَا تُطِعِ الْكَافِرِينَ وَجَاهِدْهُمْ بِهِ جِهَادًا كَبِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلا تطع الكافرين وجاهدهم به جهادا كبيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَا تُطِعِ ٱلۡكَـٰفِرِینَ وَجَـٰهِدۡهُم بِهِۦ جِهَادࣰا كَبِیرࣰا
 
 | Details |  |

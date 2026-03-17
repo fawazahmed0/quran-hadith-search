@@ -452,6 +452,18 @@ Wa Laqad 'Alimnā Al-Mustaqdimīna Minkum Wa Laqad 'Alimnā Al-Musta'khirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ عَلِمْنَا الْمُسْتَقْدِمِينَ مِنْكُمْ وَلَقَدْ عَلِمْنَا الْمُسْتَأْخِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد علمنا المستقدمين منكم ولقد علمنا المستاخرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ عَلِمۡنَا ٱلۡمُسۡتَقۡدِمِینَ مِنكُمۡ وَلَقَدۡ عَلِمۡنَا ٱلۡمُسۡتَءۡخِرِینَ
 
 | Details |  |

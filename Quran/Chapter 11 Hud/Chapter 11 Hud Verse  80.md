@@ -452,6 +452,18 @@ Qāla Law 'Anna Lī Bikum Qūwatan 'Aw 'Āwī 'Ilá Ruknin Shadīdin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ لَوْ أَنَّ لِي بِكُمْ قُوَّةً أَوْ آوِي إِلَى رُكْنٍ شَدِيدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال لو ان لي بكم قوة او اوي الى ركن شديد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ لَوۡ أَنَّ لِی بِكُمۡ قُوَّةً أَوۡ ءَاوِیۤ إِلَىٰ رُكۡنࣲ شَدِیدࣲ
 
 | Details |  |

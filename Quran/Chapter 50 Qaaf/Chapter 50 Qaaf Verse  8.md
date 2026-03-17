@@ -452,6 +452,18 @@ Tabşiratan Wa Dhikrá Likulli 'Abdin Munībin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَبْصِرَةً وَذِكْرَى لِكُلِّ عَبْدٍ مُنِيبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تبصرة وذكرى لكل عبد منيب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَبۡصِرَةࣰ وَذِكۡرَىٰ لِكُلِّ عَبۡدࣲ مُّنِیبࣲ
 
 | Details |  |

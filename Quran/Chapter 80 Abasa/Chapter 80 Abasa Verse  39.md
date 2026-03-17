@@ -452,6 +452,18 @@ dahikatun mus'tabshiratun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ضَاحِكَةٌ مُسْتَبْشِرَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ضاحكة مستبشرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ضَاحِكَةࣱ مُّسۡتَبۡشِرَةࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Alá Sururin Mawđūnahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَلَى سُرُرٍ مَوْضُونَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+على سرر موضونة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَلَىٰ سُرُرࣲ مَّوۡضُونَةࣲ
 
 | Details |  |

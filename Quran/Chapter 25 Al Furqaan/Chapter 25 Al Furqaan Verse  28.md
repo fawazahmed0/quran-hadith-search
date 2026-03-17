@@ -452,6 +452,18 @@ Yā Waylatī Laytanī Lam 'Attakhidh Fulānāan Khalīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا وَيْلَتَى لَيْتَنِي لَمْ أَتَّخِذْ فُلَانًا خَلِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ويلتى ليتني لم اتخذ فلانا خليلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰوَیۡلَتَىٰ لَیۡتَنِی لَمۡ أَتَّخِذۡ فُلَانًا خَلِیلࣰا
 
 | Details |  |

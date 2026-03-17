@@ -452,6 +452,18 @@ Fa'aşá Fir'awnu Ar-Rasūla Fa'akhadhnāhu 'Akhdhāan Wabīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَعَصَى فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فعصى فرعون الرسول فاخذناه اخذا وبيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَعَصَىٰ فِرۡعَوۡنُ ٱلرَّسُولَ فَأَخَذۡنَـٰهُ أَخۡذࣰا وَبِیلࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Salāmun 'Alá Al-Mursalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَسَلَامٌ عَلَى الْمُرْسَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وسلام على المرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَسَلَـٰمٌ عَلَى ٱلۡمُرۡسَلِینَ
 
 | Details |  |

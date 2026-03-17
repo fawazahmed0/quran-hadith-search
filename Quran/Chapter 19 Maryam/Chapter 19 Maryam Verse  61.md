@@ -452,6 +452,18 @@ Jannāti 'Adnin Allatī Wa'ada Ar-Raĥmānu 'Ibādahu Bil-Ghaybi 'Innahu Kāna W
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+جَنَّاتِ عَدْنٍ الَّتِي وَعَدَ الرَّحْمَنُ عِبَادَهُ بِالْغَيْبِ إِنَّهُ كَانَ وَعْدُهُ مَأْتِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+جنات عدن التي وعد الرحمن عباده بالغيب انه كان وعده ماتيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 جَنَّـٰتِ عَدۡنٍ ٱلَّتِی وَعَدَ ٱلرَّحۡمَـٰنُ عِبَادَهُۥ بِٱلۡغَیۡبِۚ إِنَّهُۥ كَانَ وَعۡدُهُۥ مَأۡتِیࣰّا
 
 | Details |  |

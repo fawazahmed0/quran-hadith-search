@@ -452,6 +452,18 @@ A'ifkāan 'Ālihatan Dūna Allāhi Turīdūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَئِفْكًا آلِهَةً دُونَ اللَّهِ تُرِيدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ايفكا الهة دون الله تريدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَئِفۡكًا ءَالِهَةࣰ دُونَ ٱللَّهِ تُرِیدُونَ
 
 | Details |  |

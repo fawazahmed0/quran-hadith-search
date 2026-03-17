@@ -452,6 +452,18 @@ Yaqdumu Qawmahu Yawma Al-Qiyāmati Fa'awradahumu An-Nāra Wa Bi'sa Al-Wirdu Al-M
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَقْدُمُ قَوْمَهُ يَوْمَ الْقِيَامَةِ فَأَوْرَدَهُمُ النَّارَ وَبِئْسَ الْوِرْدُ الْمَوْرُودُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يقدم قومه يوم القيامة فاوردهم النار وبيس الورد المورود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَقۡدُمُ قَوۡمَهُۥ یَوۡمَ ٱلۡقِیَـٰمَةِ فَأَوۡرَدَهُمُ ٱلنَّارَۖ وَبِئۡسَ ٱلۡوِرۡدُ ٱلۡمَوۡرُودُ
 
 | Details |  |

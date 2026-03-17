@@ -452,6 +452,18 @@ Wa Kawā'iba 'Atrābāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَوَاعِبَ أَتْرَابًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكواعب اترابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَوَاعِبَ أَتۡرَابࣰا
 
 | Details |  |

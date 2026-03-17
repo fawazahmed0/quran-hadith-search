@@ -452,6 +452,18 @@ Rasūlun Mina Allāhi Yatlū Şuĥufāan Muţahharahan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَسُولٌ مِنَ اللَّهِ يَتْلُو صُحُفًا مُطَهَّرَةً
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+رسول من الله يتلو صحفا مطهرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَسُولࣱ مِّنَ ٱللَّهِ یَتۡلُوا۟ صُحُفࣰا مُّطَهَّرَةࣰ
 
 | Details |  |

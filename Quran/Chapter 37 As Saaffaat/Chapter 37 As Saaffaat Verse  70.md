@@ -452,6 +452,18 @@ Fahum 'Alá 'Āthārihim Yuhra'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَهُمْ عَلَى آثَارِهِمْ يُهْرَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فهم على اثارهم يهرعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَهُمۡ عَلَىٰۤ ءَاثَـٰرِهِمۡ یُهۡرَعُونَ
 
 | Details |  |

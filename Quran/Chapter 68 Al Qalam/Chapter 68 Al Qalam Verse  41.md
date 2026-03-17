@@ -452,6 +452,18 @@ Am Lahum Shurakā'u Falya'tū Bishurakā'ihim 'In Kānū Şādiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ لَهُمْ شُرَكَاءُ فَلْيَأْتُوا بِشُرَكَائِهِمْ إِنْ كَانُوا صَادِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام لهم شركاء فلياتوا بشركايهم ان كانوا صادقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ لَهُمۡ شُرَكَاۤءُ فَلۡیَأۡتُوا۟ بِشُرَكَاۤئِهِمۡ إِن كَانُوا۟ صَـٰدِقِینَ
 
 | Details |  |

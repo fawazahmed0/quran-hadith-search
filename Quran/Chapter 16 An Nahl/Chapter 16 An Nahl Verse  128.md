@@ -452,6 +452,18 @@ Inna Allāha Ma'a Al-Ladhīna Attaqaw Wa Al-Ladhīna Hum Muĥsinūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ اللَّهَ مَعَ الَّذِينَ اتَّقَوْا وَالَّذِينَ هُمْ مُحْسِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الله مع الذين اتقوا والذين هم محسنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱللَّهَ مَعَ ٱلَّذِینَ ٱتَّقَوا۟ وَّٱلَّذِینَ هُم مُّحۡسِنُونَ
 
 | Details |  |

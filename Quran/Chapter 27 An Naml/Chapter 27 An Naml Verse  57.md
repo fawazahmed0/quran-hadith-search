@@ -452,6 +452,18 @@ Fa'anjaynāhu Wa 'Ahlahu 'Illā Amra'atahu Qaddarnāhā Mina Al-Ghābirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَنْجَيْنَاهُ وَأَهْلَهُ إِلَّا امْرَأَتَهُ قَدَّرْنَاهَا مِنَ الْغَابِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانجيناه واهله الا امراته قدرناها من الغابرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَنجَیۡنَـٰهُ وَأَهۡلَهُۥۤ إِلَّا ٱمۡرَأَتَهُۥ قَدَّرۡنَـٰهَا مِنَ ٱلۡغَـٰبِرِینَ
 
 | Details |  |

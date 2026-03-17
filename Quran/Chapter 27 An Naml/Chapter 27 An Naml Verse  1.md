@@ -452,6 +452,18 @@ Ta-Sin Tilka 'Ayatu Al-Qur'ani Wa Kitabin Mubinin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+طس تِلْكَ آيَاتُ الْقُرْآنِ وَكِتَابٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+طس تلك ايات القران وكتاب مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ طسۤۚ تِلۡكَ ءَایَـٰتُ ٱلۡقُرۡءَانِ وَكِتَابࣲ مُّبِینٍ
 
 | Details |  |

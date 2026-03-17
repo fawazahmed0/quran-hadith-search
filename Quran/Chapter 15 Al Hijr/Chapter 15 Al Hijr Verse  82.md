@@ -452,6 +452,18 @@ Wa Kānū Yanĥitūna Mina Al-Jibāli Buyūtāan 'Āminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَانُوا يَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا آمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكانوا ينحتون من الجبال بيوتا امنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَانُوا۟ یَنۡحِتُونَ مِنَ ٱلۡجِبَالِ بُیُوتًا ءَامِنِینَ
 
 | Details |  |

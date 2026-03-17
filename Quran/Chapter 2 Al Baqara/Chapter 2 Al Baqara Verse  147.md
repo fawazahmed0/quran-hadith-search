@@ -452,6 +452,18 @@ Al-Ĥaqqu Min Rabbika Falā Takūnanna Mina Al-Mumtarīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الْحَقُّ مِنْ رَبِّكَ فَلَا تَكُونَنَّ مِنَ الْمُمْتَرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الحق من ربك فلا تكونن من الممترين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلۡحَقُّ مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ ٱلۡمُمۡتَرِینَ
 
 | Details |  |

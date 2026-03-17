@@ -452,6 +452,18 @@ Wa An-Nāzi'āti Gharqāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالنَّازِعَاتِ غَرْقًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والنازعات غرقا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلنَّـٰزِعَـٰتِ غَرۡقࣰا
 
 | Details |  |

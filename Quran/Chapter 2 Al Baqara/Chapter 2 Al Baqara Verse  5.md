@@ -452,6 +452,18 @@ Ula'ika 'Ala Hudaan Min Rabbihim Wa 'Ula'ika Humu Al-Muflihuna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ عَلَى هُدًى مِنْ رَبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك على هدى من ربهم واوليك هم المفلحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ عَلَىٰ هُدࣰى مِّن رَّبِّهِمۡۖ وَأُو۟لَـٰۤئِكَ هُمُ ٱلۡمُفۡلِحُونَ
 
 | Details |  |

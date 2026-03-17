@@ -452,6 +452,18 @@ Wa Likullin Darajātun Mimmā 'Amilū Wa Liyuwaffiyahum 'A'mālahum Wa Hum Lā Y
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِكُلٍّ دَرَجَاتٌ مِمَّا عَمِلُوا وَلِيُوَفِّيَهُمْ أَعْمَالَهُمْ وَهُمْ لَا يُظْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولكل درجات مما عملوا وليوفيهم اعمالهم وهم لا يظلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِكُلࣲّ دَرَجَـٰتࣱ مِّمَّا عَمِلُوا۟ۖ وَلِیُوَفِّیَهُمۡ أَعۡمَـٰلَهُمۡ وَهُمۡ لَا یُظۡلَمُونَ
 
 | Details |  |

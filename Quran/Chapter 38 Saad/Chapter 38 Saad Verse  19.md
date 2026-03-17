@@ -452,6 +452,18 @@ Wa Aţ-Ţayra Maĥshūratan Kullun Lahu 'Awwābun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالطَّيْرَ مَحْشُورَةً كُلٌّ لَهُ أَوَّابٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والطير محشورة كل له اواب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلطَّیۡرَ مَحۡشُورَةࣰۖ كُلࣱّ لَّهُۥۤ أَوَّابࣱ
 
 | Details |  |

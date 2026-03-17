@@ -452,6 +452,18 @@ Qawlun Ma'rūfun Wa Maghfiratun Khayrun Min Şadaqatin Yatba'uhā 'Adháan Wa Al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَوْلٌ مَعْرُوفٌ وَمَغْفِرَةٌ خَيْرٌ مِنْ صَدَقَةٍ يَتْبَعُهَا أَذًى وَاللَّهُ غَنِيٌّ حَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قول معروف ومغفرة خير من صدقة يتبعها اذى والله غني حليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ قَوۡلࣱ مَّعۡرُوفࣱ وَمَغۡفِرَةٌ خَیۡرࣱ مِّن صَدَقَةࣲ یَتۡبَعُهَاۤ أَذࣰىۗ وَٱللَّهُ غَنِیٌّ حَلِیمࣱ
 
 | Details |  |

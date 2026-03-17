@@ -452,6 +452,18 @@ Qāla Hā'uulā' Banātī 'In Kuntum Fā'ilīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ هَؤُلَاءِ بَنَاتِي إِنْ كُنْتُمْ فَاعِلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال هولاء بناتي ان كنتم فاعلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ هَـٰۤؤُلَاۤءِ بَنَاتِیۤ إِن كُنتُمۡ فَـٰعِلِینَ
 
 | Details |  |

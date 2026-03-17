@@ -452,6 +452,18 @@ Wa Tawakkal 'Alá Allāhi Wa Kafá Billāhi Wa Kīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَوَكَّلْ عَلَى اللَّهِ وَكَفَى بِاللَّهِ وَكِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتوكل على الله وكفى بالله وكيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَوَكَّلۡ عَلَى ٱللَّهِۚ وَكَفَىٰ بِٱللَّهِ وَكِیلࣰا
 
 | Details |  |

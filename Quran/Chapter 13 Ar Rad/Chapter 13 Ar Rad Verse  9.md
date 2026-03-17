@@ -452,6 +452,18 @@ Alimu Al-Ghaybi Wa Ash-Shahadati Al-Kabiru Al-Muta'ali
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْكَبِيرُ الْمُتَعَالِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عالم الغيب والشهادة الكبير المتعال
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَـٰلِمُ ٱلۡغَیۡبِ وَٱلشَّهَـٰدَةِ ٱلۡكَبِیرُ ٱلۡمُتَعَالِ
 
 | Details |  |

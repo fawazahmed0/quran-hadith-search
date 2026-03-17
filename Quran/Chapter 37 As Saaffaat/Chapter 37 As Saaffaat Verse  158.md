@@ -452,6 +452,18 @@ Wa Ja'alū Baynahu Wa Bayna Al-Jinnati Nasabāan Wa Laqad 'Alimati Al-Jinnatu 'I
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَبًا وَلَقَدْ عَلِمَتِ الْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلوا بينه وبين الجنة نسبا ولقد علمت الجنة انهم لمحضرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلُوا۟ بَیۡنَهُۥ وَبَیۡنَ ٱلۡجِنَّةِ نَسَبࣰاۚ وَلَقَدۡ عَلِمَتِ ٱلۡجِنَّةُ إِنَّهُمۡ لَمُحۡضَرُونَ
 
 | Details |  |

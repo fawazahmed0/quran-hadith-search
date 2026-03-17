@@ -452,6 +452,18 @@ Yawma Hum 'Alá An-Nāri Yuftanūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ هُمْ عَلَى النَّارِ يُفْتَنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم هم على النار يفتنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ هُمۡ عَلَى ٱلنَّارِ یُفۡتَنُونَ
 
 | Details |  |

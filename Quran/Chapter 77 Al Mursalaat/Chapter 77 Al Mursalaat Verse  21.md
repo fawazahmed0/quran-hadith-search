@@ -452,6 +452,18 @@ Faja'alnāhu Fī Qarārin Makīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَجَعَلْنَاهُ فِي قَرَارٍ مَكِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فجعلناه في قرار مكين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَجَعَلۡنَـٰهُ فِی قَرَارࣲ مَّكِینٍ
 
 | Details |  |

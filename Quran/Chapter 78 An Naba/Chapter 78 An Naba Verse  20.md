@@ -452,6 +452,18 @@ Wa Suyyirati Al-Jibālu Fakānat Sarābāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وسيرت الجبال فكانت سرابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَسُیِّرَتِ ٱلۡجِبَالُ فَكَانَتۡ سَرَابًا
 
 | Details |  |

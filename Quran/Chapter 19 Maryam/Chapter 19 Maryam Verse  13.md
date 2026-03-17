@@ -452,6 +452,18 @@ Wa Ĥanānāan Min Ladunnā Wa Zakāatan Wa Kāna Taqīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَحَنَانًا مِنْ لَدُنَّا وَزَكَاةً وَكَانَ تَقِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وحنانا من لدنا وزكاة وكان تقيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَحَنَانࣰا مِّن لَّدُنَّا وَزَكَوٰةࣰۖ وَكَانَ تَقِیࣰّا
 
 | Details |  |

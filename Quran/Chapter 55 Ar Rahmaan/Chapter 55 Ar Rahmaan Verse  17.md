@@ -452,6 +452,18 @@ Rabbu Al-Mashriqayni Wa Rabbu Al-Maghribayni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+رب المشرقين ورب المغربين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَبُّ ٱلۡمَشۡرِقَیۡنِ وَرَبُّ ٱلۡمَغۡرِبَیۡنِ
 
 | Details |  |

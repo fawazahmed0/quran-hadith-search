@@ -452,6 +452,18 @@ Uballighukum Risālāti Rabbī Wa 'Anşaĥu Lakum Wa 'A'lamu Mina Allāhi Mā L�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُبَلِّغُكُمْ رِسَالَاتِ رَبِّي وَأَنْصَحُ لَكُمْ وَأَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ابلغكم رسالات ربي وانصح لكم واعلم من الله ما لا تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُبَلِّغُكُمۡ رِسَـٰلَـٰتِ رَبِّی وَأَنصَحُ لَكُمۡ وَأَعۡلَمُ مِنَ ٱللَّهِ مَا لَا تَعۡلَمُونَ
 
 | Details |  |

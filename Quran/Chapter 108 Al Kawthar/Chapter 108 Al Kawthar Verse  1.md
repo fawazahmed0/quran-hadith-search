@@ -452,6 +452,18 @@ Innā 'A'ţaynāka Al-Kawthara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا اعطيناك الكوثر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّاۤ أَعۡطَیۡنَـٰكَ ٱلۡكَوۡثَرَ
 
 | Details |  |

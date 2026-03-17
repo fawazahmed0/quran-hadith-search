@@ -452,6 +452,18 @@ Wa 'Ashrik/hu Fī 'Amrī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَشْرِكْهُ فِي أَمْرِي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واشركه في امري
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَشۡرِكۡهُ فِیۤ أَمۡرِی
 
 | Details |  |

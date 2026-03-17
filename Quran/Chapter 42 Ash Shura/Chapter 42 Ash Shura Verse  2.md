@@ -452,6 +452,18 @@ Ain, Sin, Qaf
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عسق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عسق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عۤسۤقۤ
 
 | Details |  |

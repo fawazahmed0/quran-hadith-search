@@ -452,6 +452,18 @@ Sawā'un Minkum Man 'Asarra Al-Qawla Wa Man Jahara Bihi Wa Man Huwa Mustakhfin B
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَوَاءٌ مِنْكُمْ مَنْ أَسَرَّ الْقَوْلَ وَمَنْ جَهَرَ بِهِ وَمَنْ هُوَ مُسْتَخْفٍ بِاللَّيْلِ وَسَارِبٌ بِالنَّهَارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سواء منكم من اسر القول ومن جهر به ومن هو مستخف بالليل وسارب بالنهار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَوَاۤءࣱ مِّنكُم مَّنۡ أَسَرَّ ٱلۡقَوۡلَ وَمَن جَهَرَ بِهِۦ وَمَنۡ هُوَ مُسۡتَخۡفِۭ بِٱلَّیۡلِ وَسَارِبُۢ بِٱلنَّهَارِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Khuliqa Al-'Insānu Min 'Ajalin Sa'urīkum 'Āyātī Falā Tasta'jilūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خُلِقَ الْإِنْسَانُ مِنْ عَجَلٍ سَأُرِيكُمْ آيَاتِي فَلَا تَسْتَعْجِلُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خلق الانسان من عجل ساريكم اياتي فلا تستعجلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خُلِقَ ٱلۡإِنسَـٰنُ مِنۡ عَجَلࣲۚ سَأُو۟رِیكُمۡ ءَایَـٰتِی فَلَا تَسۡتَعۡجِلُونِ
 
 | Details |  |

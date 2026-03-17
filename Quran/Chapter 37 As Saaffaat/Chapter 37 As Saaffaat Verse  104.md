@@ -452,6 +452,18 @@ Wa Nādaynāhu 'An Yā 'Ibrāhīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَادَيْنَاهُ أَنْ يَا إِبْرَاهِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وناديناه ان يا ابراهيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَـٰدَیۡنَـٰهُ أَن یَـٰۤإِبۡرَ ٰهِیمُ
 
 | Details |  |

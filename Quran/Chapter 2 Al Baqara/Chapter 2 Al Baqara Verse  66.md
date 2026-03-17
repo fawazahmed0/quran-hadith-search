@@ -452,6 +452,18 @@ Faja'alnāhā Nakālāan Limā Bayna Yadayhā Wa Mā Khalfahā Wa Maw'ižatan Li
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَجَعَلْنَاهَا نَكَالًا لِمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا وَمَوْعِظَةً لِلْمُتَّقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فجعلناها نكالا لما بين يديها وما خلفها وموعظة للمتقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَجَعَلۡنَـٰهَا نَكَـٰلࣰا لِّمَا بَیۡنَ یَدَیۡهَا وَمَا خَلۡفَهَا وَمَوۡعِظَةࣰ لِّلۡمُتَّقِینَ
 
 | Details |  |

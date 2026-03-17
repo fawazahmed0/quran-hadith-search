@@ -452,6 +452,18 @@ Wa La'ajru Al-'Ākhirati Khayrun Lilladhīna 'Āmanū Wa Kānū Yattaqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَأَجْرُ الْآخِرَةِ خَيْرٌ لِلَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولاجر الاخرة خير للذين امنوا وكانوا يتقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَأَجۡرُ ٱلۡءَاخِرَةِ خَیۡرࣱ لِّلَّذِینَ ءَامَنُوا۟ وَكَانُوا۟ یَتَّقُونَ
 
 | Details |  |

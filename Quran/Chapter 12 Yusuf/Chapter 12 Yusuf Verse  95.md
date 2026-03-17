@@ -452,6 +452,18 @@ Qālū Ta-Allāhi 'Innaka Lafī Đalālika Al-Qadīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا تَاللَّهِ إِنَّكَ لَفِي ضَلَالِكَ الْقَدِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا تالله انك لفي ضلالك القديم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ تَٱللَّهِ إِنَّكَ لَفِی ضَلَـٰلِكَ ٱلۡقَدِیمِ
 
 | Details |  |

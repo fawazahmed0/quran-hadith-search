@@ -452,6 +452,18 @@ Innamā Dhalikumu Ash-Shayţānu Yukhawwifu 'Awliyā'ahu Falā Takhāfūhum Wa K
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّمَا ذَلِكُمُ الشَّيْطَانُ يُخَوِّفُ أَوْلِيَاءَهُ فَلَا تَخَافُوهُمْ وَخَافُونِ إِنْ كُنْتُمْ مُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انما ذلكم الشيطان يخوف اولياءه فلا تخافوهم وخافون ان كنتم مومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّمَا ذَ ٰلِكُمُ ٱلشَّیۡطَـٰنُ یُخَوِّفُ أَوۡلِیَاۤءَهُۥ فَلَا تَخَافُوهُمۡ وَخَافُونِ إِن كُنتُم مُّؤۡمِنِینَ
 
 | Details |  |

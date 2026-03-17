@@ -452,6 +452,18 @@ Kulū Wa Ashrabū Hanī'āan Bimā Kuntum Ta'malūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنْتُمْ تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلوا واشربوا هنييا بما كنتم تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كُلُوا۟ وَٱشۡرَبُوا۟ هَنِیۤءَۢا بِمَا كُنتُمۡ تَعۡمَلُونَ
 
 | Details |  |

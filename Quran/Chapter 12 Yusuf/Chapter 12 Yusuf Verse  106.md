@@ -452,6 +452,18 @@ Wa Mā Yu'uminu 'Aktharuhum Billāhi 'Illā Wa Hum Mushrikūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا يُؤْمِنُ أَكْثَرُهُمْ بِاللَّهِ إِلَّا وَهُمْ مُشْرِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما يومن اكثرهم بالله الا وهم مشركون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا یُؤۡمِنُ أَكۡثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشۡرِكُونَ
 
 | Details |  |

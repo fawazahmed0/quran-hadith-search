@@ -452,6 +452,18 @@ Aya'idukum 'Annakum 'Idhā Mittum Wa Kuntum Turābāan Wa 'Ižāmāan 'Annakum M
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنْتُمْ تُرَابًا وَعِظَامًا أَنَّكُمْ مُخْرَجُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ايعدكم انكم اذا متم وكنتم ترابا وعظاما انكم مخرجون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَیَعِدُكُمۡ أَنَّكُمۡ إِذَا مِتُّمۡ وَكُنتُمۡ تُرَابࣰا وَعِظَـٰمًا أَنَّكُم مُّخۡرَجُونَ
 
 | Details |  |

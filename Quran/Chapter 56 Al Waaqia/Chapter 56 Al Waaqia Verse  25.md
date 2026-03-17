@@ -452,6 +452,18 @@ Lā Yasma'ūna Fīhā Laghwan Wa Lā Ta'thīmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يسمعون فيها لغوا ولا تاثيما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا یَسۡمَعُونَ فِیهَا لَغۡوࣰا وَلَا تَأۡثِیمًا
 
 | Details |  |

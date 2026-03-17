@@ -452,6 +452,18 @@ Wa Wuffiyat Kullu Nafsin Mā 'Amilat Wa Huwa 'A'lamu Bimā Yaf'alūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَوُفِّيَتْ كُلُّ نَفْسٍ مَا عَمِلَتْ وَهُوَ أَعْلَمُ بِمَا يَفْعَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ووفيت كل نفس ما عملت وهو اعلم بما يفعلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَوُفِّیَتۡ كُلُّ نَفۡسࣲ مَّا عَمِلَتۡ وَهُوَ أَعۡلَمُ بِمَا یَفۡعَلُونَ
 
 | Details |  |

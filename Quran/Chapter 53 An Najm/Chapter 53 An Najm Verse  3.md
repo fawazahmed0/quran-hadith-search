@@ -452,6 +452,18 @@ Wa Mā Yanţiqu 'Ani Al-Hawá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا يَنْطِقُ عَنِ الْهَوَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ينطق عن الهوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا یَنطِقُ عَنِ ٱلۡهَوَىٰۤ
 
 | Details |  |

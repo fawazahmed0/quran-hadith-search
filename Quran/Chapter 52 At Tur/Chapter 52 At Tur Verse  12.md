@@ -452,6 +452,18 @@ Al-Ladhīna Hum Fī Khawđin Yal'abūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ هُمْ فِي خَوْضٍ يَلْعَبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين هم في خوض يلعبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ هُمۡ فِی خَوۡضࣲ یَلۡعَبُونَ
 
 | Details |  |

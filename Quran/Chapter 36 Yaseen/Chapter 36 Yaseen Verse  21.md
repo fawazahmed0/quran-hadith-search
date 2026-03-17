@@ -452,6 +452,18 @@ Attabi'ū Man Lā Yas'alukum 'Ajrāan Wa Hum Muhtadūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اتَّبِعُوا مَنْ لَا يَسْأَلُكُمْ أَجْرًا وَهُمْ مُهْتَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اتبعوا من لا يسالكم اجرا وهم مهتدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱتَّبِعُوا۟ مَن لَّا یَسۡءَلُكُمۡ أَجۡرࣰا وَهُم مُّهۡتَدُونَ
 
 | Details |  |

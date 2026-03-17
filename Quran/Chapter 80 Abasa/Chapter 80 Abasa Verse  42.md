@@ -452,6 +452,18 @@ Ula'ika Humu Al-Kafaratu Al-Fajarahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك هم الكفرة الفجرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ هُمُ ٱلۡكَفَرَةُ ٱلۡفَجَرَةُ
 
 | Details |  |

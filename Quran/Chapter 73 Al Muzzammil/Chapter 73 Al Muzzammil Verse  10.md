@@ -452,6 +452,18 @@ Wa Aşbir 'Alá Mā Yaqūlūna Wa Ahjurhum Hajrāan Jamīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاصْبِرْ عَلَى مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واصبر على ما يقولون واهجرهم هجرا جميلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱصۡبِرۡ عَلَىٰ مَا یَقُولُونَ وَٱهۡجُرۡهُمۡ هَجۡرࣰا جَمِیلࣰا
 
 | Details |  |

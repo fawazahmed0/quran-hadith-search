@@ -452,6 +452,18 @@ Wa Lasawfa Yarđá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَسَوْفَ يَرْضَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولسوف يرضى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَسَوۡفَ یَرۡضَىٰ
 
 | Details |  |

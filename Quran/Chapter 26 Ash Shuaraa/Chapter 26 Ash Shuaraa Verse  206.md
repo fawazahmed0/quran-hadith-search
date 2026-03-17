@@ -452,6 +452,18 @@ Thumma Jā'ahum Mā Kānū Yū'adūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ جَاءَهُمْ مَا كَانُوا يُوعَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم جاءهم ما كانوا يوعدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ جَاۤءَهُم مَّا كَانُوا۟ یُوعَدُونَ
 
 | Details |  |

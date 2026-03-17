@@ -452,6 +452,18 @@ Thumma Radadnāhu 'Asfala Sāfilīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم رددناه اسفل سافلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ رَدَدۡنَـٰهُ أَسۡفَلَ سَـٰفِلِینَ
 
 | Details |  |

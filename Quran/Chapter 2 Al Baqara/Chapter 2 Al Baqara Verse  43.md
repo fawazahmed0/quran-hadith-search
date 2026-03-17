@@ -452,6 +452,18 @@ Wa 'Aqīmū Aş-Şalāata Wa 'Ātū Az-Zakāata Wa Arka'ū Ma'a Ar-Rāki'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوا مَعَ الرَّاكِعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واقيموا الصلاة واتوا الزكاة واركعوا مع الراكعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَقِیمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱرۡكَعُوا۟ مَعَ ٱلرَّ ٰكِعِینَ
 
 | Details |  |

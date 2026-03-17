@@ -452,6 +452,18 @@ Wa Mā Huwa Bil-Hazli
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا هُوَ بِالْهَزْلِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما هو بالهزل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا هُوَ بِٱلۡهَزۡلِ
 
 | Details |  |

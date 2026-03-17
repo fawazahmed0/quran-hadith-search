@@ -452,6 +452,18 @@ Fīhimā Fākihatun Wa Nakhlun Wa Rummānun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِيهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيهما فاكهة ونخل ورمان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِیهِمَا فَـٰكِهَةࣱ وَنَخۡلࣱ وَرُمَّانࣱ
 
 | Details |  |

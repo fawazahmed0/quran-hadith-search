@@ -452,6 +452,18 @@ Wa Qālū Rabbanā 'Innā 'Aţa'nā Sādatanā Wa Kubarā'anā Fa'ađallūnā As
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا رَبَّنَا إِنَّا أَطَعْنَا سَادَتَنَا وَكُبَرَاءَنَا فَأَضَلُّونَا السَّبِيلَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا ربنا انا اطعنا سادتنا وكبراءنا فاضلونا السبيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ رَبَّنَاۤ إِنَّاۤ أَطَعۡنَا سَادَتَنَا وَكُبَرَاۤءَنَا فَأَضَلُّونَا ٱلسَّبِیلَا۠
 
 | Details |  |

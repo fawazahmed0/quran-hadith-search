@@ -452,6 +452,18 @@ Wa 'Ātaynāhum 'Āyātinā Fakānū 'Anhā Mu'riđīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَآتَيْنَاهُمْ آيَاتِنَا فَكَانُوا عَنْهَا مُعْرِضِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتيناهم اياتنا فكانوا عنها معرضين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَءَاتَیۡنَـٰهُمۡ ءَایَـٰتِنَا فَكَانُوا۟ عَنۡهَا مُعۡرِضِینَ
 
 | Details |  |

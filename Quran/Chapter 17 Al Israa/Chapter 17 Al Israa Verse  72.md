@@ -452,6 +452,18 @@ Wa Man Kāna Fī Hadhihi 'A'má Fahuwa Fī Al-'Ākhirati 'A'má Wa 'Ađallu Sab�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ كَانَ فِي هَذِهِ أَعْمَى فَهُوَ فِي الْآخِرَةِ أَعْمَى وَأَضَلُّ سَبِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن كان في هذه اعمى فهو في الاخرة اعمى واضل سبيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن كَانَ فِی هَـٰذِهِۦۤ أَعۡمَىٰ فَهُوَ فِی ٱلۡءَاخِرَةِ أَعۡمَىٰ وَأَضَلُّ سَبِیلࣰا
 
 | Details |  |

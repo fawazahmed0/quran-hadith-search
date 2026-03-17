@@ -452,6 +452,18 @@ Inna Hadhihi Tadhkiratun Faman Shā'a Attakhadha 'Ilá Rabbihi Sabīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ هَذِهِ تَذْكِرَةٌ فَمَنْ شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هذه تذكرة فمن شاء اتخذ الى ربه سبيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ هَـٰذِهِۦ تَذۡكِرَةࣱۖ فَمَن شَاۤءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِیلًا
 
 | Details |  |

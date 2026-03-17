@@ -452,6 +452,18 @@ Dhūqū Fitnatakum Hādhā Al-Ladhī Kuntum Bihi Tasta'jilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذُوقُوا فِتْنَتَكُمْ هَذَا الَّذِي كُنْتُمْ بِهِ تَسْتَعْجِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذوقوا فتنتكم هذا الذي كنتم به تستعجلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذُوقُوا۟ فِتۡنَتَكُمۡ هَـٰذَا ٱلَّذِی كُنتُم بِهِۦ تَسۡتَعۡجِلُونَ
 
 | Details |  |

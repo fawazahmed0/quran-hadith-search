@@ -452,6 +452,18 @@ Qul 'Ara'aytakum 'In 'Atākum 'Adhābu Allāhi Baghtatan 'Aw Jahratan Hal Yuhlak
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ أَرَأَيْتَكُمْ إِنْ أَتَاكُمْ عَذَابُ اللَّهِ بَغْتَةً أَوْ جَهْرَةً هَلْ يُهْلَكُ إِلَّا الْقَوْمُ الظَّالِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل ارايتكم ان اتاكم عذاب الله بغتة او جهرة هل يهلك الا القوم الظالمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ أَرَءَیۡتَكُمۡ إِنۡ أَتَىٰكُمۡ عَذَابُ ٱللَّهِ بَغۡتَةً أَوۡ جَهۡرَةً هَلۡ یُهۡلَكُ إِلَّا ٱلۡقَوۡمُ ٱلظَّـٰلِمُونَ
 
 | Details |  |

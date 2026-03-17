@@ -452,6 +452,18 @@ Wa Wahabnā Lahu Min Raĥmatinā 'Akhāhu Hārūna Nabīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَوَهَبْنَا لَهُ مِنْ رَحْمَتِنَا أَخَاهُ هَارُونَ نَبِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ووهبنا له من رحمتنا اخاه هارون نبيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَوَهَبۡنَا لَهُۥ مِن رَّحۡمَتِنَاۤ أَخَاهُ هَـٰرُونَ نَبِیࣰّا
 
 | Details |  |

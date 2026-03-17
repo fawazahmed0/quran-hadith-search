@@ -452,6 +452,18 @@ Wa Şāĥibatihi Wa Banīhi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَصَاحِبَتِهِ وَبَنِيهِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وصاحبته وبنيه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَصَـٰحِبَتِهِۦ وَبَنِیهِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna Al-Ladhīna Ashtaraw Al-Kufra Bil-'Īmāni Lan Yađurrū Allāha Shay'āan 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ اشْتَرَوُا الْكُفْرَ بِالْإِيمَانِ لَنْ يَضُرُّوا اللَّهَ شَيْئًا وَلَهُمْ عَذَابٌ أَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين اشتروا الكفر بالايمان لن يضروا الله شييا ولهم عذاب اليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ ٱشۡتَرَوُا۟ ٱلۡكُفۡرَ بِٱلۡإِیمَـٰنِ لَن یَضُرُّوا۟ ٱللَّهَ شَیۡءࣰاۖ وَلَهُمۡ عَذَابٌ أَلِیمࣱ
 
 | Details |  |

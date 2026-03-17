@@ -452,6 +452,18 @@ Fa'tū Bikitābikum 'In Kuntum Şādiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأْتُوا بِكِتَابِكُمْ إِنْ كُنْتُمْ صَادِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاتوا بكتابكم ان كنتم صادقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأۡتُوا۟ بِكِتَـٰبِكُمۡ إِن كُنتُمۡ صَـٰدِقِینَ
 
 | Details |  |

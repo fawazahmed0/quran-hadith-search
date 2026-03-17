@@ -452,6 +452,18 @@ Al-Ladhīna Đalla Sa'yuhum Fī Al-Ĥayāati Ad-Dunyā Wa Hum Yaĥsabūna 'Annah
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ ضَلَّ سَعْيُهُمْ فِي الْحَيَاةِ الدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين ضل سعيهم في الحياة الدنيا وهم يحسبون انهم يحسنون صنعا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ ضَلَّ سَعۡیُهُمۡ فِی ٱلۡحَیَوٰةِ ٱلدُّنۡیَا وَهُمۡ یَحۡسَبُونَ أَنَّهُمۡ یُحۡسِنُونَ صُنۡعًا
 
 | Details |  |

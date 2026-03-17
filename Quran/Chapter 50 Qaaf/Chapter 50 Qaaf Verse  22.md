@@ -452,6 +452,18 @@ Laqad Kunta Fī Ghaflatin Min Hādhā Fakashafnā 'Anka Ghiţā'aka Fabaşaruka 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَقَدْ كُنْتَ فِي غَفْلَةٍ مِنْ هَذَا فَكَشَفْنَا عَنْكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لقد كنت في غفلة من هذا فكشفنا عنك غطاءك فبصرك اليوم حديد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّقَدۡ كُنتَ فِی غَفۡلَةࣲ مِّنۡ هَـٰذَا فَكَشَفۡنَا عَنكَ غِطَاۤءَكَ فَبَصَرُكَ ٱلۡیَوۡمَ حَدِیدࣱ
 
 | Details |  |

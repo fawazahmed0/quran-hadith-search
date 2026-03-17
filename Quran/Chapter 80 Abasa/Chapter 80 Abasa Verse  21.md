@@ -452,6 +452,18 @@ Thumma 'Amātahu Fa'aqbarahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم اماته فاقبره
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ أَمَاتَهُۥ فَأَقۡبَرَهُۥ
 
 | Details |  |

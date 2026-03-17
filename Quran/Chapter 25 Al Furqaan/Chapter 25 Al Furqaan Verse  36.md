@@ -452,6 +452,18 @@ Faqulnā Adh/habā 'Ilá Al-Qawmi Al-Ladhīna Kadhabū Bi'āyātinā Fadammarnā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقُلْنَا اذْهَبَا إِلَى الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِنَا فَدَمَّرْنَاهُمْ تَدْمِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقلنا اذهبا الى القوم الذين كذبوا باياتنا فدمرناهم تدميرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقُلۡنَا ٱذۡهَبَاۤ إِلَى ٱلۡقَوۡمِ ٱلَّذِینَ كَذَّبُوا۟ بِءَایَـٰتِنَا فَدَمَّرۡنَـٰهُمۡ تَدۡمِیرࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Ayaĥsabu 'An Lan Yaqdira 'Alayhi 'Aĥadun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَيَحْسَبُ أَنْ لَنْ يَقْدِرَ عَلَيْهِ أَحَدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ايحسب ان لن يقدر عليه احد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَیَحۡسَبُ أَن لَّن یَقۡدِرَ عَلَیۡهِ أَحَدࣱ
 
 | Details |  |

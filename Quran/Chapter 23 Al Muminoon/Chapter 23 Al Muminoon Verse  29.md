@@ -452,6 +452,18 @@ Wa Qul Rabbi 'Anzilnī Munzalāan Mubārakāan Wa 'Anta Khayru Al-Munzilīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقُلْ رَبِّ أَنْزِلْنِي مُنْزَلًا مُبَارَكًا وَأَنْتَ خَيْرُ الْمُنْزِلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقل رب انزلني منزلا مباركا وانت خير المنزلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقُل رَّبِّ أَنزِلۡنِی مُنزَلࣰا مُّبَارَكࣰا وَأَنتَ خَیۡرُ ٱلۡمُنزِلِینَ
 
 | Details |  |

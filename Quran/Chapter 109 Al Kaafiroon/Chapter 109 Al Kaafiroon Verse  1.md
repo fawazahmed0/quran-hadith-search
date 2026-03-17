@@ -452,6 +452,18 @@ Qul Yā 'Ayyuhā Al-Kāfirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ يَا أَيُّهَا الْكَافِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل يا ايها الكافرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ یَـٰۤأَیُّهَا ٱلۡكَـٰفِرُونَ
 
 | Details |  |

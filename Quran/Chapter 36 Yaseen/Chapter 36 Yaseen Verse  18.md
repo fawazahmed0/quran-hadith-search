@@ -452,6 +452,18 @@ Qālū 'Innā Taţayyarnā Bikum La'in Lam Tantahū Lanarjumannakum Wa Layamassa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا إِنَّا تَطَيَّرْنَا بِكُمْ لَئِنْ لَمْ تَنْتَهُوا لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُمْ مِنَّا عَذَابٌ أَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا انا تطيرنا بكم لين لم تنتهوا لنرجمنكم وليمسنكم منا عذاب اليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوۤا۟ إِنَّا تَطَیَّرۡنَا بِكُمۡۖ لَئِن لَّمۡ تَنتَهُوا۟ لَنَرۡجُمَنَّكُمۡ وَلَیَمَسَّنَّكُم مِّنَّا عَذَابٌ أَلِیمࣱ
 
 | Details |  |

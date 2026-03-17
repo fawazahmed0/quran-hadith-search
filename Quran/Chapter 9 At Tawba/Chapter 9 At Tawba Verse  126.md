@@ -452,6 +452,18 @@ Awalā Yarawna 'Annahum Yuftanūna Fī Kulli 'Āmin Marratan 'Aw Marratayni Thum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوَلَا يَرَوْنَ أَنَّهُمْ يُفْتَنُونَ فِي كُلِّ عَامٍ مَرَّةً أَوْ مَرَّتَيْنِ ثُمَّ لَا يَتُوبُونَ وَلَا هُمْ يَذَّكَّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اولا يرون انهم يفتنون في كل عام مرة او مرتين ثم لا يتوبون ولا هم يذكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوَ لَا یَرَوۡنَ أَنَّهُمۡ یُفۡتَنُونَ فِی كُلِّ عَامࣲ مَّرَّةً أَوۡ مَرَّتَیۡنِ ثُمَّ لَا یَتُوبُونَ وَلَا هُمۡ یَذَّكَّرُونَ
 
 | Details |  |

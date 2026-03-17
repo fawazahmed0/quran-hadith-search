@@ -452,6 +452,18 @@ Innā Naţma'u 'An Yaghfira Lanā Rabbunā Khaţāyānā 'An Kunnā 'Awwala Al-M
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا نَطْمَعُ أَنْ يَغْفِرَ لَنَا رَبُّنَا خَطَايَانَا أَنْ كُنَّا أَوَّلَ الْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا نطمع ان يغفر لنا ربنا خطايانا ان كنا اول المومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا نَطۡمَعُ أَن یَغۡفِرَ لَنَا رَبُّنَا خَطَـٰیَـٰنَاۤ أَن كُنَّاۤ أَوَّلَ ٱلۡمُؤۡمِنِینَ
 
 | Details |  |

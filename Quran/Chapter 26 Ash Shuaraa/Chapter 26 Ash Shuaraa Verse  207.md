@@ -452,6 +452,18 @@ Mā 'Aghná 'Anhum Mā Kānū Yumatta'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا أَغْنَى عَنْهُمْ مَا كَانُوا يُمَتَّعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما اغنى عنهم ما كانوا يمتعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَاۤ أَغۡنَىٰ عَنۡهُم مَّا كَانُوا۟ یُمَتَّعُونَ
 
 | Details |  |

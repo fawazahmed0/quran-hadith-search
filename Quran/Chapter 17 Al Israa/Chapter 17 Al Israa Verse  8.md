@@ -452,6 +452,18 @@ Asá Rabbukum 'An Yarĥamakum Wa 'In 'Udtum 'Udnā Wa Ja'alnā Jahannama Lilkāf
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَسَى رَبُّكُمْ أَنْ يَرْحَمَكُمْ وَإِنْ عُدْتُمْ عُدْنَا وَجَعَلْنَا جَهَنَّمَ لِلْكَافِرِينَ حَصِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عسى ربكم ان يرحمكم وان عدتم عدنا وجعلنا جهنم للكافرين حصيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَسَىٰ رَبُّكُمۡ أَن یَرۡحَمَكُمۡۚ وَإِنۡ عُدتُّمۡ عُدۡنَاۚ وَجَعَلۡنَا جَهَنَّمَ لِلۡكَـٰفِرِینَ حَصِیرًا
 
 | Details |  |

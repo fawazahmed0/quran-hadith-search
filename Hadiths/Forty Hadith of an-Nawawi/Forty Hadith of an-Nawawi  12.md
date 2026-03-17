@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه و سلم مِنْ حُسْنِ إسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيهِ . حَدِيثٌ حَسَنٌ، رَوَاهُ التِّرْمِذِيُّ \[رقم: 2318\] ، ابن ماجه \[رقم:\]
@@ -47,6 +49,16 @@ On the authority of Abu Hurayrah (may Allah be pleased with him) who said: The M
 ## French
 
 Selon Abou Hourayra (qu’Allah l’agrée) : Le Messager d’Allah (ﷺ) a dit : « Le fait de délaisser ce qui ne te regarde pas fait partie de l’excellence de l’islam d’une personne. » Un hadith bon (hasan) rapporté par at-Tirmidhi et d’autres dans ces termes
+
+| References: |  |
+| --- | --- |
+| Hadith No | 12 |
+| Arabic No | 12 |
+| Reference | Book 1 Hadith 12 |
+
+## Turkish
+
+Ebu Hureyre (ra) anlatıyor: Resulullah (ﷺ) şöyle buyurdu: "Kişinin kendisini ilgilendirmeyen şeyleri terk etmesi, Müslümanlığının güzelliğindendir." \[Tirmizi\]
 
 | References: |  |
 | --- | --- |

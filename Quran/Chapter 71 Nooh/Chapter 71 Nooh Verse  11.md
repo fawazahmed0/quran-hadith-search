@@ -452,6 +452,18 @@ Yursili As-Samā'a 'Alaykum Midrārāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُرْسِلِ السَّمَاءَ عَلَيْكُمْ مِدْرَارًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يرسل السماء عليكم مدرارا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُرۡسِلِ ٱلسَّمَاۤءَ عَلَیۡكُم مِّدۡرَارࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Attakhadhū 'Aymānahum Junnatan Faşaddū 'An Sabīli Allāhi 'Innahum Sā'a M�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَبِيلِ اللَّهِ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اتخذوا ايمانهم جنة فصدوا عن سبيل الله انهم ساء ما كانوا يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱتَّخَذُوۤا۟ أَیۡمَـٰنَهُمۡ جُنَّةࣰ فَصَدُّوا۟ عَن سَبِیلِ ٱللَّهِۚ إِنَّهُمۡ سَاۤءَ مَا كَانُوا۟ یَعۡمَلُونَ
 
 | Details |  |

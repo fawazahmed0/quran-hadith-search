@@ -452,6 +452,18 @@ Wa 'Anna Al-Masājida Lillāhi Falā Tad'ū Ma'a Allāhi 'Aĥadāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلَا تَدْعُوا مَعَ اللَّهِ أَحَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان المساجد لله فلا تدعوا مع الله احدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّ ٱلۡمَسَـٰجِدَ لِلَّهِ فَلَا تَدۡعُوا۟ مَعَ ٱللَّهِ أَحَدࣰا
 
 | Details |  |

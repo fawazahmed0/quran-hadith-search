@@ -452,6 +452,18 @@ Thumma Lananzi'anna Min Kulli Shī'atin 'Ayyuhum 'Ashaddu 'Alá Ar-Raĥmāni 'It
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ لَنَنْزِعَنَّ مِنْ كُلِّ شِيعَةٍ أَيُّهُمْ أَشَدُّ عَلَى الرَّحْمَنِ عِتِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم لننزعن من كل شيعة ايهم اشد على الرحمن عتيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ لَنَنزِعَنَّ مِن كُلِّ شِیعَةٍ أَیُّهُمۡ أَشَدُّ عَلَى ٱلرَّحۡمَـٰنِ عِتِیࣰّا
 
 | Details |  |

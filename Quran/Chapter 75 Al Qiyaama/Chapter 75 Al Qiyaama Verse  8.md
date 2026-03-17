@@ -452,6 +452,18 @@ Wa Khasafa Al-Qamaru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَخَسَفَ الْقَمَرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وخسف القمر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَخَسَفَ ٱلۡقَمَرُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Mithla Da'bi Qawmi Nūĥin Wa 'Ādin Wa Thamūda Wa Al-Ladhīna Min Ba'dihim Wa 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مِثْلَ دَأْبِ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَالَّذِينَ مِنْ بَعْدِهِمْ وَمَا اللَّهُ يُرِيدُ ظُلْمًا لِلْعِبَادِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+مثل داب قوم نوح وعاد وثمود والذين من بعدهم وما الله يريد ظلما للعباد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مِثۡلَ دَأۡبِ قَوۡمِ نُوحࣲ وَعَادࣲ وَثَمُودَ وَٱلَّذِینَ مِنۢ بَعۡدِهِمۡۚ وَمَا ٱللَّهُ یُرِیدُ ظُلۡمࣰا لِّلۡعِبَادِ
 
 | Details |  |

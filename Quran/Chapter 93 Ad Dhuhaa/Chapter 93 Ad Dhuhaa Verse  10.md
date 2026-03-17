@@ -452,6 +452,18 @@ Wa 'Ammā As-Sā'ila Falā Tanhar
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما السايل فلا تنهر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمَّا ٱلسَّاۤئِلَ فَلَا تَنۡهَرۡ
 
 | Details |  |

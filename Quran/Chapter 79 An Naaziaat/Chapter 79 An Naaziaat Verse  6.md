@@ -452,6 +452,18 @@ Yawma Tarjufu Ar-Rājifahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ تَرْجُفُ الرَّاجِفَةُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم ترجف الراجفة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ تَرۡجُفُ ٱلرَّاجِفَةُ
 
 | Details |  |

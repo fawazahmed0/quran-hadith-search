@@ -452,6 +452,18 @@ Al-Qāri'ahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الْقَارِعَةُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+القارعة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلۡقَارِعَةُ
 
 | Details |  |

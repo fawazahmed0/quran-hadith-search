@@ -452,6 +452,18 @@ Idh Jā'a Rabbahu Biqalbin Salīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ جَاءَ رَبَّهُ بِقَلْبٍ سَلِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ جاء ربه بقلب سليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ جَاۤءَ رَبَّهُۥ بِقَلۡبࣲ سَلِیمٍ
 
 | Details |  |

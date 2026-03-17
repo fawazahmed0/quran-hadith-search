@@ -452,6 +452,18 @@ Faşabba 'Alayhim Rabbuka Sawţa 'Adhābin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فصب عليهم ربك سوط عذاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَصَبَّ عَلَیۡهِمۡ رَبُّكَ سَوۡطَ عَذَابٍ
 
 | Details |  |

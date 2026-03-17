@@ -452,6 +452,18 @@ Salāmun 'Alá Nūĥin Fī Al-'Ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَلَامٌ عَلَى نُوحٍ فِي الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سلام على نوح في العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَلَـٰمٌ عَلَىٰ نُوحࣲ فِی ٱلۡعَـٰلَمِینَ
 
 | Details |  |

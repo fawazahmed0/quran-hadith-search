@@ -452,6 +452,18 @@ A'antum Takhluqūnahu 'Am Naĥnu Al-Khāliqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَأَنْتُمْ تَخْلُقُونَهُ أَمْ نَحْنُ الْخَالِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اانتم تخلقونه ام نحن الخالقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ءَأَنتُمۡ تَخۡلُقُونَهُۥۤ أَمۡ نَحۡنُ ٱلۡخَـٰلِقُونَ
 
 | Details |  |

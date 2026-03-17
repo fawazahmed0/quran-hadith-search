@@ -452,6 +452,18 @@ Yafqahū Qawlī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَفْقَهُوا قَوْلِي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يفقهوا قولي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَفۡقَهُوا۟ قَوۡلِی
 
 | Details |  |

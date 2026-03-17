@@ -452,6 +452,18 @@ Irama Dhāti Al-'Imādi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِرَمَ ذَاتِ الْعِمَادِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ارم ذات العماد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِرَمَ ذَاتِ ٱلۡعِمَادِ
 
 | Details |  |

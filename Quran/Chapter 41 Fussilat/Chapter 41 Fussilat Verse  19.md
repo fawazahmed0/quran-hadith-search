@@ -452,6 +452,18 @@ Wa Yawma Yuĥsharu 'A'dā'u Allāhi 'Ilá An-Nāri Fahum Yūza'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَوْمَ يُحْشَرُ أَعْدَاءُ اللَّهِ إِلَى النَّارِ فَهُمْ يُوزَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويوم يحشر اعداء الله الى النار فهم يوزعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَوۡمَ یُحۡشَرُ أَعۡدَاۤءُ ٱللَّهِ إِلَى ٱلنَّارِ فَهُمۡ یُوزَعُونَ
 
 | Details |  |

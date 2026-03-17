@@ -452,6 +452,18 @@ Fa'inna Lilladhīna Žalamū Dhanūbāan Mithla Dhanūbi 'Aşĥābihim Falā Yas
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنَّ لِلَّذِينَ ظَلَمُوا ذَنُوبًا مِثْلَ ذَنُوبِ أَصْحَابِهِمْ فَلَا يَسْتَعْجِلُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فان للذين ظلموا ذنوبا مثل ذنوب اصحابهم فلا يستعجلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِنَّ لِلَّذِینَ ظَلَمُوا۟ ذَنُوبࣰا مِّثۡلَ ذَنُوبِ أَصۡحَـٰبِهِمۡ فَلَا یَسۡتَعۡجِلُونِ
 
 | Details |  |

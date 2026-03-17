@@ -452,6 +452,18 @@ Al-Ladhīna Yukadhibūna Biyawmi Ad-Dīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ يُكَذِّبُونَ بِيَوْمِ الدِّينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين يكذبون بيوم الدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ یُكَذِّبُونَ بِیَوۡمِ ٱلدِّینِ
 
 | Details |  |

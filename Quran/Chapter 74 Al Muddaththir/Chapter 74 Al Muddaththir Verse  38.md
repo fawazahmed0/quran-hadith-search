@@ -452,6 +452,18 @@ Kullu Nafsin Bimā Kasabat Rahīnahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كل نفس بما كسبت رهينة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ رَهِینَةٌ
 
 | Details |  |

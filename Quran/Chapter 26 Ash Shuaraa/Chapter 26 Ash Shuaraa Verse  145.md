@@ -452,6 +452,18 @@ Wa Mā 'As'alukum 'Alayhi Min 'Ajrin 'In 'Ajriya 'Illā 'Alá Rabbi Al-'Ālamīn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلَّا عَلَى رَبِّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما اسالكم عليه من اجر ان اجري الا على رب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَسۡءَلُكُمۡ عَلَیۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِیَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

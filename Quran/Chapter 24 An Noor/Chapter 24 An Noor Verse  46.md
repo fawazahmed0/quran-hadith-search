@@ -452,6 +452,18 @@ Laqad 'Anzalnā 'Āyātin Mubayyinātin Wa Allāhu Yahdī Man Yashā'u 'Ilá Şi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَقَدْ أَنْزَلْنَا آيَاتٍ مُبَيِّنَاتٍ وَاللَّهُ يَهْدِي مَنْ يَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لقد انزلنا ايات مبينات والله يهدي من يشاء الى صراط مستقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّقَدۡ أَنزَلۡنَاۤ ءَایَـٰتࣲ مُّبَیِّنَـٰتࣲۚ وَٱللَّهُ یَهۡدِی مَن یَشَاۤءُ إِلَىٰ صِرَ ٰطࣲ مُّسۡتَقِیمࣲ
 
 | Details |  |

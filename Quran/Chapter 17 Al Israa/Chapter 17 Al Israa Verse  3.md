@@ -452,6 +452,18 @@ Dhurrīyata Man Ĥamalnā Ma'a Nūĥin 'Innahu Kāna 'Abdāan Shakūrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذُرِّيَّةَ مَنْ حَمَلْنَا مَعَ نُوحٍ إِنَّهُ كَانَ عَبْدًا شَكُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذرية من حملنا مع نوح انه كان عبدا شكورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذُرِّیَّةَ مَنۡ حَمَلۡنَا مَعَ نُوحٍۚ إِنَّهُۥ كَانَ عَبۡدࣰا شَكُورࣰا
 
 | Details |  |

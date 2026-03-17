@@ -452,6 +452,18 @@ Wa Al-Ladhīna Lā Yash/hadūna Az-Zūra Wa 'Idhā Marrū Bil-Laghwi Marrū Kir�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ لَا يَشْهَدُونَ الزُّورَ وَإِذَا مَرُّوا بِاللَّغْوِ مَرُّوا كِرَامًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين لا يشهدون الزور واذا مروا باللغو مروا كراما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ لَا یَشۡهَدُونَ ٱلزُّورَ وَإِذَا مَرُّوا۟ بِٱللَّغۡوِ مَرُّوا۟ كِرَامࣰا
 
 | Details |  |

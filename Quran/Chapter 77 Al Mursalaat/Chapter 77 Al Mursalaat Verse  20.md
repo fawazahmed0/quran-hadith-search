@@ -452,6 +452,18 @@ Alam Nakhluqkum Min Mā'in Mahīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ نَخْلُقْكُمْ مِنْ مَاءٍ مَهِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم نخلقكم من ماء مهين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ نَخۡلُقكُّم مِّن مَّاۤءࣲ مَّهِینࣲ
 
 | Details |  |

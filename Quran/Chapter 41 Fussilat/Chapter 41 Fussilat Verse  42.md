@@ -452,6 +452,18 @@ Lā Ya'tīhi Al-Bāţilu Min Bayni Yadayhi Wa Lā Min Khalfihi Tanzīlun Min Ĥa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ تَنْزِيلٌ مِنْ حَكِيمٍ حَمِيدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا ياتيه الباطل من بين يديه ولا من خلفه تنزيل من حكيم حميد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا یَأۡتِیهِ ٱلۡبَـٰطِلُ مِنۢ بَیۡنِ یَدَیۡهِ وَلَا مِنۡ خَلۡفِهِۦۖ تَنزِیلࣱ مِّنۡ حَكِیمٍ حَمِیدࣲ
 
 | Details |  |

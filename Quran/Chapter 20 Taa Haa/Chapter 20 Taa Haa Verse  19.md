@@ -452,6 +452,18 @@ Qāla 'Alqihā Yā Mūsá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ أَلْقِهَا يَا مُوسَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال القها يا موسى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ أَلۡقِهَا یَـٰمُوسَىٰ
 
 | Details |  |

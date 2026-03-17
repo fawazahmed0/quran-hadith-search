@@ -452,6 +452,18 @@ Thumma 'Aghraqnā Ba'du Al-Bāqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ أَغْرَقْنَا بَعْدُ الْبَاقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم اغرقنا بعد الباقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ أَغۡرَقۡنَا بَعۡدُ ٱلۡبَاقِینَ
 
 | Details |  |

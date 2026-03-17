@@ -452,6 +452,18 @@ Liya'kulū Min Thamarihi Wa Mā 'Amilat/hu 'Aydīhim 'Afalā Yashkurūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِيَأْكُلُوا مِنْ ثَمَرِهِ وَمَا عَمِلَتْهُ أَيْدِيهِمْ أَفَلَا يَشْكُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لياكلوا من ثمره وما عملته ايديهم افلا يشكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِیَأۡكُلُوا۟ مِن ثَمَرِهِۦ وَمَا عَمِلَتۡهُ أَیۡدِیهِمۡۚ أَفَلَا یَشۡكُرُونَ
 
 | Details |  |

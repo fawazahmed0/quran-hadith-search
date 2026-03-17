@@ -452,6 +452,18 @@ Wa Wahabnā Lahum Min Raĥmatinā Wa Ja'alnā Lahum Lisāna Şidqin 'Alīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَوَهَبْنَا لَهُمْ مِنْ رَحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ووهبنا لهم من رحمتنا وجعلنا لهم لسان صدق عليا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَوَهَبۡنَا لَهُم مِّن رَّحۡمَتِنَا وَجَعَلۡنَا لَهُمۡ لِسَانَ صِدۡقٍ عَلِیࣰّا
 
 | Details |  |

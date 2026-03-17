@@ -452,6 +452,18 @@ Inna Al-Ladhīna Hum Min Khashyati Rabbihim Mushfiqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ هُمْ مِنْ خَشْيَةِ رَبِّهِمْ مُشْفِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين هم من خشية ربهم مشفقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ هُم مِّنۡ خَشۡیَةِ رَبِّهِم مُّشۡفِقُونَ
 
 | Details |  |

@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي سَعِيدٍ الْخُدْرِيّ رَضِيَ اللهُ عَنْهُ قَالَ سَمِعْت رَسُولَ اللَّهِ صلى الله عليه و سلم يَقُولُ: مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الْإِيمَانِ . \[رَوَاهُ مُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of Abu Sa'eed al-Khudree (may Allah be pleased with him) who sa
 ## French
 
 Selon Abou Sa’id al-Khoudri (qu’Allah l’agrée), qui a dit : J’ai entendu le Messager d’Allah (ﷺ) dire : « Quiconque parmi vous voit un mal, qu’il le corrige de sa main ; s’il ne peut pas, alors par sa parole ; et s’il ne peut pas, alors par son cœur, et c’est là le degré le plus faible de la foi. » \[Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 34 |
+| Arabic No | 34 |
+| Reference | Book 1 Hadith 34 |
+
+## Turkish
+
+Ebu Said el-Hudri (ra) anlatıyor: Resulullah'ın (ﷺ) şöyle buyurduğunu işittim: "Sizden kim bir kötülük görürse onu eliyle düzeltsin; buna gücü yetmezse diliyle düzeltsin; buna da gücü yetmezse kalbiyle buğz etsin ki bu imanın en zayıf derecesidir." \[Müslim\]
 
 | References: |  |
 | --- | --- |

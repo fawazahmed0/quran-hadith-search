@@ -452,6 +452,18 @@ Wa Lahu Mā Sakana Fī Al-Layli Wa An-Nahāri Wa Huwa As-Samī'u Al-'Alīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ وَهُوَ السَّمِيعُ الْعَلِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وله ما سكن في الليل والنهار وهو السميع العليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَلَهُۥ مَا سَكَنَ فِی ٱلَّیۡلِ وَٱلنَّهَارِۚ وَهُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ
 
 | Details |  |

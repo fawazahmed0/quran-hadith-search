@@ -452,6 +452,18 @@ Wa Huwa Al-Ladhī 'Ansha'a Lakumu As-Sam'a Wa Al-'Abşāra Wa Al-'Af'idata Qalī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُوَ الَّذِي أَنْشَأَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَا تَشْكُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهو الذي انشا لكم السمع والابصار والافيدة قليلا ما تشكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُوَ ٱلَّذِیۤ أَنشَأَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَـٰرَ وَٱلۡأَفۡءِدَةَۚ قَلِیلࣰا مَّا تَشۡكُرُونَ
 
 | Details |  |

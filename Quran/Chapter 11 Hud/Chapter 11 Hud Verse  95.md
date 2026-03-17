@@ -452,6 +452,18 @@ Ka'an Lam Yaghnaw Fīhā 'Alā Bu'dāan Limadyana Kamā Ba'idat Thamūdu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَأَنْ لَمْ يَغْنَوْا فِيهَا أَلَا بُعْدًا لِمَدْيَنَ كَمَا بَعِدَتْ ثَمُودُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كان لم يغنوا فيها الا بعدا لمدين كما بعدت ثمود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَأَن لَّمۡ یَغۡنَوۡا۟ فِیهَاۤۗ أَلَا بُعۡدࣰا لِّمَدۡیَنَ كَمَا بَعِدَتۡ ثَمُودُ
 
 | Details |  |

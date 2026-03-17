@@ -452,6 +452,18 @@ Hudáan Wa Raĥmatan Lilmuĥsinīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُدًى وَرَحْمَةً لِلْمُحْسِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هدى ورحمة للمحسنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُدࣰى وَرَحۡمَةࣰ لِّلۡمُحۡسِنِینَ
 
 | Details |  |

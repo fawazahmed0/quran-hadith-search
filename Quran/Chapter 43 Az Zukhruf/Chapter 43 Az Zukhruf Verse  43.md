@@ -452,6 +452,18 @@ Fāstamsik Bial-Ladhī 'Ūĥiya 'Ilayka 'Innaka 'Alá Şirāţin Mustaqīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاسْتَمْسِكْ بِالَّذِي أُوحِيَ إِلَيْكَ إِنَّكَ عَلَى صِرَاطٍ مُسْتَقِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاستمسك بالذي اوحي اليك انك على صراط مستقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱسۡتَمۡسِكۡ بِٱلَّذِیۤ أُوحِیَ إِلَیۡكَۖ إِنَّكَ عَلَىٰ صِرَ ٰطࣲ مُّسۡتَقِیمࣲ
 
 | Details |  |

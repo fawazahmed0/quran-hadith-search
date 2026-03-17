@@ -452,6 +452,18 @@ Wa Laqad Şaddaqa 'Alayhim 'Iblīsu Žannahu Fa Attaba'ūhu 'Illā Farīqāan Mi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ صَدَّقَ عَلَيْهِمْ إِبْلِيسُ ظَنَّهُ فَاتَّبَعُوهُ إِلَّا فَرِيقًا مِنَ الْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد صدق عليهم ابليس ظنه فاتبعوه الا فريقا من المومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ صَدَّقَ عَلَیۡهِمۡ إِبۡلِیسُ ظَنَّهُۥ فَٱتَّبَعُوهُ إِلَّا فَرِیقࣰا مِّنَ ٱلۡمُؤۡمِنِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Lā Biqawli Kāhinin Qalīlāan Mā Tadhakkarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا بِقَوْلِ كَاهِنٍ قَلِيلًا مَا تَذَكَّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا بقول كاهن قليلا ما تذكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا بِقَوۡلِ كَاهِنࣲۚ قَلِیلࣰا مَّا تَذَكَّرُونَ
 
 | Details |  |

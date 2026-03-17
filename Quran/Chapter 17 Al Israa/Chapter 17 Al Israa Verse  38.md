@@ -452,6 +452,18 @@ Kullu Dhālika Kāna Sayyi'uhu 'Inda Rabbika Makrūhāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كُلُّ ذَلِكَ كَانَ سَيِّئُهُ عِنْدَ رَبِّكَ مَكْرُوهًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كل ذلك كان سييه عند ربك مكروها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كُلُّ ذَ ٰلِكَ كَانَ سَیِّئُهُۥ عِندَ رَبِّكَ مَكۡرُوهࣰا
 
 | Details |  |

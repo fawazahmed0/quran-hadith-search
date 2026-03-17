@@ -452,6 +452,18 @@ Qāla Yā 'Iblīsu Mā Laka 'Allā Takūna Ma'a As-Sājidīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ يَا إِبْلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ السَّاجِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال يا ابليس ما لك الا تكون مع الساجدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ یَـٰۤإِبۡلِیسُ مَا لَكَ أَلَّا تَكُونَ مَعَ ٱلسَّـٰجِدِینَ
 
 | Details |  |

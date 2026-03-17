@@ -452,6 +452,18 @@ Wa As-Samā'a Rafa'ahā Wa Wađa'a Al-Mīzāna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والسماء رفعها ووضع الميزان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلسَّمَاۤءَ رَفَعَهَا وَوَضَعَ ٱلۡمِیزَانَ
 
 | Details |  |

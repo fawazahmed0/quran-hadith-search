@@ -452,6 +452,18 @@ Wa Mā Yughnī 'Anhu Māluhu 'Idhā Taraddá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما يغني عنه ماله اذا تردى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا یُغۡنِی عَنۡهُ مَالُهُۥۤ إِذَا تَرَدَّىٰۤ
 
 | Details |  |

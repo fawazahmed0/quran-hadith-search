@@ -452,6 +452,18 @@ Wa Min Sharri Ghāsiqin 'Idhā Waqaba
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن شر غاسق اذا وقب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
 
 | Details |  |

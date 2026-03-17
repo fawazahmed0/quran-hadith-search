@@ -452,6 +452,18 @@ Wa 'Annahu Huwa 'Ađĥaka Wa 'Abká
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّهُ هُوَ أَضْحَكَ وَأَبْكَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه هو اضحك وابكى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّهُۥ هُوَ أَضۡحَكَ وَأَبۡكَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Law 'Anna 'Indanā Dhikrāan Mina Al-'Awwalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَوْ أَنَّ عِنْدَنَا ذِكْرًا مِنَ الْأَوَّلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لو ان عندنا ذكرا من الاولين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَوۡ أَنَّ عِندَنَا ذِكۡرࣰا مِّنَ ٱلۡأَوَّلِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Afamin Hādhā Al-Ĥadīthi Ta'jabūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَمِنْ هَذَا الْحَدِيثِ تَعْجَبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افمن هذا الحديث تعجبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَمِنۡ هَـٰذَا ٱلۡحَدِیثِ تَعۡجَبُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Bi'akwābin Wa 'Abārīqa Wa Ka'sin Min Ma'īnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِنْ مَعِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+باكواب واباريق وكاس من معين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بِأَكۡوَابࣲ وَأَبَارِیقَ وَكَأۡسࣲ مِّن مَّعِینࣲ
 
 | Details |  |

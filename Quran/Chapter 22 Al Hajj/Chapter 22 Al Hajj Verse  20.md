@@ -452,6 +452,18 @@ Yuşharu Bihi Mā Fī Buţūnihim Wa Al-Julūdu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يصهر به ما في بطونهم والجلود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُصۡهَرُ بِهِۦ مَا فِی بُطُونِهِمۡ وَٱلۡجُلُودُ
 
 | Details |  |

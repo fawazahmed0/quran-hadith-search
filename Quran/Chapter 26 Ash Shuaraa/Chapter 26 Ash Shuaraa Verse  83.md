@@ -452,6 +452,18 @@ Rabbi Hab Lī Ĥukmāan Wa 'Alĥiqnī Biş-Şāliĥīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+رب هب لي حكما والحقني بالصالحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَبِّ هَبۡ لِی حُكۡمࣰا وَأَلۡحِقۡنِی بِٱلصَّـٰلِحِینَ
 
 | Details |  |

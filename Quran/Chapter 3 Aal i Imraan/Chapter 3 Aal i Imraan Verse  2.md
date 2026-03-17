@@ -452,6 +452,18 @@ Allāhu Lā 'Ilāha 'Illā Huwa Al-Ĥayyu Al-Qayyūmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الله لا اله الا هو الحي القيوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱللَّهُ لَاۤ إِلَـٰهَ إِلَّا هُوَ ٱلۡحَیُّ ٱلۡقَیُّومُ
 
 | Details |  |

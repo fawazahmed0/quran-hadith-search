@@ -452,6 +452,18 @@ Fāstaftihim 'Ahum 'Ashaddu Khalqāan 'Am Man Khalaqnā 'Innā Khalaqnāhum Min 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَمْ مَنْ خَلَقْنَا إِنَّا خَلَقْنَاهُمْ مِنْ طِينٍ لَازِبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاستفتهم اهم اشد خلقا ام من خلقنا انا خلقناهم من طين لازب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱسۡتَفۡتِهِمۡ أَهُمۡ أَشَدُّ خَلۡقًا أَم مَّنۡ خَلَقۡنَاۤۚ إِنَّا خَلَقۡنَـٰهُم مِّن طِینࣲ لَّازِبِۭ
 
 | Details |  |

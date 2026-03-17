@@ -452,6 +452,18 @@ Wa Al-Layli Wa MÄ Wasaqa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاللَّيْلِ وَمَا وَسَقَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والليل وما وسق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّیۡلِ وَمَا وَسَقَ
 
 | Details |  |

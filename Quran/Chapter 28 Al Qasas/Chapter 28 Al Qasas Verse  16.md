@@ -452,6 +452,18 @@ Qāla Rabbi 'Innī Žalamtu Nafsī Fāghfir Lī Faghafara Lahu 'Innahu Huwa Al-G
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي فَغَفَرَ لَهُ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب اني ظلمت نفسي فاغفر لي فغفر له انه هو الغفور الرحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ إِنِّی ظَلَمۡتُ نَفۡسِی فَٱغۡفِرۡ لِی فَغَفَرَ لَهُۥۤۚ إِنَّهُۥ هُوَ ٱلۡغَفُورُ ٱلرَّحِیمُ
 
 | Details |  |

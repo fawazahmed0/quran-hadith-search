@@ -452,6 +452,18 @@ Yawma Yasma'ūna Aş-Şayĥata Bil-Ĥaqqi Dhālika Yawmu Al-Khurūji
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ يَسْمَعُونَ الصَّيْحَةَ بِالْحَقِّ ذَلِكَ يَوْمُ الْخُرُوجِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم يسمعون الصيحة بالحق ذلك يوم الخروج
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ یَسۡمَعُونَ ٱلصَّیۡحَةَ بِٱلۡحَقِّۚ ذَ ٰلِكَ یَوۡمُ ٱلۡخُرُوجِ
 
 | Details |  |

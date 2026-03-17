@@ -452,6 +452,18 @@ Al-Ladhīna 'Āmanū Bi'āyātinā Wa Kānū Muslimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ آمَنُوا بِآيَاتِنَا وَكَانُوا مُسْلِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين امنوا باياتنا وكانوا مسلمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ ءَامَنُوا۟ بِءَایَـٰتِنَا وَكَانُوا۟ مُسۡلِمِینَ
 
 | Details |  |

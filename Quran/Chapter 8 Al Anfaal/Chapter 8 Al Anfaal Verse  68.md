@@ -452,6 +452,18 @@ Lawlā Kitābun Mina Allāhi Sabaqa Lamassakum Fīmā 'Akhadhtum 'Adhābun 'Až�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَوْلَا كِتَابٌ مِنَ اللَّهِ سَبَقَ لَمَسَّكُمْ فِيمَا أَخَذْتُمْ عَذَابٌ عَظِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لولا كتاب من الله سبق لمسكم فيما اخذتم عذاب عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّوۡلَا كِتَـٰبࣱ مِّنَ ٱللَّهِ سَبَقَ لَمَسَّكُمۡ فِیمَاۤ أَخَذۡتُمۡ عَذَابٌ عَظِیمࣱ
 
 | Details |  |

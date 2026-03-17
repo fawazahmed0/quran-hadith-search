@@ -452,6 +452,18 @@ Fī Biđ'i Sinīna Lillāhi Al-'Amru Min Qablu Wa Min Ba'du Wa Yawma'idhin Yafra
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي بِضْعِ سِنِينَ لِلَّهِ الْأَمْرُ مِنْ قَبْلُ وَمِنْ بَعْدُ وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في بضع سنين لله الامر من قبل ومن بعد ويوميذ يفرح المومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِی بِضۡعِ سِنِینَۗ لِلَّهِ ٱلۡأَمۡرُ مِن قَبۡلُ وَمِنۢ بَعۡدُۚ وَیَوۡمَئِذࣲ یَفۡرَحُ ٱلۡمُؤۡمِنُونَ
 
 | Details |  |

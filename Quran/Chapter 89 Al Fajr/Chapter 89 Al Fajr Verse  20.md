@@ -452,6 +452,18 @@ Wa Tuĥibbūna Al-Māla Ĥubbāan Jammāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتحبون المال حبا جما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتُحِبُّونَ ٱلۡمَالَ حُبࣰّا جَمࣰّا
 
 | Details |  |

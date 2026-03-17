@@ -452,6 +452,18 @@ Alam Ya'lam Bi'anna Allāha Yará
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ يَعْلَمْ بِأَنَّ اللَّهَ يَرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم يعلم بان الله يرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ یَعۡلَم بِأَنَّ ٱللَّهَ یَرَىٰ
 
 | Details |  |

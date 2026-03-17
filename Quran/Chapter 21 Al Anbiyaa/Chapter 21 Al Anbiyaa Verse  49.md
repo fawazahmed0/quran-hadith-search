@@ -452,6 +452,18 @@ Al-Ladhīna Yakhshawna Rabbahum Bil-Ghaybi Wa Hum Mina As-Sā'ati Mushfiqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ وَهُمْ مِنَ السَّاعَةِ مُشْفِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين يخشون ربهم بالغيب وهم من الساعة مشفقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ یَخۡشَوۡنَ رَبَّهُم بِٱلۡغَیۡبِ وَهُم مِّنَ ٱلسَّاعَةِ مُشۡفِقُونَ
 
 | Details |  |

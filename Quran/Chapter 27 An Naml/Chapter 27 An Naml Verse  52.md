@@ -452,6 +452,18 @@ Fatilka Buyūtuhum Khāwiyatan Bimā Žalamū 'Inna Fī Dhālika La'āyatan Liqa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَتِلْكَ بُيُوتُهُمْ خَاوِيَةً بِمَا ظَلَمُوا إِنَّ فِي ذَلِكَ لَآيَةً لِقَوْمٍ يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فتلك بيوتهم خاوية بما ظلموا ان في ذلك لاية لقوم يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَتِلۡكَ بُیُوتُهُمۡ خَاوِیَةَۢ بِمَا ظَلَمُوۤا۟ۚ إِنَّ فِی ذَ ٰلِكَ لَءَایَةࣰ لِّقَوۡمࣲ یَعۡلَمُونَ
 
 | Details |  |

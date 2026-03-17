@@ -452,6 +452,18 @@ Fānžur Kayfa Kāna 'Āqibatu Makrihim 'Annā Dammarnāhum Wa Qawmahum 'Ajma'ī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ مَكْرِهِمْ أَنَّا دَمَّرْنَاهُمْ وَقَوْمَهُمْ أَجْمَعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانظر كيف كان عاقبة مكرهم انا دمرناهم وقومهم اجمعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱنظُرۡ كَیۡفَ كَانَ عَـٰقِبَةُ مَكۡرِهِمۡ أَنَّا دَمَّرۡنَـٰهُمۡ وَقَوۡمَهُمۡ أَجۡمَعِینَ
 
 | Details |  |

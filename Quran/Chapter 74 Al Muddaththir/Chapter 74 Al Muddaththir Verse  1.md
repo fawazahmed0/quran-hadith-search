@@ -452,6 +452,18 @@ Yā 'Ayyuhā Al-Muddaththiru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيُّهَا الْمُدَّثِّرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايها المدثر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَیُّهَا ٱلۡمُدَّثِّرُ
 
 | Details |  |

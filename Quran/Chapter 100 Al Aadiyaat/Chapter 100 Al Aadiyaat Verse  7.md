@@ -452,6 +452,18 @@ Wa 'Innahu 'Alá Dhālika Lashahīdun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّهُ عَلَى ذَلِكَ لَشَهِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه على ذلك لشهيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّهُۥ عَلَىٰ ذَ ٰلِكَ لَشَهِیدࣱ
 
 | Details |  |

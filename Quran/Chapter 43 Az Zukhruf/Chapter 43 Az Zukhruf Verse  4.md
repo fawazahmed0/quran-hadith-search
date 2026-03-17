@@ -452,6 +452,18 @@ Wa 'Innahu Fī 'Ummi Al-Kitābi Ladaynā La'alīyun Ĥakīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّهُ فِي أُمِّ الْكِتَابِ لَدَيْنَا لَعَلِيٌّ حَكِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه في ام الكتاب لدينا لعلي حكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّهُۥ فِیۤ أُمِّ ٱلۡكِتَـٰبِ لَدَیۡنَا لَعَلِیٌّ حَكِیمٌ
 
 | Details |  |

@@ -452,6 +452,18 @@ Aqra' Biāsmi Rabbika Al-Ladhī Khalaqa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اقرا باسم ربك الذي خلق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِی خَلَقَ
 
 | Details |  |

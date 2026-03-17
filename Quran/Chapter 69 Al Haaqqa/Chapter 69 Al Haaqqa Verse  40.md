@@ -452,6 +452,18 @@ Innahu Laqawlu Rasūlin Karīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انه لقول رسول كريم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُۥ لَقَوۡلُ رَسُولࣲ كَرِیمࣲ
 
 | Details |  |

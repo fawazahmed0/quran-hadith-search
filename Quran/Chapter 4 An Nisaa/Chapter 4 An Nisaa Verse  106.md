@@ -452,6 +452,18 @@ Wa Astaghfiri Allāha 'Inna Allāha Kāna Ghafūrāan Raĥīmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاسْتَغْفِرِ اللَّهَ إِنَّ اللَّهَ كَانَ غَفُورًا رَحِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واستغفر الله ان الله كان غفورا رحيما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱسۡتَغۡفِرِ ٱللَّهَۖ إِنَّ ٱللَّهَ كَانَ غَفُورࣰا رَّحِیمࣰا
 
 | Details |  |

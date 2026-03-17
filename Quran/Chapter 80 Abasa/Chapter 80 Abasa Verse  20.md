@@ -452,6 +452,18 @@ Thumma As-Sabīla Yassarahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ السَّبِيلَ يَسَّرَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم السبيل يسره
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ ٱلسَّبِیلَ یَسَّرَهُۥ
 
 | Details |  |

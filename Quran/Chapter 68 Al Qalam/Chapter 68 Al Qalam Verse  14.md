@@ -452,6 +452,18 @@ An Kāna Dhā Mālin Wa Banīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَنْ كَانَ ذَا مَالٍ وَبَنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان كان ذا مال وبنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَن كَانَ ذَا مَالࣲ وَبَنِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Rabbanā 'Innaka Jāmi'u An-Nāsi Liyawmin Lā Rayba Fīhi 'Inna Allāha Lā Yuk
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبَّنَا إِنَّكَ جَامِعُ النَّاسِ لِيَوْمٍ لَا رَيْبَ فِيهِ إِنَّ اللَّهَ لَا يُخْلِفُ الْمِيعَادَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ربنا انك جامع الناس ليوم لا ريب فيه ان الله لا يخلف الميعاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَبَّنَاۤ إِنَّكَ جَامِعُ ٱلنَّاسِ لِیَوۡمࣲ لَّا رَیۡبَ فِیهِۚ إِنَّ ٱللَّهَ لَا یُخۡلِفُ ٱلۡمِیعَادَ
 
 | Details |  |

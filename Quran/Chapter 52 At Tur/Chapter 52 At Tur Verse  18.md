@@ -452,6 +452,18 @@ Fākihīna Bimā 'Ātāhum Rabbuhum Wa Waqāhum Rabbuhum 'Adhāba Al-Jaĥīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاكِهِينَ بِمَا آتَاهُمْ رَبُّهُمْ وَوَقَاهُمْ رَبُّهُمْ عَذَابَ الْجَحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاكهين بما اتاهم ربهم ووقاهم ربهم عذاب الجحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَـٰكِهِینَ بِمَاۤ ءَاتَىٰهُمۡ رَبُّهُمۡ وَوَقَىٰهُمۡ رَبُّهُمۡ عَذَابَ ٱلۡجَحِیمِ
 
 | Details |  |

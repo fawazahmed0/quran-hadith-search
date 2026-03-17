@@ -452,6 +452,18 @@ Wa Tađĥakūna Wa Lā Tabkūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَضْحَكُونَ وَلَا تَبْكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتضحكون ولا تبكون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَضۡحَكُونَ وَلَا تَبۡكُونَ
 
 | Details |  |

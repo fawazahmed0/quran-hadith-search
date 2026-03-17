@@ -452,6 +452,18 @@ Wa Taj'alūna Rizqakum 'Annakum Tukadhibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتجعلون رزقكم انكم تكذبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ
 
 | Details |  |

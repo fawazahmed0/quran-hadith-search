@@ -452,6 +452,18 @@ Inna Allāha Lā Yažlimu An-Nāsa Shay'āan Wa Lakinna An-Nāsa 'Anfusahum Yaž
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ اللَّهَ لَا يَظْلِمُ النَّاسَ شَيْئًا وَلَكِنَّ النَّاسَ أَنْفُسَهُمْ يَظْلِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الله لا يظلم الناس شييا ولكن الناس انفسهم يظلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱللَّهَ لَا یَظۡلِمُ ٱلنَّاسَ شَیۡءࣰا وَلَـٰكِنَّ ٱلنَّاسَ أَنفُسَهُمۡ یَظۡلِمُونَ
 
 | Details |  |

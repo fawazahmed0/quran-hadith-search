@@ -452,6 +452,18 @@ Wa 'Innahu Latadhkiratun Lilmuttaqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّهُ لَتَذْكِرَةٌ لِلْمُتَّقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه لتذكرة للمتقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّهُۥ لَتَذۡكِرَةࣱ لِّلۡمُتَّقِینَ
 
 | Details |  |

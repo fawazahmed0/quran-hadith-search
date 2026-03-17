@@ -452,6 +452,18 @@ Wa Lakum Fī Al-Qişāşi Ĥayāatun Yā 'Ūlī Al-'Albābi La'allakum Tattaqūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَكُمْ فِي الْقِصَاصِ حَيَاةٌ يَا أُولِي الْأَلْبَابِ لَعَلَّكُمْ تَتَّقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولكم في القصاص حياة يا اولي الالباب لعلكم تتقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَكُمۡ فِی ٱلۡقِصَاصِ حَیَوٰةࣱ یَـٰۤأُو۟لِی ٱلۡأَلۡبَـٰبِ لَعَلَّكُمۡ تَتَّقُونَ
 
 | Details |  |

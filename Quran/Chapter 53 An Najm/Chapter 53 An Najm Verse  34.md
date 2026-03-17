@@ -452,6 +452,18 @@ Wa 'A'ţá Qalīlāan Wa 'Akdá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَعْطَى قَلِيلًا وَأَكْدَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واعطى قليلا واكدى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَعۡطَىٰ قَلِیلࣰا وَأَكۡدَىٰۤ
 
 | Details |  |

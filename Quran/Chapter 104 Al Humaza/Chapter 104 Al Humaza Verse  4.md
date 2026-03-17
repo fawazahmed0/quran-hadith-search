@@ -452,6 +452,18 @@ Kallā Layunbadhanna Fī Al-Ĥuţamahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا لَيُنْبَذَنَّ فِي الْحُطَمَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا لينبذن في الحطمة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّاۖ لَیُنۢبَذَنَّ فِی ٱلۡحُطَمَةِ
 
 | Details |  |

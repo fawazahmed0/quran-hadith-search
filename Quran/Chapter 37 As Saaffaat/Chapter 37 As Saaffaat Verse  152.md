@@ -452,6 +452,18 @@ Walada Allāhu Wa 'Innahum Lakādhibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَدَ اللَّهُ وَإِنَّهُمْ لَكَاذِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولد الله وانهم لكاذبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَدَ ٱللَّهُ وَإِنَّهُمۡ لَكَـٰذِبُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla Kallā 'Inna Ma'iya Rabbī Sayahdīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ كَلَّا إِنَّ مَعِيَ رَبِّي سَيَهْدِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال كلا ان معي ربي سيهدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ كَلَّاۤۖ إِنَّ مَعِیَ رَبِّی سَیَهۡدِینِ
 
 | Details |  |

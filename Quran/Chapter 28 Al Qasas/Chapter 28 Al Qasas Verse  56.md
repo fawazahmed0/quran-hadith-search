@@ -452,6 +452,18 @@ Innaka Lā Tahdī Man 'Aĥbabta Wa Lakinna Allāha Yahdī Man Yashā'u Wa Huwa '
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَكِنَّ اللَّهَ يَهْدِي مَنْ يَشَاءُ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انك لا تهدي من احببت ولكن الله يهدي من يشاء وهو اعلم بالمهتدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّكَ لَا تَهۡدِی مَنۡ أَحۡبَبۡتَ وَلَـٰكِنَّ ٱللَّهَ یَهۡدِی مَن یَشَاۤءُۚ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِینَ
 
 | Details |  |

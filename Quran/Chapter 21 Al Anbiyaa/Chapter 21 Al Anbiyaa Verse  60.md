@@ -452,6 +452,18 @@ Qālū Sami'nā Fatáan Yadhkuruhum Yuqālu Lahu 'Ibrāhīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا سَمِعْنَا فَتًى يَذْكُرُهُمْ يُقَالُ لَهُ إِبْرَاهِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا سمعنا فتى يذكرهم يقال له ابراهيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ سَمِعۡنَا فَتࣰى یَذۡكُرُهُمۡ یُقَالُ لَهُۥۤ إِبۡرَ ٰهِیمُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Futiĥati As-Samā'u Fakānat 'Abwābāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفتحت السماء فكانت ابوابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفُتِحَتِ ٱلسَّمَاۤءُ فَكَانَتۡ أَبۡوَ ٰبࣰا
 
 | Details |  |

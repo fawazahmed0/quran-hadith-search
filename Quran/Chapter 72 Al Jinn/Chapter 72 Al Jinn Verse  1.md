@@ -452,6 +452,18 @@ Qul 'Ūĥiya 'Ilayya 'Annahu Astama'a Nafarun Mina Al-Jinni Faqālū 'Innā Sami
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ فَقَالُوا إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل اوحي الي انه استمع نفر من الجن فقالوا انا سمعنا قرانا عجبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ قُلۡ أُوحِیَ إِلَیَّ أَنَّهُ ٱسۡتَمَعَ نَفَرࣱ مِّنَ ٱلۡجِنِّ فَقَالُوۤا۟ إِنَّا سَمِعۡنَا قُرۡءَانًا عَجَبࣰا
 
 | Details |  |

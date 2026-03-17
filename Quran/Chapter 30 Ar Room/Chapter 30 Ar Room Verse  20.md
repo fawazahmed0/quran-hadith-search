@@ -452,6 +452,18 @@ Wa Min 'Āyātihi 'An Khalaqakum Min Turābin Thumma 'Idhā 'Antum Basharun Tant
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنْ آيَاتِهِ أَنْ خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ إِذَا أَنْتُمْ بَشَرٌ تَنْتَشِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن اياته ان خلقكم من تراب ثم اذا انتم بشر تنتشرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِنۡ ءَایَـٰتِهِۦۤ أَنۡ خَلَقَكُم مِّن تُرَابࣲ ثُمَّ إِذَاۤ أَنتُم بَشَرࣱ تَنتَشِرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Idh Faraqnā Bikumu Al-Baĥra Fa'anjaynākum Wa 'Aghraqnā 'Āla Fir'awna Wa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذْ فَرَقْنَا بِكُمُ الْبَحْرَ فَأَنْجَيْنَاكُمْ وَأَغْرَقْنَا آلَ فِرْعَوْنَ وَأَنْتُمْ تَنْظُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذ فرقنا بكم البحر فانجيناكم واغرقنا ال فرعون وانتم تنظرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذۡ فَرَقۡنَا بِكُمُ ٱلۡبَحۡرَ فَأَنجَیۡنَـٰكُمۡ وَأَغۡرَقۡنَاۤ ءَالَ فِرۡعَوۡنَ وَأَنتُمۡ تَنظُرُونَ
 
 | Details |  |

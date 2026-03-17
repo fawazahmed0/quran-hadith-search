@@ -452,6 +452,18 @@ Wa Al-Layli 'Idhā Sajá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاللَّيْلِ إِذَا سَجَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والليل اذا سجى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّیۡلِ إِذَا سَجَىٰ
 
 | Details |  |

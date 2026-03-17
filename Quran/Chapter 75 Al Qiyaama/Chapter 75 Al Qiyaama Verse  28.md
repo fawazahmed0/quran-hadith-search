@@ -452,6 +452,18 @@ Wa Žanna 'Annahu Al-Firāqu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَظَنَّ أَنَّهُ الْفِرَاقُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وظن انه الفراق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَظَنَّ أَنَّهُ ٱلۡفِرَاقُ
 
 | Details |  |

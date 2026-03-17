@@ -452,6 +452,18 @@ Wa Thamūda Al-Ladhīna Jābū Aş-Şakhra Bil-Wādi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وثمود الذين جابوا الصخر بالواد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَثَمُودَ ٱلَّذِینَ جَابُوا۟ ٱلصَّخۡرَ بِٱلۡوَادِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Alá Qalbika Litakūna Mina Al-Mundhirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَلَى قَلْبِكَ لِتَكُونَ مِنَ الْمُنْذِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+على قلبك لتكون من المنذرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَلَىٰ قَلۡبِكَ لِتَكُونَ مِنَ ٱلۡمُنذِرِینَ
 
 | Details |  |

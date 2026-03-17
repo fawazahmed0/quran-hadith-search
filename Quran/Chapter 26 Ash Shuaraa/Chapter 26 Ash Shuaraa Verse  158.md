@@ -452,6 +452,18 @@ Fa'akhadhahumu Al-'Adhābu 'Inna Fī Dhālika La'āyatan Wa Mā Kāna 'Aktharuhu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَخَذَهُمُ الْعَذَابُ إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاخذهم العذاب ان في ذلك لاية وما كان اكثرهم مومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَخَذَهُمُ ٱلۡعَذَابُۚ إِنَّ فِی ذَ ٰلِكَ لَءَایَةࣰۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِینَ
 
 | Details |  |

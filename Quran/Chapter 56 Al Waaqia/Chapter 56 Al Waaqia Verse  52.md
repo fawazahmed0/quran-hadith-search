@@ -452,6 +452,18 @@ La'ākilūna Min Shajarin Min Zaqqūmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَآكِلُونَ مِنْ شَجَرٍ مِنْ زَقُّومٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لاكلون من شجر من زقوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَءَاكِلُونَ مِن شَجَرࣲ مِّن زَقُّومࣲ
 
 | Details |  |

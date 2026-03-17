@@ -452,6 +452,18 @@ Famā Kāna Da'wāhum 'Idh Jā'ahum Ba'sunā 'Illā 'An Qālū 'Innā Kunnā Ž�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَا كَانَ دَعْوَاهُمْ إِذْ جَاءَهُمْ بَأْسُنَا إِلَّا أَنْ قَالُوا إِنَّا كُنَّا ظَالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فما كان دعواهم اذ جاءهم باسنا الا ان قالوا انا كنا ظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَا كَانَ دَعۡوَىٰهُمۡ إِذۡ جَاۤءَهُم بَأۡسُنَاۤ إِلَّاۤ أَن قَالُوۤا۟ إِنَّا كُنَّا ظَـٰلِمِینَ
 
 | Details |  |

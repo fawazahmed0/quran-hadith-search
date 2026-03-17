@@ -452,6 +452,18 @@ Aw Nuriyannaka Al-Ladhī Wa'adnāhum Fa'innā 'Alayhim Muqtadirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْ نُرِيَنَّكَ الَّذِي وَعَدْنَاهُمْ فَإِنَّا عَلَيْهِمْ مُقْتَدِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+او نرينك الذي وعدناهم فانا عليهم مقتدرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوۡ نُرِیَنَّكَ ٱلَّذِی وَعَدۡنَـٰهُمۡ فَإِنَّا عَلَیۡهِم مُّقۡتَدِرُونَ
 
 | Details |  |

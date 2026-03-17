@@ -452,6 +452,18 @@ Wa Al-Ladhī Yumītunī Thumma Yuĥyīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِي يُمِيتُنِي ثُمَّ يُحْيِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذي يميتني ثم يحيين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِی یُمِیتُنِی ثُمَّ یُحۡیِینِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Kulluhum 'Ātīhi Yawma Al-Qiyāmati Fardāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكُلُّهُمْ آتِيهِ يَوْمَ الْقِيَامَةِ فَرْدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكلهم اتيه يوم القيامة فردا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكُلُّهُمۡ ءَاتِیهِ یَوۡمَ ٱلۡقِیَـٰمَةِ فَرۡدًا
 
 | Details |  |

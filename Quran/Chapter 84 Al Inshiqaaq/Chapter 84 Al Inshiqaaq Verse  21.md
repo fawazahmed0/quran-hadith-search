@@ -452,6 +452,18 @@ Wa 'IdhÄ Quri'a 'Alayhimu Al-Qur'Änu LÄ YasjudÅ«na
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا قري عليهم القران لا يسجدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا قُرِئَ عَلَیۡهِمُ ٱلۡقُرۡءَانُ لَا یَ̅سۡ̅جُ̅دُ̅و̅نَ̅ ۩
 
 | Details |  |

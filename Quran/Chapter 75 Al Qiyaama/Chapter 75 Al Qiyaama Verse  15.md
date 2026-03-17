@@ -452,6 +452,18 @@ Wa Law 'Alqá Ma'ādhīrahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْ أَلْقَى مَعَاذِيرَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولو القى معاذيره
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡ أَلۡقَىٰ مَعَاذِیرَهُۥ
 
 | Details |  |

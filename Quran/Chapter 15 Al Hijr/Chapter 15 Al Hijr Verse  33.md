@@ -452,6 +452,18 @@ Qāla Lam 'Akun Li'sjuda Libasharin Khalaqtahu Min Şalşālin Min Ĥama'iin Mas
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ لَمْ أَكُنْ لِأَسْجُدَ لِبَشَرٍ خَلَقْتَهُ مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال لم اكن لاسجد لبشر خلقته من صلصال من حما مسنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ لَمۡ أَكُن لِّأَسۡجُدَ لِبَشَرٍ خَلَقۡتَهُۥ مِن صَلۡصَـٰلࣲ مِّنۡ حَمَإࣲ مَّسۡنُونࣲ
 
 | Details |  |

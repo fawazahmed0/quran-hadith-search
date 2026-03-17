@@ -452,6 +452,18 @@ Yad'ū Min Dūni Allāhi Mā Lā Yađurruhu Wa Mā Lā Yanfa'uhu Dhālika Huwa A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَدْعُو مِنْ دُونِ اللَّهِ مَا لَا يَضُرُّهُ وَمَا لَا يَنْفَعُهُ ذَلِكَ هُوَ الضَّلَالُ الْبَعِيدُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يدعو من دون الله ما لا يضره وما لا ينفعه ذلك هو الضلال البعيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَدۡعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا یَضُرُّهُۥ وَمَا لَا یَنفَعُهُۥۚ ذَ ٰلِكَ هُوَ ٱلضَّلَـٰلُ ٱلۡبَعِیدُ
 
 | Details |  |

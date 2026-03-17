@@ -452,6 +452,18 @@ Sa'ala Sā'ilun Bi'adhābin Wāqi'in
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سال سايل بعذاب واقع
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَأَلَ سَاۤئِلُۢ بِعَذَابࣲ وَاقِعࣲ
 
 | Details |  |

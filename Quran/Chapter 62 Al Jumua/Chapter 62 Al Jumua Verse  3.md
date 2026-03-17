@@ -452,6 +452,18 @@ Wa 'Ākharīna Minhum Lammā Yalĥaqū Bihim Wa Huwa Al-'Azīzu Al-Ĥakīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَآخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واخرين منهم لما يلحقوا بهم وهو العزيز الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَءَاخَرِینَ مِنۡهُمۡ لَمَّا یَلۡحَقُوا۟ بِهِمۡۚ وَهُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
 
 | Details |  |

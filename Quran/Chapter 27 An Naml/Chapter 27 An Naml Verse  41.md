@@ -452,6 +452,18 @@ Qāla Nakkirū Lahā 'Arshahā Nanžur 'Atahtadī 'Am Takūnu Mina Al-Ladhīna L
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ نَكِّرُوا لَهَا عَرْشَهَا نَنْظُرْ أَتَهْتَدِي أَمْ تَكُونُ مِنَ الَّذِينَ لَا يَهْتَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال نكروا لها عرشها ننظر اتهتدي ام تكون من الذين لا يهتدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ نَكِّرُوا۟ لَهَا عَرۡشَهَا نَنظُرۡ أَتَهۡتَدِیۤ أَمۡ تَكُونُ مِنَ ٱلَّذِینَ لَا یَهۡتَدُونَ
 
 | Details |  |

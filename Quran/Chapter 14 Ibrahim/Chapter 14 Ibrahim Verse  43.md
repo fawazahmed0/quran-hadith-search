@@ -452,6 +452,18 @@ Muhţi'īna Muqni'ī Ru'ūsihim Lā Yartaddu 'Ilayhim Ţarfuhum Wa 'Af'idatuhum 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مُهْطِعِينَ مُقْنِعِي رُءُوسِهِمْ لَا يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ وَأَفْئِدَتُهُمْ هَوَاءٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+مهطعين مقنعي رءوسهم لا يرتد اليهم طرفهم وافيدتهم هواء
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مُهۡطِعِینَ مُقۡنِعِی رُءُوسِهِمۡ لَا یَرۡتَدُّ إِلَیۡهِمۡ طَرۡفُهُمۡۖ وَأَفۡءِدَتُهُمۡ هَوَاۤءࣱ
 
 | Details |  |

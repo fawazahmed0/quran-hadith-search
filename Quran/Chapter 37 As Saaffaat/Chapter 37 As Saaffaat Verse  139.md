@@ -452,6 +452,18 @@ Wa 'Inna Yūnis Lamina Al-Mursalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ يُونُسَ لَمِنَ الْمُرْسَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان يونس لمن المرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ یُونُسَ لَمِنَ ٱلۡمُرۡسَلِینَ
 
 | Details |  |

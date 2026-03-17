@@ -452,6 +452,18 @@ Fa'ashārat 'Ilayhi Qālū Kayfa Nukallimu Man Kāna Fī Al-Mahdi Şabīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَشَارَتْ إِلَيْهِ قَالُوا كَيْفَ نُكَلِّمُ مَنْ كَانَ فِي الْمَهْدِ صَبِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاشارت اليه قالوا كيف نكلم من كان في المهد صبيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَشَارَتۡ إِلَیۡهِۖ قَالُوا۟ كَیۡفَ نُكَلِّمُ مَن كَانَ فِی ٱلۡمَهۡدِ صَبِیࣰّا
 
 | Details |  |

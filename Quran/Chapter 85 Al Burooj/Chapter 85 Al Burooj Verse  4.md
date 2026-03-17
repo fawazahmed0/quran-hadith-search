@@ -452,6 +452,18 @@ Qutila 'Aşĥābu Al-'Ukhdūdi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُتِلَ أَصْحَابُ الْأُخْدُودِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قتل اصحاب الاخدود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُتِلَ أَصۡحَـٰبُ ٱلۡأُخۡدُودِ
 
 | Details |  |

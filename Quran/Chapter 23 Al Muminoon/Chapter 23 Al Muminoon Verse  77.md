@@ -452,6 +452,18 @@ Hatta 'Idha Fatahna 'Alayhim Babaan Dha 'Adhabin Shadidin 'Idha Hum Fihi Mublisu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+حَتَّى إِذَا فَتَحْنَا عَلَيْهِمْ بَابًا ذَا عَذَابٍ شَدِيدٍ إِذَا هُمْ فِيهِ مُبْلِسُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+حتى اذا فتحنا عليهم بابا ذا عذاب شديد اذا هم فيه مبلسون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 حَتَّىٰۤ إِذَا فَتَحۡنَا عَلَیۡهِم بَابࣰا ذَا عَذَابࣲ شَدِیدٍ إِذَا هُمۡ فِیهِ مُبۡلِسُونَ
 
 | Details |  |

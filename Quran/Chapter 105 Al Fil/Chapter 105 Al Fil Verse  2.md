@@ -452,6 +452,18 @@ Alam Yaj'al Kaydahum Fī Tađlīlin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم يجعل كيدهم في تضليل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ یَجۡعَلۡ كَیۡدَهُمۡ فِی تَضۡلِیلࣲ
 
 | Details |  |

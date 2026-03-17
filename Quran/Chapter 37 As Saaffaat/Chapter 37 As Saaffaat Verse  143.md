@@ -452,6 +452,18 @@ Falawlā 'Annahu Kāna Mina Al-Musabbiĥīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَوْلَا أَنَّهُ كَانَ مِنَ الْمُسَبِّحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلولا انه كان من المسبحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَوۡلَاۤ أَنَّهُۥ كَانَ مِنَ ٱلۡمُسَبِّحِینَ
 
 | Details |  |

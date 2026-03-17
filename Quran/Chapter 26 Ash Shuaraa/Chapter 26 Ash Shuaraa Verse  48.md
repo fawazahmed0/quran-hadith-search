@@ -452,6 +452,18 @@ Rabbi Mūsá Wa Hārūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبِّ مُوسَى وَهَارُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+رب موسى وهارون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَبِّ مُوسَىٰ وَهَـٰرُونَ
 
 | Details |  |

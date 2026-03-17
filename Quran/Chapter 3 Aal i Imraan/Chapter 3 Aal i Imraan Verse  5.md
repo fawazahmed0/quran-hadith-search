@@ -452,6 +452,18 @@ Inna Allāha Lā Yakhfá 'Alayhi Shay'un Fī Al-'Arđi Wa Lā Fī As-Samā'i
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ اللَّهَ لَا يَخْفَى عَلَيْهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الله لا يخفى عليه شيء في الارض ولا في السماء
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱللَّهَ لَا یَخۡفَىٰ عَلَیۡهِ شَیۡءࣱ فِی ٱلۡأَرۡضِ وَلَا فِی ٱلسَّمَاۤءِ
 
 | Details |  |

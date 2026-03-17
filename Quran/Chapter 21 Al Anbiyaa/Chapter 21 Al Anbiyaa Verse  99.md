@@ -452,6 +452,18 @@ Law Kāna Hā'uulā' 'Ālihatan Mā Waradūhā Wa Kullun Fīhā Khālidūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَوْ كَانَ هَؤُلَاءِ آلِهَةً مَا وَرَدُوهَا وَكُلٌّ فِيهَا خَالِدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لو كان هولاء الهة ما وردوها وكل فيها خالدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَوۡ كَانَ هَـٰۤؤُلَاۤءِ ءَالِهَةࣰ مَّا وَرَدُوهَاۖ وَكُلࣱّ فِیهَا خَـٰلِدُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Idhā 'Ulqū Minhā Makānāan Đayyiqāan Muqarranīna Da'aw Hunālika Thub
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا أُلْقُوا مِنْهَا مَكَانًا ضَيِّقًا مُقَرَّنِينَ دَعَوْا هُنَالِكَ ثُبُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا القوا منها مكانا ضيقا مقرنين دعوا هنالك ثبورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَاۤ أُلۡقُوا۟ مِنۡهَا مَكَانࣰا ضَیِّقࣰا مُّقَرَّنِینَ دَعَوۡا۟ هُنَالِكَ ثُبُورࣰا
 
 | Details |  |

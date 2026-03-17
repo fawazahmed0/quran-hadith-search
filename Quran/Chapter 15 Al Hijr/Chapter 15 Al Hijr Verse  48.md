@@ -452,6 +452,18 @@ Lā Yamassuhum Fīhā Naşabun Wa Mā Hum Minhā Bimukhrajīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَا هُمْ مِنْهَا بِمُخْرَجِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يمسهم فيها نصب وما هم منها بمخرجين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا یَمَسُّهُمۡ فِیهَا نَصَبࣱ وَمَا هُم مِّنۡهَا بِمُخۡرَجِینَ
 
 | Details |  |

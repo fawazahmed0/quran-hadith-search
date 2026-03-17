@@ -452,6 +452,18 @@ Qālū Famā Jazā'uuhu 'In Kuntum Kādhibīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا فَمَا جَزَاؤُهُ إِنْ كُنْتُمْ كَاذِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا فما جزاوه ان كنتم كاذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ فَمَا جَزَ ٰۤؤُهُۥۤ إِن كُنتُمۡ كَـٰذِبِینَ
 
 | Details |  |

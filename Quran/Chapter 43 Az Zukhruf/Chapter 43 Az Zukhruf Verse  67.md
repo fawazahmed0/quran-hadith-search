@@ -452,6 +452,18 @@ Al-'Akhillā'u Yawma'idhin Ba'đuhum Liba'đin 'Adūwun 'Illā Al-Muttaqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الْأَخِلَّاءُ يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا الْمُتَّقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الاخلاء يوميذ بعضهم لبعض عدو الا المتقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلۡأَخِلَّاۤءُ یَوۡمَئِذِۭ بَعۡضُهُمۡ لِبَعۡضٍ عَدُوٌّ إِلَّا ٱلۡمُتَّقِینَ
 
 | Details |  |

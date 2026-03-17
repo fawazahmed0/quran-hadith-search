@@ -452,6 +452,18 @@ Duĥūrāan Wa Lahum 'Adhābun Wa Aşibun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+دُحُورًا وَلَهُمْ عَذَابٌ وَاصِبٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+دحورا ولهم عذاب واصب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 دُحُورࣰاۖ وَلَهُمۡ عَذَابࣱ وَاصِبٌ
 
 | Details |  |

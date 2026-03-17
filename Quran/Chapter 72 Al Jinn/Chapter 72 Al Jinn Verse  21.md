@@ -452,6 +452,18 @@ Qul 'Innī Lā 'Amliku Lakum Đarrāan Wa Lā Rashadāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ إِنِّي لَا أَمْلِكُ لَكُمْ ضَرًّا وَلَا رَشَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل اني لا املك لكم ضرا ولا رشدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ إِنِّی لَاۤ أَمۡلِكُ لَكُمۡ ضَرࣰّا وَلَا رَشَدࣰا
 
 | Details |  |

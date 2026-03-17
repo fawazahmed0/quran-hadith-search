@@ -452,6 +452,18 @@ Wa Ka'ayyin Min 'Āyatin Fī As-Samāwāti Wa Al-'Arđi Yamurrūna 'Alayhā Wa H
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَأَيِّنْ مِنْ آيَةٍ فِي السَّمَاوَاتِ وَالْأَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكاين من اية في السماوات والارض يمرون عليها وهم عنها معرضون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَأَیِّن مِّنۡ ءَایَةࣲ فِی ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ یَمُرُّونَ عَلَیۡهَا وَهُمۡ عَنۡهَا مُعۡرِضُونَ
 
 | Details |  |

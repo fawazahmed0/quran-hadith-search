@@ -452,6 +452,18 @@ Fa'anjaynāhu Wa 'Aşĥāba As-Safīnati Wa Ja'alnāhā 'Āyatan Lil'ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَنْجَيْنَاهُ وَأَصْحَابَ السَّفِينَةِ وَجَعَلْنَاهَا آيَةً لِلْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانجيناه واصحاب السفينة وجعلناها اية للعالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَنجَیۡنَـٰهُ وَأَصۡحَـٰبَ ٱلسَّفِینَةِ وَجَعَلۡنَـٰهَاۤ ءَایَةࣰ لِّلۡعَـٰلَمِینَ
 
 | Details |  |

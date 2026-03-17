@@ -452,6 +452,18 @@ Wa Kam Min Qaryatin 'Ahlaknāhā Fajā'ahā Ba'sunā Bayātāan 'Aw Hum Qā'ilū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَمْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا فَجَاءَهَا بَأْسُنَا بَيَاتًا أَوْ هُمْ قَائِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكم من قرية اهلكناها فجاءها باسنا بياتا او هم قايلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَم مِّن قَرۡیَةٍ أَهۡلَكۡنَـٰهَا فَجَاۤءَهَا بَأۡسُنَا بَیَـٰتًا أَوۡ هُمۡ قَاۤئِلُونَ
 
 | Details |  |

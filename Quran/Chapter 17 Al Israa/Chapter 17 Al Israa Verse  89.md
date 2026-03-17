@@ -452,6 +452,18 @@ Wa Laqad Şarrafnā Lilnnāsi Fī Hādhā Al-Qur'āni Min Kulli Mathalin Fa'abá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ صَرَّفْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِنْ كُلِّ مَثَلٍ فَأَبَى أَكْثَرُ النَّاسِ إِلَّا كُفُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد صرفنا للناس في هذا القران من كل مثل فابى اكثر الناس الا كفورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ صَرَّفۡنَا لِلنَّاسِ فِی هَـٰذَا ٱلۡقُرۡءَانِ مِن كُلِّ مَثَلࣲ فَأَبَىٰۤ أَكۡثَرُ ٱلنَّاسِ إِلَّا كُفُورࣰا
 
 | Details |  |

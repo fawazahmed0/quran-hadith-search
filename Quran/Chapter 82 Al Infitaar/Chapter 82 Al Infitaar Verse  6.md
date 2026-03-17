@@ -452,6 +452,18 @@ Yā 'Ayyuhā Al-'Insānu Mā Gharraka Birabbika Al-Karīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيُّهَا الْإِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايها الانسان ما غرك بربك الكريم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَیُّهَا ٱلۡإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلۡكَرِیمِ
 
 | Details |  |

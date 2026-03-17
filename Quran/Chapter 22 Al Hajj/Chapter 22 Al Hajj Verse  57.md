@@ -452,6 +452,18 @@ Wa Al-Ladhīna Kafarū Wa Kadhabū Bi'āyātinā Fa'ūlā'ika Lahum 'Adhābun Mu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا فَأُولَئِكَ لَهُمْ عَذَابٌ مُهِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين كفروا وكذبوا باياتنا فاوليك لهم عذاب مهين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ كَفَرُوا۟ وَكَذَّبُوا۟ بِءَایَـٰتِنَا فَأُو۟لَـٰۤئِكَ لَهُمۡ عَذَابࣱ مُّهِینࣱ
 
 | Details |  |

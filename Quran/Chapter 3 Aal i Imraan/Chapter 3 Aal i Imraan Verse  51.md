@@ -452,6 +452,18 @@ Inna Allāha Rabbī Wa Rabbukum Fā'budūhu Hādhā Şirāţun Mustaqīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُسْتَقِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الله ربي وربكم فاعبدوه هذا صراط مستقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱللَّهَ رَبِّی وَرَبُّكُمۡ فَٱعۡبُدُوهُۚ هَـٰذَا صِرَ ٰطࣱ مُّسۡتَقِیمࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa An-Najmu Wa Ash-Shajaru Yasjudāni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والنجم والشجر يسجدان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلنَّجۡمُ وَٱلشَّجَرُ یَسۡجُدَانِ
 
 | Details |  |

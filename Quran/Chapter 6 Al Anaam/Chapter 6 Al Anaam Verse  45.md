@@ -452,6 +452,18 @@ Faquţi'a Dābiru Al-Qawmi Al-Ladhīna Žalamū Wa Al-Ĥamdu Lillāhi Rabbi Al-'
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقُطِعَ دَابِرُ الْقَوْمِ الَّذِينَ ظَلَمُوا وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقطع دابر القوم الذين ظلموا والحمد لله رب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقُطِعَ دَابِرُ ٱلۡقَوۡمِ ٱلَّذِینَ ظَلَمُوا۟ۚ وَٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

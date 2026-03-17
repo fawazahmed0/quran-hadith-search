@@ -452,6 +452,18 @@ Inna Al-Ladhīna Yakhshawna Rabbahum Bil-Ghaybi Lahum Maghfiratun Wa 'Ajrun Kab�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ كَبِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين يخشون ربهم بالغيب لهم مغفرة واجر كبير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ یَخۡشَوۡنَ رَبَّهُم بِٱلۡغَیۡبِ لَهُم مَّغۡفِرَةࣱ وَأَجۡرࣱ كَبِیرࣱ
 
 | Details |  |

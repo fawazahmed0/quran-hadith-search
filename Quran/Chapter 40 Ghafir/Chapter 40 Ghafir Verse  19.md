@@ -452,6 +452,18 @@ Ya'lamu Khā'inata Al-'A'yuni Wa Mā Tukhfī Aş-Şudūru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَعْلَمُ خَائِنَةَ الْأَعْيُنِ وَمَا تُخْفِي الصُّدُورُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يعلم خاينة الاعين وما تخفي الصدور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَعۡلَمُ خَاۤئِنَةَ ٱلۡأَعۡیُنِ وَمَا تُخۡفِی ٱلصُّدُورُ
 
 | Details |  |

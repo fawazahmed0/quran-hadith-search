@@ -452,6 +452,18 @@ Qālū Basharnāka Bil-Ĥaqqi Falā Takun Mina Al-Qāniţīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا بَشَّرْنَاكَ بِالْحَقِّ فَلَا تَكُنْ مِنَ الْقَانِطِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا بشرناك بالحق فلا تكن من القانطين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ بَشَّرۡنَـٰكَ بِٱلۡحَقِّ فَلَا تَكُن مِّنَ ٱلۡقَـٰنِطِینَ
 
 | Details |  |

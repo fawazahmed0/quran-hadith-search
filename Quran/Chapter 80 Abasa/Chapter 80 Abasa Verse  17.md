@@ -452,6 +452,18 @@ Qutila Al-'Insānu Mā 'Akfarahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قتل الانسان ما اكفره
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُتِلَ ٱلۡإِنسَـٰنُ مَاۤ أَكۡفَرَهُۥ
 
 | Details |  |

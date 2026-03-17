@@ -452,6 +452,18 @@ Kadhaba Al-Ladhīna Min Qablihim Fa'atāhumu Al-'Adhābu Min Ĥaythu Lā Yash'ur
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ فَأَتَاهُمُ الْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذب الذين من قبلهم فاتاهم العذاب من حيث لا يشعرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَّبَ ٱلَّذِینَ مِن قَبۡلِهِمۡ فَأَتَىٰهُمُ ٱلۡعَذَابُ مِنۡ حَیۡثُ لَا یَشۡعُرُونَ
 
 | Details |  |

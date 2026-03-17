@@ -452,6 +452,18 @@ Wa Lan Yu'uakhira Allāhu Nafsāan 'Idhā Jā'a 'Ajaluhā Wa Allāhu Khabīrun B
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَنْ يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاءَ أَجَلُهَا وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولن يوخر الله نفسا اذا جاء اجلها والله خبير بما تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَن یُؤَخِّرَ ٱللَّهُ نَفۡسًا إِذَا جَاۤءَ أَجَلُهَاۚ وَٱللَّهُ خَبِیرُۢ بِمَا تَعۡمَلُونَ
 
 | Details |  |

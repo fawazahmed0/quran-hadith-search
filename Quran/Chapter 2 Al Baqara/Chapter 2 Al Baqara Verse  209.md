@@ -452,6 +452,18 @@ Fa'in Zalaltum Min Ba'di Mā Jā'atkumu Al-Bayyinātu Fā'lamū 'Anna Allāha 'A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنْ زَلَلْتُمْ مِنْ بَعْدِ مَا جَاءَتْكُمُ الْبَيِّنَاتُ فَاعْلَمُوا أَنَّ اللَّهَ عَزِيزٌ حَكِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فان زللتم من بعد ما جاءتكم البينات فاعلموا ان الله عزيز حكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِن زَلَلۡتُم مِّنۢ بَعۡدِ مَا جَاۤءَتۡكُمُ ٱلۡبَیِّنَـٰتُ فَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ عَزِیزٌ حَكِیمٌ
 
 | Details |  |

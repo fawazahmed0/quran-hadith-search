@@ -452,6 +452,18 @@ Yaqūlu Al-'Insānu Yawma'idhin 'Ayna Al-Mafarru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَقُولُ الْإِنْسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يقول الانسان يوميذ اين المفر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَقُولُ ٱلۡإِنسَـٰنُ یَوۡمَئِذٍ أَیۡنَ ٱلۡمَفَرُّ
 
 | Details |  |

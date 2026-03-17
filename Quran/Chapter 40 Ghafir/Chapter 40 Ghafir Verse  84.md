@@ -452,6 +452,18 @@ Falammā Ra'aw Ba'sanā Qālū 'Āmannā Billāhi Waĥdahu Wa Kafarnā Bimā Kun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا رَأَوْا بَأْسَنَا قَالُوا آمَنَّا بِاللَّهِ وَحْدَهُ وَكَفَرْنَا بِمَا كُنَّا بِهِ مُشْرِكِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما راوا باسنا قالوا امنا بالله وحده وكفرنا بما كنا به مشركين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّا رَأَوۡا۟ بَأۡسَنَا قَالُوۤا۟ ءَامَنَّا بِٱللَّهِ وَحۡدَهُۥ وَكَفَرۡنَا بِمَا كُنَّا بِهِۦ مُشۡرِكِینَ
 
 | Details |  |

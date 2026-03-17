@@ -452,6 +452,18 @@ Falya'tū Biĥadīthin Mithlihi 'In Kānū Şādiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلْيَأْتُوا بِحَدِيثٍ مِثْلِهِ إِنْ كَانُوا صَادِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلياتوا بحديث مثله ان كانوا صادقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلۡیَأۡتُوا۟ بِحَدِیثࣲ مِّثۡلِهِۦۤ إِن كَانُوا۟ صَـٰدِقِینَ
 
 | Details |  |

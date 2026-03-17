@@ -452,6 +452,18 @@ Ya'lamu Mā Bayna 'Aydīhim Wa Mā Khalfahum Wa Lā Yuĥīţūna Bihi 'Ilmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِهِ عِلْمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يعلم ما بين ايديهم وما خلفهم ولا يحيطون به علما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَعۡلَمُ مَا بَیۡنَ أَیۡدِیهِمۡ وَمَا خَلۡفَهُمۡ وَلَا یُحِیطُونَ بِهِۦ عِلۡمࣰا
 
 | Details |  |

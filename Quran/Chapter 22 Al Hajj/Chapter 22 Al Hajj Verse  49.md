@@ -452,6 +452,18 @@ Qul Yā 'Ayyuhā An-Nāsu 'Innamā 'Anā Lakum Nadhīrun Mubīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ يَا أَيُّهَا النَّاسُ إِنَّمَا أَنَا لَكُمْ نَذِيرٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل يا ايها الناس انما انا لكم نذير مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ یَـٰۤأَیُّهَا ٱلنَّاسُ إِنَّمَاۤ أَنَا۠ لَكُمۡ نَذِیرࣱ مُّبِینࣱ
 
 | Details |  |

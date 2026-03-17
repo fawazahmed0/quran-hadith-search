@@ -452,6 +452,18 @@ Dhawātā 'Afnānin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَوَاتَا أَفْنَانٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذواتا افنان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَوَاتَاۤ أَفۡنَانࣲ
 
 | Details |  |

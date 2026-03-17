@@ -452,6 +452,18 @@ Urubāan 'Atrābāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عُرُبًا أَتْرَابًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عربا اترابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عُرُبًا أَتۡرَابࣰا
 
 | Details |  |

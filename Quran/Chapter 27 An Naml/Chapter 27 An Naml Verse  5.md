@@ -452,6 +452,18 @@ Ula'ika Al-Ladhina Lahum Su'u Al-'Adhabi Wa Hum Fi Al-'Akhirati Humu Al-'Akhsaru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ الَّذِينَ لَهُمْ سُوءُ الْعَذَابِ وَهُمْ فِي الْآخِرَةِ هُمُ الْأَخْسَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك الذين لهم سوء العذاب وهم في الاخرة هم الاخسرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ ٱلَّذِینَ لَهُمۡ سُوۤءُ ٱلۡعَذَابِ وَهُمۡ فِی ٱلۡءَاخِرَةِ هُمُ ٱلۡأَخۡسَرُونَ
 
 | Details |  |

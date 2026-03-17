@@ -452,6 +452,18 @@ La'uqaţţi'anna 'Aydiyakum Wa 'Arjulakum Min Khilāfin Thumma La'uşallibannaku
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُمْ مِنْ خِلَافٍ ثُمَّ لَأُصَلِّبَنَّكُمْ أَجْمَعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لاقطعن ايديكم وارجلكم من خلاف ثم لاصلبنكم اجمعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَأُقَطِّعَنَّ أَیۡدِیَكُمۡ وَأَرۡجُلَكُم مِّنۡ خِلَـٰفࣲ ثُمَّ لَأُصَلِّبَنَّكُمۡ أَجۡمَعِینَ
 
 | Details |  |

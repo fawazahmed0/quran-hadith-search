@@ -452,6 +452,18 @@ Wa Yaqūlūna Matá Hādhā Al-Fatĥu 'In Kuntum Şādiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَقُولُونَ مَتَى هَذَا الْفَتْحُ إِنْ كُنْتُمْ صَادِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويقولون متى هذا الفتح ان كنتم صادقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَقُولُونَ مَتَىٰ هَـٰذَا ٱلۡفَتۡحُ إِن كُنتُمۡ صَـٰدِقِینَ
 
 | Details |  |

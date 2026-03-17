@@ -452,6 +452,18 @@ La'u'adhibannahu 'Adhābāan Shadīdāan 'Aw La'adhbaĥannahu 'Aw Laya'tiyanī B
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَأُعَذِّبَنَّهُ عَذَابًا شَدِيدًا أَوْ لَأَذْبَحَنَّهُ أَوْ لَيَأْتِيَنِّي بِسُلْطَانٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لاعذبنه عذابا شديدا او لاذبحنه او لياتيني بسلطان مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَأُعَذِّبَنَّهُۥ عَذَابࣰا شَدِیدًا أَوۡ لَأَا۟ذۡبَحَنَّهُۥۤ أَوۡ لَیَأۡتِیَنِّی بِسُلۡطَـٰنࣲ مُّبِینࣲ
 
 | Details |  |

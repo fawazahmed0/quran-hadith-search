@@ -452,6 +452,18 @@ Illā Man Tawallá Wa Kafara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا مَنْ تَوَلَّى وَكَفَرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا من تولى وكفر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا مَن تَوَلَّىٰ وَكَفَرَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Lā Yasma'ūna Fīhā Laghwan 'Illā Salāmāan Wa Lahum Rizquhum Fīhā Bukrata
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَسْمَعُونَ فِيهَا لَغْوًا إِلَّا سَلَامًا وَلَهُمْ رِزْقُهُمْ فِيهَا بُكْرَةً وَعَشِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يسمعون فيها لغوا الا سلاما ولهم رزقهم فيها بكرة وعشيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا یَسۡمَعُونَ فِیهَا لَغۡوًا إِلَّا سَلَـٰمࣰاۖ وَلَهُمۡ رِزۡقُهُمۡ فِیهَا بُكۡرَةࣰ وَعَشِیࣰّا
 
 | Details |  |

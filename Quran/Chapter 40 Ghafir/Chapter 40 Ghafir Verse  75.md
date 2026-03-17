@@ -452,6 +452,18 @@ Dhālikum Bimā Kuntum Tafraĥūna Fī Al-'Arđi Bighayri Al-Ĥaqqi Wa Bimā Kun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكُمْ بِمَا كُنْتُمْ تَفْرَحُونَ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَبِمَا كُنْتُمْ تَمْرَحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلكم بما كنتم تفرحون في الارض بغير الحق وبما كنتم تمرحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكُم بِمَا كُنتُمۡ تَفۡرَحُونَ فِی ٱلۡأَرۡضِ بِغَیۡرِ ٱلۡحَقِّ وَبِمَا كُنتُمۡ تَمۡرَحُونَ
 
 | Details |  |

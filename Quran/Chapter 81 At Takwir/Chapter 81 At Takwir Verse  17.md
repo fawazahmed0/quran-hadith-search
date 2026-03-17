@@ -452,6 +452,18 @@ Wa Al-Layli 'Idhā 'As'asa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاللَّيْلِ إِذَا عَسْعَسَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والليل اذا عسعس
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّیۡلِ إِذَا عَسۡعَسَ
 
 | Details |  |

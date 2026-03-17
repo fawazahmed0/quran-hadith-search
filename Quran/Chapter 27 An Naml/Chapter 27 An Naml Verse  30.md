@@ -452,6 +452,18 @@ Innahu Min Sulaymāna Wa 'Innahu Bismi Allāhi Ar-Raĥmāni Ar-Raĥīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُ مِنْ سُلَيْمَانَ وَإِنَّهُ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انه من سليمان وانه بسم الله الرحمن الرحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُۥ مِن سُلَیۡمَـٰنَ وَإِنَّهُۥ بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ
 
 | Details |  |

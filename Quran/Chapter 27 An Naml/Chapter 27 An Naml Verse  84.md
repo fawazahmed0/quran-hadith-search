@@ -452,6 +452,18 @@ Hatta 'Idha Ja'u Qala 'Akadhabtum Bi'ayati Wa Lam Tuhitu Biha 'Ilmaan 'Ammadha K
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+حَتَّى إِذَا جَاءُوا قَالَ أَكَذَّبْتُمْ بِآيَاتِي وَلَمْ تُحِيطُوا بِهَا عِلْمًا أَمَّاذَا كُنْتُمْ تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+حتى اذا جاءوا قال اكذبتم باياتي ولم تحيطوا بها علما اماذا كنتم تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 حَتَّىٰۤ إِذَا جَاۤءُو قَالَ أَكَذَّبۡتُم بِءَایَـٰتِی وَلَمۡ تُحِیطُوا۟ بِهَا عِلۡمًا أَمَّاذَا كُنتُمۡ تَعۡمَلُونَ
 
 | Details |  |

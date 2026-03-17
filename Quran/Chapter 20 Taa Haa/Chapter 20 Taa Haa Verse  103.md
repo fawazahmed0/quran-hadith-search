@@ -452,6 +452,18 @@ Yatakhāfatūna Baynahum 'In Labithtum 'Illā 'Ashrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَتَخَافَتُونَ بَيْنَهُمْ إِنْ لَبِثْتُمْ إِلَّا عَشْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يتخافتون بينهم ان لبثتم الا عشرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَتَخَـٰفَتُونَ بَیۡنَهُمۡ إِن لَّبِثۡتُمۡ إِلَّا عَشۡرࣰا
 
 | Details |  |

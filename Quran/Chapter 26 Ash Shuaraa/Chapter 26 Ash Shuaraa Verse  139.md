@@ -452,6 +452,18 @@ Fakadhabūhu Fa'ahlaknāhum 'Inna Fī Dhālika La'āyatan Wa Mā Kāna 'Aktharuh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكَذَّبُوهُ فَأَهْلَكْنَاهُمْ إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكذبوه فاهلكناهم ان في ذلك لاية وما كان اكثرهم مومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكَذَّبُوهُ فَأَهۡلَكۡنَـٰهُمۡۚ إِنَّ فِی ذَ ٰلِكَ لَءَایَةࣰۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِینَ
 
 | Details |  |

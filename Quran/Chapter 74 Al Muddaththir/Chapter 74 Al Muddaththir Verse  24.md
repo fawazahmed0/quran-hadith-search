@@ -452,6 +452,18 @@ Faqāla 'In Hādhā 'Illā Siĥrun Yu'utharu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقَالَ إِنْ هَذَا إِلَّا سِحْرٌ يُؤْثَرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقال ان هذا الا سحر يوثر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقَالَ إِنۡ هَـٰذَاۤ إِلَّا سِحۡرࣱ یُؤۡثَرُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Law Jā'at/hum Kullu 'Āyatin Ĥattá Yaraw Al-'Adhāba Al-'Alīma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْ جَاءَتْهُمْ كُلُّ آيَةٍ حَتَّى يَرَوُا الْعَذَابَ الْأَلِيمَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولو جاءتهم كل اية حتى يروا العذاب الاليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡ جَاۤءَتۡهُمۡ كُلُّ ءَایَةٍ حَتَّىٰ یَرَوُا۟ ٱلۡعَذَابَ ٱلۡأَلِیمَ
 
 | Details |  |

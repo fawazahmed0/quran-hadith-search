@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه و سلم كُلُّ سُلَامَى مِنْ النَّاسِ عَلَيْهِ صَدَقَةٌ، كُلَّ يَوْمٍ تَطْلُعُ فِيهِ الشَّمْسُ تَعْدِلُ بَيْنَ اثْنَيْنِ صَدَقَةٌ، وَتُعِينُ الرَّجُلَ فِي دَابَّتِهِ فَتَحْمِلُهُ عَلَيْهَا أَوْ تَرْفَعُ لَهُ عَلَيْهَا مَتَاعَهُ صَدَقَةٌ، وَالْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ، وَبِكُلِّ خُطْوَةٍ تَمْشِيهَا إلَى الصَّلَاةِ صَدَقَةٌ، وَتُمِيطُ الْأَذَى عَنْ الطَّرِيقِ صَدَقَةٌ .(br)\[رَوَاهُ الْبُخَارِيُّ\] ، \[وَمُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of Abu Hurayrah (may Allah be pleased with him) who said: The M
 ## French
 
 Selon Abou Hourayra (qu’Allah l’agrée), le Messager d’Allah (ﷺ) a dit : « Chaque articulation d’une personne doit faire une aumône chaque jour où le soleil se lève : faire justice entre deux personnes est une aumône, aider un homme à monter sur sa monture ou à y charger ses affaires est une aumône, dire une bonne parole est une aumône, chaque pas vers la prière est une aumône, et enlever un obstacle de la route est une aumône. » \[Boukhari\] \[Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |
+
+## Turkish
+
+Ebu Hureyre (ra) anlatıyor: Resulullah (ﷺ) şöyle buyurdu: "Güneşin doğduğu her gün, insanın her bir eklemi (mafsalı) için bir sadaka borcu vardır: İki kişinin arasını adaletle düzeltmek sadakadır. Birine hayvanına binmesi veya yükünü taşıması için yardım etmek sadakadır. Güzel söz sadakadır. Namaza gitmek için atılan her adım sadakadır. Yoldaki rahatsızlık veren şeyi kaldırmak sadakadır." \[Buhari ve Müslim\]
 
 | References: |  |
 | --- | --- |

@@ -452,6 +452,18 @@ Kullu Nafsin Dhā'iqatu Al-Mawti Thumma 'Ilaynā Turja'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ثُمَّ إِلَيْنَا تُرْجَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كل نفس ذايقة الموت ثم الينا ترجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كُلُّ نَفۡسࣲ ذَاۤئِقَةُ ٱلۡمَوۡتِۖ ثُمَّ إِلَیۡنَا تُرۡجَعُونَ
 
 | Details |  |

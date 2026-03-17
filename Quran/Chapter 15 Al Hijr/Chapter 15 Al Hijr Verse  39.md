@@ -452,6 +452,18 @@ Qāla Rabbi Bimā 'Aghwaytanī La'uzayyinanna Lahum Fī Al-'Arđi Wa La'ughwiyan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ بِمَا أَغْوَيْتَنِي لَأُزَيِّنَنَّ لَهُمْ فِي الْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب بما اغويتني لازينن لهم في الارض ولاغوينهم اجمعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ بِمَاۤ أَغۡوَیۡتَنِی لَأُزَیِّنَنَّ لَهُمۡ فِی ٱلۡأَرۡضِ وَلَأُغۡوِیَنَّهُمۡ أَجۡمَعِینَ
 
 | Details |  |

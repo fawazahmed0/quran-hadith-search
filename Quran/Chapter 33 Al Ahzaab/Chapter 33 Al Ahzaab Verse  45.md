@@ -452,6 +452,18 @@ Yā 'Ayyuhā An-Nabīyu 'Innā 'Arsalnāka Shāhidāan Wa Mubashirāan Wa Nadhī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيُّهَا النَّبِيُّ إِنَّا أَرْسَلْنَاكَ شَاهِدًا وَمُبَشِّرًا وَنَذِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايها النبي انا ارسلناك شاهدا ومبشرا ونذيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَیُّهَا ٱلنَّبِیُّ إِنَّاۤ أَرۡسَلۡنَـٰكَ شَـٰهِدࣰا وَمُبَشِّرࣰا وَنَذِیرࣰا
 
 | Details |  |

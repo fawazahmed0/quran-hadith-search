@@ -452,6 +452,18 @@ Wa Liman Khāfa Maqāma Rabbihi Jannatāni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولمن خاف مقام ربه جنتان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِمَنۡ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Faĥashara Fanādá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَحَشَرَ فَنَادَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فحشر فنادى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَحَشَرَ فَنَادَىٰ
 
 | Details |  |

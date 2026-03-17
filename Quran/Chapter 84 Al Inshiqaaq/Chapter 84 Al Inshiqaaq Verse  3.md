@@ -452,6 +452,18 @@ Wa 'IdhÄ Al-'ArÄ‘u Muddat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا الْأَرْضُ مُدَّتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا الارض مدت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱلۡأَرۡضُ مُدَّتۡ
 
 | Details |  |

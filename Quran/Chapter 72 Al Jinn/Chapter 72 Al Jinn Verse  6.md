@@ -452,6 +452,18 @@ Wa 'Annahu Kāna Rijālun Mina Al-'Insi Ya'ūdhūna Birijālin Mina Al-Jinni Faz
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّهُ كَانَ رِجَالٌ مِنَ الْإِنْسِ يَعُوذُونَ بِرِجَالٍ مِنَ الْجِنِّ فَزَادُوهُمْ رَهَقًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه كان رجال من الانس يعوذون برجال من الجن فزادوهم رهقا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّهُۥ كَانَ رِجَالࣱ مِّنَ ٱلۡإِنسِ یَعُوذُونَ بِرِجَالࣲ مِّنَ ٱلۡجِنِّ فَزَادُوهُمۡ رَهَقࣰا
 
 | Details |  |

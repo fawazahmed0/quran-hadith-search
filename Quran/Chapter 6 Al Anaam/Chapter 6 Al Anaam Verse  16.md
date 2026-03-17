@@ -452,6 +452,18 @@ Man Yuşraf 'Anhu Yawma'idhin Faqad Raĥimahu Wa Dhalika Al-Fawzu Al-Mubīnu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَنْ يُصْرَفْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَحِمَهُ وَذَلِكَ الْفَوْزُ الْمُبِينُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من يصرف عنه يوميذ فقد رحمه وذلك الفوز المبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّن یُصۡرَفۡ عَنۡهُ یَوۡمَئِذࣲ فَقَدۡ رَحِمَهُۥۚ وَذَ ٰلِكَ ٱلۡفَوۡزُ ٱلۡمُبِینُ
 
 | Details |  |

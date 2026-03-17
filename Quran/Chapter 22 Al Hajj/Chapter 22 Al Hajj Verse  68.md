@@ -452,6 +452,18 @@ Wa 'In Jādalūka Faquli Allāhu 'A'lamu Bimā Ta'malūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ جَادَلُوكَ فَقُلِ اللَّهُ أَعْلَمُ بِمَا تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان جادلوك فقل الله اعلم بما تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن جَـٰدَلُوكَ فَقُلِ ٱللَّهُ أَعۡلَمُ بِمَا تَعۡمَلُونَ
 
 | Details |  |

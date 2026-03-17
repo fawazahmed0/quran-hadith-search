@@ -452,6 +452,18 @@ Faman Thaqulat Mawāzīnuhu Fa'ūlā'ika Humu Al-Mufliĥūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَنْ ثَقُلَتْ مَوَازِينُهُ فَأُولَئِكَ هُمُ الْمُفْلِحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فمن ثقلت موازينه فاوليك هم المفلحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَن ثَقُلَتۡ مَوَ ٰزِینُهُۥ فَأُو۟لَـٰۤئِكَ هُمُ ٱلۡمُفۡلِحُونَ
 
 | Details |  |

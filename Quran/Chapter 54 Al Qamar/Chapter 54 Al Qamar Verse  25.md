@@ -452,6 +452,18 @@ A'uulqiya Adh-Dhikru 'Alayhi Min Bayninā Bal Huwa Kadhābun 'Ashirun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَأُلْقِيَ الذِّكْرُ عَلَيْهِ مِنْ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+االقي الذكر عليه من بيننا بل هو كذاب اشر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَءُلۡقِیَ ٱلذِّكۡرُ عَلَیۡهِ مِنۢ بَیۡنِنَا بَلۡ هُوَ كَذَّابٌ أَشِرࣱ
 
 | Details |  |

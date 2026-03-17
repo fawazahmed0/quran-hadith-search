@@ -452,6 +452,18 @@ In Kānat 'Illā Şayĥatan Wāĥidatan Fa'idhā Hum Khāmidūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ خَامِدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان كانت الا صيحة واحدة فاذا هم خامدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِن كَانَتۡ إِلَّا صَیۡحَةࣰ وَ ٰحِدَةࣰ فَإِذَا هُمۡ خَـٰمِدُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Ula'ika Al-Ladhina Taba'a Allahu 'Ala Qulubihim Wa Sam'ihim Wa 'Absarihim Wa 'Ul
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ الَّذِينَ طَبَعَ اللَّهُ عَلَى قُلُوبِهِمْ وَسَمْعِهِمْ وَأَبْصَارِهِمْ وَأُولَئِكَ هُمُ الْغَافِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك الذين طبع الله على قلوبهم وسمعهم وابصارهم واوليك هم الغافلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ ٱلَّذِینَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمۡ وَسَمۡعِهِمۡ وَأَبۡصَـٰرِهِمۡۖ وَأُو۟لَـٰۤئِكَ هُمُ ٱلۡغَـٰفِلُونَ
 
 | Details |  |

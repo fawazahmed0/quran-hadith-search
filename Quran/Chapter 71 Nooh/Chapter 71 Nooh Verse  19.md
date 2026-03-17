@@ -452,6 +452,18 @@ Wa Allāhu Ja'ala Lakumu Al-'Arđa Bisāţāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاللَّهُ جَعَلَ لَكُمُ الْأَرْضَ بِسَاطًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والله جعل لكم الارض بساطا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱللَّهُ جَعَلَ لَكُمُ ٱلۡأَرۡضَ بِسَاطࣰا
 
 | Details |  |

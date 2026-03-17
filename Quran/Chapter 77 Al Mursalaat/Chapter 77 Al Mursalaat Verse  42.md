@@ -452,6 +452,18 @@ Wa Fawākiha Mimmā Yashtahūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفَوَاكِهَ مِمَّا يَشْتَهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفواكه مما يشتهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفَوَ ٰكِهَ مِمَّا یَشۡتَهُونَ
 
 | Details |  |

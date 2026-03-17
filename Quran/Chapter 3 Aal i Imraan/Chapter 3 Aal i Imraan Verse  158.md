@@ -452,6 +452,18 @@ Wa La'in Muttum 'Aw Qutiltum La'ilá Allāhi Tuĥsharūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَئِنْ مُتُّمْ أَوْ قُتِلْتُمْ لَإِلَى اللَّهِ تُحْشَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولين متم او قتلتم لالى الله تحشرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَئِن مُّتُّمۡ أَوۡ قُتِلۡتُمۡ لَإِلَى ٱللَّهِ تُحۡشَرُونَ
 
 | Details |  |

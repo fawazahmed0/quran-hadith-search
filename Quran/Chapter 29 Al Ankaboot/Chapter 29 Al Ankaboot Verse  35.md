@@ -452,6 +452,18 @@ Wa Laqad Taraknā Minhā 'Āyatan Bayyinatan Liqawmin Ya'qilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ تَرَكْنَا مِنْهَا آيَةً بَيِّنَةً لِقَوْمٍ يَعْقِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد تركنا منها اية بينة لقوم يعقلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَد تَّرَكۡنَا مِنۡهَاۤ ءَایَةَۢ بَیِّنَةࣰ لِّقَوۡمࣲ یَعۡقِلُونَ
 
 | Details |  |

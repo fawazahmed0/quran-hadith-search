@@ -452,6 +452,18 @@ Fāstaqim Kamā 'Umirta Wa Man Tāba Ma'aka Wa Lā Taţghaw 'Innahu Bimā Ta'mal
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاسْتَقِمْ كَمَا أُمِرْتَ وَمَنْ تَابَ مَعَكَ وَلَا تَطْغَوْا إِنَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاستقم كما امرت ومن تاب معك ولا تطغوا انه بما تعملون بصير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱسۡتَقِمۡ كَمَاۤ أُمِرۡتَ وَمَن تَابَ مَعَكَ وَلَا تَطۡغَوۡا۟ۚ إِنَّهُۥ بِمَا تَعۡمَلُونَ بَصِیرࣱ
 
 | Details |  |

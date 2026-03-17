@@ -452,6 +452,18 @@ Innakum Wa Mā Ta'budūna Min Dūni Allāhi Ĥaşabu Jahannama 'Antum Lahā Wa A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّكُمْ وَمَا تَعْبُدُونَ مِنْ دُونِ اللَّهِ حَصَبُ جَهَنَّمَ أَنْتُمْ لَهَا وَارِدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انكم وما تعبدون من دون الله حصب جهنم انتم لها واردون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّكُمۡ وَمَا تَعۡبُدُونَ مِن دُونِ ٱللَّهِ حَصَبُ جَهَنَّمَ أَنتُمۡ لَهَا وَ ٰرِدُونَ
 
 | Details |  |

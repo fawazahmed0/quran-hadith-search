@@ -452,6 +452,18 @@ Laqad Ra'á Min 'Āyāti Rabbihi Al-Kubrá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَقَدْ رَأَى مِنْ آيَاتِ رَبِّهِ الْكُبْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لقد راى من ايات ربه الكبرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَقَدۡ رَأَىٰ مِنۡ ءَایَـٰتِ رَبِّهِ ٱلۡكُبۡرَىٰۤ
 
 | Details |  |

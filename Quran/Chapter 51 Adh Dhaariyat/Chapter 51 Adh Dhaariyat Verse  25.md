@@ -452,6 +452,18 @@ Idh Dakhalū 'Alayhi Faqālū Salāmāan Qāla Salāmun Qawmun Munkarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ دَخَلُوا عَلَيْهِ فَقَالُوا سَلَامًا قَالَ سَلَامٌ قَوْمٌ مُنْكَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ دخلوا عليه فقالوا سلاما قال سلام قوم منكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ دَخَلُوا۟ عَلَیۡهِ فَقَالُوا۟ سَلَـٰمࣰاۖ قَالَ سَلَـٰمࣱ قَوۡمࣱ مُّنكَرُونَ
 
 | Details |  |

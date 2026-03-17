@@ -452,6 +452,18 @@ Wa Wađa'nā 'Anka Wizraka
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَوَضَعْنَا عَنْكَ وِزْرَكَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ووضعنا عنك وزرك
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَوَضَعۡنَا عَنكَ وِزۡرَكَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Tilka 'Āyātu Al-Kitābi Al-Mubīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تلك ايات الكتاب المبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تِلۡكَ ءَایَـٰتُ ٱلۡكِتَـٰبِ ٱلۡمُبِینِ
 
 | Details |  |

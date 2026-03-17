@@ -452,6 +452,18 @@ Fakulū Mimmā Dhukira Asmu Allāhi 'Alayhi 'In Kuntum Bi'āyātihi Mu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكُلُوا مِمَّا ذُكِرَ اسْمُ اللَّهِ عَلَيْهِ إِنْ كُنْتُمْ بِآيَاتِهِ مُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكلوا مما ذكر اسم الله عليه ان كنتم باياته مومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكُلُوا۟ مِمَّا ذُكِرَ ٱسۡمُ ٱللَّهِ عَلَیۡهِ إِن كُنتُم بِءَایَـٰتِهِۦ مُؤۡمِنِینَ
 
 | Details |  |

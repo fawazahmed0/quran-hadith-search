@@ -452,6 +452,18 @@ Qul Falillāhi Al-Ĥujjatu Al-Bālighatu Falaw Shā'a Lahadākum 'Ajma'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ فَلِلَّهِ الْحُجَّةُ الْبَالِغَةُ فَلَوْ شَاءَ لَهَدَاكُمْ أَجْمَعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل فلله الحجة البالغة فلو شاء لهداكم اجمعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ فَلِلَّهِ ٱلۡحُجَّةُ ٱلۡبَـٰلِغَةُۖ فَلَوۡ شَاۤءَ لَهَدَىٰكُمۡ أَجۡمَعِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Naĥnu Khalaqnākum Falawlā Tuşaddiqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نَحْنُ خَلَقْنَاكُمْ فَلَوْلَا تُصَدِّقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نحن خلقناكم فلولا تصدقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نَحۡنُ خَلَقۡنَـٰكُمۡ فَلَوۡلَا تُصَدِّقُونَ
 
 | Details |  |

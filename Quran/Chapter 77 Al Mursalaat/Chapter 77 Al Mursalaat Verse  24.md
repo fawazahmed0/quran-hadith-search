@@ -452,6 +452,18 @@ Waylun Yawma'idhin Lilmukadhibīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويل يوميذ للمكذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیۡلࣱ یَوۡمَئِذࣲ لِّلۡمُكَذِّبِینَ
 
 | Details |  |

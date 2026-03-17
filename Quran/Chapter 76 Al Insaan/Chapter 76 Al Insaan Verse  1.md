@@ -452,6 +452,18 @@ Hal 'Atá 'Alá Al-'Insāni Ĥīnun Mina Ad-Dahri Lam Yakun Shay'āan Madhkūrā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَلْ أَتَى عَلَى الْإِنْسَانِ حِينٌ مِنَ الدَّهْرِ لَمْ يَكُنْ شَيْئًا مَذْكُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هل اتى على الانسان حين من الدهر لم يكن شييا مذكورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَلۡ أَتَىٰ عَلَى ٱلۡإِنسَـٰنِ حِینࣱ مِّنَ ٱلدَّهۡرِ لَمۡ یَكُن شَیۡءࣰا مَّذۡكُورًا
 
 | Details |  |

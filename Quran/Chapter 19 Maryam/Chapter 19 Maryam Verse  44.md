@@ -452,6 +452,18 @@ Yā 'Abati Lā Ta'budi Ash-Shayţāna 'Inna Ash-Shayţāna Kāna Lilrraĥmani 'A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَبَتِ لَا تَعْبُدِ الشَّيْطَانَ إِنَّ الشَّيْطَانَ كَانَ لِلرَّحْمَنِ عَصِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ابت لا تعبد الشيطان ان الشيطان كان للرحمن عصيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَبَتِ لَا تَعۡبُدِ ٱلشَّیۡطَـٰنَۖ إِنَّ ٱلشَّیۡطَـٰنَ كَانَ لِلرَّحۡمَـٰنِ عَصِیࣰّا
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna Rabbaka Huwa 'A'lamu Biman Đalla 'An Sabīlihi Wa Huwa 'A'lamu Bil-Muhtad�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان ربك هو اعلم بمن ضل عن سبيله وهو اعلم بالمهتدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِیلِهِۦ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِینَ
 
 | Details |  |

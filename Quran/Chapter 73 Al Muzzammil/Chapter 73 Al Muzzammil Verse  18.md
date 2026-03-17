@@ -452,6 +452,18 @@ As-Samā'u Munfaţirun Bihi Kāna Wa'duhu Maf'ūlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+السَّمَاءُ مُنْفَطِرٌ بِهِ كَانَ وَعْدُهُ مَفْعُولًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+السماء منفطر به كان وعده مفعولا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلسَّمَاۤءُ مُنفَطِرُۢ بِهِۦۚ كَانَ وَعۡدُهُۥ مَفۡعُولًا
 
 | Details |  |

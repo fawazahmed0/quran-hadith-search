@@ -452,6 +452,18 @@ Wujūhun Yawma'idhin Khāshi'ahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجوه يوميذ خاشعة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وُجُوهࣱ یَوۡمَئِذٍ خَـٰشِعَةٌ
 
 | Details |  |

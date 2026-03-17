@@ -452,6 +452,18 @@ Fabashirhum Bi'adhÄbin 'AlÄ«min
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فبشرهم بعذاب اليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَبَشِّرۡهُم بِعَذَابٍ أَلِیمٍ
 
 | Details |  |

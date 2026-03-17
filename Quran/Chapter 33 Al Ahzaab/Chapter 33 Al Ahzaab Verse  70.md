@@ -452,6 +452,18 @@ Yā 'Ayyuhā Al-Ladhīna 'Āmanū Attaqū Allāha Wa Qūlū Qawlāan Sadīdāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا سَدِيدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايها الذين امنوا اتقوا الله وقولوا قولا سديدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَقُولُوا۟ قَوۡلࣰا سَدِیدࣰا
 
 | Details |  |

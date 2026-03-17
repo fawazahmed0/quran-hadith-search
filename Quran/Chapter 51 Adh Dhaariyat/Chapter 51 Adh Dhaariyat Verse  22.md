@@ -452,6 +452,18 @@ Wa Fī As-Samā'i Rizqukum Wa Mā Tū'adūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفي السماء رزقكم وما توعدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفِی ٱلسَّمَاۤءِ رِزۡقُكُمۡ وَمَا تُوعَدُونَ
 
 | Details |  |

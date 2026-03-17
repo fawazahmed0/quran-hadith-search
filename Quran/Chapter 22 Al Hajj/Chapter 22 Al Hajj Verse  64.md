@@ -452,6 +452,18 @@ Lahu Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa 'Inna Allāha Lahuwa Al-Ghan�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَإِنَّ اللَّهَ لَهُوَ الْغَنِيُّ الْحَمِيدُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+له ما في السماوات وما في الارض وان الله لهو الغني الحميد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّهُۥ مَا فِی ٱلسَّمَـٰوَ ٰتِ وَمَا فِی ٱلۡأَرۡضِۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلۡغَنِیُّ ٱلۡحَمِیدُ
 
 | Details |  |

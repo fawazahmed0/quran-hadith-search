@@ -452,6 +452,18 @@ Wa Najjaynāhu Wa Lūţāan 'Ilá Al-'Arđi Allatī Bāraknā Fīhā Lil'ālamī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَجَّيْنَاهُ وَلُوطًا إِلَى الْأَرْضِ الَّتِي بَارَكْنَا فِيهَا لِلْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونجيناه ولوطا الى الارض التي باركنا فيها للعالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَجَّیۡنَـٰهُ وَلُوطًا إِلَى ٱلۡأَرۡضِ ٱلَّتِی بَـٰرَكۡنَا فِیهَا لِلۡعَـٰلَمِینَ
 
 | Details |  |

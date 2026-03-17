@@ -452,6 +452,18 @@ Qul Yatawaffākum Malaku Al-Mawti Al-Ladhī Wukkila Bikum Thumma 'Ilá Rabbikum 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ يَتَوَفَّاكُمْ مَلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ ثُمَّ إِلَى رَبِّكُمْ تُرْجَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل يتوفاكم ملك الموت الذي وكل بكم ثم الى ربكم ترجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ قُلۡ یَتَوَفَّىٰكُم مَّلَكُ ٱلۡمَوۡتِ ٱلَّذِی وُكِّلَ بِكُمۡ ثُمَّ إِلَىٰ رَبِّكُمۡ تُرۡجَعُونَ
 
 | Details |  |

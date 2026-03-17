@@ -452,6 +452,18 @@ Fa'aradnā 'An Yubdilahumā Rabbuhumā Khayrāan Minhu Zakāatan Wa 'Aqraba Ruĥ
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَرَدْنَا أَنْ يُبْدِلَهُمَا رَبُّهُمَا خَيْرًا مِنْهُ زَكَاةً وَأَقْرَبَ رُحْمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاردنا ان يبدلهما ربهما خيرا منه زكاة واقرب رحما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَرَدۡنَاۤ أَن یُبۡدِلَهُمَا رَبُّهُمَا خَیۡرࣰا مِّنۡهُ زَكَوٰةࣰ وَأَقۡرَبَ رُحۡمࣰا
 
 | Details |  |

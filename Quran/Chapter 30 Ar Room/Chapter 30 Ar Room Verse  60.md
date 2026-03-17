@@ -452,6 +452,18 @@ Fāşbir 'Inna Wa'da Allāhi Ĥaqqun Wa Lā Yastakhiffannaka Al-Ladhīna Lā Yū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَا يَسْتَخِفَّنَّكَ الَّذِينَ لَا يُوقِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاصبر ان وعد الله حق ولا يستخفنك الذين لا يوقنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱصۡبِرۡ إِنَّ وَعۡدَ ٱللَّهِ حَقࣱّۖ وَلَا یَسۡتَخِفَّنَّكَ ٱلَّذِینَ لَا یُوقِنُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fīhinna Khayrātun Ĥisānun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِيهِنَّ خَيْرَاتٌ حِسَانٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيهن خيرات حسان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِیهِنَّ خَیۡرَ ٰتٌ حِسَانࣱ
 
 | Details |  |

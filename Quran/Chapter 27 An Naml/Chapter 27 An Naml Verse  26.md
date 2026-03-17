@@ -452,6 +452,18 @@ Allāhu Lā 'Ilāha 'Illā Huwa Rabbu Al-'Arshi Al-'Ažīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اللَّهُ لَا إِلَهَ إِلَّا هُوَ رَبُّ الْعَرْشِ الْعَظِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الله لا اله الا هو رب العرش العظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱللَّهُ لَاۤ إِلَـٰهَ إِلَّا هُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡعَظِیمِ ۩
 
 | Details |  |

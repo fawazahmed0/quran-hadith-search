@@ -452,6 +452,18 @@ Wa Jama'a Fa'aw'á
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَمَعَ فَأَوْعَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجمع فاوعى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَمَعَ فَأَوۡعَىٰۤ
 
 | Details |  |

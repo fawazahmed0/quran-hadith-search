@@ -452,6 +452,18 @@ Falillāhi Al-'Ākhiratu Wa Al-'Ūlá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلِلَّهِ الْآخِرَةُ وَالْأُولَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلله الاخرة والاولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلِلَّهِ ٱلۡءَاخِرَةُ وَٱلۡأُولَىٰ
 
 | Details |  |

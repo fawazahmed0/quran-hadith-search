@@ -452,6 +452,18 @@ Wa Huwa Al-Ladhī Fī As-Samā'i 'Ilahun Wa Fī Al-'Arđi 'Ilahun Wa Huwa Al-Ĥa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُوَ الَّذِي فِي السَّمَاءِ إِلَهٌ وَفِي الْأَرْضِ إِلَهٌ وَهُوَ الْحَكِيمُ الْعَلِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهو الذي في السماء اله وفي الارض اله وهو الحكيم العليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُوَ ٱلَّذِی فِی ٱلسَّمَاۤءِ إِلَـٰهࣱ وَفِی ٱلۡأَرۡضِ إِلَـٰهࣱۚ وَهُوَ ٱلۡحَكِیمُ ٱلۡعَلِیمُ
 
 | Details |  |

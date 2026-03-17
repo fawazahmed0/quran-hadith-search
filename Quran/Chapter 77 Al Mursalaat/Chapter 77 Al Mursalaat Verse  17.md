@@ -452,6 +452,18 @@ Thumma Nutbi'uhumu Al-'Ākhirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ نُتْبِعُهُمُ الْآخِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم نتبعهم الاخرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ نُتۡبِعُهُمُ ٱلۡءَاخِرِینَ
 
 | Details |  |

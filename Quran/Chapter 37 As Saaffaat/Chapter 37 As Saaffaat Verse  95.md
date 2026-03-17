@@ -452,6 +452,18 @@ Qāla 'Ata'budūna Mā Tanĥitūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال اتعبدون ما تنحتون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ أَتَعۡبُدُونَ مَا تَنۡحِتُونَ
 
 | Details |  |

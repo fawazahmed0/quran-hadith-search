@@ -452,6 +452,18 @@ Lā Yadhūqūna Fīhā Bardāan Wa Lā Sharābāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يذوقون فيها بردا ولا شرابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا یَذُوقُونَ فِیهَا بَرۡدࣰا وَلَا شَرَابًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Ta'atun Wa Qawlun Ma'rufun Fa'idha 'Azama Al-'Amru Falaw Sadaqu Allaha Lakana Kh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+طَاعَةٌ وَقَوْلٌ مَعْرُوفٌ فَإِذَا عَزَمَ الْأَمْرُ فَلَوْ صَدَقُوا اللَّهَ لَكَانَ خَيْرًا لَهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+طاعة وقول معروف فاذا عزم الامر فلو صدقوا الله لكان خيرا لهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 طَاعَةࣱ وَقَوۡلࣱ مَّعۡرُوفࣱۚ فَإِذَا عَزَمَ ٱلۡأَمۡرُ فَلَوۡ صَدَقُوا۟ ٱللَّهَ لَكَانَ خَیۡرࣰا لَّهُمۡ
 
 | Details |  |

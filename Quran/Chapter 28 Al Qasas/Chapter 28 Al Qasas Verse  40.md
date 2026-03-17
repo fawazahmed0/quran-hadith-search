@@ -452,6 +452,18 @@ Fa'akhadhnāhu Wa Junūdahu Fanabadhnāhum Fī Al-Yammi Fānžur Kayfa Kāna 'Ā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَخَذْنَاهُ وَجُنُودَهُ فَنَبَذْنَاهُمْ فِي الْيَمِّ فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الظَّالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاخذناه وجنوده فنبذناهم في اليم فانظر كيف كان عاقبة الظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَخَذۡنَـٰهُ وَجُنُودَهُۥ فَنَبَذۡنَـٰهُمۡ فِی ٱلۡیَمِّۖ فَٱنظُرۡ كَیۡفَ كَانَ عَـٰقِبَةُ ٱلظَّـٰلِمِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Ilá Rabbika Yawma'idhin Al-Mustaqarru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَى رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الى ربك يوميذ المستقر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَىٰ رَبِّكَ یَوۡمَئِذٍ ٱلۡمُسۡتَقَرُّ
 
 | Details |  |

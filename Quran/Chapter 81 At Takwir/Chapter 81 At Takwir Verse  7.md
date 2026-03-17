@@ -452,6 +452,18 @@ Wa 'Idhā An-Nufūsu Zūwijat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا النُّفُوسُ زُوِّجَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا النفوس زوجت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱلنُّفُوسُ زُوِّجَتۡ
 
 | Details |  |

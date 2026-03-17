@@ -452,6 +452,18 @@ Wa 'Ađalla Fir'awnu Qawmahu Wa Mā Hadá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَضَلَّ فِرْعَوْنُ قَوْمَهُ وَمَا هَدَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واضل فرعون قومه وما هدى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَضَلَّ فِرۡعَوۡنُ قَوۡمَهُۥ وَمَا هَدَىٰ
 
 | Details |  |

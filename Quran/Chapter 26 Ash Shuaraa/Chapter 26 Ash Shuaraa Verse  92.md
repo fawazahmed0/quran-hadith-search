@@ -452,6 +452,18 @@ Wa Qīla Lahum 'Ayna Mā Kuntum Ta'budūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقِيلَ لَهُمْ أَيْنَ مَا كُنْتُمْ تَعْبُدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقيل لهم اين ما كنتم تعبدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقِیلَ لَهُمۡ أَیۡنَ مَا كُنتُمۡ تَعۡبُدُونَ
 
 | Details |  |

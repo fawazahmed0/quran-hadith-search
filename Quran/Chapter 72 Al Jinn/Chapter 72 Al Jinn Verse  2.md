@@ -452,6 +452,18 @@ Yahdī 'Ilá Ar-Rushdi Fa'āmannā Bihi Wa Lan Nushrika Birabbinā 'Aĥadāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَهْدِي إِلَى الرُّشْدِ فَآمَنَّا بِهِ وَلَنْ نُشْرِكَ بِرَبِّنَا أَحَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يهدي الى الرشد فامنا به ولن نشرك بربنا احدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَهۡدِیۤ إِلَى ٱلرُّشۡدِ فَءَامَنَّا بِهِۦۖ وَلَن نُّشۡرِكَ بِرَبِّنَاۤ أَحَدࣰا
 
 | Details |  |

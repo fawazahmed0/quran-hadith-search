@@ -452,6 +452,18 @@ Falā Ta'lamu Nafsun Mā 'Ukhfiya Lahum Min Qurrati 'A'yunin Jazā'an Bimā Kān
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلا تعلم نفس ما اخفي لهم من قرة اعين جزاء بما كانوا يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَا تَعۡلَمُ نَفۡسࣱ مَّاۤ أُخۡفِیَ لَهُم مِّن قُرَّةِ أَعۡیُنࣲ جَزَاۤءَۢ بِمَا كَانُوا۟ یَعۡمَلُونَ
 
 | Details |  |

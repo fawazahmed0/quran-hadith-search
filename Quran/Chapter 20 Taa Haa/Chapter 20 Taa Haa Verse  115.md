@@ -452,6 +452,18 @@ Wa Laqad 'Ahidnā 'Ilá 'Ādama Min Qablu Fanasiya Wa Lam Najid Lahu 'Azmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ عَهِدْنَا إِلَى آدَمَ مِنْ قَبْلُ فَنَسِيَ وَلَمْ نَجِدْ لَهُ عَزْمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد عهدنا الى ادم من قبل فنسي ولم نجد له عزما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ عَهِدۡنَاۤ إِلَىٰۤ ءَادَمَ مِن قَبۡلُ فَنَسِیَ وَلَمۡ نَجِدۡ لَهُۥ عَزۡمࣰا
 
 | Details |  |

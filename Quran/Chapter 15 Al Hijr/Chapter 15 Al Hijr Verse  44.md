@@ -452,6 +452,18 @@ Lahā Sab'atu 'Abwābin Likulli Bābin Minhum Juz'un Maqsūmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَهَا سَبْعَةُ أَبْوَابٍ لِكُلِّ بَابٍ مِنْهُمْ جُزْءٌ مَقْسُومٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لها سبعة ابواب لكل باب منهم جزء مقسوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَهَا سَبۡعَةُ أَبۡوَ ٰبࣲ لِّكُلِّ بَابࣲ مِّنۡهُمۡ جُزۡءࣱ مَّقۡسُومٌ
 
 | Details |  |

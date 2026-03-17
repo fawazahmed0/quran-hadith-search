@@ -452,6 +452,18 @@ Anžur Kayfa Fađđalnā Ba'đahum 'Alá Ba'đin Wa Lal'ākhiratu 'Akbaru Daraj�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+انْظُرْ كَيْفَ فَضَّلْنَا بَعْضَهُمْ عَلَى بَعْضٍ وَلَلْآخِرَةُ أَكْبَرُ دَرَجَاتٍ وَأَكْبَرُ تَفْضِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انظر كيف فضلنا بعضهم على بعض وللاخرة اكبر درجات واكبر تفضيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱنظُرۡ كَیۡفَ فَضَّلۡنَا بَعۡضَهُمۡ عَلَىٰ بَعۡضࣲۚ وَلَلۡءَاخِرَةُ أَكۡبَرُ دَرَجَـٰتࣲ وَأَكۡبَرُ تَفۡضِیلࣰا
 
 | Details |  |

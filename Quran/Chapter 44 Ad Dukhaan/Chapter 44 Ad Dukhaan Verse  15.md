@@ -452,6 +452,18 @@ Innā Kāshifū Al-'Adhābi Qalīlāan 'Innakum 'Ā'idūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا كَاشِفُو الْعَذَابِ قَلِيلًا إِنَّكُمْ عَائِدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا كاشفو العذاب قليلا انكم عايدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا كَاشِفُوا۟ ٱلۡعَذَابِ قَلِیلًاۚ إِنَّكُمۡ عَاۤئِدُونَ
 
 | Details |  |

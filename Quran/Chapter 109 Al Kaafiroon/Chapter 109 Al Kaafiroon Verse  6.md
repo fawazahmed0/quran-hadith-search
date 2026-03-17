@@ -452,6 +452,18 @@ Lakum Dīnukum Wa Liya Dīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَكُمْ دِينُكُمْ وَلِيَ دِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لكم دينكم ولي دين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَكُمۡ دِینُكُمۡ وَلِیَ دِینِ
 
 | Details |  |

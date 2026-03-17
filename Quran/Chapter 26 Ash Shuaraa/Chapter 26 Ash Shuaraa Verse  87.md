@@ -452,6 +452,18 @@ Wa Lā Tukhzinī Yawma Yub'athūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تُخْزِنِي يَوْمَ يُبْعَثُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تخزني يوم يبعثون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تُخۡزِنِی یَوۡمَ یُبۡعَثُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Lawlā 'An Thabbatnāka Laqad Kidtta Tarkanu 'Ilayhim Shay'āan Qalīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْلَا أَنْ ثَبَّتْنَاكَ لَقَدْ كِدْتَ تَرْكَنُ إِلَيْهِمْ شَيْئًا قَلِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولولا ان ثبتناك لقد كدت تركن اليهم شييا قليلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡلَاۤ أَن ثَبَّتۡنَـٰكَ لَقَدۡ كِدتَّ تَرۡكَنُ إِلَیۡهِمۡ شَیۡءࣰا قَلِیلًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Am Ĥasiba Al-Ladhīna Ya'malūna As-Sayyi'āti 'An Yasbiqūnā Sā'a Mā Yaĥku
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ حَسِبَ الَّذِينَ يَعْمَلُونَ السَّيِّئَاتِ أَنْ يَسْبِقُونَا سَاءَ مَا يَحْكُمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام حسب الذين يعملون السييات ان يسبقونا ساء ما يحكمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ حَسِبَ ٱلَّذِینَ یَعۡمَلُونَ ٱلسَّیِّءَاتِ أَن یَسۡبِقُونَاۚ سَاۤءَ مَا یَحۡكُمُونَ
 
 | Details |  |

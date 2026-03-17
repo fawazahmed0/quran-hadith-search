@@ -452,6 +452,18 @@ Wa Lasawfa Yu'ţīka Rabbuka Fatarđá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولسوف يعطيك ربك فترضى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَسَوۡفَ یُعۡطِیكَ رَبُّكَ فَتَرۡضَىٰۤ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Nabbi'hum 'Anna Al-Mā'a Qismatun Baynahum Kullu Shirbin Muĥtađarun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَبِّئْهُمْ أَنَّ الْمَاءَ قِسْمَةٌ بَيْنَهُمْ كُلُّ شِرْبٍ مُحْتَضَرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونبيهم ان الماء قسمة بينهم كل شرب محتضر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَبِّئۡهُمۡ أَنَّ ٱلۡمَاۤءَ قِسۡمَةُۢ بَیۡنَهُمۡۖ كُلُّ شِرۡبࣲ مُّحۡتَضَرࣱ
 
 | Details |  |

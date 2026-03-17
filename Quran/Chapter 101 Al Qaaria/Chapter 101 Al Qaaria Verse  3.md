@@ -452,6 +452,18 @@ Wa Mā 'Adrāka Mā Al-Qāri'ahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَدْرَاكَ مَا الْقَارِعَةُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ادراك ما القارعة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَدۡرَىٰكَ مَا ٱلۡقَارِعَةُ
 
 | Details |  |

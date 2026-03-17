@@ -452,6 +452,18 @@ Tarhaquhā Qatarahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَرْهَقُهَا قَتَرَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ترهقها قترة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَرۡهَقُهَا قَتَرَةٌ
 
 | Details |  |

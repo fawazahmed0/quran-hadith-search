@@ -452,6 +452,18 @@ Wa 'Inna 'Alaykum Laĥāfižīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان عليكم لحافظين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ عَلَیۡكُمۡ لَحَـٰفِظِینَ
 
 | Details |  |

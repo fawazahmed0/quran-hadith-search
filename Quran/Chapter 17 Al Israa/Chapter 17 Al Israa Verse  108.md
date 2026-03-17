@@ -452,6 +452,18 @@ Wa Yaqūlūna Subĥāna Rabbinā 'In Kāna Wa'du Rabbinā Lamaf'ūlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَقُولُونَ سُبْحَانَ رَبِّنَا إِنْ كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويقولون سبحان ربنا ان كان وعد ربنا لمفعولا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَقُولُونَ سُبۡحَـٰنَ رَبِّنَاۤ إِن كَانَ وَعۡدُ رَبِّنَا لَمَفۡعُولࣰا
 
 | Details |  |

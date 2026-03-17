@@ -452,6 +452,18 @@ Wa Qāla Al-Ladhī 'Āmana Yā Qawmi 'Innī 'Akhāfu 'Alaykum Mithla Yawmi Al-'A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ الَّذِي آمَنَ يَا قَوْمِ إِنِّي أَخَافُ عَلَيْكُمْ مِثْلَ يَوْمِ الْأَحْزَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال الذي امن يا قوم اني اخاف عليكم مثل يوم الاحزاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ ٱلَّذِیۤ ءَامَنَ یَـٰقَوۡمِ إِنِّیۤ أَخَافُ عَلَیۡكُم مِّثۡلَ یَوۡمِ ٱلۡأَحۡزَابِ
 
 | Details |  |

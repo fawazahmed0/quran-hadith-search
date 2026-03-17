@@ -452,6 +452,18 @@ Thumma 'Inna 'Alaynā Ĥisābahum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم ان علينا حسابهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ إِنَّ عَلَیۡنَا حِسَابَهُم
 
 | Details |  |

@@ -452,6 +452,18 @@ Fa'idhā Jā'ati Aş-Şākhkhahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِذَا جَاءَتِ الصَّاخَّةُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاذا جاءت الصاخة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِذَا جَاۤءَتِ ٱلصَّاۤخَّةُ
 
 | Details |  |

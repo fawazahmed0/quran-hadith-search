@@ -452,6 +452,18 @@ Wa Qālū Rabbanā 'Ajjil Lanā Qiţţanā Qabla Yawmi Al-Ĥisābi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا رَبَّنَا عَجِّلْ لَنَا قِطَّنَا قَبْلَ يَوْمِ الْحِسَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا ربنا عجل لنا قطنا قبل يوم الحساب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبۡلَ یَوۡمِ ٱلۡحِسَابِ
 
 | Details |  |

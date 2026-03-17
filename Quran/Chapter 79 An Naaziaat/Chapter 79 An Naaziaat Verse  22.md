@@ -452,6 +452,18 @@ Thumma 'Adbara Yas'á
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ أَدْبَرَ يَسْعَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم ادبر يسعى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ أَدۡبَرَ یَسۡعَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Mā Liya Lā 'A'budu Al-Ladhī Faţaranī Wa 'Ilayhi Turja'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا لِيَ لَا أَعْبُدُ الَّذِي فَطَرَنِي وَإِلَيْهِ تُرْجَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما لي لا اعبد الذي فطرني واليه ترجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا لِیَ لَاۤ أَعۡبُدُ ٱلَّذِی فَطَرَنِی وَإِلَیۡهِ تُرۡجَعُونَ
 
 | Details |  |

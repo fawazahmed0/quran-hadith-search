@@ -452,6 +452,18 @@ Thumma 'Inna Lahum 'Alayhā Lashawbāan Min Ĥamīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًا مِنْ حَمِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم ان لهم عليها لشوبا من حميم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ إِنَّ لَهُمۡ عَلَیۡهَا لَشَوۡبࣰا مِّنۡ حَمِیمࣲ
 
 | Details |  |

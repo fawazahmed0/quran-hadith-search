@@ -452,6 +452,18 @@ Bi'aydī Safarahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بِأَيْدِي سَفَرَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بايدي سفرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بِأَیۡدِی سَفَرَةࣲ
 
 | Details |  |

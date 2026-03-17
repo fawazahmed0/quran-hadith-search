@@ -452,6 +452,18 @@ An Da'aw Lilrraĥmani Waladāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَنْ دَعَوْا لِلرَّحْمَنِ وَلَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان دعوا للرحمن ولدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَن دَعَوۡا۟ لِلرَّحۡمَـٰنِ وَلَدࣰا
 
 | Details |  |

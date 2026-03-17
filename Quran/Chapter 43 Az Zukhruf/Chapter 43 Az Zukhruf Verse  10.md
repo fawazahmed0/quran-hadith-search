@@ -452,6 +452,18 @@ Al-Ladhī Ja'ala Lakumu Al-'Arđa Mahdāan Wa Ja'ala Lakum Fīhā Subulāan La'a
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي جَعَلَ لَكُمُ الْأَرْضَ مَهْدًا وَجَعَلَ لَكُمْ فِيهَا سُبُلًا لَعَلَّكُمْ تَهْتَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي جعل لكم الارض مهدا وجعل لكم فيها سبلا لعلكم تهتدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِی جَعَلَ لَكُمُ ٱلۡأَرۡضَ مَهۡدࣰا وَجَعَلَ لَكُمۡ فِیهَا سُبُلࣰا لَّعَلَّكُمۡ تَهۡتَدُونَ
 
 | Details |  |

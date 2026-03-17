@@ -452,6 +452,18 @@ An Ra'āhu Astaghná
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَنْ رَآهُ اسْتَغْنَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان راه استغنى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَن رَّءَاهُ ٱسۡتَغۡنَىٰۤ
 
 | Details |  |

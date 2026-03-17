@@ -452,6 +452,18 @@ Wa 'Annā Žanannā 'An Lan Nu'jiza Allāha Fī Al-'Arđi Wa Lan Nu'jizahu Harab
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّا ظَنَنَّا أَنْ لَنْ نُعْجِزَ اللَّهَ فِي الْأَرْضِ وَلَنْ نُعْجِزَهُ هَرَبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانا ظننا ان لن نعجز الله في الارض ولن نعجزه هربا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّا ظَنَنَّاۤ أَن لَّن نُّعۡجِزَ ٱللَّهَ فِی ٱلۡأَرۡضِ وَلَن نُّعۡجِزَهُۥ هَرَبࣰا
 
 | Details |  |

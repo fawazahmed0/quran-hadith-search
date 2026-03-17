@@ -452,6 +452,18 @@ Waylun Likulli Humazatin Lumazahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويل لكل همزة لمزة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیۡلࣱ لِّكُلِّ هُمَزَةࣲ لُّمَزَةٍ
 
 | Details |  |

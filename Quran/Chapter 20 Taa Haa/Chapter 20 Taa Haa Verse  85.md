@@ -452,6 +452,18 @@ Qāla Fa'innā Qad Fatannā Qawmaka Min Ba'dika Wa 'Ađallahumu As-Sāmirīyu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنْ بَعْدِكَ وَأَضَلَّهُمُ السَّامِرِيُّ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال فانا قد فتنا قومك من بعدك واضلهم السامري
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ فَإِنَّا قَدۡ فَتَنَّا قَوۡمَكَ مِنۢ بَعۡدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِیُّ
 
 | Details |  |

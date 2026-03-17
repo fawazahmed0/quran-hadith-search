@@ -452,6 +452,18 @@ Faţawwa'at Lahu Nafsuhu Qatla 'Akhīhi Faqatalahu Fa'aşbaĥa Mina Al-Khāsirī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَطَوَّعَتْ لَهُ نَفْسُهُ قَتْلَ أَخِيهِ فَقَتَلَهُ فَأَصْبَحَ مِنَ الْخَاسِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فطوعت له نفسه قتل اخيه فقتله فاصبح من الخاسرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَطَوَّعَتۡ لَهُۥ نَفۡسُهُۥ قَتۡلَ أَخِیهِ فَقَتَلَهُۥ فَأَصۡبَحَ مِنَ ٱلۡخَـٰسِرِینَ
 
 | Details |  |

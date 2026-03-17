@@ -452,6 +452,18 @@ Wa 'Annā Kunnā Naq'udu Minhā Maqā'ida Lilssam'i Faman Yastami'i Al-'Āna Yaj
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ فَمَنْ يَسْتَمِعِ الْآنَ يَجِدْ لَهُ شِهَابًا رَصَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانا كنا نقعد منها مقاعد للسمع فمن يستمع الان يجد له شهابا رصدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّا كُنَّا نَقۡعُدُ مِنۡهَا مَقَـٰعِدَ لِلسَّمۡعِۖ فَمَن یَسۡتَمِعِ ٱلۡءَانَ یَجِدۡ لَهُۥ شِهَابࣰا رَّصَدࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Thumma Qīla Lahum 'Ayna Mā Kuntum Tushrikūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ قِيلَ لَهُمْ أَيْنَ مَا كُنْتُمْ تُشْرِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم قيل لهم اين ما كنتم تشركون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ قِیلَ لَهُمۡ أَیۡنَ مَا كُنتُمۡ تُشۡرِكُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ An-Najmu Ath-Thāqibu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+النَّجْمُ الثَّاقِبُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+النجم الثاقب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلنَّجۡمُ ٱلثَّاقِبُ
 
 | Details |  |

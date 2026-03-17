@@ -452,6 +452,18 @@ Wa Nafsin Wa Mā Sawwāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَفْسٍ وَمَا سَوَّاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونفس وما سواها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَفۡسࣲ وَمَا سَوَّىٰهَا
 
 | Details |  |

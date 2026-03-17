@@ -452,6 +452,18 @@ Wa Laqad Taraknāhā 'Āyatan Fahal Min Muddakirin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ تَرَكْنَاهَا آيَةً فَهَلْ مِنْ مُدَّكِرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد تركناها اية فهل من مدكر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَد تَّرَكۡنَـٰهَاۤ ءَایَةࣰ فَهَلۡ مِن مُّدَّكِرࣲ
 
 | Details |  |

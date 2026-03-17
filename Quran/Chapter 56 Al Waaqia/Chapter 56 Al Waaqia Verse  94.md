@@ -452,6 +452,18 @@ Wa Taşliyatu Jaĥīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَصْلِيَةُ جَحِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتصلية جحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَصۡلِیَةُ جَحِیمٍ
 
 | Details |  |

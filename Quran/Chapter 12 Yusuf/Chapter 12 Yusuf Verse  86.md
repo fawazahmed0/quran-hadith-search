@@ -452,6 +452,18 @@ Qāla 'Innamā 'Ashkū Baththī Wa Ĥuznī 'Ilá Allāhi Wa 'A'lamu Mina Allāhi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ وَأَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال انما اشكو بثي وحزني الى الله واعلم من الله ما لا تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ إِنَّمَاۤ أَشۡكُوا۟ بَثِّی وَحُزۡنِیۤ إِلَى ٱللَّهِ وَأَعۡلَمُ مِنَ ٱللَّهِ مَا لَا تَعۡلَمُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Lā Yasma'ūna Ĥasīsahā Wa Hum Fī Mā Ashtahat 'Anfusuhum Khālidūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَسْمَعُونَ حَسِيسَهَا وَهُمْ فِي مَا اشْتَهَتْ أَنْفُسُهُمْ خَالِدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يسمعون حسيسها وهم في ما اشتهت انفسهم خالدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا یَسۡمَعُونَ حَسِیسَهَاۖ وَهُمۡ فِی مَا ٱشۡتَهَتۡ أَنفُسُهُمۡ خَـٰلِدُونَ
 
 | Details |  |

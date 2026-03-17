@@ -452,6 +452,18 @@ Fāsjudū Lillāhi Wa A'budū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاسْجُدُوا لِلَّهِ وَاعْبُدُوا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاسجدوا لله واعبدوا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَ̅ٱ̅سۡ̅جُ̅دُ̅و̅ا۟̅ لِلَّهِ وَٱعۡبُدُوا۟ ۩
 
 | Details |  |

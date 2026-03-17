@@ -452,6 +452,18 @@ Fāl'āşifāti 'Aşfāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَالْعَاصِفَاتِ عَصْفًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالعاصفات عصفا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱلۡعَـٰصِفَـٰتِ عَصۡفࣰا
 
 | Details |  |

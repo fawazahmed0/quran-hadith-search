@@ -452,6 +452,18 @@ Wa Hadhā Al-Baladi Al-'Amīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهَذَا الْبَلَدِ الْأَمِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهذا البلد الامين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهَـٰذَا ٱلۡبَلَدِ ٱلۡأَمِینِ
 
 | Details |  |

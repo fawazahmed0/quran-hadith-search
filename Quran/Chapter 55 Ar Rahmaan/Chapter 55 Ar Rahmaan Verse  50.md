@@ -452,6 +452,18 @@ Fīhimā 'Aynāni Tajriyāni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِيهِمَا عَيْنَانِ تَجْرِيَانِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيهما عينان تجريان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِیهِمَا عَیۡنَانِ تَجۡرِیَانِ
 
 | Details |  |

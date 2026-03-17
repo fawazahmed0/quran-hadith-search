@@ -452,6 +452,18 @@ Baynahumā Barzakhun Lā Yabghiyāni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَيْنَهُمَا بَرْزَخٌ لَا يَبْغِيَانِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بينهما برزخ لا يبغيان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَیۡنَهُمَا بَرۡزَخࣱ لَّا یَبۡغِیَانِ
 
 | Details |  |

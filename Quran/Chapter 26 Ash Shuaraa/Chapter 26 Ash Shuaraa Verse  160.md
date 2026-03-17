@@ -452,6 +452,18 @@ Kadhabat Qawmu Lūţin Al-Mursalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَّبَتْ قَوْمُ لُوطٍ الْمُرْسَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذبت قوم لوط المرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَّبَتۡ قَوۡمُ لُوطٍ ٱلۡمُرۡسَلِینَ
 
 | Details |  |

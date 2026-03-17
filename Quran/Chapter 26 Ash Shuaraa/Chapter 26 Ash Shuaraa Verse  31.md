@@ -452,6 +452,18 @@ Qāla Fa'ti Bihi 'In Kunta Mina Aş-Şādiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ فَأْتِ بِهِ إِنْ كُنْتَ مِنَ الصَّادِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال فات به ان كنت من الصادقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ فَأۡتِ بِهِۦۤ إِن كُنتَ مِنَ ٱلصَّـٰدِقِینَ
 
 | Details |  |

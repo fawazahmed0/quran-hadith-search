@@ -452,6 +452,18 @@ Wa Aţ-Ţūri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالطُّورِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والطور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلطُّورِ
 
 | Details |  |

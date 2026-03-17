@@ -452,6 +452,18 @@ Wa Zurū'in Wa Nakhlin Ţal'uhā Hađīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَزُرُوعٍ وَنَخْلٍ طَلْعُهَا هَضِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وزروع ونخل طلعها هضيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَزُرُوعࣲ وَنَخۡلࣲ طَلۡعُهَا هَضِیمࣱ
 
 | Details |  |

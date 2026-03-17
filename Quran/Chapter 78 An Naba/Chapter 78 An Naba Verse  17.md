@@ -452,6 +452,18 @@ Inna Yawma Al-Faşli Kāna Mīqātāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان يوم الفصل كان ميقاتا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ یَوۡمَ ٱلۡفَصۡلِ كَانَ مِیقَـٰتࣰا
 
 | Details |  |

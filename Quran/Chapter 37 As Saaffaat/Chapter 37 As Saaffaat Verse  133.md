@@ -452,6 +452,18 @@ Wa 'Inna Lūţāan Lamina Al-Mursalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ لُوطًا لَمِنَ الْمُرْسَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان لوطا لمن المرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ لُوطࣰا لَّمِنَ ٱلۡمُرۡسَلِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fakayfa Kāna 'Adhābī Wa Nudhuri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكيف كان عذابي ونذر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكَیۡفَ كَانَ عَذَابِی وَنُذُرِ
 
 | Details |  |

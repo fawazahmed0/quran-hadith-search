@@ -452,6 +452,18 @@ Thumma Tawallaytum Min Ba'di Dhālika Falawlā Fađlu Allāhi 'Alaykum Wa Raĥma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ تَوَلَّيْتُمْ مِنْ بَعْدِ ذَلِكَ فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنْتُمْ مِنَ الْخَاسِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم توليتم من بعد ذلك فلولا فضل الله عليكم ورحمته لكنتم من الخاسرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ تَوَلَّیۡتُم مِّنۢ بَعۡدِ ذَ ٰلِكَۖ فَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَیۡكُمۡ وَرَحۡمَتُهُۥ لَكُنتُم مِّنَ ٱلۡخَـٰسِرِینَ
 
 | Details |  |

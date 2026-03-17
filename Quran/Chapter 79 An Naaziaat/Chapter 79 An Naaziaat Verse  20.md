@@ -452,6 +452,18 @@ Fa'arāhu Al-'Āyata Al-Kubrá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَرَاهُ الْآيَةَ الْكُبْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاراه الاية الكبرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَرَىٰهُ ٱلۡءَایَةَ ٱلۡكُبۡرَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Sayuhzamu Al-Jam'u Wa Yuwallūna Ad-Dubura
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سيهزم الجمع ويولون الدبر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَیُهۡزَمُ ٱلۡجَمۡعُ وَیُوَلُّونَ ٱلدُّبُرَ
 
 | Details |  |

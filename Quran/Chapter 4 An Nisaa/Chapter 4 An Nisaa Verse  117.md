@@ -452,6 +452,18 @@ In Yad'ūna Min Dūnihi 'Illā 'Ināthāan Wa 'In Yad'ūna 'Illā Shayţānāan 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ يَدْعُونَ مِنْ دُونِهِ إِلَّا إِنَاثًا وَإِنْ يَدْعُونَ إِلَّا شَيْطَانًا مَرِيدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان يدعون من دونه الا اناثا وان يدعون الا شيطانا مريدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِن یَدۡعُونَ مِن دُونِهِۦۤ إِلَّاۤ إِنَـٰثࣰا وَإِن یَدۡعُونَ إِلَّا شَیۡطَـٰنࣰا مَّرِیدࣰا
 
 | Details |  |

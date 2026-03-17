@@ -452,6 +452,18 @@ Wa Mā Li'ĥadin 'Indahu Min Ni'matin Tujzá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما لاحد عنده من نعمة تجزى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةࣲ تُجۡزَىٰۤ
 
 | Details |  |

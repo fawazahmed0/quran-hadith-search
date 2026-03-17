@@ -452,6 +452,18 @@ Thumma 'Arsalnā Mūsá Wa 'Akhāhu Hārūna Bi'āyātinā Wa Sulţānin Mubīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ أَرْسَلْنَا مُوسَى وَأَخَاهُ هَارُونَ بِآيَاتِنَا وَسُلْطَانٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم ارسلنا موسى واخاه هارون باياتنا وسلطان مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ أَرۡسَلۡنَا مُوسَىٰ وَأَخَاهُ هَـٰرُونَ بِءَایَـٰتِنَا وَسُلۡطَـٰنࣲ مُّبِینٍ
 
 | Details |  |

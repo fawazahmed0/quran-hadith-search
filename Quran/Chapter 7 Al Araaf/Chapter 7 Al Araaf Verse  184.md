@@ -452,6 +452,18 @@ Awalam Yatafakkarū Mā Bişāĥibihim Min Jinnatin 'In Huwa 'Illā Nadhīrun Mu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوَلَمْ يَتَفَكَّرُوا مَا بِصَاحِبِهِمْ مِنْ جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اولم يتفكروا ما بصاحبهم من جنة ان هو الا نذير مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوَ لَمۡ یَتَفَكَّرُوا۟ۗ مَا بِصَاحِبِهِم مِّن جِنَّةٍۚ إِنۡ هُوَ إِلَّا نَذِیرࣱ مُّبِینٌ
 
 | Details |  |

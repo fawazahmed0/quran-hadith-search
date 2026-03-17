@@ -452,6 +452,18 @@ Yā 'Ayyuhā Al-Ladhīna Kafarū Lā Ta'tadhirū Al-Yawma 'Innamā Tujzawna Mā 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيُّهَا الَّذِينَ كَفَرُوا لَا تَعْتَذِرُوا الْيَوْمَ إِنَّمَا تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايها الذين كفروا لا تعتذروا اليوم انما تجزون ما كنتم تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَیُّهَا ٱلَّذِینَ كَفَرُوا۟ لَا تَعۡتَذِرُوا۟ ٱلۡیَوۡمَۖ إِنَّمَا تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ
 
 | Details |  |

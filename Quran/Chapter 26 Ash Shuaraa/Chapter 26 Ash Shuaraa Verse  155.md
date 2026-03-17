@@ -452,6 +452,18 @@ Qāla Hadhihi Nāqatun Lahā Shirbun Wa Lakum Shirbu Yawmin Ma'lūmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ هَذِهِ نَاقَةٌ لَهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَعْلُومٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال هذه ناقة لها شرب ولكم شرب يوم معلوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ هَـٰذِهِۦ نَاقَةࣱ لَّهَا شِرۡبࣱ وَلَكُمۡ شِرۡبُ یَوۡمࣲ مَّعۡلُومࣲ
 
 | Details |  |

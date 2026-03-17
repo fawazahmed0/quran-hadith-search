@@ -452,6 +452,18 @@ Qulūbun Yawma'idhin Wājifahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قلوب يوميذ واجفة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلُوبࣱ یَوۡمَئِذࣲ وَاجِفَةٌ
 
 | Details |  |

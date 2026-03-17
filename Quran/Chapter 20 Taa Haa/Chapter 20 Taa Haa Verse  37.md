@@ -452,6 +452,18 @@ Wa Laqad Manannā 'Alayka Marratan 'Ukhrá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً أُخْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد مننا عليك مرة اخرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ مَنَنَّا عَلَیۡكَ مَرَّةً أُخۡرَىٰۤ
 
 | Details |  |

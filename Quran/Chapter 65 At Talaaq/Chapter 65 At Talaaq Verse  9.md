@@ -452,6 +452,18 @@ Fadhāqat Wabāla 'Amrihā Wa Kāna 'Āqibatu 'Amrihā Khusrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَذَاقَتْ وَبَالَ أَمْرِهَا وَكَانَ عَاقِبَةُ أَمْرِهَا خُسْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فذاقت وبال امرها وكان عاقبة امرها خسرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَذَاقَتۡ وَبَالَ أَمۡرِهَا وَكَانَ عَـٰقِبَةُ أَمۡرِهَا خُسۡرًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Ukhrá Tuĥibbūnahā Naşrun Mina Allāhi Wa Fatĥun Qarībun Wa Bashiri Al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأُخْرَى تُحِبُّونَهَا نَصْرٌ مِنَ اللَّهِ وَفَتْحٌ قَرِيبٌ وَبَشِّرِ الْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واخرى تحبونها نصر من الله وفتح قريب وبشر المومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأُخۡرَىٰ تُحِبُّونَهَاۖ نَصۡرࣱ مِّنَ ٱللَّهِ وَفَتۡحࣱ قَرِیبࣱۗ وَبَشِّرِ ٱلۡمُؤۡمِنِینَ
 
 | Details |  |

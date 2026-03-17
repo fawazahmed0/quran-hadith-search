@@ -452,6 +452,18 @@ Inna Fī Dhālika La'āyātin Wa 'In Kunnā Lamubtalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ فِي ذَلِكَ لَآيَاتٍ وَإِنْ كُنَّا لَمُبْتَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان في ذلك لايات وان كنا لمبتلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ فِی ذَ ٰلِكَ لَءَایَـٰتࣲ وَإِن كُنَّا لَمُبۡتَلِینَ
 
 | Details |  |

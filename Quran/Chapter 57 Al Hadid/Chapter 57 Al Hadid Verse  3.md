@@ -452,6 +452,18 @@ Huwa Al-'Awwalu Wa Al-'Ākhiru Wa Až-Žāhiru Wa Al-Bāţinu Wa Huwa Bikulli Sh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هو الاول والاخر والظاهر والباطن وهو بكل شيء عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُوَ ٱلۡأَوَّلُ وَٱلۡءَاخِرُ وَٱلظَّـٰهِرُ وَٱلۡبَاطِنُۖ وَهُوَ بِكُلِّ شَیۡءٍ عَلِیمٌ
 
 | Details |  |

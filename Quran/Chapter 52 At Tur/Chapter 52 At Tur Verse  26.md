@@ -452,6 +452,18 @@ Qālū 'Innā Kunnā Qablu Fī 'Ahlinā Mushfiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا إِنَّا كُنَّا قَبْلُ فِي أَهْلِنَا مُشْفِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا انا كنا قبل في اهلنا مشفقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوۤا۟ إِنَّا كُنَّا قَبۡلُ فِیۤ أَهۡلِنَا مُشۡفِقِینَ
 
 | Details |  |

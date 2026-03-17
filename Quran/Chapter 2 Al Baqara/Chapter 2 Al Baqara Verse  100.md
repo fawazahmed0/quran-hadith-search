@@ -452,6 +452,18 @@ Awakullamā 'Āhadū 'Ahdāan Nabadhahu Farīqun Minhum Bal 'Aktharuhum Lā Yu'u
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوَكُلَّمَا عَاهَدُوا عَهْدًا نَبَذَهُ فَرِيقٌ مِنْهُمْ بَلْ أَكْثَرُهُمْ لَا يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوكلما عاهدوا عهدا نبذه فريق منهم بل اكثرهم لا يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوَ كُلَّمَا عَـٰهَدُوا۟ عَهۡدࣰا نَّبَذَهُۥ فَرِیقࣱ مِّنۡهُمۚ بَلۡ أَكۡثَرُهُمۡ لَا یُؤۡمِنُونَ
 
 | Details |  |

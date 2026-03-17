@@ -452,6 +452,18 @@ Wa 'Ammā Al-Ladhīna Abyađđat Wujūhuhum Fafī Raĥmati Allāhi Hum Fīhā Kh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمَّا الَّذِينَ ابْيَضَّتْ وُجُوهُهُمْ فَفِي رَحْمَةِ اللَّهِ هُمْ فِيهَا خَالِدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما الذين ابيضت وجوههم ففي رحمة الله هم فيها خالدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمَّا ٱلَّذِینَ ٱبۡیَضَّتۡ وُجُوهُهُمۡ فَفِی رَحۡمَةِ ٱللَّهِۖ هُمۡ فِیهَا خَـٰلِدُونَ
 
 | Details |  |

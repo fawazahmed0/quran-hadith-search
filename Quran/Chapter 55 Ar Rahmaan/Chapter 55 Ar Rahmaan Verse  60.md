@@ -452,6 +452,18 @@ Hal Jazā'u Al-'Iĥsāni 'Illā Al-'Iĥsānu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هل جزاء الاحسان الا الاحسان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَلۡ جَزَاۤءُ ٱلۡإِحۡسَـٰنِ إِلَّا ٱلۡإِحۡسَـٰنُ
 
 | Details |  |

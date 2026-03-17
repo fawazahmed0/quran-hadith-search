@@ -452,6 +452,18 @@ Mina Al-Ladhīna Farraqū Dīnahum Wa Kānū Shiya'āan Kullu Ĥizbin Bimā Lada
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مِنَ الَّذِينَ فَرَّقُوا دِينَهُمْ وَكَانُوا شِيَعًا كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من الذين فرقوا دينهم وكانوا شيعا كل حزب بما لديهم فرحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مِنَ ٱلَّذِینَ فَرَّقُوا۟ دِینَهُمۡ وَكَانُوا۟ شِیَعࣰاۖ كُلُّ حِزۡبِۭ بِمَا لَدَیۡهِمۡ فَرِحُونَ
 
 | Details |  |

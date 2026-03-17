@@ -452,6 +452,18 @@ Inna Rabbaka Yabsuţu Ar-Rizqa Liman Yashā'u Wa Yaqdiru 'Innahu Kāna Bi'ibādi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ إِنَّهُ كَانَ بِعِبَادِهِ خَبِيرًا بَصِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان ربك يبسط الرزق لمن يشاء ويقدر انه كان بعباده خبيرا بصيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ رَبَّكَ یَبۡسُطُ ٱلرِّزۡقَ لِمَن یَشَاۤءُ وَیَقۡدِرُۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِیرَۢا بَصِیرࣰا
 
 | Details |  |

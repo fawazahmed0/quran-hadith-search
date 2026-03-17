@@ -452,6 +452,18 @@ Al-Ladhīna 'Idhā 'Aşābat/hum Muşībatun Qālū 'Innā Lillāhi Wa 'Innā 'I
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ إِذَا أَصَابَتْهُمْ مُصِيبَةٌ قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين اذا اصابتهم مصيبة قالوا انا لله وانا اليه راجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ إِذَاۤ أَصَـٰبَتۡهُم مُّصِیبَةࣱ قَالُوۤا۟ إِنَّا لِلَّهِ وَإِنَّاۤ إِلَیۡهِ رَ ٰجِعُونَ
 
 | Details |  |

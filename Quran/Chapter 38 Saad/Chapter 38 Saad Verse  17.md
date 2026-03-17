@@ -452,6 +452,18 @@ Aşbir 'Alá Mā Yaqūlūna Wa Adhkur 'Abdanā Dāwūda Dhā Al-'Aydi 'Innahu 'A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اصْبِرْ عَلَى مَا يَقُولُونَ وَاذْكُرْ عَبْدَنَا دَاوُودَ ذَا الْأَيْدِ إِنَّهُ أَوَّابٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اصبر على ما يقولون واذكر عبدنا داوود ذا الايد انه اواب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱصۡبِرۡ عَلَىٰ مَا یَقُولُونَ وَٱذۡكُرۡ عَبۡدَنَا دَاوُۥدَ ذَا ٱلۡأَیۡدِۖ إِنَّهُۥۤ أَوَّابٌ
 
 | Details |  |

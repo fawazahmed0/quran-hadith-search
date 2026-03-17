@@ -452,6 +452,18 @@ Wa Lam 'Adri Mā Ĥisābīh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَمْ أَدْرِ مَا حِسَابِيَهْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولم ادر ما حسابيه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَمۡ أَدۡرِ مَا حِسَابِیَهۡ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fatawallaw 'Anhu Mudbirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَتَوَلَّوْا عَنْهُ مُدْبِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فتولوا عنه مدبرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَتَوَلَّوۡا۟ عَنۡهُ مُدۡبِرِینَ
 
 | Details |  |

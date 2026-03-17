@@ -452,6 +452,18 @@ Sirati Allahi Al-Ladhi Lahu Ma Fi As-Samawati Wa Ma Fi Al-'Arđi 'Ala 'Ila Allah
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+صِرَاطِ اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ أَلَا إِلَى اللَّهِ تَصِيرُ الْأُمُورُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+صراط الله الذي له ما في السماوات وما في الارض الا الى الله تصير الامور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 صِرَ ٰطِ ٱللَّهِ ٱلَّذِی لَهُۥ مَا فِی ٱلسَّمَـٰوَ ٰتِ وَمَا فِی ٱلۡأَرۡضِۗ أَلَاۤ إِلَى ٱللَّهِ تَصِیرُ ٱلۡأُمُورُ
 
 | Details |  |

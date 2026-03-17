@@ -452,6 +452,18 @@ Ilá Qadarin Ma'lūmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَى قَدَرٍ مَعْلُومٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الى قدر معلوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَىٰ قَدَرࣲ مَّعۡلُومࣲ
 
 | Details |  |

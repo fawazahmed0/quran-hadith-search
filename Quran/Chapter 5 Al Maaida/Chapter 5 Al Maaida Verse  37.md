@@ -452,6 +452,18 @@ Yurīdūna 'An Yakhrujū Mina An-Nāri Wa Mā Hum Bikhārijīna Minhā Wa Lahum 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُرِيدُونَ أَنْ يَخْرُجُوا مِنَ النَّارِ وَمَا هُمْ بِخَارِجِينَ مِنْهَا وَلَهُمْ عَذَابٌ مُقِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يريدون ان يخرجوا من النار وما هم بخارجين منها ولهم عذاب مقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُرِیدُونَ أَن یَخۡرُجُوا۟ مِنَ ٱلنَّارِ وَمَا هُم بِخَـٰرِجِینَ مِنۡهَاۖ وَلَهُمۡ عَذَابࣱ مُّقِیمࣱ
 
 | Details |  |

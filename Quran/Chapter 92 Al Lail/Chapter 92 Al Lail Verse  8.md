@@ -452,6 +452,18 @@ Wa 'Ammā Man Bakhila Wa Astaghná
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما من بخل واستغنى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ
 
 | Details |  |

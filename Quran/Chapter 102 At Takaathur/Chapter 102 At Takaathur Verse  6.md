@@ -452,6 +452,18 @@ Latarawunna Al-Jaĥīma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَتَرَوُنَّ الْجَحِيمَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لترون الجحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَتَرَوُنَّ ٱلۡجَحِیمَ
 
 | Details |  |

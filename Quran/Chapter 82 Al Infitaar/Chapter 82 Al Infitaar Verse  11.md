@@ -452,6 +452,18 @@ Kirāmāan Kātibīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كِرَامًا كَاتِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كراما كاتبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كِرَامࣰا كَـٰتِبِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Kadhabat Thamūdu Bin-Nudhuri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَّبَتْ ثَمُودُ بِالنُّذُرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذبت ثمود بالنذر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَّبَتۡ ثَمُودُ بِٱلنُّذُرِ
 
 | Details |  |

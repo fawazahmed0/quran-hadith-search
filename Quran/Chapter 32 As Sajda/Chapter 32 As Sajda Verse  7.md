@@ -452,6 +452,18 @@ Al-Ladhī 'Aĥsana Kulla Shay'in Khalaqahu Wa Bada'a Khalqa Al-'Insāni Min Ţī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ وَبَدَأَ خَلْقَ الْإِنْسَانِ مِنْ طِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي احسن كل شيء خلقه وبدا خلق الانسان من طين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِیۤ أَحۡسَنَ كُلَّ شَیۡءٍ خَلَقَهُۥۖ وَبَدَأَ خَلۡقَ ٱلۡإِنسَـٰنِ مِن طِینࣲ
 
 | Details |  |

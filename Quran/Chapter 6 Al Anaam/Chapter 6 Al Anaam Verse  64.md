@@ -452,6 +452,18 @@ Quli Allāhu Yunajjīkum Minhā Wa Min Kulli Karbin Thumma 'Antum Tushrikūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلِ اللَّهُ يُنَجِّيكُمْ مِنْهَا وَمِنْ كُلِّ كَرْبٍ ثُمَّ أَنْتُمْ تُشْرِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل الله ينجيكم منها ومن كل كرب ثم انتم تشركون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلِ ٱللَّهُ یُنَجِّیكُم مِّنۡهَا وَمِن كُلِّ كَرۡبࣲ ثُمَّ أَنتُمۡ تُشۡرِكُونَ
 
 | Details |  |

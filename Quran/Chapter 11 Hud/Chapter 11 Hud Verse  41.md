@@ -452,6 +452,18 @@ Wa Qāla Arkabū Fīhā Bismi Allāhi Majrāhā Wa Mursāhā 'Inna Rabbī Laghaf
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ ارْكَبُوا فِيهَا بِسْمِ اللَّهِ مَجْرَاهَا وَمُرْسَاهَا إِنَّ رَبِّي لَغَفُورٌ رَحِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال اركبوا فيها بسم الله مجراها ومرساها ان ربي لغفور رحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَقَالَ ٱرۡكَبُوا۟ فِیهَا بِسۡمِ ٱللَّهِ مَجۡر۪ىٰهَا وَمُرۡسَىٰهَاۤۚ إِنَّ رَبِّی لَغَفُورࣱ رَّحِیمࣱ
 
 | Details |  |

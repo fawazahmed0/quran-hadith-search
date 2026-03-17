@@ -452,6 +452,18 @@ Mā Sami'nā Bihadhā Fī Al-Millati Al-'Ākhirati 'In Hādhā 'Illā Akhtilāqu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا سَمِعْنَا بِهَذَا فِي الْمِلَّةِ الْآخِرَةِ إِنْ هَذَا إِلَّا اخْتِلَاقٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما سمعنا بهذا في الملة الاخرة ان هذا الا اختلاق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا سَمِعۡنَا بِهَـٰذَا فِی ٱلۡمِلَّةِ ٱلۡءَاخِرَةِ إِنۡ هَـٰذَاۤ إِلَّا ٱخۡتِلَـٰقٌ
 
 | Details |  |

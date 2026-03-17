@@ -452,6 +452,18 @@ Wa Al-Ladhīna Sa'aw Fī 'Āyātinā Mu'ājizīna 'Ūlā'ika 'Aşĥābu Al-Jaĥ�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ سَعَوْا فِي آيَاتِنَا مُعَاجِزِينَ أُولَئِكَ أَصْحَابُ الْجَحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين سعوا في اياتنا معاجزين اوليك اصحاب الجحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ سَعَوۡا۟ فِیۤ ءَایَـٰتِنَا مُعَـٰجِزِینَ أُو۟لَـٰۤئِكَ أَصۡحَـٰبُ ٱلۡجَحِیمِ
 
 | Details |  |

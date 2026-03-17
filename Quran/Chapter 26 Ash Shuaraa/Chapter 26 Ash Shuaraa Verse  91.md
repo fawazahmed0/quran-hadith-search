@@ -452,6 +452,18 @@ Wa Burrizati Al-Jaĥīmu Lilghāwīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَبُرِّزَتِ الْجَحِيمُ لِلْغَاوِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وبرزت الجحيم للغاوين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَبُرِّزَتِ ٱلۡجَحِیمُ لِلۡغَاوِینَ
 
 | Details |  |

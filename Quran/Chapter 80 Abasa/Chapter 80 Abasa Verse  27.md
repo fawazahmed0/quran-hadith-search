@@ -452,6 +452,18 @@ Fa'anbatnā Fīhā Ĥabbāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَنْبَتْنَا فِيهَا حَبًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانبتنا فيها حبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَنۢبَتۡنَا فِیهَا حَبࣰّا
 
 | Details |  |

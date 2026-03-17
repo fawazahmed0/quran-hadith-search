@@ -452,6 +452,18 @@ Bimā Ghafara Lī Rabbī Wa Ja'alanī Mina Al-Mukramīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بِمَا غَفَرَ لِي رَبِّي وَجَعَلَنِي مِنَ الْمُكْرَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بما غفر لي ربي وجعلني من المكرمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بِمَا غَفَرَ لِی رَبِّی وَجَعَلَنِی مِنَ ٱلۡمُكۡرَمِینَ
 
 | Details |  |

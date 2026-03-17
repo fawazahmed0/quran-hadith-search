@@ -452,6 +452,18 @@ Qul 'Innamā Al-'Ilmu 'Inda Allāhi Wa 'Innamā 'Anā Nadhīrun Mubīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ إِنَّمَا الْعِلْمُ عِنْدَ اللَّهِ وَإِنَّمَا أَنَا نَذِيرٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل انما العلم عند الله وانما انا نذير مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ إِنَّمَا ٱلۡعِلۡمُ عِندَ ٱللَّهِ وَإِنَّمَاۤ أَنَا۠ نَذِیرࣱ مُّبِینࣱ
 
 | Details |  |

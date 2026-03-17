@@ -452,6 +452,18 @@ Wa 'Idhā R'awka 'In Yattakhidhūnaka 'Illā Huzūan 'Ahadhā Al-Ladhī Ba'atha 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا رَأَوْكَ إِنْ يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَذَا الَّذِي بَعَثَ اللَّهُ رَسُولًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا راوك ان يتخذونك الا هزوا اهذا الذي بعث الله رسولا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا رَأَوۡكَ إِن یَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَـٰذَا ٱلَّذِی بَعَثَ ٱللَّهُ رَسُولًا
 
 | Details |  |

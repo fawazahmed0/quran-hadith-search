@@ -452,6 +452,18 @@ Al-Ladhīna Hum Fī Şalātihim Khāshi'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين هم في صلاتهم خاشعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ هُمۡ فِی صَلَاتِهِمۡ خَـٰشِعُونَ
 
 | Details |  |

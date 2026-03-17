@@ -452,6 +452,18 @@ Wa Ĥuşşila Mā Fī Aş-Şudūri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَحُصِّلَ مَا فِي الصُّدُورِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وحصل ما في الصدور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَحُصِّلَ مَا فِی ٱلصُّدُورِ
 
 | Details |  |

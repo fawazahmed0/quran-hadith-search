@@ -452,6 +452,18 @@ Wa Tilka Al-Jannatu Allatī 'Ūrithtumūhā Bimā Kuntum Ta'malūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتِلْكَ الْجَنَّةُ الَّتِي أُورِثْتُمُوهَا بِمَا كُنْتُمْ تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتلك الجنة التي اورثتموها بما كنتم تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتِلۡكَ ٱلۡجَنَّةُ ٱلَّتِیۤ أُورِثۡتُمُوهَا بِمَا كُنتُمۡ تَعۡمَلُونَ
 
 | Details |  |

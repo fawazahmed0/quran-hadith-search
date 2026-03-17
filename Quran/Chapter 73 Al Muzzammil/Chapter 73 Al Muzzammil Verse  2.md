@@ -452,6 +452,18 @@ Qumi Al-Layla 'Illā Qalīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُمِ اللَّيْلَ إِلَّا قَلِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قم الليل الا قليلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُمِ ٱلَّیۡلَ إِلَّا قَلِیلࣰا
 
 | Details |  |

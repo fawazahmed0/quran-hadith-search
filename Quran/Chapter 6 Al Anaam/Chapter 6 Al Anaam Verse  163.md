@@ -452,6 +452,18 @@ Lā Sharīka Lahu Wa Bidhalika 'Umirtu Wa 'Anā 'Awwalu Al-Muslimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا شَرِيكَ لَهُ وَبِذَلِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا شريك له وبذلك امرت وانا اول المسلمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا شَرِیكَ لَهُۥۖ وَبِذَ ٰلِكَ أُمِرۡتُ وَأَنَا۠ أَوَّلُ ٱلۡمُسۡلِمِینَ
 
 | Details |  |

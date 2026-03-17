@@ -452,6 +452,18 @@ Wa 'Innaka Latulaqqá Al-Qur'āna Min Ladun Ĥakīmin 'Alīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّكَ لَتُلَقَّى الْقُرْآنَ مِنْ لَدُنْ حَكِيمٍ عَلِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانك لتلقى القران من لدن حكيم عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّكَ لَتُلَقَّى ٱلۡقُرۡءَانَ مِن لَّدُنۡ حَكِیمٍ عَلِیمٍ
 
 | Details |  |

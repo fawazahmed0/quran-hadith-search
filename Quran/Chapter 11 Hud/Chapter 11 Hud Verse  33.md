@@ -452,6 +452,18 @@ Qāla 'Innamā Ya'tīkum Bihi Allāhu 'In Shā'a Wa Mā 'Antum Bimu'jizīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ إِنَّمَا يَأْتِيكُمْ بِهِ اللَّهُ إِنْ شَاءَ وَمَا أَنْتُمْ بِمُعْجِزِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال انما ياتيكم به الله ان شاء وما انتم بمعجزين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ إِنَّمَا یَأۡتِیكُم بِهِ ٱللَّهُ إِن شَاۤءَ وَمَاۤ أَنتُم بِمُعۡجِزِینَ
 
 | Details |  |

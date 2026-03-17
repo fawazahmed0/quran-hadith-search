@@ -452,6 +452,18 @@ Yaqūlu 'Ahlaktu Mālāan Lubadāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَقُولُ أَهْلَكْتُ مَالًا لُبَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يقول اهلكت مالا لبدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَقُولُ أَهۡلَكۡتُ مَالࣰا لُّبَدًا
 
 | Details |  |

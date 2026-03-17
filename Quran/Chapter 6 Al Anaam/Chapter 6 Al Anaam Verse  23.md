@@ -452,6 +452,18 @@ Thumma Lam Takun Fitnatuhum 'Illā 'An Qālū Wa Al-Lahi Rabbinā Mā Kunnā Mus
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ لَمْ تَكُنْ فِتْنَتُهُمْ إِلَّا أَنْ قَالُوا وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم لم تكن فتنتهم الا ان قالوا والله ربنا ما كنا مشركين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ لَمۡ تَكُن فِتۡنَتُهُمۡ إِلَّاۤ أَن قَالُوا۟ وَٱللَّهِ رَبِّنَا مَا كُنَّا مُشۡرِكِینَ
 
 | Details |  |

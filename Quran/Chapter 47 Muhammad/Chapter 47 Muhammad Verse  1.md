@@ -452,6 +452,18 @@ Al-Ladhīna Kafarū Wa Şaddū 'An Sabīli Allāhi 'Ađalla 'A'mālahum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ أَضَلَّ أَعْمَالَهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين كفروا وصدوا عن سبيل الله اضل اعمالهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِیلِ ٱللَّهِ أَضَلَّ أَعۡمَـٰلَهُمۡ
 
 | Details |  |

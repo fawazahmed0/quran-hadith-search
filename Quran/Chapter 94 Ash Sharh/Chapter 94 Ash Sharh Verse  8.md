@@ -452,6 +452,18 @@ Wa 'Ilá Rabbika Fārghab
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِلَى رَبِّكَ فَارْغَبْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والى ربك فارغب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِلَىٰ رَبِّكَ فَٱرۡغَب
 
 | Details |  |

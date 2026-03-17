@@ -452,6 +452,18 @@ Qālū 'Innā 'Ursilnā 'Ilá Qawmin Mujrimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا إِنَّا أُرْسِلْنَا إِلَى قَوْمٍ مُجْرِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا انا ارسلنا الى قوم مجرمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوۤا۟ إِنَّاۤ أُرۡسِلۡنَاۤ إِلَىٰ قَوۡمࣲ مُّجۡرِمِینَ
 
 | Details |  |

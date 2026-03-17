@@ -452,6 +452,18 @@ Falā Yaĥzunka Qawluhum 'Innā Na'lamu Mā Yusirrūna Wa Mā Yu'linūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَا يَحْزُنْكَ قَوْلُهُمْ إِنَّا نَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلا يحزنك قولهم انا نعلم ما يسرون وما يعلنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَا یَحۡزُنكَ قَوۡلُهُمۡۘ إِنَّا نَعۡلَمُ مَا یُسِرُّونَ وَمَا یُعۡلِنُونَ
 
 | Details |  |

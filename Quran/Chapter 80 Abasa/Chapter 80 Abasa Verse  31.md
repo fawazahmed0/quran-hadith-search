@@ -452,6 +452,18 @@ Wa Fākihatan Wa 'Abbāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفَاكِهَةً وَأَبًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفاكهة وابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفَـٰكِهَةࣰ وَأَبࣰّا
 
 | Details |  |

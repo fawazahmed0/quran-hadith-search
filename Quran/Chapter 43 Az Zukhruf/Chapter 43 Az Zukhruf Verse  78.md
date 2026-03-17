@@ -452,6 +452,18 @@ Laqad Ji'nākum Bil-Ĥaqqi Wa Lakinna 'Aktharakum Lilĥaqqi Kārihūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَقَدْ جِئْنَاكُمْ بِالْحَقِّ وَلَكِنَّ أَكْثَرَكُمْ لِلْحَقِّ كَارِهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لقد جيناكم بالحق ولكن اكثركم للحق كارهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَقَدۡ جِئۡنَـٰكُم بِٱلۡحَقِّ وَلَـٰكِنَّ أَكۡثَرَكُمۡ لِلۡحَقِّ كَـٰرِهُونَ
 
 | Details |  |

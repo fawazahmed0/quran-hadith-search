@@ -452,6 +452,18 @@ Illā 'Āla Lūţin 'Innā Lamunajjūhum 'Ajma'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا آلَ لُوطٍ إِنَّا لَمُنَجُّوهُمْ أَجْمَعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا ال لوط انا لمنجوهم اجمعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّاۤ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمۡ أَجۡمَعِینَ
 
 | Details |  |

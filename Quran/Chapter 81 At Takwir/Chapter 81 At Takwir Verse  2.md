@@ -452,6 +452,18 @@ Wa 'Idhā An-Nujūmu Ankadarat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا النُّجُومُ انْكَدَرَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا النجوم انكدرت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتۡ
 
 | Details |  |

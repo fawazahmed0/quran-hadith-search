@@ -452,6 +452,18 @@ Wa Mā 'Anfaqtum Min Nafaqatin 'Aw Nadhartum Min Nadhrin Fa'inna Allāha Ya'lamu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَنْفَقْتُمْ مِنْ نَفَقَةٍ أَوْ نَذَرْتُمْ مِنْ نَذْرٍ فَإِنَّ اللَّهَ يَعْلَمُهُ وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما انفقتم من نفقة او نذرتم من نذر فان الله يعلمه وما للظالمين من انصار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَنفَقۡتُم مِّن نَّفَقَةٍ أَوۡ نَذَرۡتُم مِّن نَّذۡرࣲ فَإِنَّ ٱللَّهَ یَعۡلَمُهُۥۗ وَمَا لِلظَّـٰلِمِینَ مِنۡ أَنصَارٍ
 
 | Details |  |

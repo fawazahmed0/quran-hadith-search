@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي يَعْلَى شَدَّادِ بْنِ أَوْسٍ رَضِيَ اللهُ عَنْهُ عَنْ رَسُولِ اللَّهِ صلى الله عليه و سلم قَالَ: إنَّ اللَّهَ كَتَبَ الْإِحْسَانَ عَلَى كُلِّ شَيْءٍ، فَإِذَا قَتَلْتُمْ فَأَحْسِنُوا الْقِتْلَةَ، وَإِذَا ذَبَحْتُمْ فَأَحْسِنُوا الذِّبْحَةَ، وَلْيُحِدَّ أَحَدُكُمْ شَفْرَتَهُ، وَلْيُرِحْ ذَبِيحَتَهُ . \[رَوَاهُ مُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of Abu Ya’la Shaddad bin Aws (may Allah be pleased with him),
 ## French
 
 Selon Abou Ya’la Chaddad ibn Aws (qu’Allah l’agrée) : Le Messager d’Allah (ﷺ) a dit : « Allah a prescrit la bienfaisance en toute chose. Si vous devez tuer, faites-le de la meilleure façon ; si vous égorgez, égorgez bien. Que chacun de vous aiguise sa lame et épargne la souffrance à l’animal qu’il sacrifie. » \[Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 17 |
+| Arabic No | 17 |
+| Reference | Book 1 Hadith 17 |
+
+## Turkish
+
+Ebu Ya’la Şeddad bin Evs (ra) anlatıyor: Resulullah (ﷺ) şöyle buyurdu: "Allah her işte ihsanı (en güzel şekilde yapmayı) farz kılmıştır. Öldürdüğünüzde güzelce öldürün, (hayvan) kestiğinizde güzelce kesin. Her biriniz bıçağını bilesin ve keseceği hayvanı rahatlatsın." \[Müslim\]
 
 | References: |  |
 | --- | --- |

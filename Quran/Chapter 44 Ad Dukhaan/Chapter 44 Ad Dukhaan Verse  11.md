@@ -452,6 +452,18 @@ Yaghshá An-Nāsa Hādhā 'Adhābun 'Alīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَغْشَى النَّاسَ هَذَا عَذَابٌ أَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يغشى الناس هذا عذاب اليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَغۡشَى ٱلنَّاسَۖ هَـٰذَا عَذَابٌ أَلِیمࣱ
 
 | Details |  |

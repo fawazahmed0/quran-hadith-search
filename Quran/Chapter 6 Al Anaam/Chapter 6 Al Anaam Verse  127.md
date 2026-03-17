@@ -452,6 +452,18 @@ Lahum Dāru As-Salāmi 'Inda Rabbihim Wa Huwa Walīyuhum Bimā Kānū Ya'malūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَهُمْ دَارُ السَّلَامِ عِنْدَ رَبِّهِمْ وَهُوَ وَلِيُّهُمْ بِمَا كَانُوا يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لهم دار السلام عند ربهم وهو وليهم بما كانوا يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ لَهُمۡ دَارُ ٱلسَّلَـٰمِ عِندَ رَبِّهِمۡۖ وَهُوَ وَلِیُّهُم بِمَا كَانُوا۟ یَعۡمَلُونَ
 
 | Details |  |

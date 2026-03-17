@@ -452,6 +452,18 @@ Fa'innamā Yassarnāhu Bilisānika Litubashira Bihi Al-Muttaqīna Wa Tundhira Bi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنَّمَا يَسَّرْنَاهُ بِلِسَانِكَ لِتُبَشِّرَ بِهِ الْمُتَّقِينَ وَتُنْذِرَ بِهِ قَوْمًا لُدًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانما يسرناه بلسانك لتبشر به المتقين وتنذر به قوما لدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِنَّمَا یَسَّرۡنَـٰهُ بِلِسَانِكَ لِتُبَشِّرَ بِهِ ٱلۡمُتَّقِینَ وَتُنذِرَ بِهِۦ قَوۡمࣰا لُّدࣰّا
 
 | Details |  |

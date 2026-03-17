@@ -452,6 +452,18 @@ Fafataĥnā 'Abwāba As-Samā'i Bimā'in Munhamirin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَفَتَحْنَا أَبْوَابَ السَّمَاءِ بِمَاءٍ مُنْهَمِرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ففتحنا ابواب السماء بماء منهمر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَفَتَحۡنَاۤ أَبۡوَ ٰبَ ٱلسَّمَاۤءِ بِمَاۤءࣲ مُّنۡهَمِرࣲ
 
 | Details |  |

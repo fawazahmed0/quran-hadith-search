@@ -452,6 +452,18 @@ Wa Laqad Fatannā Sulaymāna Wa 'Alqaynā 'Alá Kursīyihi Jasadāan Thumma 'An�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ فَتَنَّا سُلَيْمَانَ وَأَلْقَيْنَا عَلَى كُرْسِيِّهِ جَسَدًا ثُمَّ أَنَابَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد فتنا سليمان والقينا على كرسيه جسدا ثم اناب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ فَتَنَّا سُلَیۡمَـٰنَ وَأَلۡقَیۡنَا عَلَىٰ كُرۡسِیِّهِۦ جَسَدࣰا ثُمَّ أَنَابَ
 
 | Details |  |

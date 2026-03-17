@@ -452,6 +452,18 @@ Qul 'In 'Adrī 'Aqarībun Mā Tū'adūna 'Am Yaj'alu Lahu Rabbī 'Amadāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ إِنْ أَدْرِي أَقَرِيبٌ مَا تُوعَدُونَ أَمْ يَجْعَلُ لَهُ رَبِّي أَمَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل ان ادري اقريب ما توعدون ام يجعل له ربي امدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ إِنۡ أَدۡرِیۤ أَقَرِیبࣱ مَّا تُوعَدُونَ أَمۡ یَجۡعَلُ لَهُۥ رَبِّیۤ أَمَدًا
 
 | Details |  |

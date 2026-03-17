@@ -452,6 +452,18 @@ Tilka 'Ummatun Qad Khalat Lahā Mā Kasabat Wa Lakum Mā Kasabtum Wa Lā Tus'al�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تِلْكَ أُمَّةٌ قَدْ خَلَتْ لَهَا مَا كَسَبَتْ وَلَكُمْ مَا كَسَبْتُمْ وَلَا تُسْأَلُونَ عَمَّا كَانُوا يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تلك امة قد خلت لها ما كسبت ولكم ما كسبتم ولا تسالون عما كانوا يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تِلۡكَ أُمَّةࣱ قَدۡ خَلَتۡۖ لَهَا مَا كَسَبَتۡ وَلَكُم مَّا كَسَبۡتُمۡۖ وَلَا تُسۡءَلُونَ عَمَّا كَانُوا۟ یَعۡمَلُونَ
 
 | Details |  |

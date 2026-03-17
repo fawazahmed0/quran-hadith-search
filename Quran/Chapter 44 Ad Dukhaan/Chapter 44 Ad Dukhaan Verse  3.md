@@ -452,6 +452,18 @@ Innā 'Anzalnāhu Fī Laylatin Mubārakatin 'Innā Kunnā Mundhirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةٍ مُبَارَكَةٍ إِنَّا كُنَّا مُنْذِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا انزلناه في ليلة مباركة انا كنا منذرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّاۤ أَنزَلۡنَـٰهُ فِی لَیۡلَةࣲ مُّبَـٰرَكَةٍۚ إِنَّا كُنَّا مُنذِرِینَ
 
 | Details |  |

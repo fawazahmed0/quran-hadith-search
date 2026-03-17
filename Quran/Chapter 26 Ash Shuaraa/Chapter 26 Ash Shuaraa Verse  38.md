@@ -452,6 +452,18 @@ Fajumi'a As-Saĥaratu Limīqāti Yawmin Ma'lūmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَجُمِعَ السَّحَرَةُ لِمِيقَاتِ يَوْمٍ مَعْلُومٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فجمع السحرة لميقات يوم معلوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَجُمِعَ ٱلسَّحَرَةُ لِمِیقَـٰتِ یَوۡمࣲ مَّعۡلُومࣲ
 
 | Details |  |

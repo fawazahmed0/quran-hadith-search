@@ -452,6 +452,18 @@ Wa 'In Lam Tu'uminū Lī Fā'tazilūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ لَمْ تُؤْمِنُوا لِي فَاعْتَزِلُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان لم تومنوا لي فاعتزلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن لَّمۡ تُؤۡمِنُوا۟ لِی فَٱعۡتَزِلُونِ
 
 | Details |  |

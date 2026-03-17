@@ -452,6 +452,18 @@ Alā 'Inna 'Awliyā'a Allāhi Lā Khawfun 'Alayhim Wa Lā Hum Yaĥzanūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا ان اولياء الله لا خوف عليهم ولا هم يحزنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَاۤ إِنَّ أَوۡلِیَاۤءَ ٱللَّهِ لَا خَوۡفٌ عَلَیۡهِمۡ وَلَا هُمۡ یَحۡزَنُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Yakhirrūna Lil'adhqāni Yabkūna Wa Yazīduhum Khushū'āan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويخرون للاذقان يبكون ويزيدهم خشوعا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَخِرُّونَ لِلۡأَذۡقَانِ یَبۡكُونَ وَیَزِیدُهُمۡ خُشُوعࣰا ۩
 
 | Details |  |

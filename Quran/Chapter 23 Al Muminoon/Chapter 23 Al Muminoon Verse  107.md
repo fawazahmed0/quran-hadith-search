@@ -452,6 +452,18 @@ Rabbanā 'Akhrijnā Minhā Fa'in 'Udnā Fa'innā Žālimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبَّنَا أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَالِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ربنا اخرجنا منها فان عدنا فانا ظالمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَبَّنَاۤ أَخۡرِجۡنَا مِنۡهَا فَإِنۡ عُدۡنَا فَإِنَّا ظَـٰلِمُونَ
 
 | Details |  |

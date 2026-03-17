@@ -452,6 +452,18 @@ Lā Yamlikūna Ash-Shafā'ata 'Illā Mani Attakhadha 'Inda Ar-Raĥmāni 'Ahdāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَمْلِكُونَ الشَّفَاعَةَ إِلَّا مَنِ اتَّخَذَ عِنْدَ الرَّحْمَنِ عَهْدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يملكون الشفاعة الا من اتخذ عند الرحمن عهدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا یَمۡلِكُونَ ٱلشَّفَـٰعَةَ إِلَّا مَنِ ٱتَّخَذَ عِندَ ٱلرَّحۡمَـٰنِ عَهۡدࣰا
 
 | Details |  |

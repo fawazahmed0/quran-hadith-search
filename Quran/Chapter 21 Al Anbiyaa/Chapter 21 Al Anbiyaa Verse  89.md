@@ -452,6 +452,18 @@ Wa Zakarīyā 'Idh Nādá Rabbahu Rabbi Lā Tadharnī Fardāan Wa 'Anta Khayru A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَزَكَرِيَّا إِذْ نَادَى رَبَّهُ رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنْتَ خَيْرُ الْوَارِثِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وزكريا اذ نادى ربه رب لا تذرني فردا وانت خير الوارثين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَزَكَرِیَّاۤ إِذۡ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرۡنِی فَرۡدࣰا وَأَنتَ خَیۡرُ ٱلۡوَ ٰرِثِینَ
 
 | Details |  |

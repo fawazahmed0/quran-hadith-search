@@ -452,6 +452,18 @@ Al-Ladhīna 'Āmanū Wa 'Amilū Aş-Şāliĥāti Ţūbá Lahum Wa Ĥusnu Ma'ābi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ طُوبَى لَهُمْ وَحُسْنُ مَآبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين امنوا وعملوا الصالحات طوبى لهم وحسن ماب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ طُوبَىٰ لَهُمۡ وَحُسۡنُ مَءَابࣲ
 
 | Details |  |

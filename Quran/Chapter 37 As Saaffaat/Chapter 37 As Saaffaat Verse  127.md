@@ -452,6 +452,18 @@ Fakadhabūhu Fa'innahum Lamuĥđarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكذبوه فانهم لمحضرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكَذَّبُوهُ فَإِنَّهُمۡ لَمُحۡضَرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Kallā 'Idhā Dukkati Al-'Arđu Dakkāan Dakkāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا اذا دكت الارض دكا دكا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّاۤۖ إِذَا دُكَّتِ ٱلۡأَرۡضُ دَكࣰّا دَكࣰّا
 
 | Details |  |

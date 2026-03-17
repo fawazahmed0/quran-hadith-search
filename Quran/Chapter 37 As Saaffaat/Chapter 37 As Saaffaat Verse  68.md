@@ -452,6 +452,18 @@ Thumma 'Inna Marji'ahum La'ilá Al-Jaĥīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى الْجَحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم ان مرجعهم لالى الجحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ إِنَّ مَرۡجِعَهُمۡ لَإِلَى ٱلۡجَحِیمِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Azifati Al-'Āzifahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَزِفَتِ الْآزِفَةُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ازفت الازفة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَزِفَتِ ٱلۡءَازِفَةُ
 
 | Details |  |

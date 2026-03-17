@@ -452,6 +452,18 @@ Kadhālika Al-'Adhābu Wa La'adhābu Al-'Ākhirati 'Akbaru Law Kānū Ya'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَلِكَ الْعَذَابُ وَلَعَذَابُ الْآخِرَةِ أَكْبَرُ لَوْ كَانُوا يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذلك العذاب ولعذاب الاخرة اكبر لو كانوا يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَ ٰلِكَ ٱلۡعَذَابُۖ وَلَعَذَابُ ٱلۡءَاخِرَةِ أَكۡبَرُۚ لَوۡ كَانُوا۟ یَعۡلَمُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Innā 'A'tadnā Lilkāfirīna Salāsilāan Wa 'Aghlālāan Wa Sa'īrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا أَعْتَدْنَا لِلْكَافِرِينَ سَلَاسِلَ وَأَغْلَالًا وَسَعِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا اعتدنا للكافرين سلاسل واغلالا وسعيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّاۤ أَعۡتَدۡنَا لِلۡكَـٰفِرِینَ سَلَـٰسِلَا۟ وَأَغۡلَـٰلࣰا وَسَعِیرًا
 
 | Details |  |

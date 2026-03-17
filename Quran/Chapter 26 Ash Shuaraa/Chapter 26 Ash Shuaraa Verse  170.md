@@ -452,6 +452,18 @@ Fanajjaynāhu Wa 'Ahlahu 'Ajma'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَنَجَّيْنَاهُ وَأَهْلَهُ أَجْمَعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فنجيناه واهله اجمعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَنَجَّیۡنَـٰهُ وَأَهۡلَهُۥۤ أَجۡمَعِینَ
 
 | Details |  |

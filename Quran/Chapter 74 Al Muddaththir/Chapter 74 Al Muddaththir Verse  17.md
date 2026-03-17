@@ -452,6 +452,18 @@ Sa'urhiquhu Şa'ūdāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَأُرْهِقُهُ صَعُودًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سارهقه صعودا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَأُرۡهِقُهُۥ صَعُودًا
 
 | Details |  |

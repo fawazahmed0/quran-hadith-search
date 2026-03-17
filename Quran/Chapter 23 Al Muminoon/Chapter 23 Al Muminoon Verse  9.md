@@ -452,6 +452,18 @@ Wa Al-Ladhīna Hum 'Alá Şalawātihim Yuĥāfižūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ هُمْ عَلَى صَلَوَاتِهِمْ يُحَافِظُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين هم على صلواتهم يحافظون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ هُمۡ عَلَىٰ صَلَوَ ٰتِهِمۡ یُحَافِظُونَ
 
 | Details |  |

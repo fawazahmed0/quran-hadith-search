@@ -452,6 +452,18 @@ Hatta 'Idha Ja'a 'Ahadahumu Al-Mawtu Qala Rabbi Arji'uni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+حَتَّى إِذَا جَاءَ أَحَدَهُمُ الْمَوْتُ قَالَ رَبِّ ارْجِعُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+حتى اذا جاء احدهم الموت قال رب ارجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 حَتَّىٰۤ إِذَا جَاۤءَ أَحَدَهُمُ ٱلۡمَوۡتُ قَالَ رَبِّ ٱرۡجِعُونِ
 
 | Details |  |

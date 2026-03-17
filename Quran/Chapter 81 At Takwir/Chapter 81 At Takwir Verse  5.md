@@ -452,6 +452,18 @@ Wa 'Idhā Al-Wuĥūshu Ĥushirat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا الْوُحُوشُ حُشِرَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا الوحوش حشرت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱلۡوُحُوشُ حُشِرَتۡ
 
 | Details |  |

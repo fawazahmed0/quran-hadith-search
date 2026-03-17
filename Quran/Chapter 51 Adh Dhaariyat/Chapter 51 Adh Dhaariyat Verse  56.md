@@ -452,6 +452,18 @@ Wa Mā Khalaqtu Al-Jinna Wa Al-'Insa 'Illā Liya'budūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما خلقت الجن والانس الا ليعبدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا خَلَقۡتُ ٱلۡجِنَّ وَٱلۡإِنسَ إِلَّا لِیَعۡبُدُونِ
 
 | Details |  |

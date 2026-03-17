@@ -452,6 +452,18 @@ Qāla Na'am Wa 'Innakum Lamina Al-Muqarrabīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ نَعَمْ وَإِنَّكُمْ لَمِنَ الْمُقَرَّبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال نعم وانكم لمن المقربين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ نَعَمۡ وَإِنَّكُمۡ لَمِنَ ٱلۡمُقَرَّبِینَ
 
 | Details |  |

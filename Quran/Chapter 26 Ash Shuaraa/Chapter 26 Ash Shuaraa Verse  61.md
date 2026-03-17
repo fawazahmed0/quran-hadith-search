@@ -452,6 +452,18 @@ Falammā Tarā'á Al-Jam'āni Qāla 'Aşĥābu Mūsá 'Innā Lamudrakūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا تَرَاءَى الْجَمْعَانِ قَالَ أَصْحَابُ مُوسَى إِنَّا لَمُدْرَكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما تراءى الجمعان قال اصحاب موسى انا لمدركون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّا تَرَ ٰۤءَا ٱلۡجَمۡعَانِ قَالَ أَصۡحَـٰبُ مُوسَىٰۤ إِنَّا لَمُدۡرَكُونَ
 
 | Details |  |

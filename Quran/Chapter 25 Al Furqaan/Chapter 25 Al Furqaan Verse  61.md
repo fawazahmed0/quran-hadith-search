@@ -452,6 +452,18 @@ Tabāraka Al-Ladhī Ja'ala Fī As-Samā'i Burūjāan Wa Ja'ala Fīhā Sirājāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَبَارَكَ الَّذِي جَعَلَ فِي السَّمَاءِ بُرُوجًا وَجَعَلَ فِيهَا سِرَاجًا وَقَمَرًا مُنِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تبارك الذي جعل في السماء بروجا وجعل فيها سراجا وقمرا منيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَبَارَكَ ٱلَّذِی جَعَلَ فِی ٱلسَّمَاۤءِ بُرُوجࣰا وَجَعَلَ فِیهَا سِرَ ٰجࣰا وَقَمَرࣰا مُّنِیرࣰا
 
 | Details |  |

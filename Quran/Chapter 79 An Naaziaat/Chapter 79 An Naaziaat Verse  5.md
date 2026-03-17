@@ -452,6 +452,18 @@ Fālmudabbirāti 'Amrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَالْمُدَبِّرَاتِ أَمْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالمدبرات امرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱلۡمُدَبِّرَ ٰتِ أَمۡرࣰا
 
 | Details |  |

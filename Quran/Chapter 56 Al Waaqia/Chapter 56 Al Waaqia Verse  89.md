@@ -452,6 +452,18 @@ Farawĥun Wa Rayĥānun Wa Jannatu Na'īmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فروح وريحان وجنت نعيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَرَوۡحࣱ وَرَیۡحَانࣱ وَجَنَّتُ نَعِیمࣲ
 
 | Details |  |

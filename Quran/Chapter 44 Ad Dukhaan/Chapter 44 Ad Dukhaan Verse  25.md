@@ -452,6 +452,18 @@ Kam Tarakū Min Jannātin Wa 'Uyūnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَمْ تَرَكُوا مِنْ جَنَّاتٍ وَعُيُونٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كم تركوا من جنات وعيون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَمۡ تَرَكُوا۟ مِن جَنَّـٰتࣲ وَعُیُونࣲ
 
 | Details |  |

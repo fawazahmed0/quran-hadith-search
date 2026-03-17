@@ -452,6 +452,18 @@ Qul Man Rabbu As-Samāwāti As-Sab'i Wa Rabbu Al-'Arshi Al-'Ažīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ مَنْ رَبُّ السَّمَاوَاتِ السَّبْعِ وَرَبُّ الْعَرْشِ الْعَظِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل من رب السماوات السبع ورب العرش العظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ مَن رَّبُّ ٱلسَّمَـٰوَ ٰتِ ٱلسَّبۡعِ وَرَبُّ ٱلۡعَرۡشِ ٱلۡعَظِیمِ
 
 | Details |  |

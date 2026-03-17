@@ -452,6 +452,18 @@ Qawārīra Min Fiđđatin Qaddarūhā Taqdīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَوَارِيرَ مِنْ فِضَّةٍ قَدَّرُوهَا تَقْدِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قوارير من فضة قدروها تقديرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَوَارِیرَا۟ مِن فِضَّةࣲ قَدَّرُوهَا تَقۡدِیرࣰا
 
 | Details |  |

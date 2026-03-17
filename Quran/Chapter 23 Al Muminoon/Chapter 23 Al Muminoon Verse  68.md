@@ -452,6 +452,18 @@ Afalam Yaddabbarū Al-Qawla 'Am Jā'ahum Mā Lam Ya'ti 'Ābā'ahumu Al-'Awwalīn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَلَمْ يَدَّبَّرُوا الْقَوْلَ أَمْ جَاءَهُمْ مَا لَمْ يَأْتِ آبَاءَهُمُ الْأَوَّلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افلم يدبروا القول ام جاءهم ما لم يات اباءهم الاولين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَلَمۡ یَدَّبَّرُوا۟ ٱلۡقَوۡلَ أَمۡ جَاۤءَهُم مَّا لَمۡ یَأۡتِ ءَابَاۤءَهُمُ ٱلۡأَوَّلِینَ
 
 | Details |  |

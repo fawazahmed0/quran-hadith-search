@@ -452,6 +452,18 @@ Fahuwa Fī 'Īshatin Rāđiyahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فهو في عيشة راضية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَهُوَ فِی عِیشَةࣲ رَّاضِیَةࣲ
 
 | Details |  |

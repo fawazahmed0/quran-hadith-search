@@ -452,6 +452,18 @@ Wa 'In Tajhar Bil-Qawli Fa'innahu Ya'lamu As-Sirra Wa 'Akhfá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ تَجْهَرْ بِالْقَوْلِ فَإِنَّهُ يَعْلَمُ السِّرَّ وَأَخْفَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان تجهر بالقول فانه يعلم السر واخفى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن تَجۡهَرۡ بِٱلۡقَوۡلِ فَإِنَّهُۥ یَعۡلَمُ ٱلسِّرَّ وَأَخۡفَى
 
 | Details |  |

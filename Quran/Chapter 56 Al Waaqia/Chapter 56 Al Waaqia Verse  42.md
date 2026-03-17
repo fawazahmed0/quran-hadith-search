@@ -452,6 +452,18 @@ Fī Samūmin Wa Ĥamīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي سَمُومٍ وَحَمِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في سموم وحميم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِی سَمُومࣲ وَحَمِیمࣲ
 
 | Details |  |

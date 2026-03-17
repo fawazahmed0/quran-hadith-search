@@ -452,6 +452,18 @@ Wa Kam 'Ahlaknā Qablahum Min Qarnin Hum 'Ashaddu Minhum Baţshāan Fanaqqabū F
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَمْ أَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ هُمْ أَشَدُّ مِنْهُمْ بَطْشًا فَنَقَّبُوا فِي الْبِلَادِ هَلْ مِنْ مَحِيصٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكم اهلكنا قبلهم من قرن هم اشد منهم بطشا فنقبوا في البلاد هل من محيص
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّن قَرۡنٍ هُمۡ أَشَدُّ مِنۡهُم بَطۡشࣰا فَنَقَّبُوا۟ فِی ٱلۡبِلَـٰدِ هَلۡ مِن مَّحِیصٍ
 
 | Details |  |

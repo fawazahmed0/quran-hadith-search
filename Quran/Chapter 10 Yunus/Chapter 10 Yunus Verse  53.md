@@ -452,6 +452,18 @@ Wa Yastanbi'ūnaka 'Aĥaqqun Huwa Qul 'Ī Wa Rabbī 'Innahu Laĥaqqun Wa Mā 'An
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَسْتَنْبِئُونَكَ أَحَقٌّ هُوَ قُلْ إِي وَرَبِّي إِنَّهُ لَحَقٌّ وَمَا أَنْتُمْ بِمُعْجِزِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويستنبيونك احق هو قل اي وربي انه لحق وما انتم بمعجزين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَیَسۡتَنۢبِءُونَكَ أَحَقٌّ هُوَۖ قُلۡ إِی وَرَبِّیۤ إِنَّهُۥ لَحَقࣱّۖ وَمَاۤ أَنتُم بِمُعۡجِزِینَ
 
 | Details |  |

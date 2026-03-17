@@ -452,6 +452,18 @@ Alimat Nafsun Mā Qaddamat Wa 'Akhkharat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَأَخَّرَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+علمت نفس ما قدمت واخرت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَلِمَتۡ نَفۡسࣱ مَّا قَدَّمَتۡ وَأَخَّرَتۡ
 
 | Details |  |

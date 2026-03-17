@@ -452,6 +452,18 @@ Qāla 'Aghayra Allāhi 'Abghīkum 'Ilahāan Wa Huwa Fađđalakum 'Alá Al-'Ālam
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ أَغَيْرَ اللَّهِ أَبْغِيكُمْ إِلَهًا وَهُوَ فَضَّلَكُمْ عَلَى الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال اغير الله ابغيكم الها وهو فضلكم على العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ أَغَیۡرَ ٱللَّهِ أَبۡغِیكُمۡ إِلَـٰهࣰا وَهُوَ فَضَّلَكُمۡ عَلَى ٱلۡعَـٰلَمِینَ
 
 | Details |  |

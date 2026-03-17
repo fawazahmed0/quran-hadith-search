@@ -452,6 +452,18 @@ Qāf Wa Al-Qur'āni Al-Majīdi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ق وَالْقُرْآنِ الْمَجِيدِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ق والقران المجيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قۤۚ وَٱلۡقُرۡءَانِ ٱلۡمَجِیدِ
 
 | Details |  |

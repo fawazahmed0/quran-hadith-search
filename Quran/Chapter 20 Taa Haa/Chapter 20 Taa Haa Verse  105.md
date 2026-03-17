@@ -452,6 +452,18 @@ Wa Yas'alūnaka 'Ani Al-Jibāli Faqul Yansifuhā Rabbī Nasfāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَسْأَلُونَكَ عَنِ الْجِبَالِ فَقُلْ يَنْسِفُهَا رَبِّي نَسْفًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويسالونك عن الجبال فقل ينسفها ربي نسفا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَسۡءَلُونَكَ عَنِ ٱلۡجِبَالِ فَقُلۡ یَنسِفُهَا رَبِّی نَسۡفࣰا
 
 | Details |  |

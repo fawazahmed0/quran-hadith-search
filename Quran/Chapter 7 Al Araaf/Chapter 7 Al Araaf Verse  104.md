@@ -452,6 +452,18 @@ Wa Qāla Mūsá Yā Fir'awnu 'Innī Rasūlun Min Rabbi Al-'Ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ مُوسَى يَا فِرْعَوْنُ إِنِّي رَسُولٌ مِنْ رَبِّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال موسى يا فرعون اني رسول من رب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ مُوسَىٰ یَـٰفِرۡعَوۡنُ إِنِّی رَسُولࣱ مِّن رَّبِّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Aĥyā'an Wa 'Amwātāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَحْيَاءً وَأَمْوَاتًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+احياء وامواتا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَحۡیَاۤءࣰ وَأَمۡوَ ٰتࣰا
 
 | Details |  |

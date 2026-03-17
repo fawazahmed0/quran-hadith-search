@@ -452,6 +452,18 @@ Qālū Jazā'uuhu Man Wujida Fī Raĥlihi Fahuwa Jazā'uuhu Kadhālika Najzī A�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا جَزَاؤُهُ مَنْ وُجِدَ فِي رَحْلِهِ فَهُوَ جَزَاؤُهُ كَذَلِكَ نَجْزِي الظَّالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا جزاوه من وجد في رحله فهو جزاوه كذلك نجزي الظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ جَزَ ٰۤؤُهُۥ مَن وُجِدَ فِی رَحۡلِهِۦ فَهُوَ جَزَ ٰۤؤُهُۥۚ كَذَ ٰلِكَ نَجۡزِی ٱلظَّـٰلِمِینَ
 
 | Details |  |

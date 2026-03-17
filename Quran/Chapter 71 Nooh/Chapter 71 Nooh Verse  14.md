@@ -452,6 +452,18 @@ Wa Qad Khalaqakum 'Aţwārāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَدْ خَلَقَكُمْ أَطْوَارًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقد خلقكم اطوارا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَدۡ خَلَقَكُمۡ أَطۡوَارًا
 
 | Details |  |

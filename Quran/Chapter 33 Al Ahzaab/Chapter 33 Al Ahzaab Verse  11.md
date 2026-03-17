@@ -452,6 +452,18 @@ Hunālika Abtuliya Al-Mu'uminūna Wa Zulzilū Zilzālāan Shadīdāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُنَالِكَ ابْتُلِيَ الْمُؤْمِنُونَ وَزُلْزِلُوا زِلْزَالًا شَدِيدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هنالك ابتلي المومنون وزلزلوا زلزالا شديدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُنَالِكَ ٱبۡتُلِیَ ٱلۡمُؤۡمِنُونَ وَزُلۡزِلُوا۟ زِلۡزَالࣰا شَدِیدࣰا
 
 | Details |  |

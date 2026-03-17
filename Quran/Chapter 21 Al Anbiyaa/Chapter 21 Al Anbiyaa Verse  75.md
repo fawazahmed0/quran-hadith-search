@@ -452,6 +452,18 @@ Wa 'Adkhalnāhu Fī Raĥmatinā 'Innahu Mina Aş-Şāliĥīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَدْخَلْنَاهُ فِي رَحْمَتِنَا إِنَّهُ مِنَ الصَّالِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وادخلناه في رحمتنا انه من الصالحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَدۡخَلۡنَـٰهُ فِی رَحۡمَتِنَاۤۖ إِنَّهُۥ مِنَ ٱلصَّـٰلِحِینَ
 
 | Details |  |

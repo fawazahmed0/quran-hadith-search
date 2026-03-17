@@ -452,6 +452,18 @@ Qālū La'in Lam Tantahi Yā Nūĥu Latakūnanna Mina Al-Marjūmīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا لَئِنْ لَمْ تَنْتَهِ يَا نُوحُ لَتَكُونَنَّ مِنَ الْمَرْجُومِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا لين لم تنته يا نوح لتكونن من المرجومين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ لَئِن لَّمۡ تَنتَهِ یَـٰنُوحُ لَتَكُونَنَّ مِنَ ٱلۡمَرۡجُومِینَ
 
 | Details |  |

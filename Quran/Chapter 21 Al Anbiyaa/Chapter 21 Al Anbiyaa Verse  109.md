@@ -452,6 +452,18 @@ Fa'in Tawallaw Faqul 'Ādhantukum 'Alá Sawā'in Wa 'In 'Adrī 'Aqarībun 'Am Ba
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنْ تَوَلَّوْا فَقُلْ آذَنْتُكُمْ عَلَى سَوَاءٍ وَإِنْ أَدْرِي أَقَرِيبٌ أَمْ بَعِيدٌ مَا تُوعَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فان تولوا فقل اذنتكم على سواء وان ادري اقريب ام بعيد ما توعدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِن تَوَلَّوۡا۟ فَقُلۡ ءَاذَنتُكُمۡ عَلَىٰ سَوَاۤءࣲۖ وَإِنۡ أَدۡرِیۤ أَقَرِیبٌ أَم بَعِیدࣱ مَّا تُوعَدُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Huwa Al-Ladhī 'Aĥyākum Thumma Yumītukum Thumma Yuĥyīkum 'Inna Al-'Insā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُوَ الَّذِي أَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ إِنَّ الْإِنْسَانَ لَكَفُورٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهو الذي احياكم ثم يميتكم ثم يحييكم ان الانسان لكفور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُوَ ٱلَّذِیۤ أَحۡیَاكُمۡ ثُمَّ یُمِیتُكُمۡ ثُمَّ یُحۡیِیكُمۡۗ إِنَّ ٱلۡإِنسَـٰنَ لَكَفُورࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fa'innahum La'ākilūna Minhā Famāli'ūna Minhā Al-Buţūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنَّهُمْ لَآكِلُونَ مِنْهَا فَمَالِئُونَ مِنْهَا الْبُطُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانهم لاكلون منها فماليون منها البطون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِنَّهُمۡ لَءَاكِلُونَ مِنۡهَا فَمَالِءُونَ مِنۡهَا ٱلۡبُطُونَ
 
 | Details |  |

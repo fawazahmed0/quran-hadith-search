@@ -452,6 +452,18 @@ Thumma 'Awlá Laka Fa'awlá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ أَوْلَى لَكَ فَأَوْلَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم اولى لك فاولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ أَوۡلَىٰ لَكَ فَأَوۡلَىٰۤ
 
 | Details |  |

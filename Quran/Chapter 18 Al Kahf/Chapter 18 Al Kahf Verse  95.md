@@ -452,6 +452,18 @@ Qāla Mā Makkannī Fīhi Rabbī Khayrun Fa'a'īnūnī Biqūwatin 'Aj'al Baynaku
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ مَا مَكَّنِّي فِيهِ رَبِّي خَيْرٌ فَأَعِينُونِي بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال ما مكني فيه ربي خير فاعينوني بقوة اجعل بينكم وبينهم ردما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ مَا مَكَّنِّی فِیهِ رَبِّی خَیۡرࣱ فَأَعِینُونِی بِقُوَّةٍ أَجۡعَلۡ بَیۡنَكُمۡ وَبَیۡنَهُمۡ رَدۡمًا
 
 | Details |  |

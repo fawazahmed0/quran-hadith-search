@@ -452,6 +452,18 @@ Qālū Ţā'irukum Ma'akum 'A'in Dhukkirtum Bal 'Antum Qawmun Musrifūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا طَائِرُكُمْ مَعَكُمْ أَئِنْ ذُكِّرْتُمْ بَلْ أَنْتُمْ قَوْمٌ مُسْرِفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا طايركم معكم اين ذكرتم بل انتم قوم مسرفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ طَـٰۤئِرُكُم مَّعَكُمۡ أَئِن ذُكِّرۡتُمۚ بَلۡ أَنتُمۡ قَوۡمࣱ مُّسۡرِفُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Ya'lama Al-Ladhīna Yujādilūna Fī 'Āyātinā Mā Lahum Min Maĥīşin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَعْلَمَ الَّذِينَ يُجَادِلُونَ فِي آيَاتِنَا مَا لَهُمْ مِنْ مَحِيصٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويعلم الذين يجادلون في اياتنا ما لهم من محيص
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَعۡلَمَ ٱلَّذِینَ یُجَـٰدِلُونَ فِیۤ ءَایَـٰتِنَا مَا لَهُم مِّن مَّحِیصࣲ
 
 | Details |  |

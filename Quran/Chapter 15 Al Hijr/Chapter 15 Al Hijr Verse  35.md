@@ -452,6 +452,18 @@ Wa 'Inna 'Alayka Al-La'nata 'Ilá Yawmi Ad-Dīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ عَلَيْكَ اللَّعْنَةَ إِلَى يَوْمِ الدِّينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان عليك اللعنة الى يوم الدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ عَلَیۡكَ ٱللَّعۡنَةَ إِلَىٰ یَوۡمِ ٱلدِّینِ
 
 | Details |  |

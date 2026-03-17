@@ -452,6 +452,18 @@ Wa Qul Jā'a Al-Ĥaqqu Wa Zahaqa Al-Bāţilu 'Inna Al-Bāţila Kāna Zahūqāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقل جاء الحق وزهق الباطل ان الباطل كان زهوقا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقُلۡ جَاۤءَ ٱلۡحَقُّ وَزَهَقَ ٱلۡبَـٰطِلُۚ إِنَّ ٱلۡبَـٰطِلَ كَانَ زَهُوقࣰا
 
 | Details |  |

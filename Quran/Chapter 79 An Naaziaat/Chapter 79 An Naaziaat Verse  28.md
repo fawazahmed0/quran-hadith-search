@@ -452,6 +452,18 @@ Rafa'a Samkahā Fasawwāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَفَعَ سَمْكَهَا فَسَوَّاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+رفع سمكها فسواها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَفَعَ سَمۡكَهَا فَسَوَّىٰهَا
 
 | Details |  |

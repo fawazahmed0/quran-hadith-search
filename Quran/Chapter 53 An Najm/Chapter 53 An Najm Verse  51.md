@@ -452,6 +452,18 @@ Wa Thamūda Famā 'Abqá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَثَمُودَ فَمَا أَبْقَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وثمود فما ابقى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَثَمُودَا۟ فَمَاۤ أَبۡقَىٰ
 
 | Details |  |

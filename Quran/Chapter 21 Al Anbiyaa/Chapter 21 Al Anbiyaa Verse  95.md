@@ -452,6 +452,18 @@ Wa Ĥarāmun 'Alá Qaryatin 'Ahlaknāhā 'Annahum Lā Yarji'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَحَرَامٌ عَلَى قَرْيَةٍ أَهْلَكْنَاهَا أَنَّهُمْ لَا يَرْجِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وحرام على قرية اهلكناها انهم لا يرجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَحَرَ ٰمٌ عَلَىٰ قَرۡیَةٍ أَهۡلَكۡنَـٰهَاۤ أَنَّهُمۡ لَا یَرۡجِعُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Bal Kadhabū Bis-Sā'ati Wa 'A'tadnā Liman Kadhaba Bis-Sā'ati Sa'īrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ كَذَّبُوا بِالسَّاعَةِ وَأَعْتَدْنَا لِمَنْ كَذَّبَ بِالسَّاعَةِ سَعِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل كذبوا بالساعة واعتدنا لمن كذب بالساعة سعيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ كَذَّبُوا۟ بِٱلسَّاعَةِۖ وَأَعۡتَدۡنَا لِمَن كَذَّبَ بِٱلسَّاعَةِ سَعِیرًا
 
 | Details |  |

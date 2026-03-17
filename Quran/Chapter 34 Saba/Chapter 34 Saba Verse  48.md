@@ -452,6 +452,18 @@ Qul 'Inna Rabbī Yaqdhifu Bil-Ĥaqqi 'Allāmu Al-Ghuyūbi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ إِنَّ رَبِّي يَقْذِفُ بِالْحَقِّ عَلَّامُ الْغُيُوبِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل ان ربي يقذف بالحق علام الغيوب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ إِنَّ رَبِّی یَقۡذِفُ بِٱلۡحَقِّ عَلَّـٰمُ ٱلۡغُیُوبِ
 
 | Details |  |

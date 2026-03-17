@@ -452,6 +452,18 @@ Allā Taziru Wāziratun Wizra 'Ukhrá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا تزر وازرة وزر اخرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَّا تَزِرُ وَازِرَةࣱ وِزۡرَ أُخۡرَىٰ
 
 | Details |  |

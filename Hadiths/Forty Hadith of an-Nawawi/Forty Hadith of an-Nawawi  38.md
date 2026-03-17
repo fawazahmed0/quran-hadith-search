@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي هُرَيْرَة رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُول اللَّهِ صلى الله عليه و سلم إنَّ اللَّهَ تَعَالَى قَالَ: مَنْ عَادَى لِي وَلِيًّا فَقْد آذَنْتهُ بِالْحَرْبِ، وَمَا تَقَرَّبَ إلَيَّ عَبْدِي بِشَيْءٍ أَحَبَّ إلَيَّ مِمَّا افْتَرَضْتُهُ عَلَيْهِ، وَلَا يَزَالُ عَبْدِي يَتَقَرَّبُ إلَيَّ بِالنَّوَافِلِ حَتَّى أُحِبَّهُ، فَإِذَا أَحْبَبْتُهُ كُنْت سَمْعَهُ الَّذِي يَسْمَعُ بِهِ، وَبَصَرَهُ الَّذِي يُبْصِرُ بِهِ، وَيَدَهُ الَّتِي يَبْطِشُ بِهَا، وَرِجْلَهُ الَّتِي يَمْشِي بِهَا، وَلَئِنْ سَأَلَنِي لَأُعْطِيَنَّهُ، وَلَئِنْ اسْتَعَاذَنِي لَأُعِيذَنَّهُ . \[رَوَاهُ الْبُخَارِيُّ\]
@@ -47,6 +49,16 @@ On the authority of Abu Hurayrah (may Allah be pleased with him) who said: The M
 ## French
 
 Selon Abou Hourayra (qu’Allah l’agrée), le Messager d’Allah (ﷺ) a dit : « Allah le Très-Haut a dit : Quiconque montre de l’hostilité à un proche (wali) à Moi, alors Je lui déclare la guerre. Mon serviteur ne se rapproche pas de Moi par quelque chose qui Me soit plus aimé que ce que Je lui ai rendu obligatoire. Mon serviteur continue à se rapprocher de Moi par des œuvres surérogatoires, jusqu’à ce que Je l’aime. Et lorsque Je l’aime, Je deviens l’ouïe par laquelle il entend, la vue par laquelle il voit, la main avec laquelle il frappe, le pied avec lequel il marche. S’il Me demande, Je lui accorde. S’il cherche refuge auprès de Moi, Je le protège. » \[Boukhari\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 38 |
+| Arabic No | 38 |
+| Reference | Book 1 Hadith 38 |
+
+## Turkish
+
+Ebu Hureyre (ra) anlatıyor: Resulullah (ﷺ) şöyle buyurdu: "Allah Teala şöyle buyurmuştur: 'Kim Benim bir veli kuluma (dostuma) düşmanlık ederse, Ben ona savaş açarım. Kulum Kendisine farz kıldığım şeylerden daha sevimli bir şeyle Bana yaklaşamaz. Kulum nafile ibadetlerle de Bana yaklaşmaya devam eder, ta ki onu severim. Onu sevince de; onun işiten kulağı, gören gözü, tutan eli ve yürüyen ayağı olurum. Benden bir şey isterse veririm, Bana sığınırsa onu korurum.'" \[Buhari\]
 
 | References: |  |
 | --- | --- |

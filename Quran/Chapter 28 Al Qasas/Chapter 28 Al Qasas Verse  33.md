@@ -452,6 +452,18 @@ Qāla Rabbi 'Innī Qataltu Minhum Nafsāan Fa'akhāfu 'An Yaqtulūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ إِنِّي قَتَلْتُ مِنْهُمْ نَفْسًا فَأَخَافُ أَنْ يَقْتُلُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب اني قتلت منهم نفسا فاخاف ان يقتلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ إِنِّی قَتَلۡتُ مِنۡهُمۡ نَفۡسࣰا فَأَخَافُ أَن یَقۡتُلُونِ
 
 | Details |  |

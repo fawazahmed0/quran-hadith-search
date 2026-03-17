@@ -452,6 +452,18 @@ Wa 'An Laysa Lil'insāni 'Illā Mā Sa'á
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنْ لَيْسَ لِلْإِنْسَانِ إِلَّا مَا سَعَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان ليس للانسان الا ما سعى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَن لَّیۡسَ لِلۡإِنسَـٰنِ إِلَّا مَا سَعَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fakafá Billāhi Shahīdāan Baynanā Wa Baynakum 'In Kunnā 'An 'Ibādatikum La
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكَفَى بِاللَّهِ شَهِيدًا بَيْنَنَا وَبَيْنَكُمْ إِنْ كُنَّا عَنْ عِبَادَتِكُمْ لَغَافِلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكفى بالله شهيدا بيننا وبينكم ان كنا عن عبادتكم لغافلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكَفَىٰ بِٱللَّهِ شَهِیدَۢا بَیۡنَنَا وَبَیۡنَكُمۡ إِن كُنَّا عَنۡ عِبَادَتِكُمۡ لَغَـٰفِلِینَ
 
 | Details |  |

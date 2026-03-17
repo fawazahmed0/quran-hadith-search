@@ -452,6 +452,18 @@ Wa Man Yahdi Allāhu Famā Lahu Min Muđillin 'Alaysa Allāhu Bi'azīzin Dhī An
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ يَهْدِ اللَّهُ فَمَا لَهُ مِنْ مُضِلٍّ أَلَيْسَ اللَّهُ بِعَزِيزٍ ذِي انْتِقَامٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن يهد الله فما له من مضل اليس الله بعزيز ذي انتقام
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن یَهۡدِ ٱللَّهُ فَمَا لَهُۥ مِن مُّضِلٍّۗ أَلَیۡسَ ٱللَّهُ بِعَزِیزࣲ ذِی ٱنتِقَامࣲ
 
 | Details |  |

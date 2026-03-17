@@ -452,6 +452,18 @@ Dhālikum Wa 'Anna Allāha Mūhinu Kaydi Al-Kāfirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكُمْ وَأَنَّ اللَّهَ مُوهِنُ كَيْدِ الْكَافِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلكم وان الله موهن كيد الكافرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكُمۡ وَأَنَّ ٱللَّهَ مُوهِنُ كَیۡدِ ٱلۡكَـٰفِرِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Innahu Å½anna 'An Lan YaÄ¥Å«ra
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُ ظَنَّ أَنْ لَنْ يَحُورَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انه ظن ان لن يحور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُۥ ظَنَّ أَن لَّن یَحُورَ
 
 | Details |  |

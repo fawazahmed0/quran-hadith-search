@@ -452,6 +452,18 @@ Tanzīla Al-'Azīzi Ar-Raĥīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَنْزِيلَ الْعَزِيزِ الرَّحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تنزيل العزيز الرحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَنزِیلَ ٱلۡعَزِیزِ ٱلرَّحِیمِ
 
 | Details |  |

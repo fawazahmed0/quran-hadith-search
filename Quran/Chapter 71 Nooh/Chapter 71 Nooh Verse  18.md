@@ -452,6 +452,18 @@ Thumma Yu'īdukum Fīhā Wa Yukhrijukum 'Ikhrājāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم يعيدكم فيها ويخرجكم اخراجا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ یُعِیدُكُمۡ فِیهَا وَیُخۡرِجُكُمۡ إِخۡرَاجࣰا
 
 | Details |  |

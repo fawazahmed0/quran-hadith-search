@@ -452,6 +452,18 @@ Tanazzalu 'Alá Kulli 'Affākin 'Athīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَنَزَّلُ عَلَى كُلِّ أَفَّاكٍ أَثِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تنزل على كل افاك اثيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِیمࣲ
 
 | Details |  |

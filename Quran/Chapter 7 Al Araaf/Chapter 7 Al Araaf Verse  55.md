@@ -452,6 +452,18 @@ Ad'ū Rabbakum Tađarru'āan Wa Khufyatan 'Innahu Lā Yuĥibbu Al-Mu'tadīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ادعوا ربكم تضرعا وخفية انه لا يحب المعتدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱدۡعُوا۟ رَبَّكُمۡ تَضَرُّعࣰا وَخُفۡیَةًۚ إِنَّهُۥ لَا یُحِبُّ ٱلۡمُعۡتَدِینَ
 
 | Details |  |

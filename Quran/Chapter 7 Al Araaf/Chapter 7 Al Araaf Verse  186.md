@@ -452,6 +452,18 @@ Man Yuđlili Allāhu Falā Hādiya Lahu Wa Yadharuhum Fī Ţughyānihim Ya'mahū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَنْ يُضْلِلِ اللَّهُ فَلَا هَادِيَ لَهُ وَيَذَرُهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من يضلل الله فلا هادي له ويذرهم في طغيانهم يعمهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَن یُضۡلِلِ ٱللَّهُ فَلَا هَادِیَ لَهُۥۚ وَیَذَرُهُمۡ فِی طُغۡیَـٰنِهِمۡ یَعۡمَهُونَ
 
 | Details |  |

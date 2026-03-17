@@ -452,6 +452,18 @@ Khalaqa Allāhu As-Samāwāti Wa Al-'Arđa Bil-Ĥaqqi 'Inna Fī Dhālika La'āya
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خَلَقَ اللَّهُ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ إِنَّ فِي ذَلِكَ لَآيَةً لِلْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خلق الله السماوات والارض بالحق ان في ذلك لاية للمومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خَلَقَ ٱللَّهُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّۚ إِنَّ فِی ذَ ٰلِكَ لَءَایَةࣰ لِّلۡمُؤۡمِنِینَ
 
 | Details |  |

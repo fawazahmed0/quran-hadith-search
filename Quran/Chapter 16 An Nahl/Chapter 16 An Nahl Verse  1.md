@@ -452,6 +452,18 @@ Atá 'Amru Allāhi Falā Tasta'jilūhu Subĥānahu Wa Ta'ālá 'Ammā Yushrikūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَتَى أَمْرُ اللَّهِ فَلَا تَسْتَعْجِلُوهُ سُبْحَانَهُ وَتَعَالَى عَمَّا يُشْرِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اتى امر الله فلا تستعجلوه سبحانه وتعالى عما يشركون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ أَتَىٰۤ أَمۡرُ ٱللَّهِ فَلَا تَسۡتَعۡجِلُوهُۚ سُبۡحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا یُشۡرِكُونَ
 
 | Details |  |

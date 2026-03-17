@@ -452,6 +452,18 @@ Fāstajāba Lahu Rabbuhu Faşarafa 'Anhu Kaydahunna 'Innahu Huwa As-Samī'u Al-'
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاسْتَجَابَ لَهُ رَبُّهُ فَصَرَفَ عَنْهُ كَيْدَهُنَّ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاستجاب له ربه فصرف عنه كيدهن انه هو السميع العليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱسۡتَجَابَ لَهُۥ رَبُّهُۥ فَصَرَفَ عَنۡهُ كَیۡدَهُنَّۚ إِنَّهُۥ هُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ
 
 | Details |  |

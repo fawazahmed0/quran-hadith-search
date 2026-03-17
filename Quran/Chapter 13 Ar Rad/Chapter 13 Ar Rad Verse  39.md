@@ -452,6 +452,18 @@ Yamĥū Allāhu Mā Yashā'u Wa Yuthbitu Wa 'Indahu 'Ummu Al-Kitābi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَمْحُو اللَّهُ مَا يَشَاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الْكِتَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يمحو الله ما يشاء ويثبت وعنده ام الكتاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَمۡحُوا۟ ٱللَّهُ مَا یَشَاۤءُ وَیُثۡبِتُۖ وَعِندَهُۥۤ أُمُّ ٱلۡكِتَـٰبِ
 
 | Details |  |

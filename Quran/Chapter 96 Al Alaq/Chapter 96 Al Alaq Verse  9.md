@@ -452,6 +452,18 @@ Ara'ayta Al-Ladhī Yanhá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَرَأَيْتَ الَّذِي يَنْهَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ارايت الذي ينهى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَرَءَیۡتَ ٱلَّذِی یَنۡهَىٰ
 
 | Details |  |

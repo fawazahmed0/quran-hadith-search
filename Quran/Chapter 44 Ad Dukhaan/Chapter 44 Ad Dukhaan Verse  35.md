@@ -452,6 +452,18 @@ In Hiya 'Illā Mawtatunā Al-'Ūlá Wa Mā Naĥnu Bimunsharīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ هِيَ إِلَّا مَوْتَتُنَا الْأُولَى وَمَا نَحْنُ بِمُنْشَرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هي الا موتتنا الاولى وما نحن بمنشرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنۡ هِیَ إِلَّا مَوۡتَتُنَا ٱلۡأُولَىٰ وَمَا نَحۡنُ بِمُنشَرِینَ
 
 | Details |  |

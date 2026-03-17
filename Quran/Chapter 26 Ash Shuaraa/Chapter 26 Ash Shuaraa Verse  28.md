@@ -452,6 +452,18 @@ Qāla Rabbu Al-Mashriqi Wa Al-Maghribi Wa Mā Baynahumā 'In Kuntum Ta'qilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ وَمَا بَيْنَهُمَا إِنْ كُنْتُمْ تَعْقِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب المشرق والمغرب وما بينهما ان كنتم تعقلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبُّ ٱلۡمَشۡرِقِ وَٱلۡمَغۡرِبِ وَمَا بَیۡنَهُمَاۤۖ إِن كُنتُمۡ تَعۡقِلُونَ
 
 | Details |  |

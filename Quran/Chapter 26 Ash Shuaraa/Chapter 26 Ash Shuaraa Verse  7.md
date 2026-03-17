@@ -452,6 +452,18 @@ Awalam Yaraw 'Ilá Al-'Arđi Kam 'Anbatnā Fīhā Min Kulli Zawjin Karīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوَلَمْ يَرَوْا إِلَى الْأَرْضِ كَمْ أَنْبَتْنَا فِيهَا مِنْ كُلِّ زَوْجٍ كَرِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اولم يروا الى الارض كم انبتنا فيها من كل زوج كريم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوَ لَمۡ یَرَوۡا۟ إِلَى ٱلۡأَرۡضِ كَمۡ أَنۢبَتۡنَا فِیهَا مِن كُلِّ زَوۡجࣲ كَرِیمٍ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'In Yukadhibūka Faqad Kadhabat Qablahum Qawmu Nūĥin Wa 'Ādun Wa Thamūdu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَثَمُودُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان يكذبوك فقد كذبت قبلهم قوم نوح وعاد وثمود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن یُكَذِّبُوكَ فَقَدۡ كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحࣲ وَعَادࣱ وَثَمُودُ
 
 | Details |  |

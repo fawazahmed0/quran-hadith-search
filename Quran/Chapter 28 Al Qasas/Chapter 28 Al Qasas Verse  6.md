@@ -452,6 +452,18 @@ Wa Numakkina Lahum Fī Al-'Arđi Wa Nuriya Fir'awna Wa Hāmāna Wa Junūdahumā 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنُمَكِّنَ لَهُمْ فِي الْأَرْضِ وَنُرِيَ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا مِنْهُمْ مَا كَانُوا يَحْذَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونمكن لهم في الارض ونري فرعون وهامان وجنودهما منهم ما كانوا يحذرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنُمَكِّنَ لَهُمۡ فِی ٱلۡأَرۡضِ وَنُرِیَ فِرۡعَوۡنَ وَهَـٰمَـٰنَ وَجُنُودَهُمَا مِنۡهُم مَّا كَانُوا۟ یَحۡذَرُونَ
 
 | Details |  |

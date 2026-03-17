@@ -452,6 +452,18 @@ Wa Ĥifžāan Min Kulli Shayţānin Māridin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَحِفْظًا مِنْ كُلِّ شَيْطَانٍ مَارِدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وحفظا من كل شيطان مارد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَحِفۡظࣰا مِّن كُلِّ شَیۡطَـٰنࣲ مَّارِدࣲ
 
 | Details |  |

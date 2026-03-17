@@ -452,6 +452,18 @@ Wa Qāla Mūsá 'Innī 'Udhtu Birabbī Wa Rabbikum Min Kulli Mutakabbirin Lā Yu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ مُوسَى إِنِّي عُذْتُ بِرَبِّي وَرَبِّكُمْ مِنْ كُلِّ مُتَكَبِّرٍ لَا يُؤْمِنُ بِيَوْمِ الْحِسَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال موسى اني عذت بربي وربكم من كل متكبر لا يومن بيوم الحساب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ مُوسَىٰۤ إِنِّی عُذۡتُ بِرَبِّی وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرࣲ لَّا یُؤۡمِنُ بِیَوۡمِ ٱلۡحِسَابِ
 
 | Details |  |

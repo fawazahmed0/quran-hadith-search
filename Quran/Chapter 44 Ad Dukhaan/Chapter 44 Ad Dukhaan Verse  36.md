@@ -452,6 +452,18 @@ Fa'tū Bi'ābā'inā 'In Kuntum Şādiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأْتُوا بِآبَائِنَا إِنْ كُنْتُمْ صَادِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاتوا باباينا ان كنتم صادقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأۡتُوا۟ بِءَابَاۤئِنَاۤ إِن كُنتُمۡ صَـٰدِقِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Sunnata Man Qad 'Arsalnā Qablaka Min Rusulinā Wa Lā Tajidu Lisunnatinā Taĥw
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سُنَّةَ مَنْ قَدْ أَرْسَلْنَا قَبْلَكَ مِنْ رُسُلِنَا وَلَا تَجِدُ لِسُنَّتِنَا تَحْوِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سنة من قد ارسلنا قبلك من رسلنا ولا تجد لسنتنا تحويلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سُنَّةَ مَن قَدۡ أَرۡسَلۡنَا قَبۡلَكَ مِن رُّسُلِنَاۖ وَلَا تَجِدُ لِسُنَّتِنَا تَحۡوِیلًا
 
 | Details |  |

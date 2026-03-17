@@ -452,6 +452,18 @@ Wa Ja'alnā Fīhā Rawāsiya Shāmikhātin Wa 'Asqaynākum Mā'an Furātāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلْنَا فِيهَا رَوَاسِيَ شَامِخَاتٍ وَأَسْقَيْنَاكُمْ مَاءً فُرَاتًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلنا فيها رواسي شامخات واسقيناكم ماء فراتا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلۡنَا فِیهَا رَوَ ٰسِیَ شَـٰمِخَـٰتࣲ وَأَسۡقَیۡنَـٰكُم مَّاۤءࣰ فُرَاتࣰا
 
 | Details |  |

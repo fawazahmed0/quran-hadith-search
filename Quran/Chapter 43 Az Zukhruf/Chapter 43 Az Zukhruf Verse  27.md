@@ -452,6 +452,18 @@ Illā Al-Ladhī Faţaranī Fa'innahu Sayahdīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا الَّذِي فَطَرَنِي فَإِنَّهُ سَيَهْدِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا الذي فطرني فانه سيهدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا ٱلَّذِی فَطَرَنِی فَإِنَّهُۥ سَیَهۡدِینِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Allāhu Yaşţafī Mina Al-Malā'ikati Rusulāan Wa Mina An-Nāsi 'Inna Allāha 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اللَّهُ يَصْطَفِي مِنَ الْمَلَائِكَةِ رُسُلًا وَمِنَ النَّاسِ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الله يصطفي من الملايكة رسلا ومن الناس ان الله سميع بصير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱللَّهُ یَصۡطَفِی مِنَ ٱلۡمَلَـٰۤئِكَةِ رُسُلࣰا وَمِنَ ٱلنَّاسِۚ إِنَّ ٱللَّهَ سَمِیعُۢ بَصِیرࣱ
 
 | Details |  |

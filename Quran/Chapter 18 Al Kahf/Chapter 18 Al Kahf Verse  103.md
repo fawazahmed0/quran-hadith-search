@@ -452,6 +452,18 @@ Qul Hal Nunabbi'ukum Bil-'Akhsarīna 'A'mālāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ هَلْ نُنَبِّئُكُمْ بِالْأَخْسَرِينَ أَعْمَالًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل هل ننبيكم بالاخسرين اعمالا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ هَلۡ نُنَبِّئُكُم بِٱلۡأَخۡسَرِینَ أَعۡمَـٰلًا
 
 | Details |  |

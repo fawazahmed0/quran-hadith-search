@@ -452,6 +452,18 @@ Wa 'Idhā Aş-Şuĥufu Nushirat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا الصُّحُفُ نُشِرَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا الصحف نشرت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱلصُّحُفُ نُشِرَتۡ
 
 | Details |  |

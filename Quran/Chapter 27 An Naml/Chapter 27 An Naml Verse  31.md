@@ -452,6 +452,18 @@ Allā Ta'lū 'Alayya Wa 'Tūnī Muslimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَّا تَعْلُوا عَلَيَّ وَأْتُونِي مُسْلِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا تعلوا علي واتوني مسلمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَّا تَعۡلُوا۟ عَلَیَّ وَأۡتُونِی مُسۡلِمِینَ
 
 | Details |  |

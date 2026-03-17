@@ -452,6 +452,18 @@ Inna Al-Mubadhirīna Kānū 'Ikhwāna Ash-Shayāţīni Wa Kāna Ash-Shayţānu L
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الْمُبَذِّرِينَ كَانُوا إِخْوَانَ الشَّيَاطِينِ وَكَانَ الشَّيْطَانُ لِرَبِّهِ كَفُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان المبذرين كانوا اخوان الشياطين وكان الشيطان لربه كفورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلۡمُبَذِّرِینَ كَانُوۤا۟ إِخۡوَ ٰنَ ٱلشَّیَـٰطِینِۖ وَكَانَ ٱلشَّیۡطَـٰنُ لِرَبِّهِۦ كَفُورࣰا
 
 | Details |  |

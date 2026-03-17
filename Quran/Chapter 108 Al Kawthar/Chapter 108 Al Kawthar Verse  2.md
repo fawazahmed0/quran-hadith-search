@@ -452,6 +452,18 @@ Faşalli Lirabbika Wa Anĥar
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَصَلِّ لِرَبِّكَ وَانْحَرْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فصل لربك وانحر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ
 
 | Details |  |

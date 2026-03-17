@@ -452,6 +452,18 @@ Innamā Yaftarī Al-Kadhiba Al-Ladhīna Lā Yu'uminūna Bi'āyāti Allāhi Wa '�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّمَا يَفْتَرِي الْكَذِبَ الَّذِينَ لَا يُؤْمِنُونَ بِآيَاتِ اللَّهِ وَأُولَئِكَ هُمُ الْكَاذِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انما يفتري الكذب الذين لا يومنون بايات الله واوليك هم الكاذبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّمَا یَفۡتَرِی ٱلۡكَذِبَ ٱلَّذِینَ لَا یُؤۡمِنُونَ بِءَایَـٰتِ ٱللَّهِۖ وَأُو۟لَـٰۤئِكَ هُمُ ٱلۡكَـٰذِبُونَ
 
 | Details |  |

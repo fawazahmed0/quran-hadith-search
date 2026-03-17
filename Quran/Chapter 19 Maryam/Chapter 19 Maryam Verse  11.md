@@ -452,6 +452,18 @@ Fakharaja 'Alá Qawmihi Mina Al-Miĥrābi Fa'awĥá 'Ilayhim 'An Sabbiĥū Bukra
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَخَرَجَ عَلَى قَوْمِهِ مِنَ الْمِحْرَابِ فَأَوْحَى إِلَيْهِمْ أَنْ سَبِّحُوا بُكْرَةً وَعَشِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فخرج على قومه من المحراب فاوحى اليهم ان سبحوا بكرة وعشيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَخَرَجَ عَلَىٰ قَوۡمِهِۦ مِنَ ٱلۡمِحۡرَابِ فَأَوۡحَىٰۤ إِلَیۡهِمۡ أَن سَبِّحُوا۟ بُكۡرَةࣰ وَعَشِیࣰّا
 
 | Details |  |

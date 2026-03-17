@@ -452,6 +452,18 @@ Falammā Jā'a As-Saĥaratu Qālū Lifir'awna 'A'inna Lanā La'ajrāan 'In Kunn�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا جَاءَ السَّحَرَةُ قَالُوا لِفِرْعَوْنَ أَئِنَّ لَنَا لَأَجْرًا إِنْ كُنَّا نَحْنُ الْغَالِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما جاء السحرة قالوا لفرعون اين لنا لاجرا ان كنا نحن الغالبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّا جَاۤءَ ٱلسَّحَرَةُ قَالُوا۟ لِفِرۡعَوۡنَ أَئِنَّ لَنَا لَأَجۡرًا إِن كُنَّا نَحۡنُ ٱلۡغَـٰلِبِینَ
 
 | Details |  |

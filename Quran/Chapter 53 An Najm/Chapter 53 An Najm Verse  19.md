@@ -452,6 +452,18 @@ Afara'aytumu Al-Lāta Wa Al-'Uzzá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَرَأَيْتُمُ اللَّاتَ وَالْعُزَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افرايتم اللات والعزى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَرَءَیۡتُمُ ٱللَّـٰتَ وَٱلۡعُزَّىٰ
 
 | Details |  |

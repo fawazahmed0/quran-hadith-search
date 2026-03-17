@@ -452,6 +452,18 @@ Yawma Tuwallūna Mudbirīna Mā Lakum Mina Allāhi Min 'Āşimin Wa Man Yuđlili
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ تُوَلُّونَ مُدْبِرِينَ مَا لَكُمْ مِنَ اللَّهِ مِنْ عَاصِمٍ وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم تولون مدبرين ما لكم من الله من عاصم ومن يضلل الله فما له من هاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ تُوَلُّونَ مُدۡبِرِینَ مَا لَكُم مِّنَ ٱللَّهِ مِنۡ عَاصِمࣲۗ وَمَن یُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِنۡ هَادࣲ
 
 | Details |  |

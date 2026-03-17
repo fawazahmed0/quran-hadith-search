@@ -452,6 +452,18 @@ Qul 'Innamā Yūĥá 'Ilayya 'Annamā 'Ilahukum 'Ilahun Wāĥidun Fahal 'Antum M
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ إِنَّمَا يُوحَى إِلَيَّ أَنَّمَا إِلَهُكُمْ إِلَهٌ وَاحِدٌ فَهَلْ أَنْتُمْ مُسْلِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل انما يوحى الي انما الهكم اله واحد فهل انتم مسلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ إِنَّمَا یُوحَىٰۤ إِلَیَّ أَنَّمَاۤ إِلَـٰهُكُمۡ إِلَـٰهࣱ وَ ٰحِدࣱۖ فَهَلۡ أَنتُم مُّسۡلِمُونَ
 
 | Details |  |

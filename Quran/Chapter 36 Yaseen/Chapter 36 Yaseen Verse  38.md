@@ -452,6 +452,18 @@ Wa Ash-Shamsu Tajrī Limustaqarrin Lahā Dhālika Taqdīru Al-'Azīzi Al-'Alīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالشَّمْسُ تَجْرِي لِمُسْتَقَرٍّ لَهَا ذَلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والشمس تجري لمستقر لها ذلك تقدير العزيز العليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلشَّمۡسُ تَجۡرِی لِمُسۡتَقَرࣲّ لَّهَاۚ ذَ ٰلِكَ تَقۡدِیرُ ٱلۡعَزِیزِ ٱلۡعَلِیمِ
 
 | Details |  |

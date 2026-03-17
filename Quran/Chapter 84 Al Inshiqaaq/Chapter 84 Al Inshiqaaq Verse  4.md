@@ -452,6 +452,18 @@ Wa 'Alqat MÄ FÄ«hÄ Wa Takhallat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والقت ما فيها وتخلت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَلۡقَتۡ مَا فِیهَا وَتَخَلَّتۡ
 
 | Details |  |

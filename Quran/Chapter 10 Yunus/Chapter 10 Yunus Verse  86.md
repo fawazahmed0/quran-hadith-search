@@ -452,6 +452,18 @@ Wa Najjinā Biraĥmatika Mina Al-Qawmi Al-Kāfirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونجنا برحمتك من القوم الكافرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَجِّنَا بِرَحۡمَتِكَ مِنَ ٱلۡقَوۡمِ ٱلۡكَـٰفِرِینَ
 
 | Details |  |

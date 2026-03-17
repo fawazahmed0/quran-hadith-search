@@ -452,6 +452,18 @@ Aw Takūna Laka Jannatun Min Nakhīlin Wa 'Inabin Fatufajjira Al-'Anhāra Khilā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْ تَكُونَ لَكَ جَنَّةٌ مِنْ نَخِيلٍ وَعِنَبٍ فَتُفَجِّرَ الْأَنْهَارَ خِلَالَهَا تَفْجِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+او تكون لك جنة من نخيل وعنب فتفجر الانهار خلالها تفجيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوۡ تَكُونَ لَكَ جَنَّةࣱ مِّن نَّخِیلࣲ وَعِنَبࣲ فَتُفَجِّرَ ٱلۡأَنۡهَـٰرَ خِلَـٰلَهَا تَفۡجِیرًا
 
 | Details |  |

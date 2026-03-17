@@ -452,6 +452,18 @@ Wa Min Sharri Ĥāsidin 'Idhā Ĥasada
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن شر حاسد اذا حسد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
 
 | Details |  |

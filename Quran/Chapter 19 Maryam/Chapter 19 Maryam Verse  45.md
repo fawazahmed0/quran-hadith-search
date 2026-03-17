@@ -452,6 +452,18 @@ Yā 'Abati 'Innī 'Akhāfu 'An Yamassaka 'Adhābun Mina Ar-Raĥmāni Fatakūna L
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَبَتِ إِنِّي أَخَافُ أَنْ يَمَسَّكَ عَذَابٌ مِنَ الرَّحْمَنِ فَتَكُونَ لِلشَّيْطَانِ وَلِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ابت اني اخاف ان يمسك عذاب من الرحمن فتكون للشيطان وليا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَبَتِ إِنِّیۤ أَخَافُ أَن یَمَسَّكَ عَذَابࣱ مِّنَ ٱلرَّحۡمَـٰنِ فَتَكُونَ لِلشَّیۡطَـٰنِ وَلِیࣰّا
 
 | Details |  |

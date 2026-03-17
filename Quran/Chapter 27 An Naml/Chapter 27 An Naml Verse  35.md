@@ -452,6 +452,18 @@ Wa 'Innī Mursilatun 'Ilayhim Bihadīyatin Fanāžiratun Bima Yarji'u Al-Mursal�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنِّي مُرْسِلَةٌ إِلَيْهِمْ بِهَدِيَّةٍ فَنَاظِرَةٌ بِمَ يَرْجِعُ الْمُرْسَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واني مرسلة اليهم بهدية فناظرة بم يرجع المرسلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنِّی مُرۡسِلَةٌ إِلَیۡهِم بِهَدِیَّةࣲ فَنَاظِرَةُۢ بِمَ یَرۡجِعُ ٱلۡمُرۡسَلُونَ
 
 | Details |  |

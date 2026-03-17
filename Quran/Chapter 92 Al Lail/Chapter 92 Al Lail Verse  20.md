@@ -452,6 +452,18 @@ Illā Abtighā'a Wajhi Rabbihi Al-'A'lá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا ابتغاء وجه ربه الاعلى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا ٱبۡتِغَاۤءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ
 
 | Details |  |

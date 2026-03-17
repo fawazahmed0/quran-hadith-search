@@ -452,6 +452,18 @@ Kallā 'Innahā Lažá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا إِنَّهَا لَظَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا انها لظى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّاۤۖ إِنَّهَا لَظَىٰ
 
 | Details |  |

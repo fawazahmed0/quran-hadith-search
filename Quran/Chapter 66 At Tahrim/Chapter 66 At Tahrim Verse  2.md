@@ -452,6 +452,18 @@ Qad Farađa Allāhu Lakum Taĥillata 'Aymānikum Wa Allāhu Mawlākum Wa Huwa Al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَدْ فَرَضَ اللَّهُ لَكُمْ تَحِلَّةَ أَيْمَانِكُمْ وَاللَّهُ مَوْلَاكُمْ وَهُوَ الْعَلِيمُ الْحَكِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قد فرض الله لكم تحلة ايمانكم والله مولاكم وهو العليم الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَدۡ فَرَضَ ٱللَّهُ لَكُمۡ تَحِلَّةَ أَیۡمَـٰنِكُمۡۚ وَٱللَّهُ مَوۡلَىٰكُمۡۖ وَهُوَ ٱلۡعَلِیمُ ٱلۡحَكِیمُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Idh Yaghshá As-Sidrata Mā Yaghshá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ يغشى السدرة ما يغشى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ یَغۡشَى ٱلسِّدۡرَةَ مَا یَغۡشَىٰ
 
 | Details |  |

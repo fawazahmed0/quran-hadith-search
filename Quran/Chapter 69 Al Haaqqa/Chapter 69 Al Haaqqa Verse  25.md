@@ -452,6 +452,18 @@ Wa 'Ammā Man 'Ūtiya Kitābahu Bishimālihi Fayaqūlu Yā Laytanī Lam 'Ūta Ki
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِشِمَالِهِ فَيَقُولُ يَا لَيْتَنِي لَمْ أُوتَ كِتَابِيَهْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما من اوتي كتابه بشماله فيقول يا ليتني لم اوت كتابيه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمَّا مَنۡ أُوتِیَ كِتَـٰبَهُۥ بِشِمَالِهِۦ فَیَقُولُ یَـٰلَیۡتَنِی لَمۡ أُوتَ كِتَـٰبِیَهۡ
 
 | Details |  |

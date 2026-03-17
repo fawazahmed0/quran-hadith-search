@@ -452,6 +452,18 @@ In Kullun 'Illā Kadhaba Ar-Rusula Faĥaqqa 'Iqābi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ كُلٌّ إِلَّا كَذَّبَ الرُّسُلَ فَحَقَّ عِقَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان كل الا كذب الرسل فحق عقاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ
 
 | Details |  |

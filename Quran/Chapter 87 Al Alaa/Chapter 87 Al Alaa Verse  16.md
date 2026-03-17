@@ -452,6 +452,18 @@ Bal Tu'uthirūna Al-Ĥayāata Ad-Dunyā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل توثرون الحياة الدنيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ تُؤۡثِرُونَ ٱلۡحَیَوٰةَ ٱلدُّنۡیَا
 
 | Details |  |

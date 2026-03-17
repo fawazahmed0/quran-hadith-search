@@ -452,6 +452,18 @@ Innā Lamughramūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا لَمُغْرَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا لمغرمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا لَمُغۡرَمُونَ
 
 | Details |  |

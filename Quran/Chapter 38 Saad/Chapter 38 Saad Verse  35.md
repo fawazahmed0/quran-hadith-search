@@ -452,6 +452,18 @@ Qāla Rabbi Aghfir Lī Wa Hab Lī Mulkāan Lā Yanbaghī Li'ĥadin Min Ba'dī 'I
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ اغْفِرْ لِي وَهَبْ لِي مُلْكًا لَا يَنْبَغِي لِأَحَدٍ مِنْ بَعْدِي إِنَّكَ أَنْتَ الْوَهَّابُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب اغفر لي وهب لي ملكا لا ينبغي لاحد من بعدي انك انت الوهاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ ٱغۡفِرۡ لِی وَهَبۡ لِی مُلۡكࣰا لَّا یَنۢبَغِی لِأَحَدࣲ مِّنۢ بَعۡدِیۤۖ إِنَّكَ أَنتَ ٱلۡوَهَّابُ
 
 | Details |  |

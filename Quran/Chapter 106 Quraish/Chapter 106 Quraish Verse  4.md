@@ -452,6 +452,18 @@ Al-Ladhī 'Aţ'amahum Min Jū'in Wa 'Āmanahum Min Khawfin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي اطعمهم من جوع وامنهم من خوف
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِیۤ أَطۡعَمَهُم مِّن جُوعࣲ وَءَامَنَهُم مِّنۡ خَوۡفِۭ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fadharhum Ĥattá Yulāqū Yawmahumu Al-Ladhī Fīhi Yuş'aqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَذَرْهُمْ حَتَّى يُلَاقُوا يَوْمَهُمُ الَّذِي فِيهِ يُصْعَقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فذرهم حتى يلاقوا يومهم الذي فيه يصعقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَذَرۡهُمۡ حَتَّىٰ یُلَـٰقُوا۟ یَوۡمَهُمُ ٱلَّذِی فِیهِ یُصۡعَقُونَ
 
 | Details |  |

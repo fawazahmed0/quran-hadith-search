@@ -452,6 +452,18 @@ Wa Mā 'Alaynā 'Illā Al-Balāghu Al-Mubīnu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا عَلَيْنَا إِلَّا الْبَلَاغُ الْمُبِينُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما علينا الا البلاغ المبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا عَلَیۡنَاۤ إِلَّا ٱلۡبَلَـٰغُ ٱلۡمُبِینُ
 
 | Details |  |

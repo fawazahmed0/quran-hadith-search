@@ -452,6 +452,18 @@ Qum Fa'andhir
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُمْ فَأَنْذِرْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قم فانذر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُمۡ فَأَنذِرۡ
 
 | Details |  |

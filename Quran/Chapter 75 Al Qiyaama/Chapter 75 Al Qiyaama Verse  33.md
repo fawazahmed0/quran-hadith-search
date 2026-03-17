@@ -452,6 +452,18 @@ Thumma Dhahaba 'Ilá 'Ahlihi Yatamaţţá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ ذَهَبَ إِلَى أَهْلِهِ يَتَمَطَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم ذهب الى اهله يتمطى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ ذَهَبَ إِلَىٰۤ أَهۡلِهِۦ یَتَمَطَّىٰۤ
 
 | Details |  |

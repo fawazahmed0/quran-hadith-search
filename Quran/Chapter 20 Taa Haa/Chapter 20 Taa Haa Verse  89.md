@@ -452,6 +452,18 @@ Afalā Yarawna 'Allā Yarji'u 'Ilayhim Qawlāan Wa Lā Yamliku Lahum Đarrāan W
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًا وَلَا يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افلا يرون الا يرجع اليهم قولا ولا يملك لهم ضرا ولا نفعا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَلَا یَرَوۡنَ أَلَّا یَرۡجِعُ إِلَیۡهِمۡ قَوۡلࣰا وَلَا یَمۡلِكُ لَهُمۡ ضَرࣰّا وَلَا نَفۡعࣰا
 
 | Details |  |

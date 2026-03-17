@@ -452,6 +452,18 @@ Qul Tarabbaşū Fa'innī Ma'akum Mina Al-Mutarabbişīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ تَرَبَّصُوا فَإِنِّي مَعَكُمْ مِنَ الْمُتَرَبِّصِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل تربصوا فاني معكم من المتربصين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ تَرَبَّصُوا۟ فَإِنِّی مَعَكُم مِّنَ ٱلۡمُتَرَبِّصِینَ
 
 | Details |  |

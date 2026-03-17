@@ -452,6 +452,18 @@ Wa Qīlihi Yā Rabbi 'Inna Hā'uulā' Qawmun Lā Yu'uminūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقِيلِهِ يَا رَبِّ إِنَّ هَؤُلَاءِ قَوْمٌ لَا يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقيله يا رب ان هولاء قوم لا يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقِیلِهِۦ یَـٰرَبِّ إِنَّ هَـٰۤؤُلَاۤءِ قَوۡمࣱ لَّا یُؤۡمِنُونَ
 
 | Details |  |

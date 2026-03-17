@@ -452,6 +452,18 @@ Wa 'Amţarnā 'Alayhim Maţarāan Fasā'a Maţaru Al-Mundharīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمْطَرْنَا عَلَيْهِمْ مَطَرًا فَسَاءَ مَطَرُ الْمُنْذَرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وامطرنا عليهم مطرا فساء مطر المنذرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمۡطَرۡنَا عَلَیۡهِم مَّطَرࣰاۖ فَسَاۤءَ مَطَرُ ٱلۡمُنذَرِینَ
 
 | Details |  |

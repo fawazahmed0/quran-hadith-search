@@ -452,6 +452,18 @@ Innā Sakhkharnā Al-Jibāla Ma'ahu Yusabbiĥna Bil-'Ashīyi Wa Al-'Ishrāqi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا سَخَّرْنَا الْجِبَالَ مَعَهُ يُسَبِّحْنَ بِالْعَشِيِّ وَالْإِشْرَاقِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا سخرنا الجبال معه يسبحن بالعشي والاشراق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا سَخَّرۡنَا ٱلۡجِبَالَ مَعَهُۥ یُسَبِّحۡنَ بِٱلۡعَشِیِّ وَٱلۡإِشۡرَاقِ
 
 | Details |  |

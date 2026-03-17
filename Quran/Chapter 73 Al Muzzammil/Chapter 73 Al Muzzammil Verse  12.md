@@ -452,6 +452,18 @@ Inna Ladaynā 'Ankālāan Wa Jaĥīmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ لَدَيْنَا أَنْكَالًا وَجَحِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان لدينا انكالا وجحيما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ لَدَیۡنَاۤ أَنكَالࣰا وَجَحِیمࣰا
 
 | Details |  |

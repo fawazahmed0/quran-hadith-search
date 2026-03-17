@@ -452,6 +452,18 @@ Fa'aşbaĥat Kālşşarīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَصْبَحَتْ كَالصَّرِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاصبحت كالصريم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَصۡبَحَتۡ كَٱلصَّرِیمِ
 
 | Details |  |

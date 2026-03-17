@@ -452,6 +452,18 @@ Linaftinahum Fīhi Wa Man Yu'riđ 'An Dhikri Rabbihi Yasluk/hu 'Adhābāan Şa'a
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِنَفْتِنَهُمْ فِيهِ وَمَنْ يُعْرِضْ عَنْ ذِكْرِ رَبِّهِ يَسْلُكْهُ عَذَابًا صَعَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لنفتنهم فيه ومن يعرض عن ذكر ربه يسلكه عذابا صعدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِّنَفۡتِنَهُمۡ فِیهِۚ وَمَن یُعۡرِضۡ عَن ذِكۡرِ رَبِّهِۦ یَسۡلُكۡهُ عَذَابࣰا صَعَدࣰا
 
 | Details |  |

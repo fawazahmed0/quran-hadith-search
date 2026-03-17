@@ -452,6 +452,18 @@ Am Lahum Naşībun Mina Al-Mulki Fa'idhāan Lā Yu'utūna An-Nāsa Naqīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ لَهُمْ نَصِيبٌ مِنَ الْمُلْكِ فَإِذًا لَا يُؤْتُونَ النَّاسَ نَقِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام لهم نصيب من الملك فاذا لا يوتون الناس نقيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ لَهُمۡ نَصِیبࣱ مِّنَ ٱلۡمُلۡكِ فَإِذࣰا لَّا یُؤۡتُونَ ٱلنَّاسَ نَقِیرًا
 
 | Details |  |

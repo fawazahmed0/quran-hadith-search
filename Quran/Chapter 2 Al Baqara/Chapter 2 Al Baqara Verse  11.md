@@ -452,6 +452,18 @@ Wa 'Idhā Qīla Lahum Lā Tufsidū Fī Al-'Arđi Qālū 'Innamā Naĥnu Muşliĥ
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا فِي الْأَرْضِ قَالُوا إِنَّمَا نَحْنُ مُصْلِحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا قيل لهم لا تفسدوا في الارض قالوا انما نحن مصلحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا قِیلَ لَهُمۡ لَا تُفۡسِدُوا۟ فِی ٱلۡأَرۡضِ قَالُوۤا۟ إِنَّمَا نَحۡنُ مُصۡلِحُونَ
 
 | Details |  |

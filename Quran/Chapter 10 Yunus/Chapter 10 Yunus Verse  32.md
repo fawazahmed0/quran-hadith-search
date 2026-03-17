@@ -452,6 +452,18 @@ Fadhalikumu Allāhu Rabbukumu Al-Ĥaqqu Famādhā Ba'da Al-Ĥaqqi 'Illā Ađ-Đa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَذَلِكُمُ اللَّهُ رَبُّكُمُ الْحَقُّ فَمَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ فَأَنَّى تُصْرَفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فذلكم الله ربكم الحق فماذا بعد الحق الا الضلال فانى تصرفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَذَ ٰلِكُمُ ٱللَّهُ رَبُّكُمُ ٱلۡحَقُّۖ فَمَاذَا بَعۡدَ ٱلۡحَقِّ إِلَّا ٱلضَّلَـٰلُۖ فَأَنَّىٰ تُصۡرَفُونَ
 
 | Details |  |

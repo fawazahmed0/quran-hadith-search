@@ -452,6 +452,18 @@ Halaka 'Annī Sulţānīh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَلَكَ عَنِّي سُلْطَانِيَهْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هلك عني سلطانيه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَلَكَ عَنِّی سُلۡطَـٰنِیَهۡ
 
 | Details |  |

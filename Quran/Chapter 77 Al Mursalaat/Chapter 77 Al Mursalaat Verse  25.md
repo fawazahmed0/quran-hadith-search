@@ -452,6 +452,18 @@ Alam Naj'ali Al-'Arđa Kifātāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ نَجْعَلِ الْأَرْضَ كِفَاتًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم نجعل الارض كفاتا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ كِفَاتًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Faqāla 'Innī 'Aĥbabtu Ĥubba Al-Khayri 'An Dhikri Rabbī Ĥattá Tawārat Bil
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقَالَ إِنِّي أَحْبَبْتُ حُبَّ الْخَيْرِ عَنْ ذِكْرِ رَبِّي حَتَّى تَوَارَتْ بِالْحِجَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقال اني احببت حب الخير عن ذكر ربي حتى توارت بالحجاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقَالَ إِنِّیۤ أَحۡبَبۡتُ حُبَّ ٱلۡخَیۡرِ عَن ذِكۡرِ رَبِّی حَتَّىٰ تَوَارَتۡ بِٱلۡحِجَابِ
 
 | Details |  |

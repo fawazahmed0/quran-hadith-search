@@ -452,6 +452,18 @@ Inna Al-Ladhīna Ĥaqqat 'Alayhim Kalimatu Rabbika Lā Yu'uminūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ حَقَّتْ عَلَيْهِمْ كَلِمَتُ رَبِّكَ لَا يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين حقت عليهم كلمت ربك لا يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ حَقَّتۡ عَلَیۡهِمۡ كَلِمَتُ رَبِّكَ لَا یُؤۡمِنُونَ
 
 | Details |  |

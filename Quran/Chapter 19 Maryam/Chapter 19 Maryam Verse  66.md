@@ -452,6 +452,18 @@ Wa Yaqūlu Al-'Insānu 'A'idhā Mā Mittu Lasawfa 'Ukhraju Ĥayyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَقُولُ الْإِنْسَانُ أَإِذَا مَا مِتُّ لَسَوْفَ أُخْرَجُ حَيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويقول الانسان ااذا ما مت لسوف اخرج حيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَقُولُ ٱلۡإِنسَـٰنُ أَءِذَا مَا مِتُّ لَسَوۡفَ أُخۡرَجُ حَیًّا
 
 | Details |  |

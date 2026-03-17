@@ -452,6 +452,18 @@ Yawma Yakūnu An-Nāsu Kālfarāshi Al-Mabthūthi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم يكون الناس كالفراش المبثوث
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ یَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ
 
 | Details |  |

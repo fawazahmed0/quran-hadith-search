@@ -452,6 +452,18 @@ Wa Yawma Taqūmu As-Sā'atu Yublisu Al-Mujrimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَوْمَ تَقُومُ السَّاعَةُ يُبْلِسُ الْمُجْرِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويوم تقوم الساعة يبلس المجرمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَوۡمَ تَقُومُ ٱلسَّاعَةُ یُبۡلِسُ ٱلۡمُجۡرِمُونَ
 
 | Details |  |

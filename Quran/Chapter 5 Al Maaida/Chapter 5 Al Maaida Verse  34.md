@@ -452,6 +452,18 @@ Illā Al-Ladhīna Tābū Min Qabli 'An Taqdirū 'Alayhim Fā'lamū 'Anna Allāha
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا الَّذِينَ تَابُوا مِنْ قَبْلِ أَنْ تَقْدِرُوا عَلَيْهِمْ فَاعْلَمُوا أَنَّ اللَّهَ غَفُورٌ رَحِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا الذين تابوا من قبل ان تقدروا عليهم فاعلموا ان الله غفور رحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا ٱلَّذِینَ تَابُوا۟ مِن قَبۡلِ أَن تَقۡدِرُوا۟ عَلَیۡهِمۡۖ فَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ غَفُورࣱ رَّحِیمࣱ
 
 | Details |  |

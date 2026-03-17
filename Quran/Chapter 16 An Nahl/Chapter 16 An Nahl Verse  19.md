@@ -452,6 +452,18 @@ Wa Allāhu Ya'lamu Mā Tusirrūna Wa Mā Tu'linūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاللَّهُ يَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والله يعلم ما تسرون وما تعلنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱللَّهُ یَعۡلَمُ مَا تُسِرُّونَ وَمَا تُعۡلِنُونَ
 
 | Details |  |

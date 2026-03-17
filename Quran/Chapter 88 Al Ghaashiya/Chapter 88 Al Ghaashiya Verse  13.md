@@ -452,6 +452,18 @@ Fīhā Sururun Marfū'ahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِيهَا سُرُرٌ مَرْفُوعَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيها سرر مرفوعة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِیهَا سُرُرࣱ مَّرۡفُوعَةࣱ
 
 | Details |  |

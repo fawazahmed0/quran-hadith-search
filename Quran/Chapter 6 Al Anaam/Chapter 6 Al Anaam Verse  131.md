@@ -452,6 +452,18 @@ Dhālika 'An Lam Yakun Rabbuka Muhlika Al-Qurá Bižulmin Wa 'Ahluhā Ghāfilūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ أَنْ لَمْ يَكُنْ رَبُّكَ مُهْلِكَ الْقُرَى بِظُلْمٍ وَأَهْلُهَا غَافِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك ان لم يكن ربك مهلك القرى بظلم واهلها غافلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ أَن لَّمۡ یَكُن رَّبُّكَ مُهۡلِكَ ٱلۡقُرَىٰ بِظُلۡمࣲ وَأَهۡلُهَا غَـٰفِلُونَ
 
 | Details |  |

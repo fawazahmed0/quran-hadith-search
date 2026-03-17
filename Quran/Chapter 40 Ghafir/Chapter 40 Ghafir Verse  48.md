@@ -452,6 +452,18 @@ Qāla Al-Ladhīna Astakbarū 'Innā Kullun Fīhā 'Inna Allāha Qad Ĥakama Bayn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ الَّذِينَ اسْتَكْبَرُوا إِنَّا كُلٌّ فِيهَا إِنَّ اللَّهَ قَدْ حَكَمَ بَيْنَ الْعِبَادِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال الذين استكبروا انا كل فيها ان الله قد حكم بين العباد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ ٱلَّذِینَ ٱسۡتَكۡبَرُوۤا۟ إِنَّا كُلࣱّ فِیهَاۤ إِنَّ ٱللَّهَ قَدۡ حَكَمَ بَیۡنَ ٱلۡعِبَادِ
 
 | Details |  |

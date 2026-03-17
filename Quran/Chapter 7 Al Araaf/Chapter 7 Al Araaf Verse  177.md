@@ -452,6 +452,18 @@ Sā'a Mathalāan Al-Qawmu Al-Ladhīna Kadhabū Bi'āyātinā Wa 'Anfusahum Kān�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَاءَ مَثَلًا الْقَوْمُ الَّذِينَ كَذَّبُوا بِآيَاتِنَا وَأَنْفُسَهُمْ كَانُوا يَظْلِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ساء مثلا القوم الذين كذبوا باياتنا وانفسهم كانوا يظلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَاۤءَ مَثَلًا ٱلۡقَوۡمُ ٱلَّذِینَ كَذَّبُوا۟ بِءَایَـٰتِنَا وَأَنفُسَهُمۡ كَانُوا۟ یَظۡلِمُونَ
 
 | Details |  |

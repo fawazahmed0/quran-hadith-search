@@ -452,6 +452,18 @@ Wa Qāla Ar-Rasūlu Yā Rabbi 'Inna Qawmī Attakhadhū Hādhā Al-Qur'āna Mahj�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ الرَّسُولُ يَا رَبِّ إِنَّ قَوْمِي اتَّخَذُوا هَذَا الْقُرْآنَ مَهْجُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال الرسول يا رب ان قومي اتخذوا هذا القران مهجورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ ٱلرَّسُولُ یَـٰرَبِّ إِنَّ قَوۡمِی ٱتَّخَذُوا۟ هَـٰذَا ٱلۡقُرۡءَانَ مَهۡجُورࣰا
 
 | Details |  |

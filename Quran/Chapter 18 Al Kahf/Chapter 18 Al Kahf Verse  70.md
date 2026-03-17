@@ -452,6 +452,18 @@ Qāla Fa'ini Attaba'tanī Falā Tas'alnī 'An Shay'in Ĥattá 'Uĥditha Laka Min
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ فَإِنِ اتَّبَعْتَنِي فَلَا تَسْأَلْنِي عَنْ شَيْءٍ حَتَّى أُحْدِثَ لَكَ مِنْهُ ذِكْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال فان اتبعتني فلا تسالني عن شيء حتى احدث لك منه ذكرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ فَإِنِ ٱتَّبَعۡتَنِی فَلَا تَسۡءَلۡنِی عَن شَیۡءٍ حَتَّىٰۤ أُحۡدِثَ لَكَ مِنۡهُ ذِكۡرࣰا
 
 | Details |  |

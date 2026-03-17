@@ -452,6 +452,18 @@ Ya'iduhum Wa Yumannīhim Wa Mā Ya'iduhumu Ash-Shayţānu 'Illā Ghurūrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَعِدُهُمْ وَيُمَنِّيهِمْ وَمَا يَعِدُهُمُ الشَّيْطَانُ إِلَّا غُرُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يعدهم ويمنيهم وما يعدهم الشيطان الا غرورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَعِدُهُمۡ وَیُمَنِّیهِمۡۖ وَمَا یَعِدُهُمُ ٱلشَّیۡطَـٰنُ إِلَّا غُرُورًا
 
 | Details |  |

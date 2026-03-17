@@ -452,6 +452,18 @@ Wa Qul Rabbi 'A'ūdhu Bika Min Hamazāti Ash-Shayāţīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقُلْ رَبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقل رب اعوذ بك من همزات الشياطين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقُل رَّبِّ أَعُوذُ بِكَ مِنۡ هَمَزَ ٰتِ ٱلشَّیَـٰطِینِ
 
 | Details |  |

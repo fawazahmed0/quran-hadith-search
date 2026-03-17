@@ -452,6 +452,18 @@ Linaj'alahā Lakum Tadhkiratan Wa Ta'iyahā 'Udhunun Wā'iyahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَا أُذُنٌ وَاعِيَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لنجعلها لكم تذكرة وتعيها اذن واعية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِنَجۡعَلَهَا لَكُمۡ تَذۡكِرَةࣰ وَتَعِیَهَاۤ أُذُنࣱ وَ ٰعِیَةࣱ
 
 | Details |  |

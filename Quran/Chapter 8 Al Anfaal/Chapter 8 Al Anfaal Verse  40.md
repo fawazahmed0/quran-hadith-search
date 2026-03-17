@@ -452,6 +452,18 @@ Wa 'In Tawallaw Fā'lamū 'Anna Allāha Mawlākum Ni'ma Al-Mawlá Wa Ni'ma An-Na
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ تَوَلَّوْا فَاعْلَمُوا أَنَّ اللَّهَ مَوْلَاكُمْ نِعْمَ الْمَوْلَى وَنِعْمَ النَّصِيرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان تولوا فاعلموا ان الله مولاكم نعم المولى ونعم النصير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن تَوَلَّوۡا۟ فَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ مَوۡلَىٰكُمۡۚ نِعۡمَ ٱلۡمَوۡلَىٰ وَنِعۡمَ ٱلنَّصِیرُ
 
 | Details |  |

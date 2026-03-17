@@ -452,6 +452,18 @@ Ula'ika 'Ashabu Al-Maymanahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ أَصْحَابُ الْمَيْمَنَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك اصحاب الميمنة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ أَصۡحَـٰبُ ٱلۡمَیۡمَنَةِ
 
 | Details |  |

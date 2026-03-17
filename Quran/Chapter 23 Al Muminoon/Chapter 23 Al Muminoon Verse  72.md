@@ -452,6 +452,18 @@ Am Tas'aluhum Kharjāan Fakharāju Rabbika Khayrun Wa Huwa Khayru Ar-Rāziqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ تَسْأَلُهُمْ خَرْجًا فَخَرَاجُ رَبِّكَ خَيْرٌ وَهُوَ خَيْرُ الرَّازِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام تسالهم خرجا فخراج ربك خير وهو خير الرازقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ تَسۡءَلُهُمۡ خَرۡجࣰا فَخَرَاجُ رَبِّكَ خَیۡرࣱۖ وَهُوَ خَیۡرُ ٱلرَّ ٰزِقِینَ
 
 | Details |  |

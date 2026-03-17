@@ -452,6 +452,18 @@ Wa Lā Ţa'āmun 'Illā Min Ghislīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا طعام الا من غسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا طَعَامٌ إِلَّا مِنۡ غِسۡلِینࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Ajibū 'An Jā'ahum Mundhirun Minhum Wa Qāla Al-Kāfirūna Hādhā Sāĥiru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَعَجِبُوا أَنْ جَاءَهُمْ مُنْذِرٌ مِنْهُمْ وَقَالَ الْكَافِرُونَ هَذَا سَاحِرٌ كَذَّابٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وعجبوا ان جاءهم منذر منهم وقال الكافرون هذا ساحر كذاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَعَجِبُوۤا۟ أَن جَاۤءَهُم مُّنذِرࣱ مِّنۡهُمۡۖ وَقَالَ ٱلۡكَـٰفِرُونَ هَـٰذَا سَـٰحِرࣱ كَذَّابٌ
 
 | Details |  |

@@ -452,6 +452,18 @@ Sibghata Allahi Wa Man 'Ahsanu Mina Allahi Sibghatan Wa Nahnu Lahu 'Abiduna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+صِبْغَةَ اللَّهِ وَمَنْ أَحْسَنُ مِنَ اللَّهِ صِبْغَةً وَنَحْنُ لَهُ عَابِدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+صبغة الله ومن احسن من الله صبغة ونحن له عابدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 صِبۡغَةَ ٱللَّهِ وَمَنۡ أَحۡسَنُ مِنَ ٱللَّهِ صِبۡغَةࣰۖ وَنَحۡنُ لَهُۥ عَـٰبِدُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla Rabbu As-Samāwāti Wa Al-'Arđi Wa Mā Baynahumā 'In Kuntum Mūqinīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِنْ كُنْتُمْ مُوقِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب السماوات والارض وما بينهما ان كنتم موقنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبُّ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ وَمَا بَیۡنَهُمَاۤۖ إِن كُنتُم مُّوقِنِینَ
 
 | Details |  |

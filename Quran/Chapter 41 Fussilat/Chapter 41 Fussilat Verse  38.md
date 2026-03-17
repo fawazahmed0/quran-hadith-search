@@ -452,6 +452,18 @@ Fa'ini Astakbarū Fa-Al-Ladhīna 'Inda Rabbika Yusabbiĥūna Lahu Bil-Layli Wa A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنِ اسْتَكْبَرُوا فَالَّذِينَ عِنْدَ رَبِّكَ يُسَبِّحُونَ لَهُ بِاللَّيْلِ وَالنَّهَارِ وَهُمْ لَا يَسْأَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فان استكبروا فالذين عند ربك يسبحون له بالليل والنهار وهم لا يسامون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِنِ ٱسۡتَكۡبَرُوا۟ فَٱلَّذِینَ عِندَ رَبِّكَ یُسَبِّحُونَ لَهُۥ بِٱلَّیۡلِ وَٱلنَّهَارِ وَهُمۡ لَا یَسۡءَمُونَ ۩
 
 | Details |  |

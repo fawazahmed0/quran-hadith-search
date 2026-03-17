@@ -452,6 +452,18 @@ Qad 'Aflaĥa Man Tazakká
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَدْ أَفْلَحَ مَنْ تَزَكَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قد افلح من تزكى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَدۡ أَفۡلَحَ مَن تَزَكَّىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Laqad 'Arsalnā Fīhim Mundhirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ أَرْسَلْنَا فِيهِمْ مُنْذِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد ارسلنا فيهم منذرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ أَرۡسَلۡنَا فِیهِم مُّنذِرِینَ
 
 | Details |  |

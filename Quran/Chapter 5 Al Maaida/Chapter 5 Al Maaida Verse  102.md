@@ -452,6 +452,18 @@ Qad Sa'alahā Qawmun Min Qablikum Thumma 'Aşbaĥū Bihā Kāfirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَدْ سَأَلَهَا قَوْمٌ مِنْ قَبْلِكُمْ ثُمَّ أَصْبَحُوا بِهَا كَافِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قد سالها قوم من قبلكم ثم اصبحوا بها كافرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَدۡ سَأَلَهَا قَوۡمࣱ مِّن قَبۡلِكُمۡ ثُمَّ أَصۡبَحُوا۟ بِهَا كَـٰفِرِینَ
 
 | Details |  |

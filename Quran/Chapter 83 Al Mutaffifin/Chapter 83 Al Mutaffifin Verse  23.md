@@ -452,6 +452,18 @@ Alá Al-'Arā'iki Yanžurūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَلَى الْأَرَائِكِ يَنْظُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+على الارايك ينظرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَلَى ٱلۡأَرَاۤئِكِ یَنظُرُونَ
 
 | Details |  |

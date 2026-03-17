@@ -452,6 +452,18 @@ Alá 'An Nubaddila Khayrāan Minhum Wa Mā Naĥnu Bimasbūqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَلَى أَنْ نُبَدِّلَ خَيْرًا مِنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+على ان نبدل خيرا منهم وما نحن بمسبوقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَلَىٰۤ أَن نُّبَدِّلَ خَیۡرࣰا مِّنۡهُمۡ وَمَا نَحۡنُ بِمَسۡبُوقِینَ
 
 | Details |  |

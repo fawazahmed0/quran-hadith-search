@@ -452,6 +452,18 @@ Tabbat Yadā 'Abī Lahabin Wa Tabba
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تبت يدا ابي لهب وتب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَبَّتۡ یَدَاۤ أَبِی لَهَبࣲ وَتَبَّ
 
 | Details |  |

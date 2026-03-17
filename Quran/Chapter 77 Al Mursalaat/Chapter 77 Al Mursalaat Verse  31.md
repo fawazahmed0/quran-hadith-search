@@ -452,6 +452,18 @@ Lā Žalīlin Wa Lā Yughnī Mina Al-Lahabi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا ظَلِيلٍ وَلَا يُغْنِي مِنَ اللَّهَبِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا ظليل ولا يغني من اللهب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا ظَلِیلࣲ وَلَا یُغۡنِی مِنَ ٱللَّهَبِ
 
 | Details |  |

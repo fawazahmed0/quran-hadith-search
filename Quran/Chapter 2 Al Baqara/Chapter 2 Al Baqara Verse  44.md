@@ -452,6 +452,18 @@ Ata'murūna An-Nāsa Bil-Birri Wa Tansawna 'Anfusakum Wa 'Antum Tatlūna Al-Kit�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنْسَوْنَ أَنْفُسَكُمْ وَأَنْتُمْ تَتْلُونَ الْكِتَابَ أَفَلَا تَعْقِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اتامرون الناس بالبر وتنسون انفسكم وانتم تتلون الكتاب افلا تعقلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ أَتَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبِرِّ وَتَنسَوۡنَ أَنفُسَكُمۡ وَأَنتُمۡ تَتۡلُونَ ٱلۡكِتَـٰبَۚ أَفَلَا تَعۡقِلُونَ
 
 | Details |  |

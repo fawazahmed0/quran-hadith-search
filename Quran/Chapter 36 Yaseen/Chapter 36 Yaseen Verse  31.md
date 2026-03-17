@@ -452,6 +452,18 @@ Alam Yaraw Kam 'Ahlaknā Qablahum Mina Al-Qurūni 'Annahum 'Ilayhim Lā Yarji'ū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ يَرَوْا كَمْ أَهْلَكْنَا قَبْلَهُمْ مِنَ الْقُرُونِ أَنَّهُمْ إِلَيْهِمْ لَا يَرْجِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم يروا كم اهلكنا قبلهم من القرون انهم اليهم لا يرجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ یَرَوۡا۟ كَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّنَ ٱلۡقُرُونِ أَنَّهُمۡ إِلَیۡهِمۡ لَا یَرۡجِعُونَ
 
 | Details |  |

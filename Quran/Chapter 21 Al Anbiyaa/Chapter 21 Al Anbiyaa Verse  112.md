@@ -452,6 +452,18 @@ Qāla Rabbi Aĥkum Bil-Ĥaqqi Wa Rabbunā Ar-Raĥmānu Al-Musta'ānu 'Alá Mā T
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ احْكُمْ بِالْحَقِّ وَرَبُّنَا الرَّحْمَنُ الْمُسْتَعَانُ عَلَى مَا تَصِفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب احكم بالحق وربنا الرحمن المستعان على ما تصفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَـٰلَ رَبِّ ٱحۡكُم بِٱلۡحَقِّۗ وَرَبُّنَا ٱلرَّحۡمَـٰنُ ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ
 
 | Details |  |

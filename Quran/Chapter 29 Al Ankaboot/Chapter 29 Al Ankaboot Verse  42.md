@@ -452,6 +452,18 @@ Inna Allāha Ya'lamu Mā Yad'ūna Min Dūnihi Min Shay'in Wa Huwa Al-'Azīzu Al-
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ اللَّهَ يَعْلَمُ مَا يَدْعُونَ مِنْ دُونِهِ مِنْ شَيْءٍ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الله يعلم ما يدعون من دونه من شيء وهو العزيز الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱللَّهَ یَعۡلَمُ مَا یَدۡعُونَ مِن دُونِهِۦ مِن شَیۡءࣲۚ وَهُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
 
 | Details |  |

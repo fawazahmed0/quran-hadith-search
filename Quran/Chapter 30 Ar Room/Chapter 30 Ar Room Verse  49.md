@@ -452,6 +452,18 @@ Wa 'In Kānū Min Qabli 'An Yunazzala 'Alayhim Min Qablihi Lamublisīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ كَانُوا مِنْ قَبْلِ أَنْ يُنَزَّلَ عَلَيْهِمْ مِنْ قَبْلِهِ لَمُبْلِسِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان كانوا من قبل ان ينزل عليهم من قبله لمبلسين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن كَانُوا۟ مِن قَبۡلِ أَن یُنَزَّلَ عَلَیۡهِم مِّن قَبۡلِهِۦ لَمُبۡلِسِینَ
 
 | Details |  |

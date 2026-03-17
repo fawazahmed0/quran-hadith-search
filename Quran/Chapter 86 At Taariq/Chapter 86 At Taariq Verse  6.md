@@ -452,6 +452,18 @@ Khuliqa Min Mā'in Dāfiqin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خُلِقَ مِنْ مَاءٍ دَافِقٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خلق من ماء دافق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خُلِقَ مِن مَّاۤءࣲ دَافِقࣲ
 
 | Details |  |

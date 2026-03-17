@@ -452,6 +452,18 @@ Inna Laka 'Allā Tajū'a Fīhā Wa Lā Ta'rá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان لك الا تجوع فيها ولا تعرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ لَكَ أَلَّا تَجُوعَ فِیهَا وَلَا تَعۡرَىٰ
 
 | Details |  |

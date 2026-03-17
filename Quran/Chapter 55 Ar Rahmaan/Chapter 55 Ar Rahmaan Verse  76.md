@@ -452,6 +452,18 @@ Muttaki'īna 'Alá Rafrafin Khuđrin Wa 'Abqarīyin Ĥisānin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مُتَّكِئِينَ عَلَى رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ حِسَانٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+متكيين على رفرف خضر وعبقري حسان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مُتَّكِءِینَ عَلَىٰ رَفۡرَفٍ خُضۡرࣲ وَعَبۡقَرِیٍّ حِسَانࣲ
 
 | Details |  |

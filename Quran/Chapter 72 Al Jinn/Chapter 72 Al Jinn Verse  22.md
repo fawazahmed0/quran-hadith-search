@@ -452,6 +452,18 @@ Qul 'Innī Lan Yujīranī Mina Allāhi 'Aĥadun Wa Lan 'Ajida Min Dūnihi Multa�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ إِنِّي لَنْ يُجِيرَنِي مِنَ اللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِنْ دُونِهِ مُلْتَحَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل اني لن يجيرني من الله احد ولن اجد من دونه ملتحدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ إِنِّی لَن یُجِیرَنِی مِنَ ٱللَّهِ أَحَدࣱ وَلَنۡ أَجِدَ مِن دُونِهِۦ مُلۡتَحَدًا
 
 | Details |  |

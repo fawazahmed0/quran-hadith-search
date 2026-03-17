@@ -452,6 +452,18 @@ Innahum Yarawnahu Ba'īdāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُمْ يَرَوْنَهُ بَعِيدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انهم يرونه بعيدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُمۡ یَرَوۡنَهُۥ بَعِیدࣰا
 
 | Details |  |

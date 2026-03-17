@@ -452,6 +452,18 @@ Ula'ika Ma'wahum Jahannamu Wa La Yajiduna 'Anha Mahisaan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ مَأْوَاهُمْ جَهَنَّمُ وَلَا يَجِدُونَ عَنْهَا مَحِيصًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك ماواهم جهنم ولا يجدون عنها محيصا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ مَأۡوَىٰهُمۡ جَهَنَّمُ وَلَا یَجِدُونَ عَنۡهَا مَحِیصࣰا
 
 | Details |  |

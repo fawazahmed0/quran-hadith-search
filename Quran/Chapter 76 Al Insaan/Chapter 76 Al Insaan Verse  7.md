@@ -452,6 +452,18 @@ Yūfūna Bin-Nadhri Wa Yakhāfūna Yawmāan Kāna Sharruhu Mustaţīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُوفُونَ بِالنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُ مُسْتَطِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوفون بالنذر ويخافون يوما كان شره مستطيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُوفُونَ بِٱلنَّذۡرِ وَیَخَافُونَ یَوۡمࣰا كَانَ شَرُّهُۥ مُسۡتَطِیرࣰا
 
 | Details |  |

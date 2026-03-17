@@ -452,6 +452,18 @@ Falammā 'Āsafūnā Antaqamnā Minhum Fa'aghraqnāhum 'Ajma'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا آسَفُونَا انْتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَاهُمْ أَجْمَعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما اسفونا انتقمنا منهم فاغرقناهم اجمعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّاۤ ءَاسَفُونَا ٱنتَقَمۡنَا مِنۡهُمۡ فَأَغۡرَقۡنَـٰهُمۡ أَجۡمَعِینَ
 
 | Details |  |

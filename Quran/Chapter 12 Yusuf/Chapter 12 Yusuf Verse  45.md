@@ -452,6 +452,18 @@ Wa Qāla Al-Ladhī Najā Minhumā Wa Aiddakara Ba'da 'Ummatin 'Anā 'Unabbi'ukum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ الَّذِي نَجَا مِنْهُمَا وَادَّكَرَ بَعْدَ أُمَّةٍ أَنَا أُنَبِّئُكُمْ بِتَأْوِيلِهِ فَأَرْسِلُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال الذي نجا منهما وادكر بعد امة انا انبيكم بتاويله فارسلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ ٱلَّذِی نَجَا مِنۡهُمَا وَٱدَّكَرَ بَعۡدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأۡوِیلِهِۦ فَأَرۡسِلُونِ
 
 | Details |  |

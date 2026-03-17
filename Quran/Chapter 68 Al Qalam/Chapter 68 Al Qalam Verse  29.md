@@ -452,6 +452,18 @@ Qālū Subĥāna Rabbinā 'Innā Kunnā Žālimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا سُبْحَانَ رَبِّنَا إِنَّا كُنَّا ظَالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا سبحان ربنا انا كنا ظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ سُبۡحَـٰنَ رَبِّنَاۤ إِنَّا كُنَّا ظَـٰلِمِینَ
 
 | Details |  |

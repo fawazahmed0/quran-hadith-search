@@ -452,6 +452,18 @@ Qālū 'Āmannā Birabbi Al-'Ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا آمَنَّا بِرَبِّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا امنا برب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوۤا۟ ءَامَنَّا بِرَبِّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

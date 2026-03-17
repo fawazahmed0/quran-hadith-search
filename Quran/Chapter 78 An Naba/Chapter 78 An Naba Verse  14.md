@@ -452,6 +452,18 @@ Wa 'Anzalnā Mina Al-Mu'şirāti Mā'an Thajjājāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانزلنا من المعصرات ماء ثجاجا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنزَلۡنَا مِنَ ٱلۡمُعۡصِرَ ٰتِ مَاۤءࣰ ثَجَّاجࣰا
 
 | Details |  |

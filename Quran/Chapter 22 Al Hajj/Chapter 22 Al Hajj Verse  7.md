@@ -452,6 +452,18 @@ Wa 'Anna As-Sā'ata 'Ātiyatun Lā Rayba Fīhā Wa 'Anna Allāha Yab'athu Man F�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّ السَّاعَةَ آتِيَةٌ لَا رَيْبَ فِيهَا وَأَنَّ اللَّهَ يَبْعَثُ مَنْ فِي الْقُبُورِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان الساعة اتية لا ريب فيها وان الله يبعث من في القبور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّ ٱلسَّاعَةَ ءَاتِیَةࣱ لَّا رَیۡبَ فِیهَا وَأَنَّ ٱللَّهَ یَبۡعَثُ مَن فِی ٱلۡقُبُورِ
 
 | Details |  |

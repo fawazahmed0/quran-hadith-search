@@ -452,6 +452,18 @@ Fasawfa Ta'lamūna Man Ya'tīhi 'Adhābun Yukhzīhi Wa Yaĥillu 'Alayhi 'Adhābu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَسَوْفَ تَعْلَمُونَ مَنْ يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُقِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فسوف تعلمون من ياتيه عذاب يخزيه ويحل عليه عذاب مقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَسَوۡفَ تَعۡلَمُونَ مَن یَأۡتِیهِ عَذَابࣱ یُخۡزِیهِ وَیَحِلُّ عَلَیۡهِ عَذَابࣱ مُّقِیمٌ
 
 | Details |  |

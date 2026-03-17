@@ -452,6 +452,18 @@ Aw Yuzawwijuhum Dhukrānāan Wa 'Ināthāan Wa Yaj'alu Man Yashā'u 'Aqīmāan '
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَاثًا وَيَجْعَلُ مَنْ يَشَاءُ عَقِيمًا إِنَّهُ عَلِيمٌ قَدِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+او يزوجهم ذكرانا واناثا ويجعل من يشاء عقيما انه عليم قدير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوۡ یُزَوِّجُهُمۡ ذُكۡرَانࣰا وَإِنَـٰثࣰاۖ وَیَجۡعَلُ مَن یَشَاۤءُ عَقِیمًاۚ إِنَّهُۥ عَلِیمࣱ قَدِیرࣱ
 
 | Details |  |

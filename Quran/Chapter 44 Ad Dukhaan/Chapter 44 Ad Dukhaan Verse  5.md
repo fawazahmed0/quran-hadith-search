@@ -452,6 +452,18 @@ Amrāan Min 'Indinā 'Innā Kunnā Mursilīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْرًا مِنْ عِنْدِنَا إِنَّا كُنَّا مُرْسِلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+امرا من عندنا انا كنا مرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡرࣰا مِّنۡ عِندِنَاۤۚ إِنَّا كُنَّا مُرۡسِلِینَ
 
 | Details |  |

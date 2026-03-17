@@ -452,6 +452,18 @@ Mā Kadhaba Al-Fu'uādu Mā Ra'á
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا كَذَبَ الْفُؤَادُ مَا رَأَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما كذب الفواد ما راى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا كَذَبَ ٱلۡفُؤَادُ مَا رَأَىٰۤ
 
 | Details |  |

@@ -452,6 +452,18 @@ Kam 'Ahlaknā Min Qablihim Min Qarnin Fanādaw Walāta Ĥīna Manāşin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَمْ أَهْلَكْنَا مِنْ قَبْلِهِمْ مِنْ قَرْنٍ فَنَادَوْا وَلَاتَ حِينَ مَنَاصٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كم اهلكنا من قبلهم من قرن فنادوا ولات حين مناص
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَمۡ أَهۡلَكۡنَا مِن قَبۡلِهِم مِّن قَرۡنࣲ فَنَادَوا۟ وَّلَاتَ حِینَ مَنَاصࣲ
 
 | Details |  |

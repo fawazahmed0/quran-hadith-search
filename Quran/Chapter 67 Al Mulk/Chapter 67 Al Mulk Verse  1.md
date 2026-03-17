@@ -452,6 +452,18 @@ Tabāraka Al-Ladhī Biyadihi Al-Mulku Wa Huwa 'Alá Kulli Shay'in Qadīrun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تبارك الذي بيده الملك وهو على كل شيء قدير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ تَبَـٰرَكَ ٱلَّذِی بِیَدِهِ ٱلۡمُلۡكُ وَهُوَ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرٌ
 
 | Details |  |

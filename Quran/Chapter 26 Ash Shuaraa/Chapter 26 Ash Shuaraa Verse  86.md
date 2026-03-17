@@ -452,6 +452,18 @@ Wa Aghfir Li'abī 'Innahu Kāna Mina Ađ-Đāllīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاغْفِرْ لِأَبِي إِنَّهُ كَانَ مِنَ الضَّالِّينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واغفر لابي انه كان من الضالين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱغۡفِرۡ لِأَبِیۤ إِنَّهُۥ كَانَ مِنَ ٱلضَّاۤلِّینَ
 
 | Details |  |

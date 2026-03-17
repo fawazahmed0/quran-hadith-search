@@ -452,6 +452,18 @@ Hādhā Yawmu Al-Faşli Al-Ladhī Kuntum Bihi Tukadhibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذَا يَوْمُ الْفَصْلِ الَّذِي كُنْتُمْ بِهِ تُكَذِّبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذا يوم الفصل الذي كنتم به تكذبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذَا یَوۡمُ ٱلۡفَصۡلِ ٱلَّذِی كُنتُم بِهِۦ تُكَذِّبُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Hum Wa 'Azwājuhum Fī Žilālin 'Alá Al-'Arā'iki Muttaki'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُمْ وَأَزْوَاجُهُمْ فِي ظِلَالٍ عَلَى الْأَرَائِكِ مُتَّكِئُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هم وازواجهم في ظلال على الارايك متكيون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُمۡ وَأَزۡوَ ٰجُهُمۡ فِی ظِلَـٰلٍ عَلَى ٱلۡأَرَاۤئِكِ مُتَّكِءُونَ
 
 | Details |  |

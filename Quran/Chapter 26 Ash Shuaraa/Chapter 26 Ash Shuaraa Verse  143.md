@@ -452,6 +452,18 @@ Innī Lakum Rasūlun 'Amīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنِّي لَكُمْ رَسُولٌ أَمِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اني لكم رسول امين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنِّی لَكُمۡ رَسُولٌ أَمِینࣱ
 
 | Details |  |

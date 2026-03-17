@@ -452,6 +452,18 @@ Sabbaĥa Lillāhi Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa Huwa Al-'Azīzu 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سبح لله ما في السماوات وما في الارض وهو العزيز الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَبَّحَ لِلَّهِ مَا فِی ٱلسَّمَـٰوَ ٰتِ وَمَا فِی ٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
 
 | Details |  |

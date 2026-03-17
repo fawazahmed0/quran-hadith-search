@@ -452,6 +452,18 @@ Wa 'Uzlifati Al-Jannatu Lilmuttaqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وازلفت الجنة للمتقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Illā 'Ibāda Allāhi Al-Mukhlaşīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا عباد الله المخلصين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا عِبَادَ ٱللَّهِ ٱلۡمُخۡلَصِینَ
 
 | Details |  |

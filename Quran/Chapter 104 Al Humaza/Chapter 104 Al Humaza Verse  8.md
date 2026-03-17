@@ -452,6 +452,18 @@ Innahā 'Alayhim Mu'uşadahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انها عليهم موصدة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهَا عَلَیۡهِم مُّؤۡصَدَةࣱ
 
 | Details |  |

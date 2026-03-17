@@ -452,6 +452,18 @@ Wa Kulla Shay'in 'Aĥşaynāhu Kitābāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكل شيء احصيناه كتابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكُلَّ شَیۡءٍ أَحۡصَیۡنَـٰهُ كِتَـٰبࣰا
 
 | Details |  |

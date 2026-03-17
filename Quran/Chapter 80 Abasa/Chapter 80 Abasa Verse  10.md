@@ -452,6 +452,18 @@ Fa'anta 'Anhu Talahhá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَنْتَ عَنْهُ تَلَهَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانت عنه تلهى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَنتَ عَنۡهُ تَلَهَّىٰ
 
 | Details |  |

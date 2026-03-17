@@ -452,6 +452,18 @@ In Tu'adhibhum Fa'innahum 'Ibāduka Wa 'In Taghfir Lahum Fa'innaka 'Anta Al-'Az�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ وَإِنْ تَغْفِرْ لَهُمْ فَإِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان تعذبهم فانهم عبادك وان تغفر لهم فانك انت العزيز الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِن تُعَذِّبۡهُمۡ فَإِنَّهُمۡ عِبَادُكَۖ وَإِن تَغۡفِرۡ لَهُمۡ فَإِنَّكَ أَنتَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
 
 | Details |  |

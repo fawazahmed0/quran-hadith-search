@@ -452,6 +452,18 @@ Wa Yurīkum 'Āyātihi Fa'ayya 'Āyāti Allāhi Tunkirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيُرِيكُمْ آيَاتِهِ فَأَيَّ آيَاتِ اللَّهِ تُنْكِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويريكم اياته فاي ايات الله تنكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیُرِیكُمۡ ءَایَـٰتِهِۦ فَأَیَّ ءَایَـٰتِ ٱللَّهِ تُنكِرُونَ
 
 | Details |  |

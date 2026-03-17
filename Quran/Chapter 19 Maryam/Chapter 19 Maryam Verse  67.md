@@ -452,6 +452,18 @@ Awalā Yadhkuru Al-'Insānu 'Annā Khalaqnāhu Min Qablu Wa Lam Yaku Shay'āan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوَلَا يَذْكُرُ الْإِنْسَانُ أَنَّا خَلَقْنَاهُ مِنْ قَبْلُ وَلَمْ يَكُ شَيْئًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اولا يذكر الانسان انا خلقناه من قبل ولم يك شييا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوَ لَا یَذۡكُرُ ٱلۡإِنسَـٰنُ أَنَّا خَلَقۡنَـٰهُ مِن قَبۡلُ وَلَمۡ یَكُ شَیۡءࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Al-Ladhīna Ja'alū Al-Qur'āna 'Iđīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ جَعَلُوا الْقُرْآنَ عِضِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين جعلوا القران عضين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ جَعَلُوا۟ ٱلۡقُرۡءَانَ عِضِینَ
 
 | Details |  |

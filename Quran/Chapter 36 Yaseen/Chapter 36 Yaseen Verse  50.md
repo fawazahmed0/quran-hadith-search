@@ -452,6 +452,18 @@ Falā Yastaţī'ūna Tawşiyatan Wa Lā 'Ilá 'Ahlihim Yarji'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَا يَسْتَطِيعُونَ تَوْصِيَةً وَلَا إِلَى أَهْلِهِمْ يَرْجِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلا يستطيعون توصية ولا الى اهلهم يرجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَا یَسۡتَطِیعُونَ تَوۡصِیَةࣰ وَلَاۤ إِلَىٰۤ أَهۡلِهِمۡ یَرۡجِعُونَ
 
 | Details |  |

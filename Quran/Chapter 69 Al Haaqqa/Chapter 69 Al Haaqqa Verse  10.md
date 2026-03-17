@@ -452,6 +452,18 @@ Fa'aşaw Rasūla Rabbihim Fa'akhadhahum 'Akhdhatan Rābiyahan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَعَصَوْا رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَابِيَةً
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فعصوا رسول ربهم فاخذهم اخذة رابية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَعَصَوۡا۟ رَسُولَ رَبِّهِمۡ فَأَخَذَهُمۡ أَخۡذَةࣰ رَّابِیَةً
 
 | Details |  |

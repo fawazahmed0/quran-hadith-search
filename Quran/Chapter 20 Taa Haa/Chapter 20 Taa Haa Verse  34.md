@@ -452,6 +452,18 @@ Wa Nadhkuraka Kathīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَذْكُرَكَ كَثِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونذكرك كثيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَذۡكُرَكَ كَثِیرًا
 
 | Details |  |

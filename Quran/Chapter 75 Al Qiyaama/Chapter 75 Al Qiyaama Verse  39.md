@@ -452,6 +452,18 @@ Faja'ala Minhu Az-Zawjayni Adh-Dhakara Wa Al-'Unthá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنْثَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فجعل منه الزوجين الذكر والانثى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَجَعَلَ مِنۡهُ ٱلزَّوۡجَیۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰۤ
 
 | Details |  |

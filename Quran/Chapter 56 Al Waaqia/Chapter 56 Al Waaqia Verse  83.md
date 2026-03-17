@@ -452,6 +452,18 @@ Falawlā 'Idhā Balaghati Al-Ĥulqūma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَوْلَا إِذَا بَلَغَتِ الْحُلْقُومَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلولا اذا بلغت الحلقوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَوۡلَاۤ إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ
 
 | Details |  |

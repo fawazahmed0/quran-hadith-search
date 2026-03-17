@@ -452,6 +452,18 @@ Dhālika Bi'annahum 'Āmanū Thumma Kafarū Faţubi'a 'Alá Qulūbihim Fahum Lā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَى قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك بانهم امنوا ثم كفروا فطبع على قلوبهم فهم لا يفقهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ بِأَنَّهُمۡ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ فَطُبِعَ عَلَىٰ قُلُوبِهِمۡ فَهُمۡ لَا یَفۡقَهُونَ
 
 | Details |  |

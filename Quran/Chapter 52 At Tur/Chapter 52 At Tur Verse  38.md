@@ -452,6 +452,18 @@ Am Lahum Sullamun Yastami'ūna Fīhi Falya'ti Mustami'uhum Bisulţānin Mubīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ فَلْيَأْتِ مُسْتَمِعُهُمْ بِسُلْطَانٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام لهم سلم يستمعون فيه فليات مستمعهم بسلطان مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ لَهُمۡ سُلَّمࣱ یَسۡتَمِعُونَ فِیهِۖ فَلۡیَأۡتِ مُسۡتَمِعُهُم بِسُلۡطَـٰنࣲ مُّبِینٍ
 
 | Details |  |

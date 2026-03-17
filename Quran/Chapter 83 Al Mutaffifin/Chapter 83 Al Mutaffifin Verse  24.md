@@ -452,6 +452,18 @@ Ta'rifu Fī Wujūhihim Nađrata An-Na'īmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَعْرِفُ فِي وُجُوهِهِمْ نَضْرَةَ النَّعِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تعرف في وجوههم نضرة النعيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَعۡرِفُ فِی وُجُوهِهِمۡ نَضۡرَةَ ٱلنَّعِیمِ
 
 | Details |  |

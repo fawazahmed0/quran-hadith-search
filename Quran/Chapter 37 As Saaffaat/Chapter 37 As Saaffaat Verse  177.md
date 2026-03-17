@@ -452,6 +452,18 @@ Fa'idhā Nazala Bisāĥatihim Fasā'a Şabāĥu Al-Mundharīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَاءَ صَبَاحُ الْمُنْذَرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاذا نزل بساحتهم فساء صباح المنذرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِذَا نَزَلَ بِسَاحَتِهِمۡ فَسَاۤءَ صَبَاحُ ٱلۡمُنذَرِینَ
 
 | Details |  |

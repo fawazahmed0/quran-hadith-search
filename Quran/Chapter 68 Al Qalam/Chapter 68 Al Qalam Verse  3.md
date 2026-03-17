@@ -452,6 +452,18 @@ Wa 'Inna Laka La'ajrāan Ghayra Mamnūnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان لك لاجرا غير ممنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ لَكَ لَأَجۡرًا غَیۡرَ مَمۡنُونࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Salāmun 'Alá 'Il Yā -Sīn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَلَامٌ عَلَى إِلْ يَاسِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سلام على ال ياسين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَلَـٰمٌ عَلَىٰۤ إِلۡ یَاسِینَ
 
 | Details |  |

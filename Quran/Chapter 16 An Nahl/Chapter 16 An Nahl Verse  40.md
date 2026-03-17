@@ -452,6 +452,18 @@ Innamā Qawlunā Lishay'in 'Idhā 'Aradnāhu 'An Naqūla Lahu Kun Fayakūnu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّمَا قَوْلُنَا لِشَيْءٍ إِذَا أَرَدْنَاهُ أَنْ نَقُولَ لَهُ كُنْ فَيَكُونُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انما قولنا لشيء اذا اردناه ان نقول له كن فيكون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّمَا قَوۡلُنَا لِشَیۡءٍ إِذَاۤ أَرَدۡنَـٰهُ أَن نَّقُولَ لَهُۥ كُن فَیَكُونُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Yasta'jilūnaka Bil-'Adhābi Wa 'Inna Jahannama Lamuĥīţatun Bil-Kāfirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَسْتَعْجِلُونَكَ بِالْعَذَابِ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌ بِالْكَافِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يستعجلونك بالعذاب وان جهنم لمحيطة بالكافرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَسۡتَعۡجِلُونَكَ بِٱلۡعَذَابِ وَإِنَّ جَهَنَّمَ لَمُحِیطَةُۢ بِٱلۡكَـٰفِرِینَ
 
 | Details |  |

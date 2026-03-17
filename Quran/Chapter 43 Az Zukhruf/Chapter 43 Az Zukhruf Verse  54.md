@@ -452,6 +452,18 @@ Fāstakhaffa Qawmahu Fa'aţā'ūhu 'Innahum Kānū Qawmāan Fāsiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاسْتَخَفَّ قَوْمَهُ فَأَطَاعُوهُ إِنَّهُمْ كَانُوا قَوْمًا فَاسِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاستخف قومه فاطاعوه انهم كانوا قوما فاسقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱسۡتَخَفَّ قَوۡمَهُۥ فَأَطَاعُوهُۚ إِنَّهُمۡ كَانُوا۟ قَوۡمࣰا فَـٰسِقِینَ
 
 | Details |  |

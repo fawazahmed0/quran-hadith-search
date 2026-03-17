@@ -452,6 +452,18 @@ Fāttaqū Allāha Wa 'Aţī'ūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاتقوا الله واطيعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ
 
 | Details |  |

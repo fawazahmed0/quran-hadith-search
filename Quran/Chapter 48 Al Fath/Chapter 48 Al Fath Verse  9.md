@@ -452,6 +452,18 @@ Litu'uminū Billāhi Wa Rasūlihi Wa Tu'azzirūhu Wa Tuwaqqirūhu Wa Tusabbiĥū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِتُؤْمِنُوا بِاللَّهِ وَرَسُولِهِ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةً وَأَصِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لتومنوا بالله ورسوله وتعزروه وتوقروه وتسبحوه بكرة واصيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِّتُؤۡمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُۚ وَتُسَبِّحُوهُ بُكۡرَةࣰ وَأَصِیلًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Mā Lakum Lā Tanţiqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا لَكُمْ لَا تَنْطِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما لكم لا تنطقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا لَكُمۡ لَا تَنطِقُونَ
 
 | Details |  |

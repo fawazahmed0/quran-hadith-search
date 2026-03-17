@@ -452,6 +452,18 @@ Kadhālika Mā 'Atá Al-Ladhīna Min Qablihim Min Rasūlin 'Illā Qālū Sāĥir
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَلِكَ مَا أَتَى الَّذِينَ مِنْ قَبْلِهِمْ مِنْ رَسُولٍ إِلَّا قَالُوا سَاحِرٌ أَوْ مَجْنُونٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذلك ما اتى الذين من قبلهم من رسول الا قالوا ساحر او مجنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَ ٰلِكَ مَاۤ أَتَى ٱلَّذِینَ مِن قَبۡلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا۟ سَاحِرٌ أَوۡ مَجۡنُونٌ
 
 | Details |  |

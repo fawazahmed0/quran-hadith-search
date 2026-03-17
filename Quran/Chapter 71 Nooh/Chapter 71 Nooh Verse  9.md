@@ -452,6 +452,18 @@ Thumma 'Innī 'A'lantu Lahum Wa 'Asrartu Lahum 'Isrārāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ إِنِّي أَعْلَنْتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم اني اعلنت لهم واسررت لهم اسرارا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ إِنِّیۤ أَعۡلَنتُ لَهُمۡ وَأَسۡرَرۡتُ لَهُمۡ إِسۡرَارࣰا
 
 | Details |  |

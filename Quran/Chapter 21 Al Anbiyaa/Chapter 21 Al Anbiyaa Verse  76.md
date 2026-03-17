@@ -452,6 +452,18 @@ Wa Nūĥāan 'Idh Nādá Min Qablu Fāstajabnā Lahu Fanajjaynāhu Wa 'Ahlahu Mi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنُوحًا إِذْ نَادَى مِنْ قَبْلُ فَاسْتَجَبْنَا لَهُ فَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونوحا اذ نادى من قبل فاستجبنا له فنجيناه واهله من الكرب العظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنُوحًا إِذۡ نَادَىٰ مِن قَبۡلُ فَٱسۡتَجَبۡنَا لَهُۥ فَنَجَّیۡنَـٰهُ وَأَهۡلَهُۥ مِنَ ٱلۡكَرۡبِ ٱلۡعَظِیمِ
 
 | Details |  |

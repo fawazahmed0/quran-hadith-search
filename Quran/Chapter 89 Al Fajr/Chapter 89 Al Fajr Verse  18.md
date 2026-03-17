@@ -452,6 +452,18 @@ Wa Lā Taĥāđđūna 'Alá Ţa'āmi Al-Miskīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تَحَاضُّونَ عَلَى طَعَامِ الْمِسْكِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تحاضون على طعام المسكين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تَحَـٰۤضُّونَ عَلَىٰ طَعَامِ ٱلۡمِسۡكِینِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Al-Ladhīna Kadhabū Bil-Kitābi Wa Bimā 'Arsalnā Bihi Rusulanā Fasawfa Ya'la
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ كَذَّبُوا بِالْكِتَابِ وَبِمَا أَرْسَلْنَا بِهِ رُسُلَنَا فَسَوْفَ يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين كذبوا بالكتاب وبما ارسلنا به رسلنا فسوف يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ كَذَّبُوا۟ بِٱلۡكِتَـٰبِ وَبِمَاۤ أَرۡسَلۡنَا بِهِۦ رُسُلَنَاۖ فَسَوۡفَ یَعۡلَمُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Al-'Arđa Wađa'ahā Lil'anāmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْأَرْضَ وَضَعَهَا لِلْأَنَامِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والارض وضعها للانام
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡأَرۡضَ وَضَعَهَا لِلۡأَنَامِ
 
 | Details |  |

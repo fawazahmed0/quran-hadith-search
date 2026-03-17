@@ -452,6 +452,18 @@ Wa Kadhabū Bi'āyātinā Kidhābāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكذبوا باياتنا كذابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَذَّبُوا۟ بِءَایَـٰتِنَا كِذَّابࣰا
 
 | Details |  |

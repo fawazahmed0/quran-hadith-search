@@ -452,6 +452,18 @@ Law Yajidūna Malja'an 'Aw Maghārātin 'Aw Muddakhalāan Lawallaw 'Ilayhi Wa Hu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَوْ يَجِدُونَ مَلْجَأً أَوْ مَغَارَاتٍ أَوْ مُدَّخَلًا لَوَلَّوْا إِلَيْهِ وَهُمْ يَجْمَحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لو يجدون ملجا او مغارات او مدخلا لولوا اليه وهم يجمحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَوۡ یَجِدُونَ مَلۡجَءًا أَوۡ مَغَـٰرَ ٰتٍ أَوۡ مُدَّخَلࣰا لَّوَلَّوۡا۟ إِلَیۡهِ وَهُمۡ یَجۡمَحُونَ
 
 | Details |  |

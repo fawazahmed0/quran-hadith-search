@@ -452,6 +452,18 @@ Thumma Liyaqđū Tafathahum Wa Līūfū Nudhūrahum Wa Līaţţawwafū Bil-Bayti
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفُوا نُذُورَهُمْ وَلْيَطَّوَّفُوا بِالْبَيْتِ الْعَتِيقِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم ليقضوا تفثهم وليوفوا نذورهم وليطوفوا بالبيت العتيق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ لۡیَقۡضُوا۟ تَفَثَهُمۡ وَلۡیُوفُوا۟ نُذُورَهُمۡ وَلۡیَطَّوَّفُوا۟ بِٱلۡبَیۡتِ ٱلۡعَتِیقِ
 
 | Details |  |

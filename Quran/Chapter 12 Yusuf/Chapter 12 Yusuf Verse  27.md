@@ -452,6 +452,18 @@ Wa 'In Kāna Qamīşuhu Qudda Min Duburin Fakadhabat Wa Huwa Mina Aş-Şādiqīn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ كَانَ قَمِيصُهُ قُدَّ مِنْ دُبُرٍ فَكَذَبَتْ وَهُوَ مِنَ الصَّادِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان كان قميصه قد من دبر فكذبت وهو من الصادقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن كَانَ قَمِیصُهُۥ قُدَّ مِن دُبُرࣲ فَكَذَبَتۡ وَهُوَ مِنَ ٱلصَّـٰدِقِینَ
 
 | Details |  |

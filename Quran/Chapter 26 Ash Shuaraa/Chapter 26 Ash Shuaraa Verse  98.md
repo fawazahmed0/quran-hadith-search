@@ -452,6 +452,18 @@ Idh Nusawwīkum Birabbi Al-'Ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ نُسَوِّيكُمْ بِرَبِّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ نسويكم برب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ نُسَوِّیكُم بِرَبِّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla 'Alam Nurabbika Fīnā Walīdāan Wa Labithta Fīnā Min 'Umurika Sinīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال الم نربك فينا وليدا ولبثت فينا من عمرك سنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ أَلَمۡ نُرَبِّكَ فِینَا وَلِیدࣰا وَلَبِثۡتَ فِینَا مِنۡ عُمُرِكَ سِنِینَ
 
 | Details |  |

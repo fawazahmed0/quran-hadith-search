@@ -452,6 +452,18 @@ Kālmuhli Yaghlī Fī Al-Buţūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَالْمُهْلِ يَغْلِي فِي الْبُطُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كالمهل يغلي في البطون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَٱلۡمُهۡلِ یَغۡلِی فِی ٱلۡبُطُونِ
 
 | Details |  |

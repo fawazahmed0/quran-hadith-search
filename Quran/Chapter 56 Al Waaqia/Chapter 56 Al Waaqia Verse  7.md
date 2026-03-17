@@ -452,6 +452,18 @@ Wa Kuntum 'Azwājāan Thalāthahan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكُنْتُمْ أَزْوَاجًا ثَلَاثَةً
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكنتم ازواجا ثلاثة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكُنتُمۡ أَزۡوَ ٰجࣰا ثَلَـٰثَةࣰ
 
 | Details |  |

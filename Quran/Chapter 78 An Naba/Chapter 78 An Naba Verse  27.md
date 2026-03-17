@@ -452,6 +452,18 @@ Innahum Kānū Lā Yarjūna Ĥisābāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انهم كانوا لا يرجون حسابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُمۡ كَانُوا۟ لَا یَرۡجُونَ حِسَابࣰا
 
 | Details |  |

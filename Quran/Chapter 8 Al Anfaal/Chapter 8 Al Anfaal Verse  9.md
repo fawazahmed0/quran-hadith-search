@@ -452,6 +452,18 @@ Idh Tastaghīthūna Rabbakum Fāstajāba Lakum 'Annī Mumiddukum Bi'alfin Mina A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُمْ بِأَلْفٍ مِنَ الْمَلَائِكَةِ مُرْدِفِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ تستغيثون ربكم فاستجاب لكم اني ممدكم بالف من الملايكة مردفين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ تَسۡتَغِیثُونَ رَبَّكُمۡ فَٱسۡتَجَابَ لَكُمۡ أَنِّی مُمِدُّكُم بِأَلۡفࣲ مِّنَ ٱلۡمَلَـٰۤئِكَةِ مُرۡدِفِینَ
 
 | Details |  |

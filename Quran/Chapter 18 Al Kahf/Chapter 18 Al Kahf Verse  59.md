@@ -452,6 +452,18 @@ Wa Tilka Al-Qurá 'Ahlaknāhum Lammā Žalamū Wa Ja'alnā Limahlikihim Maw'idā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتِلْكَ الْقُرَى أَهْلَكْنَاهُمْ لَمَّا ظَلَمُوا وَجَعَلْنَا لِمَهْلِكِهِمْ مَوْعِدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتلك القرى اهلكناهم لما ظلموا وجعلنا لمهلكهم موعدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتِلۡكَ ٱلۡقُرَىٰۤ أَهۡلَكۡنَـٰهُمۡ لَمَّا ظَلَمُوا۟ وَجَعَلۡنَا لِمَهۡلِكِهِم مَّوۡعِدࣰا
 
 | Details |  |

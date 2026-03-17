@@ -452,6 +452,18 @@ Fa'innahum 'Adūwun Lī 'Illā Rabba Al-'Ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنَّهُمْ عَدُوٌّ لِي إِلَّا رَبَّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانهم عدو لي الا رب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِنَّهُمۡ عَدُوࣱّ لِّیۤ إِلَّا رَبَّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

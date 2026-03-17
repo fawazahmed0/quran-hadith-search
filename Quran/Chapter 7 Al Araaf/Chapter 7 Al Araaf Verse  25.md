@@ -452,6 +452,18 @@ Qāla Fīhā Taĥyawna Wa Fīhā Tamūtūna Wa Minhā Tukhrajūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ فِيهَا تَحْيَوْنَ وَفِيهَا تَمُوتُونَ وَمِنْهَا تُخْرَجُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال فيها تحيون وفيها تموتون ومنها تخرجون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ فِیهَا تَحۡیَوۡنَ وَفِیهَا تَمُوتُونَ وَمِنۡهَا تُخۡرَجُونَ
 
 | Details |  |

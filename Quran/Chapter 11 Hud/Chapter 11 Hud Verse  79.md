@@ -452,6 +452,18 @@ Qālū Laqad 'Alimta Mā Lanā Fī Banātika Min Ĥaqqin Wa 'Innaka Lata'lamu M�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا لَقَدْ عَلِمْتَ مَا لَنَا فِي بَنَاتِكَ مِنْ حَقٍّ وَإِنَّكَ لَتَعْلَمُ مَا نُرِيدُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا لقد علمت ما لنا في بناتك من حق وانك لتعلم ما نريد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ لَقَدۡ عَلِمۡتَ مَا لَنَا فِی بَنَاتِكَ مِنۡ حَقࣲّ وَإِنَّكَ لَتَعۡلَمُ مَا نُرِیدُ
 
 | Details |  |

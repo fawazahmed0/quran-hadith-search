@@ -452,6 +452,18 @@ Wa Mā 'A'jalaka 'An Qawmika Yā Mūsá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَعْجَلَكَ عَنْ قَوْمِكَ يَا مُوسَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما اعجلك عن قومك يا موسى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَمَاۤ أَعۡجَلَكَ عَن قَوۡمِكَ یَـٰمُوسَىٰ
 
 | Details |  |

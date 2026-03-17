@@ -452,6 +452,18 @@ Qālū Rabbunā Ya'lamu 'Innā 'Ilaykum Lamursalūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا رَبُّنَا يَعْلَمُ إِنَّا إِلَيْكُمْ لَمُرْسَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا ربنا يعلم انا اليكم لمرسلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ رَبُّنَا یَعۡلَمُ إِنَّاۤ إِلَیۡكُمۡ لَمُرۡسَلُونَ
 
 | Details |  |

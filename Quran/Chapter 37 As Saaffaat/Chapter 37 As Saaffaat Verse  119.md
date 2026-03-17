@@ -452,6 +452,18 @@ Wa Taraknā 'Alayhimā Fī Al-'Ākhirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَرَكْنَا عَلَيْهِمَا فِي الْآخِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتركنا عليهما في الاخرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَرَكۡنَا عَلَیۡهِمَا فِی ٱلۡءَاخِرِینَ
 
 | Details |  |

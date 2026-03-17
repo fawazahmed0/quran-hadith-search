@@ -452,6 +452,18 @@ Wa Ja'alnā Al-Layla Libāsāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلْنَا اللَّيْلَ لِبَاسًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلنا الليل لباسا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلۡنَا ٱلَّیۡلَ لِبَاسࣰا
 
 | Details |  |

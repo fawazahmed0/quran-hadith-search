@@ -452,6 +452,18 @@ Illā Raĥmatan Minnā Wa Matā'āan 'Ilá Ĥīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا رَحْمَةً مِنَّا وَمَتَاعًا إِلَى حِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا رحمة منا ومتاعا الى حين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا رَحۡمَةࣰ مِّنَّا وَمَتَـٰعًا إِلَىٰ حِینࣲ
 
 | Details |  |

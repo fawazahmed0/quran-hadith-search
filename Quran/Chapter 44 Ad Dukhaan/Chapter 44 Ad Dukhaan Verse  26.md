@@ -452,6 +452,18 @@ Wa Zurū'in Wa Maqāmin Karīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وزروع ومقام كريم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَزُرُوعࣲ وَمَقَامࣲ كَرِیمࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Man Jāhada Fa'innamā Yujāhidu Linafsihi 'Inna Allāha Laghanīyun 'Ani Al-
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ جَاهَدَ فَإِنَّمَا يُجَاهِدُ لِنَفْسِهِ إِنَّ اللَّهَ لَغَنِيٌّ عَنِ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن جاهد فانما يجاهد لنفسه ان الله لغني عن العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن جَـٰهَدَ فَإِنَّمَا یُجَـٰهِدُ لِنَفۡسِهِۦۤۚ إِنَّ ٱللَّهَ لَغَنِیٌّ عَنِ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

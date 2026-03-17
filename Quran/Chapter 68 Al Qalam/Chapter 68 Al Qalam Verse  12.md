@@ -452,6 +452,18 @@ Mannā'in Lilkhayri Mu'tadin 'Athīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَنَّاعٍ لِلْخَيْرِ مُعْتَدٍ أَثِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+مناع للخير معتد اثيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّنَّاعࣲ لِّلۡخَیۡرِ مُعۡتَدٍ أَثِیمٍ
 
 | Details |  |

@@ -452,6 +452,18 @@ Idhā Massahu Ash-Sharru Jazū'āan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذَا مَسَّهُ الشَّرُّ جَزُوعًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذا مسه الشر جزوعا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعࣰا
 
 | Details |  |

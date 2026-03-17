@@ -452,6 +452,18 @@ Wa Kadhalika Najzī Man 'Asrafa Wa Lam Yu'umin Bi'āyāti Rabbihi Wa La'adhābu 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَذَلِكَ نَجْزِي مَنْ أَسْرَفَ وَلَمْ يُؤْمِنْ بِآيَاتِ رَبِّهِ وَلَعَذَابُ الْآخِرَةِ أَشَدُّ وَأَبْقَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكذلك نجزي من اسرف ولم يومن بايات ربه ولعذاب الاخرة اشد وابقى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَذَ ٰلِكَ نَجۡزِی مَنۡ أَسۡرَفَ وَلَمۡ یُؤۡمِنۢ بِءَایَـٰتِ رَبِّهِۦۚ وَلَعَذَابُ ٱلۡءَاخِرَةِ أَشَدُّ وَأَبۡقَىٰۤ
 
 | Details |  |

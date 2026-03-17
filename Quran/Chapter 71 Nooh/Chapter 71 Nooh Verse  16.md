@@ -452,6 +452,18 @@ Wa Ja'ala Al-Qamara Fīhinna Nūrāan Wa Ja'ala Ash-Shamsa Sirājāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعل القمر فيهن نورا وجعل الشمس سراجا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلَ ٱلۡقَمَرَ فِیهِنَّ نُورࣰا وَجَعَلَ ٱلشَّمۡسَ سِرَاجࣰا
 
 | Details |  |

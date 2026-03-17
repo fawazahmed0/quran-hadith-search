@@ -452,6 +452,18 @@ Fa'ahlaknā 'Ashadda Minhum Baţshāan Wa Mađá Mathalu Al-'Awwalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَهْلَكْنَا أَشَدَّ مِنْهُمْ بَطْشًا وَمَضَى مَثَلُ الْأَوَّلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاهلكنا اشد منهم بطشا ومضى مثل الاولين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَهۡلَكۡنَاۤ أَشَدَّ مِنۡهُم بَطۡشࣰا وَمَضَىٰ مَثَلُ ٱلۡأَوَّلِینَ
 
 | Details |  |

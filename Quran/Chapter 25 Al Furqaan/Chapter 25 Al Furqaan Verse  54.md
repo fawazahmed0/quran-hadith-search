@@ -452,6 +452,18 @@ Wa Huwa Al-Ladhī Khalaqa Mina Al-Mā'i Basharāan Faja'alahu Nasabāan Wa Şihr
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُوَ الَّذِي خَلَقَ مِنَ الْمَاءِ بَشَرًا فَجَعَلَهُ نَسَبًا وَصِهْرًا وَكَانَ رَبُّكَ قَدِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهو الذي خلق من الماء بشرا فجعله نسبا وصهرا وكان ربك قديرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُوَ ٱلَّذِی خَلَقَ مِنَ ٱلۡمَاۤءِ بَشَرࣰا فَجَعَلَهُۥ نَسَبࣰا وَصِهۡرࣰاۗ وَكَانَ رَبُّكَ قَدِیرࣰا
 
 | Details |  |

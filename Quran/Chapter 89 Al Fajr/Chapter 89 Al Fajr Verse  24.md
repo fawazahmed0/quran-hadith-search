@@ -452,6 +452,18 @@ Yaqūlu Yā Laytanī Qaddamtu Liĥayātī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يقول يا ليتني قدمت لحياتي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَقُولُ یَـٰلَیۡتَنِی قَدَّمۡتُ لِحَیَاتِی
 
 | Details |  |

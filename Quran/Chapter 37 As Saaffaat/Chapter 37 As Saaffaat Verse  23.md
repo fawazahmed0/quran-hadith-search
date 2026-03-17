@@ -452,6 +452,18 @@ Min Dūni Allāhi Fāhdūhum 'Ilá Şirāţi Al-Jaĥīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مِنْ دُونِ اللَّهِ فَاهْدُوهُمْ إِلَى صِرَاطِ الْجَحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من دون الله فاهدوهم الى صراط الجحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مِن دُونِ ٱللَّهِ فَٱهۡدُوهُمۡ إِلَىٰ صِرَ ٰطِ ٱلۡجَحِیمِ
 
 | Details |  |

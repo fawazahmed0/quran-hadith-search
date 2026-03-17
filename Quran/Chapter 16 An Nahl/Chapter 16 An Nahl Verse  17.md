@@ -452,6 +452,18 @@ Afaman Yakhluqu Kaman Lā Yakhluqu 'Afalā Tadhakkarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَمَنْ يَخْلُقُ كَمَنْ لَا يَخْلُقُ أَفَلَا تَذَكَّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افمن يخلق كمن لا يخلق افلا تذكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَمَن یَخۡلُقُ كَمَن لَّا یَخۡلُقُۚ أَفَلَا تَذَكَّرُونَ
 
 | Details |  |

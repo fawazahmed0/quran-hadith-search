@@ -452,6 +452,18 @@ Lā Maqţū'atin Wa Lā Mamnū'ahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا مقطوعة ولا ممنوعة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا مَقۡطُوعَةࣲ وَلَا مَمۡنُوعَةࣲ
 
 | Details |  |

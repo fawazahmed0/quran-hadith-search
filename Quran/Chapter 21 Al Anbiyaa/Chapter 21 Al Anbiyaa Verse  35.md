@@ -452,6 +452,18 @@ Kullu Nafsin Dhā'iqatu Al-Mawti Wa Nablūkum Bish-Sharri Wa Al-Khayri Fitnatan 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ وَنَبْلُوكُمْ بِالشَّرِّ وَالْخَيْرِ فِتْنَةً وَإِلَيْنَا تُرْجَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كل نفس ذايقة الموت ونبلوكم بالشر والخير فتنة والينا ترجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كُلُّ نَفۡسࣲ ذَاۤئِقَةُ ٱلۡمَوۡتِۗ وَنَبۡلُوكُم بِٱلشَّرِّ وَٱلۡخَیۡرِ فِتۡنَةࣰۖ وَإِلَیۡنَا تُرۡجَعُونَ
 
 | Details |  |

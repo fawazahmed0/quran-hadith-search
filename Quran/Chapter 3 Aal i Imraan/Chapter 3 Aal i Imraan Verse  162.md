@@ -452,6 +452,18 @@ Afamani Attaba'a Riđwāna Allāhi Kaman Bā'a Bisakhaţin Mina Allāhi Wa Ma'w�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَمَنِ اتَّبَعَ رِضْوَانَ اللَّهِ كَمَنْ بَاءَ بِسَخَطٍ مِنَ اللَّهِ وَمَأْوَاهُ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افمن اتبع رضوان الله كمن باء بسخط من الله وماواه جهنم وبيس المصير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَمَنِ ٱتَّبَعَ رِضۡوَ ٰنَ ٱللَّهِ كَمَنۢ بَاۤءَ بِسَخَطࣲ مِّنَ ٱللَّهِ وَمَأۡوَىٰهُ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمَصِیرُ
 
 | Details |  |

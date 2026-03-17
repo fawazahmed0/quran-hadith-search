@@ -452,6 +452,18 @@ Al-Ĥāqqahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الْحَاقَّةُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الحاقة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ ٱلۡحَاۤقَّةُ
 
 | Details |  |

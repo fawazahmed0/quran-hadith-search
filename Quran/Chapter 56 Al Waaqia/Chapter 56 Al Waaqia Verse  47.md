@@ -452,6 +452,18 @@ Wa Kānū Yaqūlūna 'A'idhā Mitnā Wa Kunnā Turābāan Wa 'Ižāmāan 'A'inn�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَانُوا يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكانوا يقولون ايذا متنا وكنا ترابا وعظاما اانا لمبعوثون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَانُوا۟ یَقُولُونَ أَئِذَا مِتۡنَا وَكُنَّا تُرَابࣰا وَعِظَـٰمًا أَءِنَّا لَمَبۡعُوثُونَ
 
 | Details |  |

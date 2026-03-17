@@ -452,6 +452,18 @@ Tanzi'u An-Nāsa Ka'annahum 'A'jāzu Nakhlin Munqa'irin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَنْزِعُ النَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُنْقَعِرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تنزع الناس كانهم اعجاز نخل منقعر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَنزِعُ ٱلنَّاسَ كَأَنَّهُمۡ أَعۡجَازُ نَخۡلࣲ مُّنقَعِرࣲ
 
 | Details |  |

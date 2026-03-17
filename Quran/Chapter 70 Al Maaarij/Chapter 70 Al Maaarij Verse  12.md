@@ -452,6 +452,18 @@ Wa Şāĥibatihi Wa 'Akhīhi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَصَاحِبَتِهِ وَأَخِيهِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وصاحبته واخيه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَصَـٰحِبَتِهِۦ وَأَخِیهِ
 
 | Details |  |

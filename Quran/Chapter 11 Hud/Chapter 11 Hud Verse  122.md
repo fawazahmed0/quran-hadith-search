@@ -452,6 +452,18 @@ Wa Antažirū 'Innā Muntažirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَانْتَظِرُوا إِنَّا مُنْتَظِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانتظروا انا منتظرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱنتَظِرُوۤا۟ إِنَّا مُنتَظِرُونَ
 
 | Details |  |

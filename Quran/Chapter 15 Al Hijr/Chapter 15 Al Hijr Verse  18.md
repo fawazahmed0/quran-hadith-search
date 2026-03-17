@@ -452,6 +452,18 @@ Illā Mani Astaraqa As-Sam'a Fa'atba'ahu Shihābun Mubīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا مَنِ اسْتَرَقَ السَّمْعَ فَأَتْبَعَهُ شِهَابٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا من استرق السمع فاتبعه شهاب مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا مَنِ ٱسۡتَرَقَ ٱلسَّمۡعَ فَأَتۡبَعَهُۥ شِهَابࣱ مُّبِینࣱ
 
 | Details |  |

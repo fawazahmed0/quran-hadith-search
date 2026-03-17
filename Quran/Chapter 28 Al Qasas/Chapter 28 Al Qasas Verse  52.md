@@ -452,6 +452,18 @@ Al-Ladhīna 'Ātaynāhumu Al-Kitāba Min Qablihi Hum Bihi Yu'uminūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ مِنْ قَبْلِهِ هُمْ بِهِ يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين اتيناهم الكتاب من قبله هم به يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ ءَاتَیۡنَـٰهُمُ ٱلۡكِتَـٰبَ مِن قَبۡلِهِۦ هُم بِهِۦ یُؤۡمِنُونَ
 
 | Details |  |

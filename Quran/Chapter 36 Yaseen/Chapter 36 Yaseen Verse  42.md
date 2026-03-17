@@ -452,6 +452,18 @@ Wa Khalaqnā Lahum Min Mithlihi Mā Yarkabūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَخَلَقْنَا لَهُمْ مِنْ مِثْلِهِ مَا يَرْكَبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وخلقنا لهم من مثله ما يركبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَخَلَقۡنَا لَهُم مِّن مِّثۡلِهِۦ مَا یَرۡكَبُونَ
 
 | Details |  |

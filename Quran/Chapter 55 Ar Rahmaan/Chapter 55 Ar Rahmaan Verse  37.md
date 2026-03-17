@@ -452,6 +452,18 @@ Fa'idhā Anshaqqati As-Samā'u Fakānat Wardatan Kālddihāni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِذَا انْشَقَّتِ السَّمَاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاذا انشقت السماء فكانت وردة كالدهان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِذَا ٱنشَقَّتِ ٱلسَّمَاۤءُ فَكَانَتۡ وَرۡدَةࣰ كَٱلدِّهَانِ
 
 | Details |  |

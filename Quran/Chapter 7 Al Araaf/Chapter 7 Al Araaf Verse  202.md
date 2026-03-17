@@ -452,6 +452,18 @@ Wa 'Ikhwānuhum Yamuddūnahum Fī Al-Ghayyi Thumma Lā Yuqşirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِخْوَانُهُمْ يَمُدُّونَهُمْ فِي الْغَيِّ ثُمَّ لَا يُقْصِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واخوانهم يمدونهم في الغي ثم لا يقصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِخۡوَ ٰنُهُمۡ یَمُدُّونَهُمۡ فِی ٱلۡغَیِّ ثُمَّ لَا یُقۡصِرُونَ
 
 | Details |  |

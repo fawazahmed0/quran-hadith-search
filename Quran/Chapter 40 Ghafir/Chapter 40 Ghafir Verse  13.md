@@ -452,6 +452,18 @@ Huwa Al-Ladhī Yurīkum 'Āyātihi Wa Yunazzilu Lakum Mina As-Samā'i Rizqāan W
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُوَ الَّذِي يُرِيكُمْ آيَاتِهِ وَيُنَزِّلُ لَكُمْ مِنَ السَّمَاءِ رِزْقًا وَمَا يَتَذَكَّرُ إِلَّا مَنْ يُنِيبُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هو الذي يريكم اياته وينزل لكم من السماء رزقا وما يتذكر الا من ينيب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُوَ ٱلَّذِی یُرِیكُمۡ ءَایَـٰتِهِۦ وَیُنَزِّلُ لَكُم مِّنَ ٱلسَّمَاۤءِ رِزۡقࣰاۚ وَمَا یَتَذَكَّرُ إِلَّا مَن یُنِیبُ
 
 | Details |  |

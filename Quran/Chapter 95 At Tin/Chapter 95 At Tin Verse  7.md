@@ -452,6 +452,18 @@ Famā Yukadhibuka Ba'du Bid-Dīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فما يكذبك بعد بالدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَا یُكَذِّبُكَ بَعۡدُ بِٱلدِّینِ
 
 | Details |  |

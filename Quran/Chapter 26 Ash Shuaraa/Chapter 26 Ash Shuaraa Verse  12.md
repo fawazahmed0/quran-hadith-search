@@ -452,6 +452,18 @@ Qāla Rabbi 'Innī 'Akhāfu 'An Yukadhibūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ إِنِّي أَخَافُ أَنْ يُكَذِّبُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب اني اخاف ان يكذبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ إِنِّیۤ أَخَافُ أَن یُكَذِّبُونِ
 
 | Details |  |

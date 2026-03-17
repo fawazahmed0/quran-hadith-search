@@ -452,6 +452,18 @@ Yā 'Ahla Al-Kitābi Lima Takfurūna Bi'āyāti Allāhi Wa 'Antum Tash/hadūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَهْلَ الْكِتَابِ لِمَ تَكْفُرُونَ بِآيَاتِ اللَّهِ وَأَنْتُمْ تَشْهَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا اهل الكتاب لم تكفرون بايات الله وانتم تشهدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَهۡلَ ٱلۡكِتَـٰبِ لِمَ تَكۡفُرُونَ بِءَایَـٰتِ ٱللَّهِ وَأَنتُمۡ تَشۡهَدُونَ
 
 | Details |  |

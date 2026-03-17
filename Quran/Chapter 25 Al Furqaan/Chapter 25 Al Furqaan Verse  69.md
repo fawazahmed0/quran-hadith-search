@@ -452,6 +452,18 @@ Yuđā'af Lahu Al-'Adhābu Yawma Al-Qiyāmati Wa Yakhlud Fīhi Muhānāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُضَاعَفْ لَهُ الْعَذَابُ يَوْمَ الْقِيَامَةِ وَيَخْلُدْ فِيهِ مُهَانًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يضاعف له العذاب يوم القيامة ويخلد فيه مهانا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُضَـٰعَفۡ لَهُ ٱلۡعَذَابُ یَوۡمَ ٱلۡقِیَـٰمَةِ وَیَخۡلُدۡ فِیهِۦ مُهَانًا
 
 | Details |  |

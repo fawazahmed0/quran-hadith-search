@@ -452,6 +452,18 @@ Wa Lā Yastathnūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا يَسْتَثْنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا يستثنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا یَسۡتَثۡنُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Hatta 'Idha Ma Ja'uha Shahida 'Alayhim Sam'uhum Wa 'Absaruhum Wa Juluduhum Bima 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+حَتَّى إِذَا مَا جَاءُوهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ وَأَبْصَارُهُمْ وَجُلُودُهُمْ بِمَا كَانُوا يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+حتى اذا ما جاءوها شهد عليهم سمعهم وابصارهم وجلودهم بما كانوا يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 حَتَّىٰۤ إِذَا مَا جَاۤءُوهَا شَهِدَ عَلَیۡهِمۡ سَمۡعُهُمۡ وَأَبۡصَـٰرُهُمۡ وَجُلُودُهُم بِمَا كَانُوا۟ یَعۡمَلُونَ
 
 | Details |  |

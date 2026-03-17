@@ -452,6 +452,18 @@ Mā 'Aghná 'Annī Mālīh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا أَغْنَى عَنِّي مَالِيَهْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما اغنى عني ماليه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَاۤ أَغۡنَىٰ عَنِّی مَالِیَهۡۜ
 
 | Details |  |

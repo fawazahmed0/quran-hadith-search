@@ -452,6 +452,18 @@ Wa Mā 'Adrāka Mā Sijjīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَدْرَاكَ مَا سِجِّينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ادراك ما سجين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَدۡرَىٰكَ مَا سِجِّینࣱ
 
 | Details |  |

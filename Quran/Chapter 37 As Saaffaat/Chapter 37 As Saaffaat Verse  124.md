@@ -452,6 +452,18 @@ Idh Qāla Liqawmihi 'Alā Tattaqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ قَالَ لِقَوْمِهِ أَلَا تَتَّقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ قال لقومه الا تتقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ قَالَ لِقَوۡمِهِۦۤ أَلَا تَتَّقُونَ
 
 | Details |  |

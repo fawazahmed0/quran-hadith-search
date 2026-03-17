@@ -452,6 +452,18 @@ Qāla Qad 'Ujībat Da'watukumā Fāstaqīmā Wa Lā Tattabi'āni Sabīla Al-Ladh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ قَدْ أُجِيبَتْ دَعْوَتُكُمَا فَاسْتَقِيمَا وَلَا تَتَّبِعَانِّ سَبِيلَ الَّذِينَ لَا يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال قد اجيبت دعوتكما فاستقيما ولا تتبعان سبيل الذين لا يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ قَدۡ أُجِیبَت دَّعۡوَتُكُمَا فَٱسۡتَقِیمَا وَلَا تَتَّبِعَاۤنِّ سَبِیلَ ٱلَّذِینَ لَا یَعۡلَمُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fa'in Tawallaw Fa'inna Allāha 'Alīmun Bil-Mufsidīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنْ تَوَلَّوْا فَإِنَّ اللَّهَ عَلِيمٌ بِالْمُفْسِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فان تولوا فان الله عليم بالمفسدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِن تَوَلَّوۡا۟ فَإِنَّ ٱللَّهَ عَلِیمُۢ بِٱلۡمُفۡسِدِینَ
 
 | Details |  |

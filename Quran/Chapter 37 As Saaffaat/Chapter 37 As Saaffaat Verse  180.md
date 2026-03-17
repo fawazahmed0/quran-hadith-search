@@ -452,6 +452,18 @@ Subĥāna Rabbika Rabbi Al-'Izzati 'Ammā Yaşifūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سبحان ربك رب العزة عما يصفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سُبۡحَـٰنَ رَبِّكَ رَبِّ ٱلۡعِزَّةِ عَمَّا یَصِفُونَ
 
 | Details |  |

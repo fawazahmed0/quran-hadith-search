@@ -452,6 +452,18 @@ Fa'ayna Tadh/habūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَيْنَ تَذْهَبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاين تذهبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَیۡنَ تَذۡهَبُونَ
 
 | Details |  |

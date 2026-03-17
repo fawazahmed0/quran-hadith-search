@@ -452,6 +452,18 @@ Fa'innamā Yassarnāhu Bilisānika La'allahum Yatadhakkarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنَّمَا يَسَّرْنَاهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانما يسرناه بلسانك لعلهم يتذكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِنَّمَا یَسَّرۡنَـٰهُ بِلِسَانِكَ لَعَلَّهُمۡ یَتَذَكَّرُونَ
 
 | Details |  |

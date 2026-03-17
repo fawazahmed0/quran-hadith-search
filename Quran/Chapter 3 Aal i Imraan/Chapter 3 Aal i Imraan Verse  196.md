@@ -452,6 +452,18 @@ Lā Yaghurrannaka Taqallubu Al-Ladhīna Kafarū Fī Al-Bilādi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَغُرَّنَّكَ تَقَلُّبُ الَّذِينَ كَفَرُوا فِي الْبِلَادِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يغرنك تقلب الذين كفروا في البلاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا یَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِینَ كَفَرُوا۟ فِی ٱلۡبِلَـٰدِ
 
 | Details |  |

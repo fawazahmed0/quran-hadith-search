@@ -452,6 +452,18 @@ Bal Qulūbuhum Fī Ghamratin Min Hādhā Wa Lahum 'A'mālun Min Dūni Dhālika H
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ قُلُوبُهُمْ فِي غَمْرَةٍ مِنْ هَذَا وَلَهُمْ أَعْمَالٌ مِنْ دُونِ ذَلِكَ هُمْ لَهَا عَامِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل قلوبهم في غمرة من هذا ولهم اعمال من دون ذلك هم لها عاملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ قُلُوبُهُمۡ فِی غَمۡرَةࣲ مِّنۡ هَـٰذَا وَلَهُمۡ أَعۡمَـٰلࣱ مِّن دُونِ ذَ ٰلِكَ هُمۡ لَهَا عَـٰمِلُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Thumma Tawallaw 'Anhu Wa Qālū Mu'allamun Majnūnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ تَوَلَّوْا عَنْهُ وَقَالُوا مُعَلَّمٌ مَجْنُونٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم تولوا عنه وقالوا معلم مجنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ تَوَلَّوۡا۟ عَنۡهُ وَقَالُوا۟ مُعَلَّمࣱ مَّجۡنُونٌ
 
 | Details |  |

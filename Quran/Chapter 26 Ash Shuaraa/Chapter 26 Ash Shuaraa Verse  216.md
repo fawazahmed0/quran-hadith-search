@@ -452,6 +452,18 @@ Fa'in 'Aşawka Faqul 'Innī Barī'un Mimmā Ta'malūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنْ عَصَوْكَ فَقُلْ إِنِّي بَرِيءٌ مِمَّا تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فان عصوك فقل اني بريء مما تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِنۡ عَصَوۡكَ فَقُلۡ إِنِّی بَرِیۤءࣱ مِّمَّا تَعۡمَلُونَ
 
 | Details |  |

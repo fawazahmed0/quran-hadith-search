@@ -452,6 +452,18 @@ Wa 'Ilá Al-'Arđi Kayfa Suţiĥat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والى الارض كيف سطحت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِلَى ٱلۡأَرۡضِ كَیۡفَ سُطِحَتۡ
 
 | Details |  |

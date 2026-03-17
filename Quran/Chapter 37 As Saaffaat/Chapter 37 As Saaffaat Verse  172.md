@@ -452,6 +452,18 @@ Innahum Lahumu Al-Manşūrūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُمْ لَهُمُ الْمَنْصُورُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انهم لهم المنصورون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُمۡ لَهُمُ ٱلۡمَنصُورُونَ
 
 | Details |  |

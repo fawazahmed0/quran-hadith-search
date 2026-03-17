@@ -452,6 +452,18 @@ Fī 'Ayyi Şūratin Mā Shā'a Rakkabaka
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في اي صورة ما شاء ركبك
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِیۤ أَیِّ صُورَةࣲ مَّا شَاۤءَ رَكَّبَكَ
 
 | Details |  |

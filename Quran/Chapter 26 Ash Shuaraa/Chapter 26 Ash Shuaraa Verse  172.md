@@ -452,6 +452,18 @@ Thumma Dammarnā Al-'Ākharīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ دَمَّرْنَا الْآخَرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم دمرنا الاخرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ دَمَّرۡنَا ٱلۡءَاخَرِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Lamajmū'ūna 'Ilá Mīqāti Yawmin Ma'lūmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَمَجْمُوعُونَ إِلَى مِيقَاتِ يَوْمٍ مَعْلُومٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لمجموعون الى ميقات يوم معلوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَمَجۡمُوعُونَ إِلَىٰ مِیقَـٰتِ یَوۡمࣲ مَّعۡلُومࣲ
 
 | Details |  |

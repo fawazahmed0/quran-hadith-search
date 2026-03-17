@@ -452,6 +452,18 @@ Qāla Salāmun 'Alayka Sa'astaghfiru Laka Rabbī 'Innahu Kāna Bī Ĥafīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ سَلَامٌ عَلَيْكَ سَأَسْتَغْفِرُ لَكَ رَبِّي إِنَّهُ كَانَ بِي حَفِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال سلام عليك ساستغفر لك ربي انه كان بي حفيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ سَلَـٰمٌ عَلَیۡكَۖ سَأَسۡتَغۡفِرُ لَكَ رَبِّیۤۖ إِنَّهُۥ كَانَ بِی حَفِیࣰّا
 
 | Details |  |

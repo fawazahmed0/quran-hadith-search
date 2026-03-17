@@ -452,6 +452,18 @@ Wa Lahu Mā Fī As-Samāwāti Wa Al-'Arđi Wa Lahu Ad-Dīnu Wa Aşibāan 'Afagha
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَلَهُ الدِّينُ وَاصِبًا أَفَغَيْرَ اللَّهِ تَتَّقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وله ما في السماوات والارض وله الدين واصبا افغير الله تتقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَهُۥ مَا فِی ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ وَلَهُ ٱلدِّینُ وَاصِبًاۚ أَفَغَیۡرَ ٱللَّهِ تَتَّقُونَ
 
 | Details |  |

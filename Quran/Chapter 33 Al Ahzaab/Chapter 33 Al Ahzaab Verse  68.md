@@ -452,6 +452,18 @@ Rabbanā 'Ātihim Đi'fayni Mina Al-'Adhābi Wa Al-'Anhum La'nāan Kabīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبَّنَا آتِهِمْ ضِعْفَيْنِ مِنَ الْعَذَابِ وَالْعَنْهُمْ لَعْنًا كَبِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ربنا اتهم ضعفين من العذاب والعنهم لعنا كبيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَبَّنَاۤ ءَاتِهِمۡ ضِعۡفَیۡنِ مِنَ ٱلۡعَذَابِ وَٱلۡعَنۡهُمۡ لَعۡنࣰا كَبِیرࣰا
 
 | Details |  |

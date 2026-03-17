@@ -452,6 +452,18 @@ Wa Al-'Arđi Dhāti Aş-Şad'i
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْأَرْضِ ذَاتِ الصَّدْعِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والارض ذات الصدع
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡأَرۡضِ ذَاتِ ٱلصَّدۡعِ
 
 | Details |  |

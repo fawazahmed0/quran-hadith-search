@@ -452,6 +452,18 @@ Wa Mā Yanbaghī Lilrraĥmani 'An Yattakhidha Waladāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا يَنْبَغِي لِلرَّحْمَنِ أَنْ يَتَّخِذَ وَلَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ينبغي للرحمن ان يتخذ ولدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا یَنۢبَغِی لِلرَّحۡمَـٰنِ أَن یَتَّخِذَ وَلَدًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Qālū Wajadnā 'Ābā'anā Lahā 'Ābidīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا وَجَدْنَا آبَاءَنَا لَهَا عَابِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا وجدنا اباءنا لها عابدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ وَجَدۡنَاۤ ءَابَاۤءَنَا لَهَا عَـٰبِدِینَ
 
 | Details |  |

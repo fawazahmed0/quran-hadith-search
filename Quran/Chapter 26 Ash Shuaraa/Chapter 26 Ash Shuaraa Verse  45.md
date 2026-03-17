@@ -452,6 +452,18 @@ Fa'alqá Mūsá 'Aşāhu Fa'idhā Hiya Talqafu Mā Ya'fikūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَلْقَى مُوسَى عَصَاهُ فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالقى موسى عصاه فاذا هي تلقف ما يافكون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَلۡقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِیَ تَلۡقَفُ مَا یَأۡفِكُونَ
 
 | Details |  |

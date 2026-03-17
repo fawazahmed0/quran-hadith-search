@@ -452,6 +452,18 @@ Wa Laqad 'Ātaynāka Sab'āan Mina Al-Mathānī Wa Al-Qur'āna Al-'Ažīma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ آتَيْنَاكَ سَبْعًا مِنَ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد اتيناك سبعا من المثاني والقران العظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ ءَاتَیۡنَـٰكَ سَبۡعࣰا مِّنَ ٱلۡمَثَانِی وَٱلۡقُرۡءَانَ ٱلۡعَظِیمَ
 
 | Details |  |

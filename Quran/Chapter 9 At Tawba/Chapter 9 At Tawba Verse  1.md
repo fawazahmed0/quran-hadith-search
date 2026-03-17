@@ -452,6 +452,18 @@ Barā'atun Mina Allāhi Wa Rasūlihi 'Ilá Al-Ladhīna 'Āhadttum Mina Al-Mushri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَرَاءَةٌ مِنَ اللَّهِ وَرَسُولِهِ إِلَى الَّذِينَ عَاهَدْتُمْ مِنَ الْمُشْرِكِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+براءة من الله ورسوله الى الذين عاهدتم من المشركين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ بَرَاۤءَةࣱ مِّنَ ٱللَّهِ وَرَسُولِهِۦۤ إِلَى ٱلَّذِینَ عَـٰهَدتُّم مِّنَ ٱلۡمُشۡرِكِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Huwa Al-Ladhī Khalaqakum Faminkum Kāfirun Wa Minkum Mu'uminun Wa Allāhu Bimā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُوَ الَّذِي خَلَقَكُمْ فَمِنْكُمْ كَافِرٌ وَمِنْكُمْ مُؤْمِنٌ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هو الذي خلقكم فمنكم كافر ومنكم مومن والله بما تعملون بصير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُوَ ٱلَّذِی خَلَقَكُمۡ فَمِنكُمۡ كَافِرࣱ وَمِنكُم مُّؤۡمِنࣱۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِیرٌ
 
 | Details |  |

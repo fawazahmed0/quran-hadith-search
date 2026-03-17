@@ -452,6 +452,18 @@ Wa Nabbi'hum 'An Đayfi 'Ibrāhīma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَبِّئْهُمْ عَنْ ضَيْفِ إِبْرَاهِيمَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونبيهم عن ضيف ابراهيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَبِّئۡهُمۡ عَن ضَیۡفِ إِبۡرَ ٰهِیمَ
 
 | Details |  |

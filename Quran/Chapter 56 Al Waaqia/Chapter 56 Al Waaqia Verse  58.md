@@ -452,6 +452,18 @@ Afara'aytum Mā Tumnūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَرَأَيْتُمْ مَا تُمْنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افرايتم ما تمنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَرَءَیۡتُم مَّا تُمۡنُونَ
 
 | Details |  |

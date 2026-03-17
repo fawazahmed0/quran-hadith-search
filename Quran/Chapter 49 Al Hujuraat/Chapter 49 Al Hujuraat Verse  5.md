@@ -452,6 +452,18 @@ Wa Law 'Annahum Şabarū Ĥattá Takhruja 'Ilayhim Lakāna Khayrāan Lahum Wa Al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْ أَنَّهُمْ صَبَرُوا حَتَّى تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًا لَهُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولو انهم صبروا حتى تخرج اليهم لكان خيرا لهم والله غفور رحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡ أَنَّهُمۡ صَبَرُوا۟ حَتَّىٰ تَخۡرُجَ إِلَیۡهِمۡ لَكَانَ خَیۡرࣰا لَّهُمۡۚ وَٱللَّهُ غَفُورࣱ رَّحِیمࣱ
 
 | Details |  |

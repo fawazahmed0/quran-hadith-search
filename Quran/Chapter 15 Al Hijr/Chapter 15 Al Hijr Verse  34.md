@@ -452,6 +452,18 @@ Qāla Fākhruj Minhā Fa'innaka Rajīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ فَاخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال فاخرج منها فانك رجيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ فَٱخۡرُجۡ مِنۡهَا فَإِنَّكَ رَجِیمࣱ
 
 | Details |  |

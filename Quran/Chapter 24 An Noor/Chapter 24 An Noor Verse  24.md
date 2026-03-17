@@ -452,6 +452,18 @@ Yawma Tash/hadu 'Alayhim 'Alsinatuhum Wa 'Aydīhim Wa 'Arjuluhum Bimā Kānū Ya
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ تَشْهَدُ عَلَيْهِمْ أَلْسِنَتُهُمْ وَأَيْدِيهِمْ وَأَرْجُلُهُمْ بِمَا كَانُوا يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم تشهد عليهم السنتهم وايديهم وارجلهم بما كانوا يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ تَشۡهَدُ عَلَیۡهِمۡ أَلۡسِنَتُهُمۡ وَأَیۡدِیهِمۡ وَأَرۡجُلُهُم بِمَا كَانُوا۟ یَعۡمَلُونَ
 
 | Details |  |

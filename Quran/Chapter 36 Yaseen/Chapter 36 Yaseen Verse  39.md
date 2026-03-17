@@ -452,6 +452,18 @@ Wa Al-Qamara Qaddarnāhu Manāzila Ĥattá 'Āda Kāl'urjūni Al-Qadīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ حَتَّى عَادَ كَالْعُرْجُونِ الْقَدِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والقمر قدرناه منازل حتى عاد كالعرجون القديم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡقَمَرَ قَدَّرۡنَـٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلۡعُرۡجُونِ ٱلۡقَدِیمِ
 
 | Details |  |

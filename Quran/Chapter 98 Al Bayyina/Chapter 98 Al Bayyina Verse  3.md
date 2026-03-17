@@ -452,6 +452,18 @@ Fīhā Kutubun Qayyimahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِيهَا كُتُبٌ قَيِّمَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيها كتب قيمة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِیهَا كُتُبࣱ قَیِّمَةࣱ
 
 | Details |  |

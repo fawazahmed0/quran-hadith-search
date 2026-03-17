@@ -452,6 +452,18 @@ Innā Mursilū An-Nāqati Fitnatan Lahum Fārtaqibhum Wa Aşţabir
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا مُرْسِلُو النَّاقَةِ فِتْنَةً لَهُمْ فَارْتَقِبْهُمْ وَاصْطَبِرْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا مرسلو الناقة فتنة لهم فارتقبهم واصطبر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا مُرۡسِلُوا۟ ٱلنَّاقَةِ فِتۡنَةࣰ لَّهُمۡ فَٱرۡتَقِبۡهُمۡ وَٱصۡطَبِرۡ
 
 | Details |  |

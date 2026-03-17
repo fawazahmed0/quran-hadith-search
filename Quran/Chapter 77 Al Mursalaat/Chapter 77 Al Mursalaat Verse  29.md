@@ -452,6 +452,18 @@ Anţaliqū 'Ilá Mā Kuntum Bihi Tukadhibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+انْطَلِقُوا إِلَى مَا كُنْتُمْ بِهِ تُكَذِّبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انطلقوا الى ما كنتم به تكذبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱنطَلِقُوۤا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ
 
 | Details |  |

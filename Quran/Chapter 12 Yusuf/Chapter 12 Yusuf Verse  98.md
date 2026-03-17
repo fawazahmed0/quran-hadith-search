@@ -452,6 +452,18 @@ Qāla Sawfa 'Astaghfiru Lakum Rabbī 'Innahu Huwa Al-Ghafūru Ar-Raĥīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّي إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال سوف استغفر لكم ربي انه هو الغفور الرحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ سَوۡفَ أَسۡتَغۡفِرُ لَكُمۡ رَبِّیۤۖ إِنَّهُۥ هُوَ ٱلۡغَفُورُ ٱلرَّحِیمُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Huzzī 'Ilayki Bijidh'i An-Nakhlati Tusāqiţ 'Alayki Ruţabāan Janīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهزي اليك بجذع النخلة تساقط عليك رطبا جنيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُزِّیۤ إِلَیۡكِ بِجِذۡعِ ٱلنَّخۡلَةِ تُسَـٰقِطۡ عَلَیۡكِ رُطَبࣰا جَنِیࣰّا
 
 | Details |  |

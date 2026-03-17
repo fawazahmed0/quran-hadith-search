@@ -452,6 +452,18 @@ Kallā Bal Lā Yakhāfūna Al-'Ākhiraha
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا بَلْ لَا يَخَافُونَ الْآخِرَةَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا بل لا يخافون الاخرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّاۖ بَل لَّا یَخَافُونَ ٱلۡءَاخِرَةَ
 
 | Details |  |

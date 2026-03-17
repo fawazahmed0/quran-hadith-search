@@ -452,6 +452,18 @@ Fa'tiyā Fir'awna Faqūlā 'Innā Rasūlu Rabbi Al-'Ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأْتِيَا فِرْعَوْنَ فَقُولَا إِنَّا رَسُولُ رَبِّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاتيا فرعون فقولا انا رسول رب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأۡتِیَا فِرۡعَوۡنَ فَقُولَاۤ إِنَّا رَسُولُ رَبِّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

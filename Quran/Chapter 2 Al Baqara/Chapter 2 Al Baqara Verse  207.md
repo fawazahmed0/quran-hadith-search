@@ -452,6 +452,18 @@ Wa Mina An-Nāsi Man Yashrī Nafsahu Abtighā'a Marđāati Allāhi Wa Allāhu Ra
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنَ النَّاسِ مَنْ يَشْرِي نَفْسَهُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ وَاللَّهُ رَءُوفٌ بِالْعِبَادِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن الناس من يشري نفسه ابتغاء مرضات الله والله رءوف بالعباد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِنَ ٱلنَّاسِ مَن یَشۡرِی نَفۡسَهُ ٱبۡتِغَاۤءَ مَرۡضَاتِ ٱللَّهِۗ وَٱللَّهُ رَءُوفُۢ بِٱلۡعِبَادِ
 
 | Details |  |

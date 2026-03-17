@@ -452,6 +452,18 @@ Am Khuliqū Min Ghayri Shay'in 'Am Humu Al-Khāliqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ أَمْ هُمُ الْخَالِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام خلقوا من غير شيء ام هم الخالقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ خُلِقُوا۟ مِنۡ غَیۡرِ شَیۡءٍ أَمۡ هُمُ ٱلۡخَـٰلِقُونَ
 
 | Details |  |

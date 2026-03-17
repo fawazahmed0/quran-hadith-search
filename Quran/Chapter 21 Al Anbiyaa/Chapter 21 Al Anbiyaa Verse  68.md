@@ -452,6 +452,18 @@ Qālū Ĥarriqūhu Wa Anşurū 'Ālihatakum 'In Kuntum Fā'ilīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا حَرِّقُوهُ وَانْصُرُوا آلِهَتَكُمْ إِنْ كُنْتُمْ فَاعِلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا حرقوه وانصروا الهتكم ان كنتم فاعلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوۤا۟ ءَالِهَتَكُمۡ إِن كُنتُمۡ فَـٰعِلِینَ
 
 | Details |  |

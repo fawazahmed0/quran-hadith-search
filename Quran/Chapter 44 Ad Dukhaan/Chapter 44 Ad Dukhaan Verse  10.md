@@ -452,6 +452,18 @@ Fārtaqib Yawma Ta'tī As-Samā'u Bidukhānin Mubīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَارْتَقِبْ يَوْمَ تَأْتِي السَّمَاءُ بِدُخَانٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فارتقب يوم تاتي السماء بدخان مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱرۡتَقِبۡ یَوۡمَ تَأۡتِی ٱلسَّمَاۤءُ بِدُخَانࣲ مُّبِینࣲ
 
 | Details |  |

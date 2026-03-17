@@ -452,6 +452,18 @@ Ka'an Lam Yaghnaw Fīhā 'Alā 'Inna Thamūda Kafarū Rabbahum 'Alā Bu'dāan Li
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَأَنْ لَمْ يَغْنَوْا فِيهَا أَلَا إِنَّ ثَمُودَ كَفَرُوا رَبَّهُمْ أَلَا بُعْدًا لِثَمُودَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كان لم يغنوا فيها الا ان ثمود كفروا ربهم الا بعدا لثمود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَأَن لَّمۡ یَغۡنَوۡا۟ فِیهَاۤۗ أَلَاۤ إِنَّ ثَمُودَا۟ كَفَرُوا۟ رَبَّهُمۡۗ أَلَا بُعۡدࣰا لِّثَمُودَ
 
 | Details |  |

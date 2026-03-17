@@ -452,6 +452,18 @@ Wa Qifūhum 'Innahum Mas'ūlūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقِفُوهُمْ إِنَّهُمْ مَسْئُولُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقفوهم انهم مسيولون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقِفُوهُمۡۖ إِنَّهُم مَّسۡءُولُونَ
 
 | Details |  |

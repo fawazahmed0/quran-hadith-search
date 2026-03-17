@@ -452,6 +452,18 @@ Aw Taqūla Ĥīna Tará Al-'Adhāba Law 'Anna Lī Karratan Fa'akūna Mina Al-Mu�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْ تَقُولَ حِينَ تَرَى الْعَذَابَ لَوْ أَنَّ لِي كَرَّةً فَأَكُونَ مِنَ الْمُحْسِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+او تقول حين ترى العذاب لو ان لي كرة فاكون من المحسنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوۡ تَقُولَ حِینَ تَرَى ٱلۡعَذَابَ لَوۡ أَنَّ لِی كَرَّةࣰ فَأَكُونَ مِنَ ٱلۡمُحۡسِنِینَ
 
 | Details |  |

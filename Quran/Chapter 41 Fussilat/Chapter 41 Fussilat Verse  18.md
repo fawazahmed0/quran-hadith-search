@@ -452,6 +452,18 @@ Wa Najjaynā Al-Ladhīna 'Āmanū Wa Kānū Yattaqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَجَّيْنَا الَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونجينا الذين امنوا وكانوا يتقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَجَّیۡنَا ٱلَّذِینَ ءَامَنُوا۟ وَكَانُوا۟ یَتَّقُونَ
 
 | Details |  |

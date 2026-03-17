@@ -452,6 +452,18 @@ Qāla Al-Ladhīna Astakbarū 'Innā Bial-Ladhī 'Āmantum Bihi Kāfirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ الَّذِينَ اسْتَكْبَرُوا إِنَّا بِالَّذِي آمَنْتُمْ بِهِ كَافِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال الذين استكبروا انا بالذي امنتم به كافرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ ٱلَّذِینَ ٱسۡتَكۡبَرُوۤا۟ إِنَّا بِٱلَّذِیۤ ءَامَنتُم بِهِۦ كَـٰفِرُونَ
 
 | Details |  |

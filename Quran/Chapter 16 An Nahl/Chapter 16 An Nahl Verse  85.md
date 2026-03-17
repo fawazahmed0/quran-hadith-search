@@ -452,6 +452,18 @@ Wa 'Idhā Ra'á Al-Ladhīna Žalamū Al-'Adhāba Falā Yukhaffafu 'Anhum Wa Lā 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا رَأَى الَّذِينَ ظَلَمُوا الْعَذَابَ فَلَا يُخَفَّفُ عَنْهُمْ وَلَا هُمْ يُنْظَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا راى الذين ظلموا العذاب فلا يخفف عنهم ولا هم ينظرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا رَءَا ٱلَّذِینَ ظَلَمُوا۟ ٱلۡعَذَابَ فَلَا یُخَفَّفُ عَنۡهُمۡ وَلَا هُمۡ یُنظَرُونَ
 
 | Details |  |

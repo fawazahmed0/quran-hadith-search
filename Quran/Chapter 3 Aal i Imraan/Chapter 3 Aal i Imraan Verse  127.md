@@ -452,6 +452,18 @@ Liyaqţa'a Ţarafāan Mina Al-Ladhīna Kafarū 'Aw Yakbitahum Fayanqalibū Khā'
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِيَقْطَعَ طَرَفًا مِنَ الَّذِينَ كَفَرُوا أَوْ يَكْبِتَهُمْ فَيَنْقَلِبُوا خَائِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ليقطع طرفا من الذين كفروا او يكبتهم فينقلبوا خايبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِیَقۡطَعَ طَرَفࣰا مِّنَ ٱلَّذِینَ كَفَرُوۤا۟ أَوۡ یَكۡبِتَهُمۡ فَیَنقَلِبُوا۟ خَاۤئِبِینَ
 
 | Details |  |

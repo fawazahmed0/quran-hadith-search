@@ -452,6 +452,18 @@ Wa Yad'u Al-'Insānu Bish-Sharri Du'ā'ahu Bil-Khayri Wa Kāna Al-'Insānu 'Ajū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَدْعُ الْإِنْسَانُ بِالشَّرِّ دُعَاءَهُ بِالْخَيْرِ وَكَانَ الْإِنْسَانُ عَجُولًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويدع الانسان بالشر دعاءه بالخير وكان الانسان عجولا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَدۡعُ ٱلۡإِنسَـٰنُ بِٱلشَّرِّ دُعَاۤءَهُۥ بِٱلۡخَیۡرِۖ وَكَانَ ٱلۡإِنسَـٰنُ عَجُولࣰا
 
 | Details |  |

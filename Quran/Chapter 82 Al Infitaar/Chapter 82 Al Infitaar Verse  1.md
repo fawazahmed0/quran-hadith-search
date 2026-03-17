@@ -452,6 +452,18 @@ Idhā As-Samā'u Anfaţarat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذَا السَّمَاءُ انْفَطَرَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذا السماء انفطرت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ إِذَا ٱلسَّمَاۤءُ ٱنفَطَرَتۡ
 
 | Details |  |

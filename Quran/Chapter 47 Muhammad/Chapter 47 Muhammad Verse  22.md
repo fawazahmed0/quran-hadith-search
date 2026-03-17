@@ -452,6 +452,18 @@ Fahal 'Asaytum 'In Tawallaytum 'An Tufsidū Fī Al-'Arđi Wa Tuqaţţi'ū 'Arĥ�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَهَلْ عَسَيْتُمْ إِنْ تَوَلَّيْتُمْ أَنْ تُفْسِدُوا فِي الْأَرْضِ وَتُقَطِّعُوا أَرْحَامَكُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فهل عسيتم ان توليتم ان تفسدوا في الارض وتقطعوا ارحامكم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَهَلۡ عَسَیۡتُمۡ إِن تَوَلَّیۡتُمۡ أَن تُفۡسِدُوا۟ فِی ٱلۡأَرۡضِ وَتُقَطِّعُوۤا۟ أَرۡحَامَكُمۡ
 
 | Details |  |

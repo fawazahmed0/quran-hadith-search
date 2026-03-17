@@ -452,6 +452,18 @@ Mā 'Antum 'Alayhi Bifātinīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا أَنْتُمْ عَلَيْهِ بِفَاتِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما انتم عليه بفاتنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَاۤ أَنتُمۡ عَلَیۡهِ بِفَـٰتِنِینَ
 
 | Details |  |

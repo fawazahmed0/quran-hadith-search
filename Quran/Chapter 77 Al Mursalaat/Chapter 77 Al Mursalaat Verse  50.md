@@ -452,6 +452,18 @@ Fabi'ayyi Ĥadīthin Ba'dahu Yu'uminūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فباي حديث بعده يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَبِأَیِّ حَدِیثِۭ بَعۡدَهُۥ یُؤۡمِنُونَ
 
 | Details |  |

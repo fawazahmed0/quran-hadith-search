@@ -452,6 +452,18 @@ Am Attakhadhū 'Ālihatan Mina Al-'Arđi Hum Yunshirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمِ اتَّخَذُوا آلِهَةً مِنَ الْأَرْضِ هُمْ يُنْشِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام اتخذوا الهة من الارض هم ينشرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمِ ٱتَّخَذُوۤا۟ ءَالِهَةࣰ مِّنَ ٱلۡأَرۡضِ هُمۡ یُنشِرُونَ
 
 | Details |  |

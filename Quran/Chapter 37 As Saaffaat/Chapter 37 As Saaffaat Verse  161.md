@@ -452,6 +452,18 @@ Fa'innakum Wa Mā Ta'budūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنَّكُمْ وَمَا تَعْبُدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانكم وما تعبدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِنَّكُمۡ وَمَا تَعۡبُدُونَ
 
 | Details |  |

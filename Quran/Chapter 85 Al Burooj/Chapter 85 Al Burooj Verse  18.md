@@ -452,6 +452,18 @@ Fir'awna Wa Thamūda
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِرْعَوْنَ وَثَمُودَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فرعون وثمود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِرۡعَوۡنَ وَثَمُودَ
 
 | Details |  |

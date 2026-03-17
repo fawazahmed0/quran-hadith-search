@@ -452,6 +452,18 @@ Alam Tará 'Ilá Al-Ladhīna Baddalū Ni'mata Allāhi Kufrāan Wa 'Aĥallū Qawm
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَتَ اللَّهِ كُفْرًا وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم تر الى الذين بدلوا نعمت الله كفرا واحلوا قومهم دار البوار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ أَلَمۡ تَرَ إِلَى ٱلَّذِینَ بَدَّلُوا۟ نِعۡمَتَ ٱللَّهِ كُفۡرࣰا وَأَحَلُّوا۟ قَوۡمَهُمۡ دَارَ ٱلۡبَوَارِ
 
 | Details |  |

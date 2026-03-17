@@ -452,6 +452,18 @@ Wa Qālū Naĥnu 'Aktharu 'Amwālāan Wa 'Awlādāan Wa Mā Naĥnu Bimu'adhabīn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا نَحْنُ أَكْثَرُ أَمْوَالًا وَأَوْلَادًا وَمَا نَحْنُ بِمُعَذَّبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا نحن اكثر اموالا واولادا وما نحن بمعذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ نَحۡنُ أَكۡثَرُ أَمۡوَ ٰلࣰا وَأَوۡلَـٰدࣰا وَمَا نَحۡنُ بِمُعَذَّبِینَ
 
 | Details |  |

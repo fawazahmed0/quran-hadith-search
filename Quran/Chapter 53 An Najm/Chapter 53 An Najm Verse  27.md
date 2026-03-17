@@ -452,6 +452,18 @@ Inna Al-Ladhīna Lā Yu'uminūna Bil-'Ākhirati Layusammūna Al-Malā'ikata Tasm
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ لَيُسَمُّونَ الْمَلَائِكَةَ تَسْمِيَةَ الْأُنْثَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين لا يومنون بالاخرة ليسمون الملايكة تسمية الانثى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ لَا یُؤۡمِنُونَ بِٱلۡءَاخِرَةِ لَیُسَمُّونَ ٱلۡمَلَـٰۤئِكَةَ تَسۡمِیَةَ ٱلۡأُنثَىٰ
 
 | Details |  |

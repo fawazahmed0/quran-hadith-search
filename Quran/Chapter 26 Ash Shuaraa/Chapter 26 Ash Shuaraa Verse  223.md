@@ -452,6 +452,18 @@ Yulqūna As-Sam'a Wa 'Aktharuhum Kādhibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُلْقُونَ السَّمْعَ وَأَكْثَرُهُمْ كَاذِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يلقون السمع واكثرهم كاذبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُلۡقُونَ ٱلسَّمۡعَ وَأَكۡثَرُهُمۡ كَـٰذِبُونَ
 
 | Details |  |

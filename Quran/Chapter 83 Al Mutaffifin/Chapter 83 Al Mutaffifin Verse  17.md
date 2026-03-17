@@ -452,6 +452,18 @@ Thumma Yuqālu Hādhā Al-Ladhī Kuntum Bihi Tukadhibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ يُقَالُ هَذَا الَّذِي كُنْتُمْ بِهِ تُكَذِّبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم يقال هذا الذي كنتم به تكذبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ یُقَالُ هَـٰذَا ٱلَّذِی كُنتُم بِهِۦ تُكَذِّبُونَ
 
 | Details |  |

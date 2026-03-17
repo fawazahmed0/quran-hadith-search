@@ -452,6 +452,18 @@ Innā Ja'alnā Mā 'Alá Al-'Arđi Zīnatan Lahā Linabluwahum 'Ayyuhum 'Aĥsanu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا جَعَلْنَا مَا عَلَى الْأَرْضِ زِينَةً لَهَا لِنَبْلُوَهُمْ أَيُّهُمْ أَحْسَنُ عَمَلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا جعلنا ما على الارض زينة لها لنبلوهم ايهم احسن عملا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا جَعَلۡنَا مَا عَلَى ٱلۡأَرۡضِ زِینَةࣰ لَّهَا لِنَبۡلُوَهُمۡ أَیُّهُمۡ أَحۡسَنُ عَمَلࣰا
 
 | Details |  |

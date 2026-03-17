@@ -452,6 +452,18 @@ Wa Ja'alanī Mubārakāan 'Ayna Mā Kuntu Wa 'Awşānī Biş-Şalāati Wa Az-Zak
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلَنِي مُبَارَكًا أَيْنَ مَا كُنْتُ وَأَوْصَانِي بِالصَّلَاةِ وَالزَّكَاةِ مَا دُمْتُ حَيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلني مباركا اين ما كنت واوصاني بالصلاة والزكاة ما دمت حيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلَنِی مُبَارَكًا أَیۡنَ مَا كُنتُ وَأَوۡصَـٰنِی بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ مَا دُمۡتُ حَیࣰّا
 
 | Details |  |

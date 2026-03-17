@@ -452,6 +452,18 @@ Fa''ālun Limā Yurīdu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَعَّالٌ لِمَا يُرِيدُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فعال لما يريد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَعَّالࣱ لِّمَا یُرِیدُ
 
 | Details |  |

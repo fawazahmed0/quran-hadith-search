@@ -452,6 +452,18 @@ Hādhā Kitābunā Yanţiqu 'Alaykum Bil-Ĥaqqi 'Innā Kunnā Nastansikhu Mā Ku
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذَا كِتَابُنَا يَنْطِقُ عَلَيْكُمْ بِالْحَقِّ إِنَّا كُنَّا نَسْتَنْسِخُ مَا كُنْتُمْ تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذا كتابنا ينطق عليكم بالحق انا كنا نستنسخ ما كنتم تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذَا كِتَـٰبُنَا یَنطِقُ عَلَیۡكُم بِٱلۡحَقِّۚ إِنَّا كُنَّا نَسۡتَنسِخُ مَا كُنتُمۡ تَعۡمَلُونَ
 
 | Details |  |

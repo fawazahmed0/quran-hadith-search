@@ -452,6 +452,18 @@ Jahannama Yaşlawnahā Fabi'sa Al-Mihādu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ الْمِهَادُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+جهنم يصلونها فبيس المهاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 جَهَنَّمَ یَصۡلَوۡنَهَا فَبِئۡسَ ٱلۡمِهَادُ
 
 | Details |  |

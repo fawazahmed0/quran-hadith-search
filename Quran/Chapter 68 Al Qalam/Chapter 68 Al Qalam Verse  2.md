@@ -452,6 +452,18 @@ Mā 'Anta Bini'mati Rabbika Bimajnūnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا أَنْتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما انت بنعمة ربك بمجنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَاۤ أَنتَ بِنِعۡمَةِ رَبِّكَ بِمَجۡنُونࣲ
 
 | Details |  |

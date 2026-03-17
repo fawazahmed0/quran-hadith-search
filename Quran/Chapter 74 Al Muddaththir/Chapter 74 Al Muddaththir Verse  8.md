@@ -452,6 +452,18 @@ Fa'idhā Nuqira Fī An-Nāqūri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِذَا نُقِرَ فِي النَّاقُورِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاذا نقر في الناقور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِذَا نُقِرَ فِی ٱلنَّاقُورِ
 
 | Details |  |

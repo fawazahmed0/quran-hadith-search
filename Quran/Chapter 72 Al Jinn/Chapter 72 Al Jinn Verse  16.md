@@ -452,6 +452,18 @@ Wa 'Allawi Astaqāmū 'Alá Aţ-Ţarīqati L'asqaynāhum Mā'an Ghadaqāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَلَّوِ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لَأَسْقَيْنَاهُمْ مَاءً غَدَقًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والو استقاموا على الطريقة لاسقيناهم ماء غدقا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَلَّوِ ٱسۡتَقَـٰمُوا۟ عَلَى ٱلطَّرِیقَةِ لَأَسۡقَیۡنَـٰهُم مَّاۤءً غَدَقࣰا
 
 | Details |  |

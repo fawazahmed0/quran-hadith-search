@@ -452,6 +452,18 @@ Wa Mā Tashā'ūna 'Illā 'An Yashā'a Allāhu Rabbu Al-'Ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما تشاءون الا ان يشاء الله رب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا تَشَاۤءُونَ إِلَّاۤ أَن یَشَاۤءَ ٱللَّهُ رَبُّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

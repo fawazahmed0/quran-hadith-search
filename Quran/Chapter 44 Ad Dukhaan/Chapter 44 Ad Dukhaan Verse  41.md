@@ -452,6 +452,18 @@ Yawma Lā Yughnī Mawláan 'An Mawláan Shay'āan Wa Lā Hum Yunşarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ لَا يُغْنِي مَوْلًى عَنْ مَوْلًى شَيْئًا وَلَا هُمْ يُنْصَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم لا يغني مولى عن مولى شييا ولا هم ينصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ لَا یُغۡنِی مَوۡلًى عَن مَّوۡلࣰى شَیۡءࣰا وَلَا هُمۡ یُنصَرُونَ
 
 | Details |  |

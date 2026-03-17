@@ -452,6 +452,18 @@ Wa 'Ādāan Wa Thamūda Wa 'Aşĥāba Ar-Rassi Wa Qurūnāan Bayna Dhālika Kath
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَعَادًا وَثَمُودَ وَأَصْحَابَ الرَّسِّ وَقُرُونًا بَيْنَ ذَلِكَ كَثِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وعادا وثمود واصحاب الرس وقرونا بين ذلك كثيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَعَادࣰا وَثَمُودَا۟ وَأَصۡحَـٰبَ ٱلرَّسِّ وَقُرُونَۢا بَیۡنَ ذَ ٰلِكَ كَثِیرࣰا
 
 | Details |  |

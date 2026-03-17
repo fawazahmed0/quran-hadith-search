@@ -452,6 +452,18 @@ Wa Dakhala Jannatahu Wa Huwa Žālimun Linafsihi Qāla Mā 'Ažunnu 'An Tabīda 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَدَخَلَ جَنَّتَهُ وَهُوَ ظَالِمٌ لِنَفْسِهِ قَالَ مَا أَظُنُّ أَنْ تَبِيدَ هَذِهِ أَبَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ودخل جنته وهو ظالم لنفسه قال ما اظن ان تبيد هذه ابدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَدَخَلَ جَنَّتَهُۥ وَهُوَ ظَالِمࣱ لِّنَفۡسِهِۦ قَالَ مَاۤ أَظُنُّ أَن تَبِیدَ هَـٰذِهِۦۤ أَبَدࣰا
 
 | Details |  |

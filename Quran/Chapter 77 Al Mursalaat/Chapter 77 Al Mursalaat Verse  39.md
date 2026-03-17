@@ -452,6 +452,18 @@ Fa'in Kāna Lakum Kaydun Fakīdūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنْ كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فان كان لكم كيد فكيدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِن كَانَ لَكُمۡ كَیۡدࣱ فَكِیدُونِ
 
 | Details |  |

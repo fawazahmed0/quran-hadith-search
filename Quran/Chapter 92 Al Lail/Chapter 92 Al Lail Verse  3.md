@@ -452,6 +452,18 @@ Wa Mā Khalaqa Adh-Dhakara Wa Al-'Unthá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا خَلَقَ الذَّكَرَ وَالْأُنْثَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما خلق الذكر والانثى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰۤ
 
 | Details |  |

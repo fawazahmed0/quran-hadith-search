@@ -452,6 +452,18 @@ Wa 'Ammā 'In Kāna Mina Al-Mukadhibīna Ađ-Đāllīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمَّا إِنْ كَانَ مِنَ الْمُكَذِّبِينَ الضَّالِّينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما ان كان من المكذبين الضالين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمَّاۤ إِن كَانَ مِنَ ٱلۡمُكَذِّبِینَ ٱلضَّاۤلِّینَ
 
 | Details |  |

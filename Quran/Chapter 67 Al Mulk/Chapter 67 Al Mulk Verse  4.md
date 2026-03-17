@@ -452,6 +452,18 @@ Thumma Arji'i Al-Başara Karratayni Yanqalib 'Ilayka Al-Başaru Khāsi'āan Wa H
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنْقَلِبْ إِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم ارجع البصر كرتين ينقلب اليك البصر خاسيا وهو حسير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ ٱرۡجِعِ ٱلۡبَصَرَ كَرَّتَیۡنِ یَنقَلِبۡ إِلَیۡكَ ٱلۡبَصَرُ خَاسِئࣰا وَهُوَ حَسِیرࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Tammat Kalimatu Rabbika Şidqāan Wa 'Adlāan Lā Mubaddila Likalimātihi Wa 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا لَا مُبَدِّلَ لِكَلِمَاتِهِ وَهُوَ السَّمِيعُ الْعَلِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتمت كلمت ربك صدقا وعدلا لا مبدل لكلماته وهو السميع العليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَمَّتۡ كَلِمَتُ رَبِّكَ صِدۡقࣰا وَعَدۡلࣰاۚ لَّا مُبَدِّلَ لِكَلِمَـٰتِهِۦۚ وَهُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ
 
 | Details |  |

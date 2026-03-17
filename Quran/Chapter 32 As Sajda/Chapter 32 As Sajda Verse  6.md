@@ -452,6 +452,18 @@ Dhālika 'Ālimu Al-Ghaybi Wa Ash-Shahādati Al-'Azīzu Ar-Raĥīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الرَّحِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك عالم الغيب والشهادة العزيز الرحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ عَـٰلِمُ ٱلۡغَیۡبِ وَٱلشَّهَـٰدَةِ ٱلۡعَزِیزُ ٱلرَّحِیمُ
 
 | Details |  |

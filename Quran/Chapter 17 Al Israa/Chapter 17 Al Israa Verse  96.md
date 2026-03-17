@@ -452,6 +452,18 @@ Qul Kafá Billāhi Shahīdāan Baynī Wa Baynakum 'Innahu Kāna Bi'ibādihi Khab
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ كَفَى بِاللَّهِ شَهِيدًا بَيْنِي وَبَيْنَكُمْ إِنَّهُ كَانَ بِعِبَادِهِ خَبِيرًا بَصِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل كفى بالله شهيدا بيني وبينكم انه كان بعباده خبيرا بصيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ كَفَىٰ بِٱللَّهِ شَهِیدَۢا بَیۡنِی وَبَیۡنَكُمۡۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِیرَۢا بَصِیرࣰا
 
 | Details |  |

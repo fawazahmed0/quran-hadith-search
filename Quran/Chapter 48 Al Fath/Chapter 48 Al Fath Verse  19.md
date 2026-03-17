@@ -452,6 +452,18 @@ Wa Maghānima Kathīratan Ya'khudhūnahā Wa Kāna Allāhu 'Azīzāan Ĥakīmāa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومغانم كثيرة ياخذونها وكان الله عزيزا حكيما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَغَانِمَ كَثِیرَةࣰ یَأۡخُذُونَهَاۗ وَكَانَ ٱللَّهُ عَزِیزًا حَكِیمࣰا
 
 | Details |  |

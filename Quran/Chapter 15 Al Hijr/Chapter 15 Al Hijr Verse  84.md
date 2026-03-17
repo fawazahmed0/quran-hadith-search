@@ -452,6 +452,18 @@ Famā 'Aghná 'Anhum Mā Kānū Yaksibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَا أَغْنَى عَنْهُمْ مَا كَانُوا يَكْسِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فما اغنى عنهم ما كانوا يكسبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَاۤ أَغۡنَىٰ عَنۡهُم مَّا كَانُوا۟ یَكۡسِبُونَ
 
 | Details |  |

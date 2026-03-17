@@ -452,6 +452,18 @@ Kamathali Al-Ladhīna Min Qablihim Qarībāan Dhāqū Wabāla 'Amrihim Wa Lahum 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَمَثَلِ الَّذِينَ مِنْ قَبْلِهِمْ قَرِيبًا ذَاقُوا وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كمثل الذين من قبلهم قريبا ذاقوا وبال امرهم ولهم عذاب اليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَمَثَلِ ٱلَّذِینَ مِن قَبۡلِهِمۡ قَرِیبࣰاۖ ذَاقُوا۟ وَبَالَ أَمۡرِهِمۡ وَلَهُمۡ عَذَابٌ أَلِیمࣱ
 
 | Details |  |

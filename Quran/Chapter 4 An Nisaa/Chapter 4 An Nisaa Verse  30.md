@@ -452,6 +452,18 @@ Wa Man Yaf'al Dhālika 'Udwānāan Wa Žulmāan Fasawfa Nuşlīhi Nārāan Wa K�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ يَفْعَلْ ذَلِكَ عُدْوَانًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارًا وَكَانَ ذَلِكَ عَلَى اللَّهِ يَسِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن يفعل ذلك عدوانا وظلما فسوف نصليه نارا وكان ذلك على الله يسيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن یَفۡعَلۡ ذَ ٰلِكَ عُدۡوَ ٰنࣰا وَظُلۡمࣰا فَسَوۡفَ نُصۡلِیهِ نَارࣰاۚ وَكَانَ ذَ ٰلِكَ عَلَى ٱللَّهِ یَسِیرًا
 
 | Details |  |

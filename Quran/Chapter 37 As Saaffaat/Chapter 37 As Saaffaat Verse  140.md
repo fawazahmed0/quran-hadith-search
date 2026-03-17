@@ -452,6 +452,18 @@ Idh 'Abaqa 'Ilá Al-Fulki Al-Mashĥūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ أَبَقَ إِلَى الْفُلْكِ الْمَشْحُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ ابق الى الفلك المشحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ أَبَقَ إِلَى ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ
 
 | Details |  |

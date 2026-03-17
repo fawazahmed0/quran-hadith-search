@@ -452,6 +452,18 @@ Qāla Hal 'Alimtum Mā Fa'altum Biyūsufa Wa 'Akhīhi 'Idh 'Antum Jāhilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ هَلْ عَلِمْتُمْ مَا فَعَلْتُمْ بِيُوسُفَ وَأَخِيهِ إِذْ أَنْتُمْ جَاهِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال هل علمتم ما فعلتم بيوسف واخيه اذ انتم جاهلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ هَلۡ عَلِمۡتُم مَّا فَعَلۡتُم بِیُوسُفَ وَأَخِیهِ إِذۡ أَنتُمۡ جَـٰهِلُونَ
 
 | Details |  |

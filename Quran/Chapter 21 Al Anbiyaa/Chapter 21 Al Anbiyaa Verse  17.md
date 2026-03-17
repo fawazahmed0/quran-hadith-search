@@ -452,6 +452,18 @@ Law 'Aradnā 'An Nattakhidha Lahwan Lāttakhadhnāhu Min Ladunnā 'In Kunnā Fā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَوْ أَرَدْنَا أَنْ نَتَّخِذَ لَهْوًا لَاتَّخَذْنَاهُ مِنْ لَدُنَّا إِنْ كُنَّا فَاعِلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لو اردنا ان نتخذ لهوا لاتخذناه من لدنا ان كنا فاعلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَوۡ أَرَدۡنَاۤ أَن نَّتَّخِذَ لَهۡوࣰا لَّٱتَّخَذۡنَـٰهُ مِن لَّدُنَّاۤ إِن كُنَّا فَـٰعِلِینَ
 
 | Details |  |

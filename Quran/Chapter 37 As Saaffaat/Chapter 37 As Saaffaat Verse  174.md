@@ -452,6 +452,18 @@ Fatawalla 'Anhum Ĥattá Ĥīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَتَوَلَّ عَنْهُمْ حَتَّى حِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فتول عنهم حتى حين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَتَوَلَّ عَنۡهُمۡ حَتَّىٰ حِینࣲ
 
 | Details |  |

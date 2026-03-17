@@ -452,6 +452,18 @@ Yawma Yaghshāhumu Al-'Adhābu Min Fawqihim Wa Min Taĥti 'Arjulihim Wa Yaqūlu 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ يَغْشَاهُمُ الْعَذَابُ مِنْ فَوْقِهِمْ وَمِنْ تَحْتِ أَرْجُلِهِمْ وَيَقُولُ ذُوقُوا مَا كُنْتُمْ تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم يغشاهم العذاب من فوقهم ومن تحت ارجلهم ويقول ذوقوا ما كنتم تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ یَغۡشَىٰهُمُ ٱلۡعَذَابُ مِن فَوۡقِهِمۡ وَمِن تَحۡتِ أَرۡجُلِهِمۡ وَیَقُولُ ذُوقُوا۟ مَا كُنتُمۡ تَعۡمَلُونَ
 
 | Details |  |

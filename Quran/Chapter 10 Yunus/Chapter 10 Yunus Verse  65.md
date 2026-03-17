@@ -452,6 +452,18 @@ Wa Lā Yaĥzunka Qawluhum 'Inna Al-'Izzata Lillāhi Jamī'āan Huwa As-Samī'u A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا يَحْزُنْكَ قَوْلُهُمْ إِنَّ الْعِزَّةَ لِلَّهِ جَمِيعًا هُوَ السَّمِيعُ الْعَلِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا يحزنك قولهم ان العزة لله جميعا هو السميع العليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا یَحۡزُنكَ قَوۡلُهُمۡۘ إِنَّ ٱلۡعِزَّةَ لِلَّهِ جَمِیعًاۚ هُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ
 
 | Details |  |

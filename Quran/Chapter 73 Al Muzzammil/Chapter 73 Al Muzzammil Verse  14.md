@@ -452,6 +452,18 @@ Yawma Tarjufu Al-'Arđu Wa Al-Jibālu Wa Kānati Al-Jibālu Kathībāan Mahīlā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًا مَهِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم ترجف الارض والجبال وكانت الجبال كثيبا مهيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ تَرۡجُفُ ٱلۡأَرۡضُ وَٱلۡجِبَالُ وَكَانَتِ ٱلۡجِبَالُ كَثِیبࣰا مَّهِیلًا
 
 | Details |  |

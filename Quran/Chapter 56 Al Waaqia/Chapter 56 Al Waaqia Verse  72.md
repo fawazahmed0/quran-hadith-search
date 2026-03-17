@@ -452,6 +452,18 @@ A'antum 'Ansha'tum Shajaratahā 'Am Naĥnu Al-Munshi'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَأَنْتُمْ أَنْشَأْتُمْ شَجَرَتَهَا أَمْ نَحْنُ الْمُنْشِئُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اانتم انشاتم شجرتها ام نحن المنشيون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ءَأَنتُمۡ أَنشَأۡتُمۡ شَجَرَتَهَاۤ أَمۡ نَحۡنُ ٱلۡمُنشِءُونَ
 
 | Details |  |

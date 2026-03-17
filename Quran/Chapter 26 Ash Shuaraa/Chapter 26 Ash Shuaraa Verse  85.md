@@ -452,6 +452,18 @@ Wa Aj'alnī Min Warathati Jannati An-Na'īmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاجْعَلْنِي مِنْ وَرَثَةِ جَنَّةِ النَّعِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واجعلني من ورثة جنة النعيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱجۡعَلۡنِی مِن وَرَثَةِ جَنَّةِ ٱلنَّعِیمِ
 
 | Details |  |

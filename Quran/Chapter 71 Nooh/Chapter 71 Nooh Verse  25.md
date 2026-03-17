@@ -452,6 +452,18 @@ Mimmā Khaţī'ātihim 'Ughriqū Fa'udkhilū Nārāan Falam Yajidū Lahum Min D�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مِمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا فَلَمْ يَجِدُوا لَهُمْ مِنْ دُونِ اللَّهِ أَنْصَارًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+مما خطيياتهم اغرقوا فادخلوا نارا فلم يجدوا لهم من دون الله انصارا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مِّمَّا خَطِیۤءَـٰتِهِمۡ أُغۡرِقُوا۟ فَأُدۡخِلُوا۟ نَارࣰا فَلَمۡ یَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارࣰا
 
 | Details |  |

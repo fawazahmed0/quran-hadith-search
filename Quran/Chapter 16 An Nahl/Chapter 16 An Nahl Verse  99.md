@@ -452,6 +452,18 @@ Innahu Laysa Lahu Sulţānun 'Alá Al-Ladhīna 'Āmanū Wa 'Alá Rabbihim Yatawa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُوا وَعَلَى رَبِّهِمْ يَتَوَكَّلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انه ليس له سلطان على الذين امنوا وعلى ربهم يتوكلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُۥ لَیۡسَ لَهُۥ سُلۡطَـٰنٌ عَلَى ٱلَّذِینَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمۡ یَتَوَكَّلُونَ
 
 | Details |  |

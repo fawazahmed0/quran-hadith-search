@@ -452,6 +452,18 @@ Fawaqāhu Allāhu Sayyi'āti Mā Makarū Wa Ĥāqa Bi'āli Fir'awna Sū'u Al-'Ad
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَوَقَاهُ اللَّهُ سَيِّئَاتِ مَا مَكَرُوا وَحَاقَ بِآلِ فِرْعَوْنَ سُوءُ الْعَذَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فوقاه الله سييات ما مكروا وحاق بال فرعون سوء العذاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَوَقَىٰهُ ٱللَّهُ سَیِّءَاتِ مَا مَكَرُوا۟ۖ وَحَاقَ بِءَالِ فِرۡعَوۡنَ سُوۤءُ ٱلۡعَذَابِ
 
 | Details |  |

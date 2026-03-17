@@ -452,6 +452,18 @@ Wa Al-Ladhīna Kadhabū Bi'āyātinā Sanastadrijuhum Min Ĥaythu Lā Ya'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا سَنَسْتَدْرِجُهُمْ مِنْ حَيْثُ لَا يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين كذبوا باياتنا سنستدرجهم من حيث لا يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ كَذَّبُوا۟ بِءَایَـٰتِنَا سَنَسۡتَدۡرِجُهُم مِّنۡ حَیۡثُ لَا یَعۡلَمُونَ
 
 | Details |  |

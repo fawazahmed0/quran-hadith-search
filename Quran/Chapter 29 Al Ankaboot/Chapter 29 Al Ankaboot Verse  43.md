@@ -452,6 +452,18 @@ Wa Tilka Al-'Amthālu Nađribuhā Lilnnāsi Wa Mā Ya'qiluhā 'Illā Al-'Ālimū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ وَمَا يَعْقِلُهَا إِلَّا الْعَالِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتلك الامثال نضربها للناس وما يعقلها الا العالمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتِلۡكَ ٱلۡأَمۡثَـٰلُ نَضۡرِبُهَا لِلنَّاسِۖ وَمَا یَعۡقِلُهَاۤ إِلَّا ٱلۡعَـٰلِمُونَ
 
 | Details |  |

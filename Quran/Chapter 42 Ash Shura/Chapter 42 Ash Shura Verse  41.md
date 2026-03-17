@@ -452,6 +452,18 @@ Wa Lamani Antaşara Ba'da Žulmihi Fa'ūlā'ika Mā 'Alayhim Min Sabīlin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَمَنِ انْتَصَرَ بَعْدَ ظُلْمِهِ فَأُولَئِكَ مَا عَلَيْهِمْ مِنْ سَبِيلٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولمن انتصر بعد ظلمه فاوليك ما عليهم من سبيل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَمَنِ ٱنتَصَرَ بَعۡدَ ظُلۡمِهِۦ فَأُو۟لَـٰۤئِكَ مَا عَلَیۡهِم مِّن سَبِیلٍ
 
 | Details |  |

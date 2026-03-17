@@ -452,6 +452,18 @@ Wa Huwa Yakhshá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُوَ يَخْشَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهو يخشى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُوَ یَخۡشَىٰ
 
 | Details |  |

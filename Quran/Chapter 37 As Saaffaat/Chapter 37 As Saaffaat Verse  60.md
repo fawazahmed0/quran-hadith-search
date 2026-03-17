@@ -452,6 +452,18 @@ Inna Hādhā Lahuwa Al-Fawzu Al-'Ažīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ هَذَا لَهُوَ الْفَوْزُ الْعَظِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هذا لهو الفوز العظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ هَـٰذَا لَهُوَ ٱلۡفَوۡزُ ٱلۡعَظِیمُ
 
 | Details |  |

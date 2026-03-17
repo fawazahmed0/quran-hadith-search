@@ -452,6 +452,18 @@ Wa Laqad Şarrafnā Fī Hādhā Al-Qur'āni Liyadhakkarū Wa Mā Yazīduhum 'Ill
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ صَرَّفْنَا فِي هَذَا الْقُرْآنِ لِيَذَّكَّرُوا وَمَا يَزِيدُهُمْ إِلَّا نُفُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد صرفنا في هذا القران ليذكروا وما يزيدهم الا نفورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ صَرَّفۡنَا فِی هَـٰذَا ٱلۡقُرۡءَانِ لِیَذَّكَّرُوا۟ وَمَا یَزِیدُهُمۡ إِلَّا نُفُورࣰا
 
 | Details |  |

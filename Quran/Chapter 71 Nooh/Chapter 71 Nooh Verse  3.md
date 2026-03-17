@@ -452,6 +452,18 @@ Ani A'budū Allāha Wa Attaqūhu Wa 'Aţī'ūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَنِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ وَأَطِيعُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان اعبدوا الله واتقوه واطيعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَنِ ٱعۡبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ وَأَطِیعُونِ
 
 | Details |  |

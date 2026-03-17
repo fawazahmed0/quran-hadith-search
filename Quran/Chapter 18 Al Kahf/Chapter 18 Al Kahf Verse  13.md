@@ -452,6 +452,18 @@ Naĥnu Naquşşu 'Alayka Naba'ahum Bil-Ĥaqqi 'Innahum Fityatun 'Āmanū Birabbi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نَحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُمْ بِالْحَقِّ إِنَّهُمْ فِتْيَةٌ آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نحن نقص عليك نباهم بالحق انهم فتية امنوا بربهم وزدناهم هدى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نَّحۡنُ نَقُصُّ عَلَیۡكَ نَبَأَهُم بِٱلۡحَقِّۚ إِنَّهُمۡ فِتۡیَةٌ ءَامَنُوا۟ بِرَبِّهِمۡ وَزِدۡنَـٰهُمۡ هُدࣰى
 
 | Details |  |

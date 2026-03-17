@@ -452,6 +452,18 @@ Yujādilūnaka Fī Al-Ĥaqqi Ba'damā Tabayyana Ka'annamā Yusāqūna 'Ilá Al-M
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُجَادِلُونَكَ فِي الْحَقِّ بَعْدَمَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى الْمَوْتِ وَهُمْ يَنْظُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يجادلونك في الحق بعدما تبين كانما يساقون الى الموت وهم ينظرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُجَـٰدِلُونَكَ فِی ٱلۡحَقِّ بَعۡدَ مَا تَبَیَّنَ كَأَنَّمَا یُسَاقُونَ إِلَى ٱلۡمَوۡتِ وَهُمۡ یَنظُرُونَ
 
 | Details |  |

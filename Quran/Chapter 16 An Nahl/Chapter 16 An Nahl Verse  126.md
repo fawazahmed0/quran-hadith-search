@@ -452,6 +452,18 @@ Wa 'In 'Āqabtum Fa'āqibū Bimithli Mā 'Ūqibtum Bihi Wa La'in Şabartum Lahuw
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا بِمِثْلِ مَا عُوقِبْتُمْ بِهِ وَلَئِنْ صَبَرْتُمْ لَهُوَ خَيْرٌ لِلصَّابِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان عاقبتم فعاقبوا بمثل ما عوقبتم به ولين صبرتم لهو خير للصابرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنۡ عَاقَبۡتُمۡ فَعَاقِبُوا۟ بِمِثۡلِ مَا عُوقِبۡتُم بِهِۦۖ وَلَئِن صَبَرۡتُمۡ لَهُوَ خَیۡرࣱ لِّلصَّـٰبِرِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Lā Tasma'u Fīhā Lāghiyahan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا تَسْمَعُ فِيهَا لَاغِيَةً
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا تسمع فيها لاغية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا تَسۡمَعُ فِیهَا لَـٰغِیَةࣰ
 
 | Details |  |

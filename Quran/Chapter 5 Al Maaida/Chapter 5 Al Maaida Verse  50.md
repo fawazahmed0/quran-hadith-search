@@ -452,6 +452,18 @@ Afaĥukma Al-Jāhilīyati Yabghūna Wa Man 'Aĥsanu Mina Allāhi Ĥukmāan Liqaw
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَحُكْمَ الْجَاهِلِيَّةِ يَبْغُونَ وَمَنْ أَحْسَنُ مِنَ اللَّهِ حُكْمًا لِقَوْمٍ يُوقِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افحكم الجاهلية يبغون ومن احسن من الله حكما لقوم يوقنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَحُكۡمَ ٱلۡجَـٰهِلِیَّةِ یَبۡغُونَۚ وَمَنۡ أَحۡسَنُ مِنَ ٱللَّهِ حُكۡمࣰا لِّقَوۡمࣲ یُوقِنُونَ
 
 | Details |  |

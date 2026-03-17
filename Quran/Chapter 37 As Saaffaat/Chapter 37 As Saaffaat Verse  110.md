@@ -452,6 +452,18 @@ Kadhālika Najzī Al-Muĥsinīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَلِكَ نَجْزِي الْمُحْسِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذلك نجزي المحسنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَ ٰلِكَ نَجۡزِی ٱلۡمُحۡسِنِینَ
 
 | Details |  |

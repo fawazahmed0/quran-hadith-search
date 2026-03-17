@@ -452,6 +452,18 @@ Wa 'Anta Ĥillun Bihadhā Al-Baladi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنْتَ حِلٌّ بِهَذَا الْبَلَدِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانت حل بهذا البلد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنتَ حِلُّۢ بِهَـٰذَا ٱلۡبَلَدِ
 
 | Details |  |

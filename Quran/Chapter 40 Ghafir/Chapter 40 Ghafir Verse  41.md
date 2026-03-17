@@ -452,6 +452,18 @@ Wa Yāqawmi Mā Lī 'Ad'ūkum 'Ilá An-Najāati Wa Tad'ūnanī 'Ilá An-Nāri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَا قَوْمِ مَا لِي أَدْعُوكُمْ إِلَى النَّجَاةِ وَتَدْعُونَنِي إِلَى النَّارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويا قوم ما لي ادعوكم الى النجاة وتدعونني الى النار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَیَـٰقَوۡمِ مَا لِیۤ أَدۡعُوكُمۡ إِلَى ٱلنَّجَوٰةِ وَتَدۡعُونَنِیۤ إِلَى ٱلنَّارِ
 
 | Details |  |

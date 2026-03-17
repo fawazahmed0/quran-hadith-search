@@ -452,6 +452,18 @@ Al-Ladhī Kadhaba Wa Tawallá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي كَذَّبَ وَتَوَلَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي كذب وتولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِی كَذَّبَ وَتَوَلَّىٰ
 
 | Details |  |

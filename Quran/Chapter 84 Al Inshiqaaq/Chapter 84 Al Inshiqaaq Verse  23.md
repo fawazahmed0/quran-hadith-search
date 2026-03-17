@@ -452,6 +452,18 @@ Wa AllÄhu 'A'lamu BimÄ YÅ«'Å«na
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والله اعلم بما يوعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱللَّهُ أَعۡلَمُ بِمَا یُوعُونَ
 
 | Details |  |

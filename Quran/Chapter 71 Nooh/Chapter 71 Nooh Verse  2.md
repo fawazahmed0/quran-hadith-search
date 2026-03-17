@@ -452,6 +452,18 @@ Qāla Yā Qawmi 'Innī Lakum Nadhīrun Mubīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ يَا قَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال يا قوم اني لكم نذير مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ یَـٰقَوۡمِ إِنِّی لَكُمۡ نَذِیرࣱ مُّبِینٌ
 
 | Details |  |

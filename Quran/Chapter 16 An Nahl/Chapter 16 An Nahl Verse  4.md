@@ -452,6 +452,18 @@ Khalaqa Al-'Insāna Min Nuţfatin Fa'idhā Huwa Khaşīmun Mubīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خَلَقَ الْإِنْسَانَ مِنْ نُطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خلق الانسان من نطفة فاذا هو خصيم مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خَلَقَ ٱلۡإِنسَـٰنَ مِن نُّطۡفَةࣲ فَإِذَا هُوَ خَصِیمࣱ مُّبِینࣱ
 
 | Details |  |

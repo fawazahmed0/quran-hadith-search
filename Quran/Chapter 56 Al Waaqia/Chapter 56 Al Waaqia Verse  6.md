@@ -452,6 +452,18 @@ Fakānat Habā'an Munbaththāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكَانَتْ هَبَاءً مُنْبَثًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكانت هباء منبثا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكَانَتۡ هَبَاۤءࣰ مُّنۢبَثࣰّا
 
 | Details |  |

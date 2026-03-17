@@ -452,6 +452,18 @@ Salāmun 'Alá Mūsá Wa Hārūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَلَامٌ عَلَى مُوسَى وَهَارُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سلام على موسى وهارون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَلَـٰمٌ عَلَىٰ مُوسَىٰ وَهَـٰرُونَ
 
 | Details |  |

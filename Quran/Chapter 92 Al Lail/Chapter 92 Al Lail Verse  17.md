@@ -452,6 +452,18 @@ Wa Sayujannabuhā Al-'Atqá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَسَيُجَنَّبُهَا الْأَتْقَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وسيجنبها الاتقى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَسَیُجَنَّبُهَا ٱلۡأَتۡقَى
 
 | Details |  |

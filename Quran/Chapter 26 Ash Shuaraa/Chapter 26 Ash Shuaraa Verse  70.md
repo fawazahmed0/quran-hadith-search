@@ -452,6 +452,18 @@ Idh Qāla Li'abīhi Wa Qawmihi Mā Ta'budūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِ مَا تَعْبُدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ قال لابيه وقومه ما تعبدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ قَالَ لِأَبِیهِ وَقَوۡمِهِۦ مَا تَعۡبُدُونَ
 
 | Details |  |

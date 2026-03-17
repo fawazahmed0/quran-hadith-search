@@ -452,6 +452,18 @@ Wa 'Idhā Anqalabū 'Ilá 'Ahlihimu Anqalabū Fakihīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا انْقَلَبُوا إِلَى أَهْلِهِمُ انْقَلَبُوا فَكِهِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا انقلبوا الى اهلهم انقلبوا فكهين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱنقَلَبُوۤا۟ إِلَىٰۤ أَهۡلِهِمُ ٱنقَلَبُوا۟ فَكِهِینَ
 
 | Details |  |

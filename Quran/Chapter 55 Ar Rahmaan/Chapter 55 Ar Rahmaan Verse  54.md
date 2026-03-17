@@ -452,6 +452,18 @@ Muttaki'īna 'Alá Furushin Baţā'inuhā Min 'Istabraqin Wa Janá Al-Jannatayni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مُتَّكِئِينَ عَلَى فُرُشٍ بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ وَجَنَى الْجَنَّتَيْنِ دَانٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+متكيين على فرش بطاينها من استبرق وجنى الجنتين دان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مُتَّكِءِینَ عَلَىٰ فُرُشِۭ بَطَاۤئِنُهَا مِنۡ إِسۡتَبۡرَقࣲۚ وَجَنَى ٱلۡجَنَّتَیۡنِ دَانࣲ
 
 | Details |  |

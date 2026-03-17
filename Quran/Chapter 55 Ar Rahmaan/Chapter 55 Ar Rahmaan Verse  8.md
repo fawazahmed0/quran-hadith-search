@@ -452,6 +452,18 @@ Allā Taţghaw Fī Al-Mīzāni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَّا تَطْغَوْا فِي الْمِيزَانِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا تطغوا في الميزان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَّا تَطۡغَوۡا۟ فِی ٱلۡمِیزَانِ
 
 | Details |  |

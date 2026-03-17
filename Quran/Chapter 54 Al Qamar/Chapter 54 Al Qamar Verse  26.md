@@ -452,6 +452,18 @@ Saya'lamūna Ghadāan Mani Al-Kadhābu Al-'Ashiru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَيَعْلَمُونَ غَدًا مَنِ الْكَذَّابُ الْأَشِرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سيعلمون غدا من الكذاب الاشر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَیَعۡلَمُونَ غَدࣰا مَّنِ ٱلۡكَذَّابُ ٱلۡأَشِرُ
 
 | Details |  |

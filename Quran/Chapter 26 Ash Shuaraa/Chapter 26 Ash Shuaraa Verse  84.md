@@ -452,6 +452,18 @@ Wa Aj'al Lī Lisāna Şidqin Fī Al-'Ākhirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاجْعَلْ لِي لِسَانَ صِدْقٍ فِي الْآخِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واجعل لي لسان صدق في الاخرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱجۡعَل لِّی لِسَانَ صِدۡقࣲ فِی ٱلۡءَاخِرِینَ
 
 | Details |  |

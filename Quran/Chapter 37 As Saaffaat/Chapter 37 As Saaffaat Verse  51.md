@@ -452,6 +452,18 @@ Qāla Qā'ilun Minhum 'Innī Kāna Lī Qarīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ قَائِلٌ مِنْهُمْ إِنِّي كَانَ لِي قَرِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال قايل منهم اني كان لي قرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ قَاۤئِلࣱ مِّنۡهُمۡ إِنِّی كَانَ لِی قَرِینࣱ
 
 | Details |  |

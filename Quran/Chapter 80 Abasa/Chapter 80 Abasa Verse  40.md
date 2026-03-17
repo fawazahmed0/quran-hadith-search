@@ -452,6 +452,18 @@ Wa Wujūhun Yawma'idhin 'Alayhā Ghabarahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ووجوه يوميذ عليها غبرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَوُجُوهࣱ یَوۡمَئِذٍ عَلَیۡهَا غَبَرَةࣱ
 
 | Details |  |

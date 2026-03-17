@@ -452,6 +452,18 @@ Wa Yanşuraka Allāhu Naşrāan 'Azīzāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَنْصُرَكَ اللَّهُ نَصْرًا عَزِيزًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وينصرك الله نصرا عزيزا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَنصُرَكَ ٱللَّهُ نَصۡرًا عَزِیزًا
 
 | Details |  |

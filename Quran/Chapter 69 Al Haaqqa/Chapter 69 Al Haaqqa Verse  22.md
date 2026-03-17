@@ -452,6 +452,18 @@ Fī Jannatin 'Āliyahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي جَنَّةٍ عَالِيَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في جنة عالية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِی جَنَّةٍ عَالِیَةࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fa'asqiţ 'Alaynā Kisafāan Mina As-Samā'i 'In Kunta Mina Aş-Şādiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَسْقِطْ عَلَيْنَا كِسَفًا مِنَ السَّمَاءِ إِنْ كُنْتَ مِنَ الصَّادِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاسقط علينا كسفا من السماء ان كنت من الصادقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَسۡقِطۡ عَلَیۡنَا كِسَفࣰا مِّنَ ٱلسَّمَاۤءِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِینَ
 
 | Details |  |

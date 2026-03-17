@@ -452,6 +452,18 @@ Qāla Rabbī Ya'lamu Al-Qawla Fī As-Samā'i Wa Al-'Arđi Wa Huwa As-Samī'u Al-
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّي يَعْلَمُ الْقَوْلَ فِي السَّمَاءِ وَالْأَرْضِ وَهُوَ السَّمِيعُ الْعَلِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال ربي يعلم القول في السماء والارض وهو السميع العليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّی یَعۡلَمُ ٱلۡقَوۡلَ فِی ٱلسَّمَاۤءِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ
 
 | Details |  |

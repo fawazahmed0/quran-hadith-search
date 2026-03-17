@@ -452,6 +452,18 @@ Yatīmāan Dhā Maqrabahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَتِيمًا ذَا مَقْرَبَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يتيما ذا مقربة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَتِیمࣰا ذَا مَقۡرَبَةٍ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Inna Jahannama Lamaw'iduhum 'Ajma'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ أَجْمَعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان جهنم لموعدهم اجمعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ جَهَنَّمَ لَمَوۡعِدُهُمۡ أَجۡمَعِینَ
 
 | Details |  |

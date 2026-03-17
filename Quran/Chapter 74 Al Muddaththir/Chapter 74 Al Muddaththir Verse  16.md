@@ -452,6 +452,18 @@ Kallā 'Innahu Kāna Li'yātinā 'Anīdāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا إِنَّهُ كَانَ لِآيَاتِنَا عَنِيدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا انه كان لاياتنا عنيدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّاۤۖ إِنَّهُۥ كَانَ لِءَایَـٰتِنَا عَنِیدࣰا
 
 | Details |  |

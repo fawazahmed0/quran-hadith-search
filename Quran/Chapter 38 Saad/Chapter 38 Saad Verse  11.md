@@ -452,6 +452,18 @@ Jundun Mā Hunālika Mahzūmun Mina Al-'Aĥzābi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+جُنْدٌ مَا هُنَالِكَ مَهْزُومٌ مِنَ الْأَحْزَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+جند ما هنالك مهزوم من الاحزاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 جُندࣱ مَّا هُنَالِكَ مَهۡزُومࣱ مِّنَ ٱلۡأَحۡزَابِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Li'īlāfi Qurayshin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِإِيلَافِ قُرَيْشٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لايلاف قريش
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِإِیلَـٰفِ قُرَیۡشٍ
 
 | Details |  |

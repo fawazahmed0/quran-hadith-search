@@ -452,6 +452,18 @@ Qul 'Anzalahu Al-Ladhī Ya'lamu As-Sirra Fī As-Samāwāti Wa Al-'Arđi 'Innahu 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ أَنْزَلَهُ الَّذِي يَعْلَمُ السِّرَّ فِي السَّمَاوَاتِ وَالْأَرْضِ إِنَّهُ كَانَ غَفُورًا رَحِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل انزله الذي يعلم السر في السماوات والارض انه كان غفورا رحيما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ أَنزَلَهُ ٱلَّذِی یَعۡلَمُ ٱلسِّرَّ فِی ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۚ إِنَّهُۥ كَانَ غَفُورࣰا رَّحِیمࣰا
 
 | Details |  |

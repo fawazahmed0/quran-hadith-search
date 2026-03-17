@@ -452,6 +452,18 @@ Tanzīlāan Mimman Khalaqa Al-'Arđa Wa As-Samāwāti Al-'Ulā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَنْزِيلًا مِمَّنْ خَلَقَ الْأَرْضَ وَالسَّمَاوَاتِ الْعُلَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تنزيلا ممن خلق الارض والسماوات العلى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَنزِیلࣰا مِّمَّنۡ خَلَقَ ٱلۡأَرۡضَ وَٱلسَّمَـٰوَ ٰتِ ٱلۡعُلَى
 
 | Details |  |

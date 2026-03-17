@@ -452,6 +452,18 @@ Inna Al-Mujrimīna Fī Đalālin Wa Su'urin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الْمُجْرِمِينَ فِي ضَلَالٍ وَسُعُرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان المجرمين في ضلال وسعر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلۡمُجۡرِمِینَ فِی ضَلَـٰلࣲ وَسُعُرࣲ
 
 | Details |  |

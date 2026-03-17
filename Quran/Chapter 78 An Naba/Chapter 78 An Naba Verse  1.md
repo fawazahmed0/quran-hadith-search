@@ -452,6 +452,18 @@ Amma Yatasā'alūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَمَّ يَتَسَاءَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عم يتساءلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ عَمَّ یَتَسَاۤءَلُونَ
 
 | Details |  |

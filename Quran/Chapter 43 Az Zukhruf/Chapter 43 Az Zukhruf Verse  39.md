@@ -452,6 +452,18 @@ Wa Lan Yanfa'akumu Al-Yawma 'Idh Žalamtum 'Annakum Fī Al-'Adhābi Mushtarikūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَنْ يَنْفَعَكُمُ الْيَوْمَ إِذْ ظَلَمْتُمْ أَنَّكُمْ فِي الْعَذَابِ مُشْتَرِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولن ينفعكم اليوم اذ ظلمتم انكم في العذاب مشتركون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَن یَنفَعَكُمُ ٱلۡیَوۡمَ إِذ ظَّلَمۡتُمۡ أَنَّكُمۡ فِی ٱلۡعَذَابِ مُشۡتَرِكُونَ
 
 | Details |  |

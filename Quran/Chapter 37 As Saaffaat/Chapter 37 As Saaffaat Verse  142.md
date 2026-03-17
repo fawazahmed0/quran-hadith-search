@@ -452,6 +452,18 @@ Fāltaqamahu Al-Ĥūtu Wa Huwa Mulīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَالْتَقَمَهُ الْحُوتُ وَهُوَ مُلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالتقمه الحوت وهو مليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱلۡتَقَمَهُ ٱلۡحُوتُ وَهُوَ مُلِیمࣱ
 
 | Details |  |

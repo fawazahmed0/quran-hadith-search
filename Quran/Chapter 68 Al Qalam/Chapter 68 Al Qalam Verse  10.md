@@ -452,6 +452,18 @@ Wa Lā Tuţi' Kulla Ĥallāfin Mahīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تُطِعْ كُلَّ حَلَّافٍ مَهِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تطع كل حلاف مهين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تُطِعۡ كُلَّ حَلَّافࣲ مَّهِینٍ
 
 | Details |  |

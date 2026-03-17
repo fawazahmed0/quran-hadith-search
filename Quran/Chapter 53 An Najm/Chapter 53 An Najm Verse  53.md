@@ -452,6 +452,18 @@ Wa Al-Mu'utafikata 'Ahwá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْمُؤْتَفِكَةَ أَهْوَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والموتفكة اهوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡمُؤۡتَفِكَةَ أَهۡوَىٰ
 
 | Details |  |

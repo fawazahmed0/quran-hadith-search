@@ -452,6 +452,18 @@ Fa'amiyat 'Alayhimu Al-'Anbā'u Yawma'idhin Fahum Lā Yatasā'alūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَعَمِيَتْ عَلَيْهِمُ الْأَنْبَاءُ يَوْمَئِذٍ فَهُمْ لَا يَتَسَاءَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فعميت عليهم الانباء يوميذ فهم لا يتساءلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَعَمِیَتۡ عَلَیۡهِمُ ٱلۡأَنۢبَاۤءُ یَوۡمَئِذࣲ فَهُمۡ لَا یَتَسَاۤءَلُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Ja'alū Lahu Min 'Ibādihi Juz'āan 'Inna Al-'Insāna Lakafūrun Mubīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلُوا لَهُ مِنْ عِبَادِهِ جُزْءًا إِنَّ الْإِنْسَانَ لَكَفُورٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلوا له من عباده جزءا ان الانسان لكفور مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلُوا۟ لَهُۥ مِنۡ عِبَادِهِۦ جُزۡءًاۚ إِنَّ ٱلۡإِنسَـٰنَ لَكَفُورࣱ مُّبِینٌ
 
 | Details |  |

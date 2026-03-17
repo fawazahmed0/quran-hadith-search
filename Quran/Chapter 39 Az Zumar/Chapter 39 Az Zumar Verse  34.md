@@ -452,6 +452,18 @@ Lahum Mā Yashā'ūna 'Inda Rabbihim Dhālika Jazā'u Al-Muĥsinīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَهُمْ مَا يَشَاءُونَ عِنْدَ رَبِّهِمْ ذَلِكَ جَزَاءُ الْمُحْسِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لهم ما يشاءون عند ربهم ذلك جزاء المحسنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَهُم مَّا یَشَاۤءُونَ عِندَ رَبِّهِمۡۚ ذَ ٰلِكَ جَزَاۤءُ ٱلۡمُحۡسِنِینَ
 
 | Details |  |

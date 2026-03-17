@@ -452,6 +452,18 @@ Wa Dāniyatan 'Alayhim Žilāluhā Wa Dhullilat Quţūfuhā Tadhlīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَدَانِيَةً عَلَيْهِمْ ظِلَالُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ودانية عليهم ظلالها وذللت قطوفها تذليلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَدَانِیَةً عَلَیۡهِمۡ ظِلَـٰلُهَا وَذُلِّلَتۡ قُطُوفُهَا تَذۡلِیلࣰا
 
 | Details |  |

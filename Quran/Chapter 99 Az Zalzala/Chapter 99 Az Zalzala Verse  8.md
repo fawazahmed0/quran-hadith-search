@@ -452,6 +452,18 @@ Wa Man Ya'mal Mithqāla Dharratin Sharrāan Yarahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن يعمل مثقال ذرة شرا يره
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن یَعۡمَلۡ مِثۡقَالَ ذَرَّةࣲ شَرࣰّا یَرَهُۥ
 
 | Details |  |

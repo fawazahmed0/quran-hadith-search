@@ -452,6 +452,18 @@ Wa Qad 'Ađallū Kathīrāan Wa Lā Tazidi Až-Žālimīna 'Illā Đalālāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَدْ أَضَلُّوا كَثِيرًا وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقد اضلوا كثيرا ولا تزد الظالمين الا ضلالا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَدۡ أَضَلُّوا۟ كَثِیرࣰاۖ وَلَا تَزِدِ ٱلظَّـٰلِمِینَ إِلَّا ضَلَـٰلࣰا
 
 | Details |  |

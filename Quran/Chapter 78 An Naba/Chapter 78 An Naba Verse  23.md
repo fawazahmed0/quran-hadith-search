@@ -452,6 +452,18 @@ Lābithīna Fīhā 'Aĥqābāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَابِثِينَ فِيهَا أَحْقَابًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لابثين فيها احقابا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّـٰبِثِینَ فِیهَاۤ أَحۡقَابࣰا
 
 | Details |  |

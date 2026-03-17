@@ -452,6 +452,18 @@ Afanađribu 'Ankumu Adh-Dhikra Şafĥāan 'An Kuntum Qawmāan Musrifīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَنَضْرِبُ عَنْكُمُ الذِّكْرَ صَفْحًا أَنْ كُنْتُمْ قَوْمًا مُسْرِفِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افنضرب عنكم الذكر صفحا ان كنتم قوما مسرفين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَنَضۡرِبُ عَنكُمُ ٱلذِّكۡرَ صَفۡحًا أَن كُنتُمۡ قَوۡمࣰا مُّسۡرِفِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Yā 'Ayyuhā An-Nāsu A'budū Rabbakumu Al-Ladhī Khalaqakum Wa Al-Ladhīna Min 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ وَالَّذِينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايها الناس اعبدوا ربكم الذي خلقكم والذين من قبلكم لعلكم تتقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَیُّهَا ٱلنَّاسُ ٱعۡبُدُوا۟ رَبَّكُمُ ٱلَّذِی خَلَقَكُمۡ وَٱلَّذِینَ مِن قَبۡلِكُمۡ لَعَلَّكُمۡ تَتَّقُونَ
 
 | Details |  |

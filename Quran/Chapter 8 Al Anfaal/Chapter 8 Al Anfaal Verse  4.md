@@ -452,6 +452,18 @@ Ula'ika Humu Al-Mu'uminuna Haqqaan Lahum Darajatun 'Inda Rabbihim Wa Maghfiratun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ هُمُ الْمُؤْمِنُونَ حَقًّا لَهُمْ دَرَجَاتٌ عِنْدَ رَبِّهِمْ وَمَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك هم المومنون حقا لهم درجات عند ربهم ومغفرة ورزق كريم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقࣰّاۚ لَّهُمۡ دَرَجَـٰتٌ عِندَ رَبِّهِمۡ وَمَغۡفِرَةࣱ وَرِزۡقࣱ كَرِیمࣱ
 
 | Details |  |

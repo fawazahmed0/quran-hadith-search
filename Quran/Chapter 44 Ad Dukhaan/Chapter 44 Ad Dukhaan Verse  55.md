@@ -452,6 +452,18 @@ Yad'ūna Fīhā Bikulli Fākihatin 'Āminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَدْعُونَ فِيهَا بِكُلِّ فَاكِهَةٍ آمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يدعون فيها بكل فاكهة امنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَدۡعُونَ فِیهَا بِكُلِّ فَـٰكِهَةٍ ءَامِنِینَ
 
 | Details |  |

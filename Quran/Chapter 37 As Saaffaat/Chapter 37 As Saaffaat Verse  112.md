@@ -452,6 +452,18 @@ Wa Basharnāhu Bi'isĥāqa Nabīyāan Mina Aş-Şāliĥīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَبَشَّرْنَاهُ بِإِسْحَاقَ نَبِيًّا مِنَ الصَّالِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وبشرناه باسحاق نبيا من الصالحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَبَشَّرۡنَـٰهُ بِإِسۡحَـٰقَ نَبِیࣰّا مِّنَ ٱلصَّـٰلِحِینَ
 
 | Details |  |

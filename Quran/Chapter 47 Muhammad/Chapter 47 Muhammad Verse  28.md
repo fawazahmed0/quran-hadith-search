@@ -452,6 +452,18 @@ Dhālika Bi'annahumu Attaba'ū Mā 'Askhaţa Allāha Wa Karihū Riđwānahu Fa'a
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ بِأَنَّهُمُ اتَّبَعُوا مَا أَسْخَطَ اللَّهَ وَكَرِهُوا رِضْوَانَهُ فَأَحْبَطَ أَعْمَالَهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك بانهم اتبعوا ما اسخط الله وكرهوا رضوانه فاحبط اعمالهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ بِأَنَّهُمُ ٱتَّبَعُوا۟ مَاۤ أَسۡخَطَ ٱللَّهَ وَكَرِهُوا۟ رِضۡوَ ٰنَهُۥ فَأَحۡبَطَ أَعۡمَـٰلَهُمۡ
 
 | Details |  |

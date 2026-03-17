@@ -452,6 +452,18 @@ Qulnā Yā Nāru Kūnī Bardāan Wa Salāmāan 'Alá 'Ibrāhīma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْنَا يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَى إِبْرَاهِيمَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قلنا يا نار كوني بردا وسلاما على ابراهيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡنَا یَـٰنَارُ كُونِی بَرۡدࣰا وَسَلَـٰمًا عَلَىٰۤ إِبۡرَ ٰهِیمَ
 
 | Details |  |

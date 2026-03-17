@@ -452,6 +452,18 @@ Fa'ammā Man 'A'ţá Wa Attaqá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَمَّا مَنْ أَعْطَى وَاتَّقَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاما من اعطى واتقى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ
 
 | Details |  |

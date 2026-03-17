@@ -452,6 +452,18 @@ Mā Wadda'aka Rabbuka Wa Mā Qalá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما ودعك ربك وما قلى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ
 
 | Details |  |

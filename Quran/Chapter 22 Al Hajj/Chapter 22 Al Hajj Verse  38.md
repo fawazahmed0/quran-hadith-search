@@ -452,6 +452,18 @@ Inna Allāha Yudāfi'u 'Ani Al-Ladhīna 'Āmanū 'Inna Allāha Lā Yuĥibbu Kull
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ اللَّهَ يُدَافِعُ عَنِ الَّذِينَ آمَنُوا إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ خَوَّانٍ كَفُورٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الله يدافع عن الذين امنوا ان الله لا يحب كل خوان كفور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ إِنَّ ٱللَّهَ یُدَ ٰفِعُ عَنِ ٱلَّذِینَ ءَامَنُوۤا۟ۗ إِنَّ ٱللَّهَ لَا یُحِبُّ كُلَّ خَوَّانࣲ كَفُورٍ
 
 | Details |  |

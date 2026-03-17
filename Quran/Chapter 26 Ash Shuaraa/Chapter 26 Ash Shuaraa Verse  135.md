@@ -452,6 +452,18 @@ Innī 'Akhāfu 'Alaykum 'Adhāba Yawmin 'Ažīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اني اخاف عليكم عذاب يوم عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنِّیۤ أَخَافُ عَلَیۡكُمۡ عَذَابَ یَوۡمٍ عَظِیمࣲ
 
 | Details |  |

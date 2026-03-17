@@ -452,6 +452,18 @@ Qālū Yā 'Abānā Astaghfir Lanā Dhunūbanā 'Innā Kunnā Khāţi'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا خَاطِئِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا يا ابانا استغفر لنا ذنوبنا انا كنا خاطيين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ یَـٰۤأَبَانَا ٱسۡتَغۡفِرۡ لَنَا ذُنُوبَنَاۤ إِنَّا كُنَّا خَـٰطِءِینَ
 
 | Details |  |

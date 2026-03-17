@@ -452,6 +452,18 @@ Am 'Indahumu Al-Ghaybu Fahum Yaktubūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ عِنْدَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام عندهم الغيب فهم يكتبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ عِندَهُمُ ٱلۡغَیۡبُ فَهُمۡ یَكۡتُبُونَ
 
 | Details |  |

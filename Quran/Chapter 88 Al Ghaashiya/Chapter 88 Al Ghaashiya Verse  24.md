@@ -452,6 +452,18 @@ Fayu'adhibuhu Allāhu Al-'Adhāba Al-'Akbara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيعذبه الله العذاب الاكبر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَیُعَذِّبُهُ ٱللَّهُ ٱلۡعَذَابَ ٱلۡأَكۡبَرَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla Maw'idukum Yawmu Az-Zīnati Wa 'An Yuĥshara An-Nāsu Đuĥáan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ مَوْعِدُكُمْ يَوْمُ الزِّينَةِ وَأَنْ يُحْشَرَ النَّاسُ ضُحًى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال موعدكم يوم الزينة وان يحشر الناس ضحى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ مَوۡعِدُكُمۡ یَوۡمُ ٱلزِّینَةِ وَأَن یُحۡشَرَ ٱلنَّاسُ ضُحࣰى
 
 | Details |  |

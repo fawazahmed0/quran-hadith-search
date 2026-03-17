@@ -452,6 +452,18 @@ Wa Yaqūlūna 'A'innā Latārikū 'Ālihatinā Lishā'irin Majnūnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَقُولُونَ أَئِنَّا لَتَارِكُو آلِهَتِنَا لِشَاعِرٍ مَجْنُونٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويقولون اينا لتاركو الهتنا لشاعر مجنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَقُولُونَ أَئِنَّا لَتَارِكُوۤا۟ ءَالِهَتِنَا لِشَاعِرࣲ مَّجۡنُونِۭ
 
 | Details |  |

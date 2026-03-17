@@ -452,6 +452,18 @@ Wa Al-Ladhī Khalaqa Al-'Azwāja Kullahā Wa Ja'ala Lakum Mina Al-Fulki Wa Al-'A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا وَجَعَلَ لَكُمْ مِنَ الْفُلْكِ وَالْأَنْعَامِ مَا تَرْكَبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذي خلق الازواج كلها وجعل لكم من الفلك والانعام ما تركبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِی خَلَقَ ٱلۡأَزۡوَ ٰجَ كُلَّهَا وَجَعَلَ لَكُم مِّنَ ٱلۡفُلۡكِ وَٱلۡأَنۡعَـٰمِ مَا تَرۡكَبُونَ
 
 | Details |  |

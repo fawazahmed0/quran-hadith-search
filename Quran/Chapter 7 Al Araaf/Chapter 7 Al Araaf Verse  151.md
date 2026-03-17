@@ -452,6 +452,18 @@ Qāla Rabbi Aghfir Lī Wa Li'akhī Wa 'Adkhilnā Fī Raĥmatika Wa 'Anta 'Arĥam
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ اغْفِرْ لِي وَلِأَخِي وَأَدْخِلْنَا فِي رَحْمَتِكَ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب اغفر لي ولاخي وادخلنا في رحمتك وانت ارحم الراحمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ ٱغۡفِرۡ لِی وَلِأَخِی وَأَدۡخِلۡنَا فِی رَحۡمَتِكَۖ وَأَنتَ أَرۡحَمُ ٱلرَّ ٰحِمِینَ
 
 | Details |  |

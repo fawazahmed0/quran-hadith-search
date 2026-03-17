@@ -452,6 +452,18 @@ Fa'aqbalū 'Ilayhi Yaziffūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَقْبَلُوا إِلَيْهِ يَزِفُّونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاقبلوا اليه يزفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَقۡبَلُوۤا۟ إِلَیۡهِ یَزِفُّونَ
 
 | Details |  |

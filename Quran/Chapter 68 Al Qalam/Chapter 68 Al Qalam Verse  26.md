@@ -452,6 +452,18 @@ Falammā Ra'awhā Qālū 'Innā Lađāllūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا رَأَوْهَا قَالُوا إِنَّا لَضَالُّونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما راوها قالوا انا لضالون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّا رَأَوۡهَا قَالُوۤا۟ إِنَّا لَضَاۤلُّونَ
 
 | Details |  |

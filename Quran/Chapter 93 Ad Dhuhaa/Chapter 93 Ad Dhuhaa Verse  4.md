@@ -452,6 +452,18 @@ Wa Lal'ākhiratu Khayrun Laka Mina Al-'Ūlá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَلْآخِرَةُ خَيْرٌ لَكَ مِنَ الْأُولَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وللاخرة خير لك من الاولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَلۡءَاخِرَةُ خَیۡرࣱ لَّكَ مِنَ ٱلۡأُولَىٰ
 
 | Details |  |

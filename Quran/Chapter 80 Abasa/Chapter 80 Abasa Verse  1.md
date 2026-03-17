@@ -452,6 +452,18 @@ Abasa Wa Tawallá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَبَسَ وَتَوَلَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عبس وتولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ عَبَسَ وَتَوَلَّىٰۤ
 
 | Details |  |

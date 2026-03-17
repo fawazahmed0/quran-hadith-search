@@ -452,6 +452,18 @@ Fālyawma Al-Ladhīna 'Āmanū Mina Al-Kuffāri Yađĥakūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاليوم الذين امنوا من الكفار يضحكون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱلۡیَوۡمَ ٱلَّذِینَ ءَامَنُوا۟ مِنَ ٱلۡكُفَّارِ یَضۡحَكُونَ
 
 | Details |  |

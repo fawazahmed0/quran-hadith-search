@@ -452,6 +452,18 @@ Dharhum Ya'kulū Wa Yatamatta'ū Wa Yulhihimu Al-'Amalu Fasawfa Ya'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَرْهُمْ يَأْكُلُوا وَيَتَمَتَّعُوا وَيُلْهِهِمُ الْأَمَلُ فَسَوْفَ يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذرهم ياكلوا ويتمتعوا ويلههم الامل فسوف يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَرۡهُمۡ یَأۡكُلُوا۟ وَیَتَمَتَّعُوا۟ وَیُلۡهِهِمُ ٱلۡأَمَلُۖ فَسَوۡفَ یَعۡلَمُونَ
 
 | Details |  |

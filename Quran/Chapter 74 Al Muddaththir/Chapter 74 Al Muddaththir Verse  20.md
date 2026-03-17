@@ -452,6 +452,18 @@ Thumma Qutila Kayfa Qaddara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ قُتِلَ كَيْفَ قَدَّرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم قتل كيف قدر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ قُتِلَ كَیۡفَ قَدَّرَ
 
 | Details |  |

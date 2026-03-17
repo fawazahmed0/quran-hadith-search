@@ -452,6 +452,18 @@ Wa La'in Shi'nā Lanadh/habanna Bial-Ladhī 'Awĥaynā 'Ilayka Thumma Lā Tajidu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَئِنْ شِئْنَا لَنَذْهَبَنَّ بِالَّذِي أَوْحَيْنَا إِلَيْكَ ثُمَّ لَا تَجِدُ لَكَ بِهِ عَلَيْنَا وَكِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولين شينا لنذهبن بالذي اوحينا اليك ثم لا تجد لك به علينا وكيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَئِن شِئۡنَا لَنَذۡهَبَنَّ بِٱلَّذِیۤ أَوۡحَیۡنَاۤ إِلَیۡكَ ثُمَّ لَا تَجِدُ لَكَ بِهِۦ عَلَیۡنَا وَكِیلًا
 
 | Details |  |

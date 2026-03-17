@@ -452,6 +452,18 @@ Wa 'Aqīmū Aş-Şalāata Wa 'Ātū Az-Zakāata Wa 'Aţī'ū Ar-Rasūla La'allak
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَطِيعُوا الرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واقيموا الصلاة واتوا الزكاة واطيعوا الرسول لعلكم ترحمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَقِیمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِیعُوا۟ ٱلرَّسُولَ لَعَلَّكُمۡ تُرۡحَمُونَ
 
 | Details |  |

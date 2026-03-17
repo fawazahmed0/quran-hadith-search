@@ -452,6 +452,18 @@ Innā Kadhālika Naf'alu Bil-Mujrimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا كَذَلِكَ نَفْعَلُ بِالْمُجْرِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا كذلك نفعل بالمجرمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا كَذَ ٰلِكَ نَفۡعَلُ بِٱلۡمُجۡرِمِینَ
 
 | Details |  |

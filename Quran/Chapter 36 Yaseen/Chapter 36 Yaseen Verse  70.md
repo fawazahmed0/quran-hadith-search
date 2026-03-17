@@ -452,6 +452,18 @@ Liyundhira Man Kāna Ĥayyāan Wa Yaĥiqqa Al-Qawlu 'Alá Al-Kāfirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِيُنْذِرَ مَنْ كَانَ حَيًّا وَيَحِقَّ الْقَوْلُ عَلَى الْكَافِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لينذر من كان حيا ويحق القول على الكافرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِّیُنذِرَ مَن كَانَ حَیࣰّا وَیَحِقَّ ٱلۡقَوۡلُ عَلَى ٱلۡكَـٰفِرِینَ
 
 | Details |  |

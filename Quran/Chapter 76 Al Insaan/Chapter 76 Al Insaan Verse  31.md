@@ -452,6 +452,18 @@ Yudkhilu Man Yashā'u Fī Raĥmatihi Wa Až-Žālimīna 'A'adda Lahum 'Adhābāa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُدْخِلُ مَنْ يَشَاءُ فِي رَحْمَتِهِ وَالظَّالِمِينَ أَعَدَّ لَهُمْ عَذَابًا أَلِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يدخل من يشاء في رحمته والظالمين اعد لهم عذابا اليما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُدۡخِلُ مَن یَشَاۤءُ فِی رَحۡمَتِهِۦۚ وَٱلظَّـٰلِمِینَ أَعَدَّ لَهُمۡ عَذَابًا أَلِیمَۢا
 
 | Details |  |

@@ -452,6 +452,18 @@ Qul 'Ara'aytum 'In Kāna Min 'Indi Allāhi Thumma Kafartum Bihi Man 'Ađallu Mim
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ أَرَأَيْتُمْ إِنْ كَانَ مِنْ عِنْدِ اللَّهِ ثُمَّ كَفَرْتُمْ بِهِ مَنْ أَضَلُّ مِمَّنْ هُوَ فِي شِقَاقٍ بَعِيدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل ارايتم ان كان من عند الله ثم كفرتم به من اضل ممن هو في شقاق بعيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ أَرَءَیۡتُمۡ إِن كَانَ مِنۡ عِندِ ٱللَّهِ ثُمَّ كَفَرۡتُم بِهِۦ مَنۡ أَضَلُّ مِمَّنۡ هُوَ فِی شِقَاقِۭ بَعِیدࣲ
 
 | Details |  |

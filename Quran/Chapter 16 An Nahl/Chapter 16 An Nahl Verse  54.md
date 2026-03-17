@@ -452,6 +452,18 @@ Thumma 'Idhā Kashafa Ađ-Đurra 'Ankum 'Idhā Farīqun Minkum Birabbihim Yushri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ إِذَا كَشَفَ الضُّرَّ عَنْكُمْ إِذَا فَرِيقٌ مِنْكُمْ بِرَبِّهِمْ يُشْرِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم اذا كشف الضر عنكم اذا فريق منكم بربهم يشركون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ إِذَا كَشَفَ ٱلضُّرَّ عَنكُمۡ إِذَا فَرِیقࣱ مِّنكُم بِرَبِّهِمۡ یُشۡرِكُونَ
 
 | Details |  |

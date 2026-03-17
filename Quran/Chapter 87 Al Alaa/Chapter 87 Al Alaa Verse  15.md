@@ -452,6 +452,18 @@ Wa Dhakara Asma Rabbihi Faşallá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وذكر اسم ربه فصلى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَذَكَرَ ٱسۡمَ رَبِّهِۦ فَصَلَّىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Afara'ayta Al-Ladhī Kafara Bi'āyātinā Wa Qāla La'ūtayanna Mālāan Wa Wala
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَرَأَيْتَ الَّذِي كَفَرَ بِآيَاتِنَا وَقَالَ لَأُوتَيَنَّ مَالًا وَوَلَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افرايت الذي كفر باياتنا وقال لاوتين مالا وولدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَرَءَیۡتَ ٱلَّذِی كَفَرَ بِءَایَـٰتِنَا وَقَالَ لَأُوتَیَنَّ مَالࣰا وَوَلَدًا
 
 | Details |  |

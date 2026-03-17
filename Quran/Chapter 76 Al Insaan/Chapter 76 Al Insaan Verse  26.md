@@ -452,6 +452,18 @@ Wa Mina Al-Layli Fāsjud Lahu Wa Sabbiĥhu Laylāan Ţawīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنَ اللَّيْلِ فَاسْجُدْ لَهُ وَسَبِّحْهُ لَيْلًا طَوِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن الليل فاسجد له وسبحه ليلا طويلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِنَ ٱلَّیۡلِ فَٱسۡجُدۡ لَهُۥ وَسَبِّحۡهُ لَیۡلࣰا طَوِیلًا
 
 | Details |  |

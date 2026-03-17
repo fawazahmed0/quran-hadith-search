@@ -452,6 +452,18 @@ Fa'ātāhumu Allāhu Thawāba Ad-Dunyā Wa Ĥusna Thawābi Al-'Ākhirati Wa All�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَآتَاهُمُ اللَّهُ ثَوَابَ الدُّنْيَا وَحُسْنَ ثَوَابِ الْآخِرَةِ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاتاهم الله ثواب الدنيا وحسن ثواب الاخرة والله يحب المحسنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَءَاتَىٰهُمُ ٱللَّهُ ثَوَابَ ٱلدُّنۡیَا وَحُسۡنَ ثَوَابِ ٱلۡءَاخِرَةِۗ وَٱللَّهُ یُحِبُّ ٱلۡمُحۡسِنِینَ
 
 | Details |  |

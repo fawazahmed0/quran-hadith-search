@@ -452,6 +452,18 @@ Inna 'Adhāba Rabbihim Ghayru Ma'mūnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان عذاب ربهم غير مامون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ عَذَابَ رَبِّهِمۡ غَیۡرُ مَأۡمُونࣲ
 
 | Details |  |

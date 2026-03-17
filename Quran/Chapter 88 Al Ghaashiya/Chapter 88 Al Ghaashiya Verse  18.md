@@ -452,6 +452,18 @@ Wa 'Ilá As-Samā'i Kayfa Rufi'at
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والى السماء كيف رفعت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِلَى ٱلسَّمَاۤءِ كَیۡفَ رُفِعَتۡ
 
 | Details |  |

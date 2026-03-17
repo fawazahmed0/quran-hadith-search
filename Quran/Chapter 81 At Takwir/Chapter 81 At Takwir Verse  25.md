@@ -452,6 +452,18 @@ Wa Mā Huwa Biqawli Shayţānin Rajīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما هو بقول شيطان رجيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا هُوَ بِقَوۡلِ شَیۡطَـٰنࣲ رَّجِیمࣲ
 
 | Details |  |

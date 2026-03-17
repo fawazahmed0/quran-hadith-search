@@ -452,6 +452,18 @@ Inna Lakum Fīhi Lamā Takhayyarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان لكم فيه لما تخيرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ لَكُمۡ فِیهِ لَمَا تَخَیَّرُونَ
 
 | Details |  |

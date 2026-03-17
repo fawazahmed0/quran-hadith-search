@@ -452,6 +452,18 @@ Arkuđ Birijlika Hādhā Mughtasalun Bāridun Wa Sharābun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ارْكُضْ بِرِجْلِكَ هَذَا مُغْتَسَلٌ بَارِدٌ وَشَرَابٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اركض برجلك هذا مغتسل بارد وشراب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱرۡكُضۡ بِرِجۡلِكَۖ هَـٰذَا مُغۡتَسَلُۢ بَارِدࣱ وَشَرَابࣱ
 
 | Details |  |

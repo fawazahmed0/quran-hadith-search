@@ -452,6 +452,18 @@ Fī 'Amadin Mumaddadahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي عَمَدٍ مُمَدَّدَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في عمد ممددة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِی عَمَدࣲ مُّمَدَّدَةِۭ
 
 | Details |  |

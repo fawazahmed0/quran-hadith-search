@@ -452,6 +452,18 @@ Innamā 'Amwālukum Wa 'Awlādukum Fitnatun Wa Allāhu 'Indahu 'Ajrun 'Ažīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ وَاللَّهُ عِنْدَهُ أَجْرٌ عَظِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انما اموالكم واولادكم فتنة والله عنده اجر عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّمَاۤ أَمۡوَ ٰلُكُمۡ وَأَوۡلَـٰدُكُمۡ فِتۡنَةࣱۚ وَٱللَّهُ عِندَهُۥۤ أَجۡرٌ عَظِیمࣱ
 
 | Details |  |

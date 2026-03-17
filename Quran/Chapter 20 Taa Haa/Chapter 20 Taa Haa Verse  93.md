@@ -452,6 +452,18 @@ Allā Tattabi'anī 'Afa'aşayta 'Amrī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَّا تَتَّبِعَنِ أَفَعَصَيْتَ أَمْرِي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا تتبعن افعصيت امري
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَّا تَتَّبِعَنِۖ أَفَعَصَیۡتَ أَمۡرِی
 
 | Details |  |

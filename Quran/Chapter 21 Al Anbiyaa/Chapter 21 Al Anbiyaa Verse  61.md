@@ -452,6 +452,18 @@ Qālū Fa'tū Bihi 'Alá 'A'yuni An-Nāsi La'allahum Yash/hadūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا فَأْتُوا بِهِ عَلَى أَعْيُنِ النَّاسِ لَعَلَّهُمْ يَشْهَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا فاتوا به على اعين الناس لعلهم يشهدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ فَأۡتُوا۟ بِهِۦ عَلَىٰۤ أَعۡیُنِ ٱلنَّاسِ لَعَلَّهُمۡ یَشۡهَدُونَ
 
 | Details |  |

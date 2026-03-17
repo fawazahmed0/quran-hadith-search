@@ -452,6 +452,18 @@ Wa Wajadaka 'Ā'ilāan Fa'aghná
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَوَجَدَكَ عَائِلًا فَأَغْنَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ووجدك عايلا فاغنى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَوَجَدَكَ عَاۤئِلࣰا فَأَغۡنَىٰ
 
 | Details |  |

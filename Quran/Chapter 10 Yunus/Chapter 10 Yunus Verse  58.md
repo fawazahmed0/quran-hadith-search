@@ -452,6 +452,18 @@ Qul Bifađli Allāhi Wa Biraĥmatihi Fabidhālika Falyafraĥū Huwa Khayrun Mimm
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ بِفَضْلِ اللَّهِ وَبِرَحْمَتِهِ فَبِذَلِكَ فَلْيَفْرَحُوا هُوَ خَيْرٌ مِمَّا يَجْمَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل بفضل الله وبرحمته فبذلك فليفرحوا هو خير مما يجمعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ بِفَضۡلِ ٱللَّهِ وَبِرَحۡمَتِهِۦ فَبِذَ ٰلِكَ فَلۡیَفۡرَحُوا۟ هُوَ خَیۡرࣱ مِّمَّا یَجۡمَعُونَ
 
 | Details |  |

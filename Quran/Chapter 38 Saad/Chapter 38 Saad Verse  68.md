@@ -452,6 +452,18 @@ Antum 'Anhu Mu'riđūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَنْتُمْ عَنْهُ مُعْرِضُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انتم عنه معرضون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَنتُمۡ عَنۡهُ مُعۡرِضُونَ
 
 | Details |  |

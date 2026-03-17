@@ -452,6 +452,18 @@ Qul 'A'ūdhu Birabbi An-Nāsi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ أَعُوذُ بِرَبِّ النَّاسِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل اعوذ برب الناس
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ
 
 | Details |  |

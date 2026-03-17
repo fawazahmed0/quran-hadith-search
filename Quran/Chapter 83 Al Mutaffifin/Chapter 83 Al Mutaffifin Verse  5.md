@@ -452,6 +452,18 @@ Liyawmin 'Ažīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِيَوْمٍ عَظِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ليوم عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِیَوۡمٍ عَظِیمࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Namāriqu Maşfūfahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَمَارِقُ مَصْفُوفَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونمارق مصفوفة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَمَارِقُ مَصۡفُوفَةࣱ
 
 | Details |  |

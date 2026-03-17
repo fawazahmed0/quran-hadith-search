@@ -452,6 +452,18 @@ Wa Nādaw Yā Māliku Liyaqđi 'Alaynā Rabbuka Qāla 'Innakum Mākithūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَادَوْا يَا مَالِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ قَالَ إِنَّكُمْ مَاكِثُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونادوا يا مالك ليقض علينا ربك قال انكم ماكثون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَادَوۡا۟ یَـٰمَـٰلِكُ لِیَقۡضِ عَلَیۡنَا رَبُّكَۖ قَالَ إِنَّكُم مَّـٰكِثُونَ
 
 | Details |  |

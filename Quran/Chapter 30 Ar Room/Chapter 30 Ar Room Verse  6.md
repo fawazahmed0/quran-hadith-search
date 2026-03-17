@@ -452,6 +452,18 @@ Wa'da Allāhi Lā Yukhlifu Allāhu Wa'dahu Wa Lakinna 'Akthara An-Nāsi Lā Ya'l
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَعْدَ اللَّهِ لَا يُخْلِفُ اللَّهُ وَعْدَهُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وعد الله لا يخلف الله وعده ولكن اكثر الناس لا يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَعۡدَ ٱللَّهِۖ لَا یُخۡلِفُ ٱللَّهُ وَعۡدَهُۥ وَلَـٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا یَعۡلَمُونَ
 
 | Details |  |

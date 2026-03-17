@@ -452,6 +452,18 @@ Kallā Lā Wazara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا لَا وَزَرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا لا وزر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّا لَا وَزَرَ
 
 | Details |  |

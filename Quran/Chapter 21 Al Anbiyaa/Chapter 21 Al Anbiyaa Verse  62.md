@@ -452,6 +452,18 @@ Qālū 'A'anta Fa'alta Hādhā Bi'ālihatinā Yā 'Ibrāhīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا أَأَنْتَ فَعَلْتَ هَذَا بِآلِهَتِنَا يَا إِبْرَاهِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا اانت فعلت هذا بالهتنا يا ابراهيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوۤا۟ ءَأَنتَ فَعَلۡتَ هَـٰذَا بِءَالِهَتِنَا یَـٰۤإِبۡرَ ٰهِیمُ
 
 | Details |  |

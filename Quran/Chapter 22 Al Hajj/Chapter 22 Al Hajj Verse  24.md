@@ -452,6 +452,18 @@ Wa Hudū 'Ilá Aţ-Ţayyibi Mina Al-Qawli Wa Hudū 'Ilá Şirāţi Al-Ĥamīdi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُدُوا إِلَى الطَّيِّبِ مِنَ الْقَوْلِ وَهُدُوا إِلَى صِرَاطِ الْحَمِيدِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهدوا الى الطيب من القول وهدوا الى صراط الحميد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُدُوۤا۟ إِلَى ٱلطَّیِّبِ مِنَ ٱلۡقَوۡلِ وَهُدُوۤا۟ إِلَىٰ صِرَ ٰطِ ٱلۡحَمِیدِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Qāla Al-Ladhīna Kafarū Lā Tasma'ū Lihadhā Al-Qur'āni Wa Al-Ghaw Fīhi 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ الَّذِينَ كَفَرُوا لَا تَسْمَعُوا لِهَذَا الْقُرْآنِ وَالْغَوْا فِيهِ لَعَلَّكُمْ تَغْلِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال الذين كفروا لا تسمعوا لهذا القران والغوا فيه لعلكم تغلبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ ٱلَّذِینَ كَفَرُوا۟ لَا تَسۡمَعُوا۟ لِهَـٰذَا ٱلۡقُرۡءَانِ وَٱلۡغَوۡا۟ فِیهِ لَعَلَّكُمۡ تَغۡلِبُونَ
 
 | Details |  |

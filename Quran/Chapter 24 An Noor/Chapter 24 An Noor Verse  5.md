@@ -452,6 +452,18 @@ Illā Al-Ladhīna Tābū Min Ba'di Dhālika Wa 'Aşlaĥū Fa'inna Allāha Ghafū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا الَّذِينَ تَابُوا مِنْ بَعْدِ ذَلِكَ وَأَصْلَحُوا فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا الذين تابوا من بعد ذلك واصلحوا فان الله غفور رحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا ٱلَّذِینَ تَابُوا۟ مِنۢ بَعۡدِ ذَ ٰلِكَ وَأَصۡلَحُوا۟ فَإِنَّ ٱللَّهَ غَفُورࣱ رَّحِیمࣱ
 
 | Details |  |

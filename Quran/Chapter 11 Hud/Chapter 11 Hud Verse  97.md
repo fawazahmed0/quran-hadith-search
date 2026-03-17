@@ -452,6 +452,18 @@ Ilá Fir'awna Wa Mala'ihi Fa Attaba'ū 'Amra Fir'awna Wa Mā 'Amru Fir'awna Bira
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَى فِرْعَوْنَ وَمَلَئِهِ فَاتَّبَعُوا أَمْرَ فِرْعَوْنَ وَمَا أَمْرُ فِرْعَوْنَ بِرَشِيدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الى فرعون ومليه فاتبعوا امر فرعون وما امر فرعون برشيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَىٰ فِرۡعَوۡنَ وَمَلَإِی۟هِۦ فَٱتَّبَعُوۤا۟ أَمۡرَ فِرۡعَوۡنَۖ وَمَاۤ أَمۡرُ فِرۡعَوۡنَ بِرَشِیدࣲ
 
 | Details |  |

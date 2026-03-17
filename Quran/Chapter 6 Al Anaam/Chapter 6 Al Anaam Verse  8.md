@@ -452,6 +452,18 @@ Wa Qālū Lawlā 'Unzila 'Alayhi Malakun Wa Law 'Anzalnā Malakāan Laquđiya Al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا لَوْلَا أُنْزِلَ عَلَيْهِ مَلَكٌ وَلَوْ أَنْزَلْنَا مَلَكًا لَقُضِيَ الْأَمْرُ ثُمَّ لَا يُنْظَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا لولا انزل عليه ملك ولو انزلنا ملكا لقضي الامر ثم لا ينظرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ لَوۡلَاۤ أُنزِلَ عَلَیۡهِ مَلَكࣱۖ وَلَوۡ أَنزَلۡنَا مَلَكࣰا لَّقُضِیَ ٱلۡأَمۡرُ ثُمَّ لَا یُنظَرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Annā Minnā Aş-Şāliĥūna Wa Minnā Dūna Dhālika Kunnā Ţarā'iqa Qid
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّا مِنَّا الصَّالِحُونَ وَمِنَّا دُونَ ذَلِكَ كُنَّا طَرَائِقَ قِدَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانا منا الصالحون ومنا دون ذلك كنا طرايق قددا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَ ٰلِكَۖ كُنَّا طَرَاۤئِقَ قِدَدࣰا
 
 | Details |  |

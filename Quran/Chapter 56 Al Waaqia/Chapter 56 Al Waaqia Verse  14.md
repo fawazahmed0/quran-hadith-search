@@ -452,6 +452,18 @@ Wa Qalīlun Mina Al-'Ākhirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَلِيلٌ مِنَ الْآخِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقليل من الاخرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَلِیلࣱ مِّنَ ٱلۡءَاخِرِینَ
 
 | Details |  |

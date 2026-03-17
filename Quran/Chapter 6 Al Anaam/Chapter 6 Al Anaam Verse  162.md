@@ -452,6 +452,18 @@ Qul 'Inna Şalātī Wa Nusukī Wa Maĥyāya Wa Mamātī Lillāhi Rabbi Al-'Ālam
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل ان صلاتي ونسكي ومحياي ومماتي لله رب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ إِنَّ صَلَاتِی وَنُسُكِی وَمَحۡیَایَ وَمَمَاتِی لِلَّهِ رَبِّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

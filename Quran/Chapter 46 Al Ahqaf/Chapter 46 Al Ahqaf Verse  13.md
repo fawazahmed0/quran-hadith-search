@@ -452,6 +452,18 @@ Inna Al-Ladhīna Qālū Rabbunā Allāhu Thumma Astaqāmū Falā Khawfun 'Alayhi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين قالوا ربنا الله ثم استقاموا فلا خوف عليهم ولا هم يحزنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسۡتَقَـٰمُوا۟ فَلَا خَوۡفٌ عَلَیۡهِمۡ وَلَا هُمۡ یَحۡزَنُونَ
 
 | Details |  |

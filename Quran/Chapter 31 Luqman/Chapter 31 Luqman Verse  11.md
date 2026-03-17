@@ -452,6 +452,18 @@ Hādhā Khalqu Allāhi Fa'arūnī Mādhā Khalaqa Al-Ladhīna Min Dūnihi Bali A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذَا خَلْقُ اللَّهِ فَأَرُونِي مَاذَا خَلَقَ الَّذِينَ مِنْ دُونِهِ بَلِ الظَّالِمُونَ فِي ضَلَالٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذا خلق الله فاروني ماذا خلق الذين من دونه بل الظالمون في ضلال مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذَا خَلۡقُ ٱللَّهِ فَأَرُونِی مَاذَا خَلَقَ ٱلَّذِینَ مِن دُونِهِۦۚ بَلِ ٱلظَّـٰلِمُونَ فِی ضَلَـٰلࣲ مُّبِینࣲ
 
 | Details |  |

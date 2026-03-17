@@ -452,6 +452,18 @@ Qāla Yā 'Iblīsu Mā Mana'aka 'An Tasjuda Limā Khalaqtu Biyadayya 'Āstakbart
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ يَا إِبْلِيسُ مَا مَنَعَكَ أَنْ تَسْجُدَ لِمَا خَلَقْتُ بِيَدَيَّ أَسْتَكْبَرْتَ أَمْ كُنْتَ مِنَ الْعَالِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال يا ابليس ما منعك ان تسجد لما خلقت بيدي استكبرت ام كنت من العالين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ یَـٰۤإِبۡلِیسُ مَا مَنَعَكَ أَن تَسۡجُدَ لِمَا خَلَقۡتُ بِیَدَیَّۖ أَسۡتَكۡبَرۡتَ أَمۡ كُنتَ مِنَ ٱلۡعَالِینَ
 
 | Details |  |

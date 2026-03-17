@@ -452,6 +452,18 @@ Wa Ddū Law Tud/hinu Fayud/hinūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ودوا لو تدهن فيدهنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَدُّوا۟ لَوۡ تُدۡهِنُ فَیُدۡهِنُونَ
 
 | Details |  |

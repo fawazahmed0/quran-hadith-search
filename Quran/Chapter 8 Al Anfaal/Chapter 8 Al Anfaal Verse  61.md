@@ -452,6 +452,18 @@ Wa 'In Janaĥū Lilssalmi Fājnaĥ Lahā Wa Tawakkal 'Alá Allāhi 'Innahu Huwa 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا وَتَوَكَّلْ عَلَى اللَّهِ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان جنحوا للسلم فاجنح لها وتوكل على الله انه هو السميع العليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَإِن جَنَحُوا۟ لِلسَّلۡمِ فَٱجۡنَحۡ لَهَا وَتَوَكَّلۡ عَلَى ٱللَّهِۚ إِنَّهُۥ هُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ
 
 | Details |  |

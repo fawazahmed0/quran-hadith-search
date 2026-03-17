@@ -452,6 +452,18 @@ Wa Mā Dhālika 'Alá Allāhi Bi'azīzin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا ذَلِكَ عَلَى اللَّهِ بِعَزِيزٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ذلك على الله بعزيز
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا ذَ ٰلِكَ عَلَى ٱللَّهِ بِعَزِیزࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qālū Labithnā Yawmāan 'Aw Ba'đa Yawmin Fās'ali Al-'Āddīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ فَاسْأَلِ الْعَادِّينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا لبثنا يوما او بعض يوم فاسال العادين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ لَبِثۡنَا یَوۡمًا أَوۡ بَعۡضَ یَوۡمࣲ فَسۡءَلِ ٱلۡعَاۤدِّینَ
 
 | Details |  |

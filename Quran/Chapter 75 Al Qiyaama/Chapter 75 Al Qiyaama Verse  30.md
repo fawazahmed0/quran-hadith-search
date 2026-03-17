@@ -452,6 +452,18 @@ Ilá Rabbika Yawma'idhin Al-Masāqu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَى رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الى ربك يوميذ المساق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَىٰ رَبِّكَ یَوۡمَئِذٍ ٱلۡمَسَاقُ
 
 | Details |  |

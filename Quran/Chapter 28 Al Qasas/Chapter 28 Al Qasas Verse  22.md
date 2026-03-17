@@ -452,6 +452,18 @@ Wa Lammā Tawajjaha Tilqā'a Madyana Qāla 'Asá Rabbī 'An Yahdiyanī Sawā'a A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَمَّا تَوَجَّهَ تِلْقَاءَ مَدْيَنَ قَالَ عَسَى رَبِّي أَنْ يَهْدِيَنِي سَوَاءَ السَّبِيلِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولما توجه تلقاء مدين قال عسى ربي ان يهديني سواء السبيل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَمَّا تَوَجَّهَ تِلۡقَاۤءَ مَدۡیَنَ قَالَ عَسَىٰ رَبِّیۤ أَن یَهۡدِیَنِی سَوَاۤءَ ٱلسَّبِیلِ
 
 | Details |  |

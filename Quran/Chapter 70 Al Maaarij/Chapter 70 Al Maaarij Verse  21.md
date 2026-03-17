@@ -452,6 +452,18 @@ Wa 'Idhā Massahu Al-Khayru Manū'āan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا مسه الخير منوعا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا مَسَّهُ ٱلۡخَیۡرُ مَنُوعًا
 
 | Details |  |

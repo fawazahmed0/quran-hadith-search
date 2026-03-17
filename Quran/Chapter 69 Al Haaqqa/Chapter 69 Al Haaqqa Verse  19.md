@@ -452,6 +452,18 @@ Fa'ammā Man 'Ūtiya Kitābahu Biyamīnihi Fayaqūlu Hā'uum Aqra'ū Kitābī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَيَقُولُ هَاؤُمُ اقْرَءُوا كِتَابِيَهْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاما من اوتي كتابه بيمينه فيقول هاوم اقرءوا كتابيه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَمَّا مَنۡ أُوتِیَ كِتَـٰبَهُۥ بِیَمِینِهِۦ فَیَقُولُ هَاۤؤُمُ ٱقۡرَءُوا۟ كِتَـٰبِیَهۡ
 
 | Details |  |

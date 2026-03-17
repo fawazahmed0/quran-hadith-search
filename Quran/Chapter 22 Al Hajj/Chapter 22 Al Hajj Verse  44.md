@@ -452,6 +452,18 @@ Wa 'Aşĥābu Madyana Wa Kudhiba Mūsá Fa'amlaytu Lilkāfirīna Thumma 'Akhadht
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَصْحَابُ مَدْيَنَ وَكُذِّبَ مُوسَى فَأَمْلَيْتُ لِلْكَافِرِينَ ثُمَّ أَخَذْتُهُمْ فَكَيْفَ كَانَ نَكِيرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واصحاب مدين وكذب موسى فامليت للكافرين ثم اخذتهم فكيف كان نكير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَصۡحَـٰبُ مَدۡیَنَۖ وَكُذِّبَ مُوسَىٰۖ فَأَمۡلَیۡتُ لِلۡكَـٰفِرِینَ ثُمَّ أَخَذۡتُهُمۡۖ فَكَیۡفَ كَانَ نَكِیرِ
 
 | Details |  |

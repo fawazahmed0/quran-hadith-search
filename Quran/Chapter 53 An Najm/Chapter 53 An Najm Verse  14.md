@@ -452,6 +452,18 @@ Inda Sidrati Al-Muntahá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عِنْدَ سِدْرَةِ الْمُنْتَهَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عند سدرة المنتهى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عِندَ سِدۡرَةِ ٱلۡمُنتَهَىٰ
 
 | Details |  |

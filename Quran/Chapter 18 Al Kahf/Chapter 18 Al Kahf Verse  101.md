@@ -452,6 +452,18 @@ Al-Ladhīna Kānat 'A'yunuhum Fī Ghiţā'in 'An Dhikrī Wa Kānū Lā Yastaţī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ كَانَتْ أَعْيُنُهُمْ فِي غِطَاءٍ عَنْ ذِكْرِي وَكَانُوا لَا يَسْتَطِيعُونَ سَمْعًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين كانت اعينهم في غطاء عن ذكري وكانوا لا يستطيعون سمعا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ كَانَتۡ أَعۡیُنُهُمۡ فِی غِطَاۤءٍ عَن ذِكۡرِی وَكَانُوا۟ لَا یَسۡتَطِیعُونَ سَمۡعًا
 
 | Details |  |

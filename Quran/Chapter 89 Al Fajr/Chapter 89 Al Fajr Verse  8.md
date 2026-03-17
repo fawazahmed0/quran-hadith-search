@@ -452,6 +452,18 @@ Allatī Lam Yukhlaq Mithluhā Fī Al-Bilādi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+التي لم يخلق مثلها في البلاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّتِی لَمۡ یُخۡلَقۡ مِثۡلُهَا فِی ٱلۡبِلَـٰدِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'In Minkum 'Illā Wa Ariduhā Kāna 'Alá Rabbika Ĥatmāan Maqđīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ مِنْكُمْ إِلَّا وَارِدُهَا كَانَ عَلَى رَبِّكَ حَتْمًا مَقْضِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان منكم الا واردها كان على ربك حتما مقضيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن مِّنكُمۡ إِلَّا وَارِدُهَاۚ كَانَ عَلَىٰ رَبِّكَ حَتۡمࣰا مَّقۡضِیࣰّا
 
 | Details |  |

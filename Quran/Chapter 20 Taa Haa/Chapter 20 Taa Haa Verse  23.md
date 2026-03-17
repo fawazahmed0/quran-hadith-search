@@ -452,6 +452,18 @@ Linuriyaka Min 'Āyātinā Al-Kubrá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِنُرِيَكَ مِنْ آيَاتِنَا الْكُبْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لنريك من اياتنا الكبرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِنُرِیَكَ مِنۡ ءَایَـٰتِنَا ٱلۡكُبۡرَى
 
 | Details |  |

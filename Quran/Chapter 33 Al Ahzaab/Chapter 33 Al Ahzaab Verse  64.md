@@ -452,6 +452,18 @@ Inna Allāha La'ana Al-Kāfirīna Wa 'A'adda Lahum Sa'īrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ اللَّهَ لَعَنَ الْكَافِرِينَ وَأَعَدَّ لَهُمْ سَعِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الله لعن الكافرين واعد لهم سعيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱللَّهَ لَعَنَ ٱلۡكَـٰفِرِینَ وَأَعَدَّ لَهُمۡ سَعِیرًا
 
 | Details |  |

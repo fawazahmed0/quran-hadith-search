@@ -452,6 +452,18 @@ Qāla Mūsá 'Ataqūlūna Lilĥaqqi Lammā Jā'akum 'Asiĥrun Hādhā Wa Lā Yuf
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ مُوسَى أَتَقُولُونَ لِلْحَقِّ لَمَّا جَاءَكُمْ أَسِحْرٌ هَذَا وَلَا يُفْلِحُ السَّاحِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال موسى اتقولون للحق لما جاءكم اسحر هذا ولا يفلح الساحرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ مُوسَىٰۤ أَتَقُولُونَ لِلۡحَقِّ لَمَّا جَاۤءَكُمۡۖ أَسِحۡرٌ هَـٰذَا وَلَا یُفۡلِحُ ٱلسَّـٰحِرُونَ
 
 | Details |  |

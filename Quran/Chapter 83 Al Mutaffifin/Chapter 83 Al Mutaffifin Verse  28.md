@@ -452,6 +452,18 @@ Aynāan Yashrabu Bihā Al-Muqarrabūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَيْنًا يَشْرَبُ بِهَا الْمُقَرَّبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عينا يشرب بها المقربون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَیۡنࣰا یَشۡرَبُ بِهَا ٱلۡمُقَرَّبُونَ
 
 | Details |  |

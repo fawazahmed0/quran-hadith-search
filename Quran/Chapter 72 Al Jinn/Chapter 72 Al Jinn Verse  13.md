@@ -452,6 +452,18 @@ Wa 'Annā Lammā Sami'nā Al-Hudá 'Āmannā Bihi Faman Yu'umin Birabbihi Falā 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّا لَمَّا سَمِعْنَا الْهُدَى آمَنَّا بِهِ فَمَنْ يُؤْمِنْ بِرَبِّهِ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانا لما سمعنا الهدى امنا به فمن يومن بربه فلا يخاف بخسا ولا رهقا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّا لَمَّا سَمِعۡنَا ٱلۡهُدَىٰۤ ءَامَنَّا بِهِۦۖ فَمَن یُؤۡمِنۢ بِرَبِّهِۦ فَلَا یَخَافُ بَخۡسࣰا وَلَا رَهَقࣰا
 
 | Details |  |

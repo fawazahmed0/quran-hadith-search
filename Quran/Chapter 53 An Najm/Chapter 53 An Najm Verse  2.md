@@ -452,6 +452,18 @@ Mā Đalla Şāĥibukum Wa Mā Ghawá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما ضل صاحبكم وما غوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا ضَلَّ صَاحِبُكُمۡ وَمَا غَوَىٰ
 
 | Details |  |

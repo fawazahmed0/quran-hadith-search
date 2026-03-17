@@ -452,6 +452,18 @@ Qālū Lā Đayra 'Innā 'Ilá Rabbinā Munqalibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا لَا ضَيْرَ إِنَّا إِلَى رَبِّنَا مُنْقَلِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا لا ضير انا الى ربنا منقلبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ لَا ضَیۡرَۖ إِنَّاۤ إِلَىٰ رَبِّنَا مُنقَلِبُونَ
 
 | Details |  |

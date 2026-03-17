@@ -452,6 +452,18 @@ Fālmūriyāti Qadĥāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَالْمُورِيَاتِ قَدْحًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالموريات قدحا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱلۡمُورِیَـٰتِ قَدۡحࣰا
 
 | Details |  |

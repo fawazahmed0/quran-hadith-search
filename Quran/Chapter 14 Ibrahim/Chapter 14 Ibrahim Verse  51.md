@@ -452,6 +452,18 @@ Liyajziya Allāhu Kulla Nafsin Mā Kasabat 'Inna Allāha Sarī'u Al-Ĥisābi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِيَجْزِيَ اللَّهُ كُلَّ نَفْسٍ مَا كَسَبَتْ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ليجزي الله كل نفس ما كسبت ان الله سريع الحساب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِیَجۡزِیَ ٱللَّهُ كُلَّ نَفۡسࣲ مَّا كَسَبَتۡۚ إِنَّ ٱللَّهَ سَرِیعُ ٱلۡحِسَابِ
 
 | Details |  |

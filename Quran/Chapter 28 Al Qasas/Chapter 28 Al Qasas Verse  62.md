@@ -452,6 +452,18 @@ Wa Yawma Yunādīhim Fayaqūlu 'Ayna Shurakā'iya Al-Ladhīna Kuntum Taz'umūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنْتُمْ تَزْعُمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويوم يناديهم فيقول اين شركايي الذين كنتم تزعمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَوۡمَ یُنَادِیهِمۡ فَیَقُولُ أَیۡنَ شُرَكَاۤءِیَ ٱلَّذِینَ كُنتُمۡ تَزۡعُمُونَ
 
 | Details |  |

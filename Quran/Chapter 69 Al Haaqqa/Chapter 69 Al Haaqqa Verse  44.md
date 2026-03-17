@@ -452,6 +452,18 @@ Wa Law Taqawwala 'Alaynā Ba'đa Al-'Aqāwīli
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ الْأَقَاوِيلِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولو تقول علينا بعض الاقاويل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡ تَقَوَّلَ عَلَیۡنَا بَعۡضَ ٱلۡأَقَاوِیلِ
 
 | Details |  |

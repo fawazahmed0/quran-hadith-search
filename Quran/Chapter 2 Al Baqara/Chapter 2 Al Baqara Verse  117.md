@@ -452,6 +452,18 @@ Badī'u As-Samāwāti Wa Al-'Arđi Wa 'Idhā Qađá 'Amrāan Fa'innamā Yaqūlu 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَدِيعُ السَّمَاوَاتِ وَالْأَرْضِ وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بديع السماوات والارض واذا قضى امرا فانما يقول له كن فيكون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَدِیعُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۖ وَإِذَا قَضَىٰۤ أَمۡرࣰا فَإِنَّمَا یَقُولُ لَهُۥ كُن فَیَكُونُ
 
 | Details |  |

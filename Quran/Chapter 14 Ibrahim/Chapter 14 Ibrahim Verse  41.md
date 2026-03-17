@@ -452,6 +452,18 @@ Rabbanā Aghfir Lī Wa Liwālidayya Wa Lilmu'uminīna Yawma Yaqūmu Al-Ĥisābu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ربنا اغفر لي ولوالدي وللمومنين يوم يقوم الحساب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَبَّنَا ٱغۡفِرۡ لِی وَلِوَ ٰلِدَیَّ وَلِلۡمُؤۡمِنِینَ یَوۡمَ یَقُومُ ٱلۡحِسَابُ
 
 | Details |  |

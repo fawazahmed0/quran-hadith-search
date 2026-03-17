@@ -452,6 +452,18 @@ Ara'ayta Mani Attakhadha 'Ilahahu Hawāhu 'Afa'anta Takūnu 'Alayhi Wa Kīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَرَأَيْتَ مَنِ اتَّخَذَ إِلَهَهُ هَوَاهُ أَفَأَنْتَ تَكُونُ عَلَيْهِ وَكِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ارايت من اتخذ الهه هواه افانت تكون عليه وكيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَرَءَیۡتَ مَنِ ٱتَّخَذَ إِلَـٰهَهُۥ هَوَىٰهُ أَفَأَنتَ تَكُونُ عَلَیۡهِ وَكِیلًا
 
 | Details |  |

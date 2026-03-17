@@ -452,6 +452,18 @@ Falā Şaddaqa Wa Lā Şallá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَا صَدَّقَ وَلَا صَلَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلا صدق ولا صلى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَا صَدَّقَ وَلَا صَلَّىٰ
 
 | Details |  |

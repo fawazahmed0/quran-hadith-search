@@ -452,6 +452,18 @@ Fa'in Kadhabūka Faqul Rabbukum Dhū Raĥmatin Wāsi'atin Wa Lā Yuraddu Ba'suhu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنْ كَذَّبُوكَ فَقُلْ رَبُّكُمْ ذُو رَحْمَةٍ وَاسِعَةٍ وَلَا يُرَدُّ بَأْسُهُ عَنِ الْقَوْمِ الْمُجْرِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فان كذبوك فقل ربكم ذو رحمة واسعة ولا يرد باسه عن القوم المجرمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِن كَذَّبُوكَ فَقُل رَّبُّكُمۡ ذُو رَحۡمَةࣲ وَ ٰسِعَةࣲ وَلَا یُرَدُّ بَأۡسُهُۥ عَنِ ٱلۡقَوۡمِ ٱلۡمُجۡرِمِینَ
 
 | Details |  |

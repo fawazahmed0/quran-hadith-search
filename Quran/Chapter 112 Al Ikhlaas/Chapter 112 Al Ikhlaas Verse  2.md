@@ -452,6 +452,18 @@ Allāhu Aş-Şamadu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اللَّهُ الصَّمَدُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الله الصمد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱللَّهُ ٱلصَّمَدُ
 
 | Details |  |

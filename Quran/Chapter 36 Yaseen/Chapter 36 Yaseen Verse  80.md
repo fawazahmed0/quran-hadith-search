@@ -452,6 +452,18 @@ Al-Ladhī Ja'ala Lakum Mina Ash-Shajari Al-'Akhđari Nārāan Fa'idhā 'Antum Mi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي جَعَلَ لَكُمْ مِنَ الشَّجَرِ الْأَخْضَرِ نَارًا فَإِذَا أَنْتُمْ مِنْهُ تُوقِدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي جعل لكم من الشجر الاخضر نارا فاذا انتم منه توقدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِی جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلۡأَخۡضَرِ نَارࣰا فَإِذَاۤ أَنتُم مِّنۡهُ تُوقِدُونَ
 
 | Details |  |

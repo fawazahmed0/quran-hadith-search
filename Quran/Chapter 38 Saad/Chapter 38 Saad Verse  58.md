@@ -452,6 +452,18 @@ Wa 'Ākharu Min Shaklihi 'Azwājun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَآخَرُ مِنْ شَكْلِهِ أَزْوَاجٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واخر من شكله ازواج
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَءَاخَرُ مِن شَكۡلِهِۦۤ أَزۡوَ ٰجٌ
 
 | Details |  |

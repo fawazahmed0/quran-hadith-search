@@ -452,6 +452,18 @@ Qālū Wa 'Aqbalū 'Alayhim Mādhā Tafqidūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا وَأَقْبَلُوا عَلَيْهِمْ مَاذَا تَفْقِدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا واقبلوا عليهم ماذا تفقدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ وَأَقۡبَلُوا۟ عَلَیۡهِم مَّاذَا تَفۡقِدُونَ
 
 | Details |  |

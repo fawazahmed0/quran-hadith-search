@@ -452,6 +452,18 @@ Fayawma'idhin Lā Yus'alu 'An Dhanbihi 'Insun Wa Lā Jānnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَيَوْمَئِذٍ لَا يُسْأَلُ عَنْ ذَنْبِهِ إِنْسٌ وَلَا جَانٌّ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيوميذ لا يسال عن ذنبه انس ولا جان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَیَوۡمَئِذࣲ لَّا یُسۡءَلُ عَن ذَنۢبِهِۦۤ إِنسࣱ وَلَا جَاۤنࣱّ
 
 | Details |  |

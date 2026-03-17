@@ -452,6 +452,18 @@ Qāla La'ini Attakhadhta 'Ilahāan Ghayrī La'aj'alannaka Mina Al-Masjūnīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ لَئِنِ اتَّخَذْتَ إِلَهًا غَيْرِي لَأَجْعَلَنَّكَ مِنَ الْمَسْجُونِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال لين اتخذت الها غيري لاجعلنك من المسجونين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ لَئِنِ ٱتَّخَذۡتَ إِلَـٰهًا غَیۡرِی لَأَجۡعَلَنَّكَ مِنَ ٱلۡمَسۡجُونِینَ
 
 | Details |  |

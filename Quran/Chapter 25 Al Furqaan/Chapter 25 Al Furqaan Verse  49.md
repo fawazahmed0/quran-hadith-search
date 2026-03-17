@@ -452,6 +452,18 @@ Linuĥyiya Bihi Baldatan Maytāan Wa Nusqiyahu Mimmā Khalaqnā 'An'āmāan Wa '
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِنُحْيِيَ بِهِ بَلْدَةً مَيْتًا وَنُسْقِيَهُ مِمَّا خَلَقْنَا أَنْعَامًا وَأَنَاسِيَّ كَثِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لنحيي به بلدة ميتا ونسقيه مما خلقنا انعاما واناسي كثيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِّنُحۡـِۧیَ بِهِۦ بَلۡدَةࣰ مَّیۡتࣰا وَنُسۡقِیَهُۥ مِمَّا خَلَقۡنَاۤ أَنۡعَـٰمࣰا وَأَنَاسِیَّ كَثِیرࣰا
 
 | Details |  |

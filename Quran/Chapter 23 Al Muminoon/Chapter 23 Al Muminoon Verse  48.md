@@ -452,6 +452,18 @@ Fakadhabūhumā Fakānū Mina Al-Muhlakīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكَذَّبُوهُمَا فَكَانُوا مِنَ الْمُهْلَكِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكذبوهما فكانوا من المهلكين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكَذَّبُوهُمَا فَكَانُوا۟ مِنَ ٱلۡمُهۡلَكِینَ
 
 | Details |  |

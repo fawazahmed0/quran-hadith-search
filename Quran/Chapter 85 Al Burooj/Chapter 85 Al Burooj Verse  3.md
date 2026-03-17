@@ -452,6 +452,18 @@ Wa Shāhidin Wa Mash/hūdin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَشَاهِدٍ وَمَشْهُودٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وشاهد ومشهود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَشَاهِدࣲ وَمَشۡهُودࣲ
 
 | Details |  |

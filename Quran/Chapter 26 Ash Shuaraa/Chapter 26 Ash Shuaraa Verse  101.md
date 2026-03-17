@@ -452,6 +452,18 @@ Wa Lā Şadīqin Ĥamīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا صَدِيقٍ حَمِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا صديق حميم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا صَدِیقٍ حَمِیمࣲ
 
 | Details |  |

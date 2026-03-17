@@ -452,6 +452,18 @@ Wa Jā'a 'Ahlu Al-Madīnati Yastabshirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَاءَ أَهْلُ الْمَدِينَةِ يَسْتَبْشِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجاء اهل المدينة يستبشرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَاۤءَ أَهۡلُ ٱلۡمَدِینَةِ یَسۡتَبۡشِرُونَ
 
 | Details |  |

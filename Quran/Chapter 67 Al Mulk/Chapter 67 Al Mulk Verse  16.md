@@ -452,6 +452,18 @@ A'amintum Man Fī As-Samā'i 'An Yakhsifa Bikumu Al-'Arđa Fa'idhā Hiya Tamūru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَأَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يَخْسِفَ بِكُمُ الْأَرْضَ فَإِذَا هِيَ تَمُورُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اامنتم من في السماء ان يخسف بكم الارض فاذا هي تمور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ءَأَمِنتُم مَّن فِی ٱلسَّمَاۤءِ أَن یَخۡسِفَ بِكُمُ ٱلۡأَرۡضَ فَإِذَا هِیَ تَمُورُ
 
 | Details |  |

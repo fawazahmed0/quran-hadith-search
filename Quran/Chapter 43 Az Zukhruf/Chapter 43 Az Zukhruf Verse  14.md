@@ -452,6 +452,18 @@ Wa 'Innā 'Ilá Rabbinā Lamunqalibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانا الى ربنا لمنقلبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّاۤ إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ
 
 | Details |  |

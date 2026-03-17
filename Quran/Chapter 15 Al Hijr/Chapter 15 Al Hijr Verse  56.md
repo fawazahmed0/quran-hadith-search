@@ -452,6 +452,18 @@ Qāla Wa Man Yaqnaţu Min Raĥmati Rabbihi 'Illā Ađ-Đāllūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ وَمَنْ يَقْنَطُ مِنْ رَحْمَةِ رَبِّهِ إِلَّا الضَّالُّونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال ومن يقنط من رحمة ربه الا الضالون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ وَمَن یَقۡنَطُ مِن رَّحۡمَةِ رَبِّهِۦۤ إِلَّا ٱلضَّاۤلُّونَ
 
 | Details |  |

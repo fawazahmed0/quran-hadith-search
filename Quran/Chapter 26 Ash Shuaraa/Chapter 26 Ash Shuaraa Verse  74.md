@@ -452,6 +452,18 @@ Qālū Bal Wajadnā 'Ābā'anā Kadhālika Yaf'alūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا بَلْ وَجَدْنَا آبَاءَنَا كَذَلِكَ يَفْعَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا بل وجدنا اباءنا كذلك يفعلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ بَلۡ وَجَدۡنَاۤ ءَابَاۤءَنَا كَذَ ٰلِكَ یَفۡعَلُونَ
 
 | Details |  |

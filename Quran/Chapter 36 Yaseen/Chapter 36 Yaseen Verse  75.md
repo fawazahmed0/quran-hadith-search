@@ -452,6 +452,18 @@ Lā Yastaţī'ūna Naşrahum Wa Hum Lahum Jundun Muĥđarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يَسْتَطِيعُونَ نَصْرَهُمْ وَهُمْ لَهُمْ جُنْدٌ مُحْضَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يستطيعون نصرهم وهم لهم جند محضرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا یَسۡتَطِیعُونَ نَصۡرَهُمۡ وَهُمۡ لَهُمۡ جُندࣱ مُّحۡضَرُونَ
 
 | Details |  |

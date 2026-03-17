@@ -452,6 +452,18 @@ Ula'ika Al-Ladhina Khasiru 'Anfusahum Wa Đalla 'Anhum Ma Kanu Yaftaruna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك الذين خسروا انفسهم وضل عنهم ما كانوا يفترون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ ٱلَّذِینَ خَسِرُوۤا۟ أَنفُسَهُمۡ وَضَلَّ عَنۡهُم مَّا كَانُوا۟ یَفۡتَرُونَ
 
 | Details |  |

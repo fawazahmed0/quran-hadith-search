@@ -452,6 +452,18 @@ Ula'ika Al-Ladhina Ashtaraw Ađ-Đalalata Bil-Huda Fama Rabihat Tijaratuhum Wa M
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ الَّذِينَ اشْتَرَوُا الضَّلَالَةَ بِالْهُدَى فَمَا رَبِحَتْ تِجَارَتُهُمْ وَمَا كَانُوا مُهْتَدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك الذين اشتروا الضلالة بالهدى فما ربحت تجارتهم وما كانوا مهتدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ ٱلَّذِینَ ٱشۡتَرَوُا۟ ٱلضَّلَـٰلَةَ بِٱلۡهُدَىٰ فَمَا رَبِحَت تِّجَـٰرَتُهُمۡ وَمَا كَانُوا۟ مُهۡتَدِینَ
 
 | Details |  |

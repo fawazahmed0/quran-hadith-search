@@ -452,6 +452,18 @@ Wa Akhfiđ Janāĥaka Limani Attaba'aka Mina Al-Mu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاخْفِضْ جَنَاحَكَ لِمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واخفض جناحك لمن اتبعك من المومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱخۡفِضۡ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلۡمُؤۡمِنِینَ
 
 | Details |  |

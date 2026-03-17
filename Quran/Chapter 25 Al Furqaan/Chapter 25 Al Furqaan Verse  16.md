@@ -452,6 +452,18 @@ Lahum Fīhā Mā Yashā'ūna Khālidīna Kāna 'Alá Rabbika Wa'dāan Mas'ūlāa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَهُمْ فِيهَا مَا يَشَاءُونَ خَالِدِينَ كَانَ عَلَى رَبِّكَ وَعْدًا مَسْئُولًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لهم فيها ما يشاءون خالدين كان على ربك وعدا مسيولا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّهُمۡ فِیهَا مَا یَشَاۤءُونَ خَـٰلِدِینَۚ كَانَ عَلَىٰ رَبِّكَ وَعۡدࣰا مَّسۡءُولࣰا
 
 | Details |  |

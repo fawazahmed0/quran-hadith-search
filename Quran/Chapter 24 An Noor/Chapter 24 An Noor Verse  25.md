@@ -452,6 +452,18 @@ Yawma'idhin Yuwaffīhimu Allāhu Dīnahumu Al-Ĥaqqa Wa Ya'lamūna 'Anna Allāha
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَئِذٍ يُوَفِّيهِمُ اللَّهُ دِينَهُمُ الْحَقَّ وَيَعْلَمُونَ أَنَّ اللَّهَ هُوَ الْحَقُّ الْمُبِينُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوميذ يوفيهم الله دينهم الحق ويعلمون ان الله هو الحق المبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَئِذࣲ یُوَفِّیهِمُ ٱللَّهُ دِینَهُمُ ٱلۡحَقَّ وَیَعۡلَمُونَ أَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ ٱلۡمُبِینُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Mā Naqamū Minhum 'Illā 'An Yu'uminū Billāhi Al-'Azīzi Al-Ĥamīdi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَنْ يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما نقموا منهم الا ان يومنوا بالله العزيز الحميد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا نَقَمُوا۟ مِنۡهُمۡ إِلَّاۤ أَن یُؤۡمِنُوا۟ بِٱللَّهِ ٱلۡعَزِیزِ ٱلۡحَمِیدِ
 
 | Details |  |

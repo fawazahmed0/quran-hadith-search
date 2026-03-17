@@ -452,6 +452,18 @@ Ula'ika 'Alayhim Salawatun Min Rabbihim Wa Rahmatun Wa 'Ula'ika Humu Al-Muhtadun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ عَلَيْهِمْ صَلَوَاتٌ مِنْ رَبِّهِمْ وَرَحْمَةٌ وَأُولَئِكَ هُمُ الْمُهْتَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك عليهم صلوات من ربهم ورحمة واوليك هم المهتدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ عَلَیۡهِمۡ صَلَوَ ٰتࣱ مِّن رَّبِّهِمۡ وَرَحۡمَةࣱۖ وَأُو۟لَـٰۤئِكَ هُمُ ٱلۡمُهۡتَدُونَ
 
 | Details |  |

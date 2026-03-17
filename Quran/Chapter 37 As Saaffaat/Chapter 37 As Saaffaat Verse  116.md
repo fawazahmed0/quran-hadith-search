@@ -452,6 +452,18 @@ Wa Naşarnāhum Fakānū Humu Al-Ghālibīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَصَرْنَاهُمْ فَكَانُوا هُمُ الْغَالِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونصرناهم فكانوا هم الغالبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَصَرۡنَـٰهُمۡ فَكَانُوا۟ هُمُ ٱلۡغَـٰلِبِینَ
 
 | Details |  |

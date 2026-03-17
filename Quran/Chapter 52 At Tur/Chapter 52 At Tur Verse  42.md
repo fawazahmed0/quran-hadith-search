@@ -452,6 +452,18 @@ Am Yurīdūna Kaydāan Fa-Al-Ladhīna Kafarū Humu Al-Makīdūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ يُرِيدُونَ كَيْدًا فَالَّذِينَ كَفَرُوا هُمُ الْمَكِيدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام يريدون كيدا فالذين كفروا هم المكيدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ یُرِیدُونَ كَیۡدࣰاۖ فَٱلَّذِینَ كَفَرُوا۟ هُمُ ٱلۡمَكِیدُونَ
 
 | Details |  |

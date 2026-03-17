@@ -452,6 +452,18 @@ Wa Ash-Shamsi Wa Đuĥāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالشَّمْسِ وَضُحَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والشمس وضحاها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلشَّمۡسِ وَضُحَىٰهَا
 
 | Details |  |

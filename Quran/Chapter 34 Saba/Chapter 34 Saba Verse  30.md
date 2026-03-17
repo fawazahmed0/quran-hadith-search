@@ -452,6 +452,18 @@ Qul Lakum Mī'ādu Yawmin Lā Tasta'khirūna 'Anhu Sā'atan Wa Lā Tastaqdimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ لَكُمْ مِيعَادُ يَوْمٍ لَا تَسْتَأْخِرُونَ عَنْهُ سَاعَةً وَلَا تَسْتَقْدِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل لكم ميعاد يوم لا تستاخرون عنه ساعة ولا تستقدمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُل لَّكُم مِّیعَادُ یَوۡمࣲ لَّا تَسۡتَءۡخِرُونَ عَنۡهُ سَاعَةࣰ وَلَا تَسۡتَقۡدِمُونَ
 
 | Details |  |

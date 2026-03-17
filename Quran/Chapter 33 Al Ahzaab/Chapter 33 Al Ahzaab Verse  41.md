@@ -452,6 +452,18 @@ Yā 'Ayyuhā Al-Ladhīna 'Āmanū Adhkurū Allāha Dhikrāan Kathīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايها الذين امنوا اذكروا الله ذكرا كثيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱذۡكُرُوا۟ ٱللَّهَ ذِكۡرࣰا كَثِیرࣰا
 
 | Details |  |

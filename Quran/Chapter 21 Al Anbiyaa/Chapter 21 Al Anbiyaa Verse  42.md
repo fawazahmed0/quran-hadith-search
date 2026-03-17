@@ -452,6 +452,18 @@ Qul Man Yakla'uukum Bil-Layli Wa An-Nahāri Mina Ar-Raĥmāni Bal Hum 'An Dhikri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ مَنْ يَكْلَؤُكُمْ بِاللَّيْلِ وَالنَّهَارِ مِنَ الرَّحْمَنِ بَلْ هُمْ عَنْ ذِكْرِ رَبِّهِمْ مُعْرِضُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل من يكلوكم بالليل والنهار من الرحمن بل هم عن ذكر ربهم معرضون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ مَن یَكۡلَؤُكُم بِٱلَّیۡلِ وَٱلنَّهَارِ مِنَ ٱلرَّحۡمَـٰنِۚ بَلۡ هُمۡ عَن ذِكۡرِ رَبِّهِم مُّعۡرِضُونَ
 
 | Details |  |

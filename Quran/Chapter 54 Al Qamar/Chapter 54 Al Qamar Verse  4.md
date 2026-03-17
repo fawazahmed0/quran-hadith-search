@@ -452,6 +452,18 @@ Wa Laqad Jā'ahum Mina Al-'Anbā'i Mā Fīhi Muzdajarun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ جَاءَهُمْ مِنَ الْأَنْبَاءِ مَا فِيهِ مُزْدَجَرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد جاءهم من الانباء ما فيه مزدجر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ جَاۤءَهُم مِّنَ ٱلۡأَنۢبَاۤءِ مَا فِیهِ مُزۡدَجَرٌ
 
 | Details |  |

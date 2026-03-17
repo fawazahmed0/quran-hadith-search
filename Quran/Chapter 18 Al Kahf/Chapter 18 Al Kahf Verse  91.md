@@ -452,6 +452,18 @@ Kadhālika Wa Qad 'Aĥaţnā Bimā Ladayhi Khubrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَلِكَ وَقَدْ أَحَطْنَا بِمَا لَدَيْهِ خُبْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذلك وقد احطنا بما لديه خبرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَ ٰلِكَۖ وَقَدۡ أَحَطۡنَا بِمَا لَدَیۡهِ خُبۡرࣰا
 
 | Details |  |

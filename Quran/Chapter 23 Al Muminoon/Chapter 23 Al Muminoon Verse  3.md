@@ -452,6 +452,18 @@ Wa Al-Ladhīna Hum 'Ani Al-Laghwi Mu'riđūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين هم عن اللغو معرضون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ هُمۡ عَنِ ٱللَّغۡوِ مُعۡرِضُونَ
 
 | Details |  |

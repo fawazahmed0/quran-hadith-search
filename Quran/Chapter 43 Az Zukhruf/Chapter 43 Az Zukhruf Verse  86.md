@@ -452,6 +452,18 @@ Wa Lā Yamliku Al-Ladhīna Yad'ūna Min Dūnihi Ash-Shafā'ata 'Illā Man Shahid
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا يَمْلِكُ الَّذِينَ يَدْعُونَ مِنْ دُونِهِ الشَّفَاعَةَ إِلَّا مَنْ شَهِدَ بِالْحَقِّ وَهُمْ يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا يملك الذين يدعون من دونه الشفاعة الا من شهد بالحق وهم يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا یَمۡلِكُ ٱلَّذِینَ یَدۡعُونَ مِن دُونِهِ ٱلشَّفَـٰعَةَ إِلَّا مَن شَهِدَ بِٱلۡحَقِّ وَهُمۡ یَعۡلَمُونَ
 
 | Details |  |

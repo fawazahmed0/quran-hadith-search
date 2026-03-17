@@ -452,6 +452,18 @@ Am Khalaqū As-Samāwāti Wa Al-'Arđa Bal Lā Yūqinūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ خَلَقُوا السَّمَاوَاتِ وَالْأَرْضَ بَلْ لَا يُوقِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام خلقوا السماوات والارض بل لا يوقنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ خَلَقُوا۟ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضَۚ بَل لَّا یُوقِنُونَ
 
 | Details |  |

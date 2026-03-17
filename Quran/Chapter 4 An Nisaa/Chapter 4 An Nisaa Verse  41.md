@@ -452,6 +452,18 @@ Fakayfa 'Idhā Ji'nā Min Kulli 'Ummatin Bishahīdin Wa Ji'nā Bika 'Alá Hā'uu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكَيْفَ إِذَا جِئْنَا مِنْ كُلِّ أُمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَى هَؤُلَاءِ شَهِيدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكيف اذا جينا من كل امة بشهيد وجينا بك على هولاء شهيدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكَیۡفَ إِذَا جِئۡنَا مِن كُلِّ أُمَّةِۭ بِشَهِیدࣲ وَجِئۡنَا بِكَ عَلَىٰ هَـٰۤؤُلَاۤءِ شَهِیدࣰا
 
 | Details |  |

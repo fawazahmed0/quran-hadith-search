@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي مُحَمَّدٍ الْحَسَنِ بْنِ عَلِيِّ بْنِ أَبِي طَالِبٍ سِبْطِ رَسُولِ اللَّهِ صلى الله عليه و سلم وَرَيْحَانَتِهِ رَضِيَ اللَّهُ عَنْهُمَا، قَالَ: حَفِظْت مِنْ رَسُولِ اللَّهِ صلى الله عليه و سلم دَعْ مَا يُرِيبُك إلَى مَا لَا يُرِيبُك . رَوَاهُ التِّرْمِذِيُّ \[رقم:2520\]، \[وَالنَّسَائِيّ\] وَقَالَ التِّرْمِذِيُّ: حَدِيثٌ حَسَنٌ صَحِيحٌ
@@ -47,6 +49,16 @@ On the authority of Abu Muhammad al-Hasan ibn Ali ibn Abee Talib (may Allah be p
 ## French
 
 Selon Abou Muhammad al-Hassan ibn ‘Ali ibn Abi Talib (qu’Allah l’agrée), petit-fils du Messager d’Allah (ﷺ) et très cher à lui, qui a dit : J’ai retenu du Messager d’Allah (ﷺ) : « Laisse ce qui te met dans le doute pour ce qui ne te fait pas douter. » \[At-Tirmidhi\] \[An-Nassaï\]. At-Tirmidhi a dit que ce hadith est bon et authentique (hasan sahih)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 11 |
+| Arabic No | 11 |
+| Reference | Book 1 Hadith 11 |
+
+## Turkish
+
+Resulullah'ın (ﷺ) torunu ve sevgilisi Ebu Muhammed Hasan bin Ali (ra) şöyle demiştir: Resulullah'tan (ﷺ) şunu ezberledim: "Sana şüphe vereni bırak, şüphe vermeyene yönel." \[Tirmizi ve Nesai\]
 
 | References: |  |
 | --- | --- |

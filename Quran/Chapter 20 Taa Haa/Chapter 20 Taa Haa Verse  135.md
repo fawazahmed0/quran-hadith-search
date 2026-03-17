@@ -452,6 +452,18 @@ Qul Kullun Mutarabbişun Fatarabbaşū Fasata'lamūna Man 'Aşĥābu Aş-Şirā�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ كُلٌّ مُتَرَبِّصٌ فَتَرَبَّصُوا فَسَتَعْلَمُونَ مَنْ أَصْحَابُ الصِّرَاطِ السَّوِيِّ وَمَنِ اهْتَدَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل كل متربص فتربصوا فستعلمون من اصحاب الصراط السوي ومن اهتدى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ كُلࣱّ مُّتَرَبِّصࣱ فَتَرَبَّصُوا۟ۖ فَسَتَعۡلَمُونَ مَنۡ أَصۡحَـٰبُ ٱلصِّرَ ٰطِ ٱلسَّوِیِّ وَمَنِ ٱهۡتَدَىٰ
 
 | Details |  |

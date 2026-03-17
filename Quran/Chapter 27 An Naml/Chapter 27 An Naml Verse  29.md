@@ -452,6 +452,18 @@ Qālat Yā 'Ayyuhā Al-Mala'u 'Innī 'Ulqiya 'Ilayya Kitābun Karīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَتْ يَا أَيُّهَا الْمَلَأُ إِنِّي أُلْقِيَ إِلَيَّ كِتَابٌ كَرِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالت يا ايها الملا اني القي الي كتاب كريم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَتۡ یَـٰۤأَیُّهَا ٱلۡمَلَؤُا۟ إِنِّیۤ أُلۡقِیَ إِلَیَّ كِتَـٰبࣱ كَرِیمٌ
 
 | Details |  |

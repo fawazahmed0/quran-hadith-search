@@ -452,6 +452,18 @@ Wa Laqad 'Araynāhu 'Āyātinā Kullahā Fakadhaba Wa 'Abá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ أَرَيْنَاهُ آيَاتِنَا كُلَّهَا فَكَذَّبَ وَأَبَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد اريناه اياتنا كلها فكذب وابى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ أَرَیۡنَـٰهُ ءَایَـٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
 
 | Details |  |

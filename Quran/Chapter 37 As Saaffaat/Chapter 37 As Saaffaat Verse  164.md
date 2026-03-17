@@ -452,6 +452,18 @@ Wa Mā Minnā 'Illā Lahu Maqāmun Ma'lūmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا مِنَّا إِلَّا لَهُ مَقَامٌ مَعْلُومٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما منا الا له مقام معلوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا مِنَّاۤ إِلَّا لَهُۥ مَقَامࣱ مَّعۡلُومࣱ
 
 | Details |  |

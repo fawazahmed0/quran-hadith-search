@@ -452,6 +452,18 @@ Kallā Bal Tukadhibūna Bid-Dīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا بل تكذبون بالدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّا بَلۡ تُكَذِّبُونَ بِٱلدِّینِ
 
 | Details |  |

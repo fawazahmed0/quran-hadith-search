@@ -452,6 +452,18 @@ Wa Yas'alūnaka 'An Dhī Al-Qarnayni Qul Sa'atlū 'Alaykum Minhu Dhikrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَسْأَلُونَكَ عَنْ ذِي الْقَرْنَيْنِ قُلْ سَأَتْلُو عَلَيْكُمْ مِنْهُ ذِكْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويسالونك عن ذي القرنين قل ساتلو عليكم منه ذكرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَسۡءَلُونَكَ عَن ذِی ٱلۡقَرۡنَیۡنِۖ قُلۡ سَأَتۡلُوا۟ عَلَیۡكُم مِّنۡهُ ذِكۡرًا
 
 | Details |  |

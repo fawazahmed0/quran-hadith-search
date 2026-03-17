@@ -452,6 +452,18 @@ Bi'anna Rabbaka 'Awĥá Lahā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بِأَنَّ رَبَّكَ أَوْحَى لَهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بان ربك اوحى لها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا
 
 | Details |  |

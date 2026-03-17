@@ -452,6 +452,18 @@ Inna Sa'yakum Lashattá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ سَعْيَكُمْ لَشَتَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان سعيكم لشتى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ سَعۡیَكُمۡ لَشَتَّىٰ
 
 | Details |  |

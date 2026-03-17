@@ -452,6 +452,18 @@ Innanī 'Anā Allāhu Lā 'Ilāha 'Illā 'Anā Fā'budnī Wa 'Aqimi Aş-Şalāat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّنِي أَنَا اللَّهُ لَا إِلَهَ إِلَّا أَنَا فَاعْبُدْنِي وَأَقِمِ الصَّلَاةَ لِذِكْرِي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انني انا الله لا اله الا انا فاعبدني واقم الصلاة لذكري
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّنِیۤ أَنَا ٱللَّهُ لَاۤ إِلَـٰهَ إِلَّاۤ أَنَا۠ فَٱعۡبُدۡنِی وَأَقِمِ ٱلصَّلَوٰةَ لِذِكۡرِیۤ
 
 | Details |  |

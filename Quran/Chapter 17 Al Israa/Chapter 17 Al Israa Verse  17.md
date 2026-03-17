@@ -452,6 +452,18 @@ Wa Kam 'Ahlaknā Mina Al-Qurūni Min Ba'di Nūĥin Wa Kafá Birabbika Bidhunūbi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَمْ أَهْلَكْنَا مِنَ الْقُرُونِ مِنْ بَعْدِ نُوحٍ وَكَفَى بِرَبِّكَ بِذُنُوبِ عِبَادِهِ خَبِيرًا بَصِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكم اهلكنا من القرون من بعد نوح وكفى بربك بذنوب عباده خبيرا بصيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَمۡ أَهۡلَكۡنَا مِنَ ٱلۡقُرُونِ مِنۢ بَعۡدِ نُوحࣲۗ وَكَفَىٰ بِرَبِّكَ بِذُنُوبِ عِبَادِهِۦ خَبِیرَۢا بَصِیرࣰا
 
 | Details |  |

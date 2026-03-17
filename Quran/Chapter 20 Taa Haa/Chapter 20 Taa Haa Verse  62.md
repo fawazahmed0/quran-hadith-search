@@ -452,6 +452,18 @@ Fatanāza'ū 'Amrahum Baynahum Wa 'Asarrū An-Najwá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَتَنَازَعُوا أَمْرَهُمْ بَيْنَهُمْ وَأَسَرُّوا النَّجْوَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فتنازعوا امرهم بينهم واسروا النجوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَتَنَـٰزَعُوۤا۟ أَمۡرَهُم بَیۡنَهُمۡ وَأَسَرُّوا۟ ٱلنَّجۡوَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Illā 'Alá 'Azwājihim 'W Mā Malakat 'Aymānuhum Fa'innahum Ghayru Malūmīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا على ازواجهم او ما ملكت ايمانهم فانهم غير ملومين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا عَلَىٰۤ أَزۡوَ ٰجِهِمۡ أَوۡ مَا مَلَكَتۡ أَیۡمَـٰنُهُمۡ فَإِنَّهُمۡ غَیۡرُ مَلُومِینَ
 
 | Details |  |

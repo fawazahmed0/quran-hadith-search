@@ -452,6 +452,18 @@ Atutrakūna Fī Mā Hāhunā 'Āminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَتُتْرَكُونَ فِي مَا هَاهُنَا آمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اتتركون في ما هاهنا امنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَتُتۡرَكُونَ فِی مَا هَـٰهُنَاۤ ءَامِنِینَ
 
 | Details |  |

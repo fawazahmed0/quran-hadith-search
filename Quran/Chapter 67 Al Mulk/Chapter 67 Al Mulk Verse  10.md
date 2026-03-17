@@ -452,6 +452,18 @@ Wa Qālū Law Kunnā Nasma'u 'Aw Na'qilu Mā Kunnā Fī 'Aşĥābi As-Sa'īri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ السَّعِيرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا لو كنا نسمع او نعقل ما كنا في اصحاب السعير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ لَوۡ كُنَّا نَسۡمَعُ أَوۡ نَعۡقِلُ مَا كُنَّا فِیۤ أَصۡحَـٰبِ ٱلسَّعِیرِ
 
 | Details |  |

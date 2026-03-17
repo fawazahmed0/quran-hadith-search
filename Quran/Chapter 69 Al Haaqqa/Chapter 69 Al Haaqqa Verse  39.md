@@ -452,6 +452,18 @@ Wa Mā Lā Tubşirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا لَا تُبْصِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما لا تبصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا لَا تُبۡصِرُونَ
 
 | Details |  |

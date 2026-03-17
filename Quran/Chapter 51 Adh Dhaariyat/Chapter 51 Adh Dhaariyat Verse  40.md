@@ -452,6 +452,18 @@ Fa'akhadhnāhu Wa Junūdahu Fanabadhnāhum Fī Al-Yammi Wa Huwa Mulīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَخَذْنَاهُ وَجُنُودَهُ فَنَبَذْنَاهُمْ فِي الْيَمِّ وَهُوَ مُلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاخذناه وجنوده فنبذناهم في اليم وهو مليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَخَذۡنَـٰهُ وَجُنُودَهُۥ فَنَبَذۡنَـٰهُمۡ فِی ٱلۡیَمِّ وَهُوَ مُلِیمࣱ
 
 | Details |  |

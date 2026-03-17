@@ -452,6 +452,18 @@ Wa 'Innahu Liĥubbi Al-Khayri Lashadīdun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه لحب الخير لشديد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّهُۥ لِحُبِّ ٱلۡخَیۡرِ لَشَدِیدٌ
 
 | Details |  |

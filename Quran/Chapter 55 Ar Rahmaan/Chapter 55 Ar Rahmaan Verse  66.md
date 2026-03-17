@@ -452,6 +452,18 @@ Fīhimā 'Aynāni Nađđākhatāni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيهما عينان نضاختان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِیهِمَا عَیۡنَانِ نَضَّاخَتَانِ
 
 | Details |  |

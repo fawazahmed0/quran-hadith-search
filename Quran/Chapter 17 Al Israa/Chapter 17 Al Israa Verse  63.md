@@ -452,6 +452,18 @@ Qāla Adh/hab Faman Tabi'aka Minhum Fa'inna Jahannama Jazā'uukum Jazā'an Mawf�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ اذْهَبْ فَمَنْ تَبِعَكَ مِنْهُمْ فَإِنَّ جَهَنَّمَ جَزَاؤُكُمْ جَزَاءً مَوْفُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال اذهب فمن تبعك منهم فان جهنم جزاوكم جزاء موفورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ ٱذۡهَبۡ فَمَن تَبِعَكَ مِنۡهُمۡ فَإِنَّ جَهَنَّمَ جَزَاۤؤُكُمۡ جَزَاۤءࣰ مَّوۡفُورࣰا
 
 | Details |  |

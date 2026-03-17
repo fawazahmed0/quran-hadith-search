@@ -452,6 +452,18 @@ Wa 'Aţī'ū Allāha Wa Ar-Rasūla La'allakum Turĥamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَطِيعُوا اللَّهَ وَالرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واطيعوا الله والرسول لعلكم ترحمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَطِیعُوا۟ ٱللَّهَ وَٱلرَّسُولَ لَعَلَّكُمۡ تُرۡحَمُونَ
 
 | Details |  |

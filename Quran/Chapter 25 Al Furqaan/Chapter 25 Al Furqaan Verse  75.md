@@ -452,6 +452,18 @@ Ula'ika Yujzawna Al-Ghurfata Bima Sabaru Wa Yulaqqawna Fiha Tahiyatan Wa Salamaa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ يُجْزَوْنَ الْغُرْفَةَ بِمَا صَبَرُوا وَيُلَقَّوْنَ فِيهَا تَحِيَّةً وَسَلَامًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك يجزون الغرفة بما صبروا ويلقون فيها تحية وسلاما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ یُجۡزَوۡنَ ٱلۡغُرۡفَةَ بِمَا صَبَرُوا۟ وَیُلَقَّوۡنَ فِیهَا تَحِیَّةࣰ وَسَلَـٰمًا
 
 | Details |  |

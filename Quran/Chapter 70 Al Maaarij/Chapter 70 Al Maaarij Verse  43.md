@@ -452,6 +452,18 @@ Yawma Yakhrujūna Mina Al-'Ajdāthi Sirā'āan Ka'annahum 'Ilá Nuşubin Yūfiđ
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ يَخْرُجُونَ مِنَ الْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَى نُصُبٍ يُوفِضُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم يخرجون من الاجداث سراعا كانهم الى نصب يوفضون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ یَخۡرُجُونَ مِنَ ٱلۡأَجۡدَاثِ سِرَاعࣰا كَأَنَّهُمۡ إِلَىٰ نُصُبࣲ یُوفِضُونَ
 
 | Details |  |

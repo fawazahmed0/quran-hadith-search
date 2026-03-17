@@ -452,6 +452,18 @@ Alā Ya'lamu Man Khalaqa Wa Huwa Al-Laţīfu Al-Khabīru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا يعلم من خلق وهو اللطيف الخبير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَا یَعۡلَمُ مَنۡ خَلَقَ وَهُوَ ٱللَّطِیفُ ٱلۡخَبِیرُ
 
 | Details |  |

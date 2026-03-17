@@ -452,6 +452,18 @@ Qāla Lā Takhtaşimū Ladayya Wa Qad Qaddamtu 'Ilaykum Bil-Wa'īdi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ لَا تَخْتَصِمُوا لَدَيَّ وَقَدْ قَدَّمْتُ إِلَيْكُمْ بِالْوَعِيدِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال لا تختصموا لدي وقد قدمت اليكم بالوعيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ لَا تَخۡتَصِمُوا۟ لَدَیَّ وَقَدۡ قَدَّمۡتُ إِلَیۡكُم بِٱلۡوَعِیدِ
 
 | Details |  |

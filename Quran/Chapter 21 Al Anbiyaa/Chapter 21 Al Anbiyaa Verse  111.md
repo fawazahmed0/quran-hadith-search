@@ -452,6 +452,18 @@ Wa 'In 'Adrī La'allahu Fitnatun Lakum Wa Matā'un 'Ilá Ĥīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ أَدْرِي لَعَلَّهُ فِتْنَةٌ لَكُمْ وَمَتَاعٌ إِلَى حِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان ادري لعله فتنة لكم ومتاع الى حين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنۡ أَدۡرِی لَعَلَّهُۥ فِتۡنَةࣱ لَّكُمۡ وَمَتَـٰعٌ إِلَىٰ حِینࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Yudh/hib Ghayža Qulūbihim Wa Yatūbu Allāhu 'Alá Man Yashā'u Wa Allāhu 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيُذْهِبْ غَيْظَ قُلُوبِهِمْ وَيَتُوبُ اللَّهُ عَلَى مَنْ يَشَاءُ وَاللَّهُ عَلِيمٌ حَكِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويذهب غيظ قلوبهم ويتوب الله على من يشاء والله عليم حكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیُذۡهِبۡ غَیۡظَ قُلُوبِهِمۡۗ وَیَتُوبُ ٱللَّهُ عَلَىٰ مَن یَشَاۤءُۗ وَٱللَّهُ عَلِیمٌ حَكِیمٌ
 
 | Details |  |

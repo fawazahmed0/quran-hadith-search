@@ -452,6 +452,18 @@ Qālū 'Anu'uminu Laka Wa Attaba'aka Al-'Ardhalūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا أَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الْأَرْذَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا انومن لك واتبعك الارذلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ قَالُوۤا۟ أَنُؤۡمِنُ لَكَ وَٱتَّبَعَكَ ٱلۡأَرۡذَلُونَ
 
 | Details |  |

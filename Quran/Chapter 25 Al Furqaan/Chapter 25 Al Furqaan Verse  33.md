@@ -452,6 +452,18 @@ Wa Lā Ya'tūnaka Bimathalin 'Illā Ji'nāka Bil-Ĥaqqi Wa 'Aĥsana Tafsīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا يَأْتُونَكَ بِمَثَلٍ إِلَّا جِئْنَاكَ بِالْحَقِّ وَأَحْسَنَ تَفْسِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا ياتونك بمثل الا جيناك بالحق واحسن تفسيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا یَأۡتُونَكَ بِمَثَلٍ إِلَّا جِئۡنَـٰكَ بِٱلۡحَقِّ وَأَحۡسَنَ تَفۡسِیرًا
 
 | Details |  |

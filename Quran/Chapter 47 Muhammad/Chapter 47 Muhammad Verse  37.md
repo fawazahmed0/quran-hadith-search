@@ -452,6 +452,18 @@ In Yas'alkumūhā Fayuĥfikum Tabkhalū Wa Yukhrij 'Ađghānakum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ يَسْأَلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا وَيُخْرِجْ أَضْغَانَكُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان يسالكموها فيحفكم تبخلوا ويخرج اضغانكم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِن یَسۡءَلۡكُمُوهَا فَیُحۡفِكُمۡ تَبۡخَلُوا۟ وَیُخۡرِجۡ أَضۡغَـٰنَكُمۡ
 
 | Details |  |

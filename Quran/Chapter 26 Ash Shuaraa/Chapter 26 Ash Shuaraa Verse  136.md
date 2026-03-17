@@ -452,6 +452,18 @@ Qālū Sawā'un 'Alaynā 'Awa'ažta 'Am Lam Takun Mina Al-Wā'ižīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا سَوَاءٌ عَلَيْنَا أَوَعَظْتَ أَمْ لَمْ تَكُنْ مِنَ الْوَاعِظِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا سواء علينا اوعظت ام لم تكن من الواعظين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ سَوَاۤءٌ عَلَیۡنَاۤ أَوَعَظۡتَ أَمۡ لَمۡ تَكُن مِّنَ ٱلۡوَ ٰعِظِینَ
 
 | Details |  |

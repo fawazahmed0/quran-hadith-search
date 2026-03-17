@@ -452,6 +452,18 @@ Alayhim Nārun Mu'uşadahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَلَيْهِمْ نَارٌ مُؤْصَدَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عليهم نار موصدة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَلَیۡهِمۡ نَارࣱ مُّؤۡصَدَةُۢ
 
 | Details |  |

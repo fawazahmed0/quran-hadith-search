@@ -452,6 +452,18 @@ Wa Lā 'Anā 'Ābidun Mā 'Abadttum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا انا عابد ما عبدتم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَاۤ أَنَا۠ عَابِدࣱ مَّا عَبَدتُّمۡ
 
 | Details |  |

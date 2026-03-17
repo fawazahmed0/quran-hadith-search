@@ -452,6 +452,18 @@ Wa Kam 'Arsalnā Min Nabīyin Fī Al-'Awwalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَمْ أَرْسَلْنَا مِنْ نَبِيٍّ فِي الْأَوَّلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكم ارسلنا من نبي في الاولين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَمۡ أَرۡسَلۡنَا مِن نَّبِیࣲّ فِی ٱلۡأَوَّلِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Qāla Qarīnuhu Hādhā Mā Ladayya 'Atīdun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ قَرِينُهُ هَذَا مَا لَدَيَّ عَتِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال قرينه هذا ما لدي عتيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ قَرِینُهُۥ هَـٰذَا مَا لَدَیَّ عَتِیدٌ
 
 | Details |  |

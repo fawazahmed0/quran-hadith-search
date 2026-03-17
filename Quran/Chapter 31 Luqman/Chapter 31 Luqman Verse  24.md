@@ -452,6 +452,18 @@ Numatti'uhum Qalīlāan Thumma Nađţarruhum 'Ilá 'Adhābin Ghalīžin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نُمَتِّعُهُمْ قَلِيلًا ثُمَّ نَضْطَرُّهُمْ إِلَى عَذَابٍ غَلِيظٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نمتعهم قليلا ثم نضطرهم الى عذاب غليظ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نُمَتِّعُهُمۡ قَلِیلࣰا ثُمَّ نَضۡطَرُّهُمۡ إِلَىٰ عَذَابٍ غَلِیظࣲ
 
 | Details |  |

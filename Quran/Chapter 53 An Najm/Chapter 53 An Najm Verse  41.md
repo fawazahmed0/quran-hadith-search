@@ -452,6 +452,18 @@ Thumma Yujzāhu Al-Jazā'a Al-'Awfá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ يُجْزَاهُ الْجَزَاءَ الْأَوْفَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم يجزاه الجزاء الاوفى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ یُجۡزَىٰهُ ٱلۡجَزَاۤءَ ٱلۡأَوۡفَىٰ
 
 | Details |  |

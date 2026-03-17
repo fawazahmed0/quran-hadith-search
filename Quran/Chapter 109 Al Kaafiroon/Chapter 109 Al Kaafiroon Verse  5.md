@@ -452,6 +452,18 @@ Wa Lā 'Antum 'Ābidūna Mā 'A'budu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا انتم عابدون ما اعبد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَاۤ أَنتُمۡ عَـٰبِدُونَ مَاۤ أَعۡبُدُ
 
 | Details |  |

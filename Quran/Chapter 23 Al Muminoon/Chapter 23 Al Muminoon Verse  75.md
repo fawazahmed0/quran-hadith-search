@@ -452,6 +452,18 @@ Wa Law Raĥimnāhum Wa Kashafnā Mā Bihim Min Đurrin Lalajjū Fī Ţughyānihi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْ رَحِمْنَاهُمْ وَكَشَفْنَا مَا بِهِمْ مِنْ ضُرٍّ لَلَجُّوا فِي طُغْيَانِهِمْ يَعْمَهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولو رحمناهم وكشفنا ما بهم من ضر للجوا في طغيانهم يعمهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَلَوۡ رَحِمۡنَـٰهُمۡ وَكَشَفۡنَا مَا بِهِم مِّن ضُرࣲّ لَّلَجُّوا۟ فِی طُغۡیَـٰنِهِمۡ یَعۡمَهُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Hādhā Wa 'Inna Lilţţāghīna Lasharra Ma'ābin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذَا وَإِنَّ لِلطَّاغِينَ لَشَرَّ مَآبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذا وان للطاغين لشر ماب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذَاۚ وَإِنَّ لِلطَّـٰغِینَ لَشَرَّ مَءَابࣲ
 
 | Details |  |

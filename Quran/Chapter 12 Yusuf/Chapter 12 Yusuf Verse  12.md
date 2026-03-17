@@ -452,6 +452,18 @@ Arsilhu Ma'anā Ghadāan Yarta' Wa Yal'ab Wa 'Innā Lahu Laĥāfižūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُ لَحَافِظُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ارسله معنا غدا يرتع ويلعب وانا له لحافظون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَرۡسِلۡهُ مَعَنَا غَدࣰا یَرۡتَعۡ وَیَلۡعَبۡ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ
 
 | Details |  |

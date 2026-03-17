@@ -452,6 +452,18 @@ Al-Ladhī 'Allama Bil-Qalami
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي عَلَّمَ بِالْقَلَمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي علم بالقلم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِی عَلَّمَ بِٱلۡقَلَمِ
 
 | Details |  |

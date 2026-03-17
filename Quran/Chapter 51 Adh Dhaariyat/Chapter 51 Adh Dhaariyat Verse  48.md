@@ -452,6 +452,18 @@ Wa Al-'Arđa Farashnāhā Fani'ma Al-Māhidūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْأَرْضَ فَرَشْنَاهَا فَنِعْمَ الْمَاهِدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والارض فرشناها فنعم الماهدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡأَرۡضَ فَرَشۡنَـٰهَا فَنِعۡمَ ٱلۡمَـٰهِدُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Adkhulū Al-Jannata 'Antum Wa 'Azwājukum Tuĥbarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ادْخُلُوا الْجَنَّةَ أَنْتُمْ وَأَزْوَاجُكُمْ تُحْبَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ادخلوا الجنة انتم وازواجكم تحبرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱدۡخُلُوا۟ ٱلۡجَنَّةَ أَنتُمۡ وَأَزۡوَ ٰجُكُمۡ تُحۡبَرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Likulli Naba'iin Mustaqarrun Wa Sawfa Ta'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِكُلِّ نَبَإٍ مُسْتَقَرٌّ وَسَوْفَ تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لكل نبا مستقر وسوف تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِّكُلِّ نَبَإࣲ مُّسۡتَقَرࣱّۚ وَسَوۡفَ تَعۡلَمُونَ
 
 | Details |  |

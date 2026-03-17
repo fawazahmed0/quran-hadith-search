@@ -452,6 +452,18 @@ Anţaliqū 'Ilá Žillin Dhī Thalāthi Shu'abin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+انْطَلِقُوا إِلَى ظِلٍّ ذِي ثَلَاثِ شُعَبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انطلقوا الى ظل ذي ثلاث شعب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱنطَلِقُوۤا۟ إِلَىٰ ظِلࣲّ ذِی ثَلَـٰثِ شُعَبࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qālū La'in 'Akalahu Adh-Dhi'bu Wa Naĥnu 'Uşbatun 'Innā 'Idhāan Lakhāsirū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا لَئِنْ أَكَلَهُ الذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّا إِذًا لَخَاسِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا لين اكله الذيب ونحن عصبة انا اذا لخاسرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ لَئِنۡ أَكَلَهُ ٱلذِّئۡبُ وَنَحۡنُ عُصۡبَةٌ إِنَّاۤ إِذࣰا لَّخَـٰسِرُونَ
 
 | Details |  |

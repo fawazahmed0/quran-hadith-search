@@ -452,6 +452,18 @@ Wa 'Idhā Ra'aw 'Āyatan Yastaskhirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا رَأَوْا آيَةً يَسْتَسْخِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا راوا اية يستسخرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا رَأَوۡا۟ ءَایَةࣰ یَسۡتَسۡخِرُونَ
 
 | Details |  |

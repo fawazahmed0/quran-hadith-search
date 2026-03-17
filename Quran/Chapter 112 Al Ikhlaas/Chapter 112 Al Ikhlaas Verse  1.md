@@ -452,6 +452,18 @@ Qul Huwa Allāhu 'Aĥadun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ هُوَ اللَّهُ أَحَدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل هو الله احد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ هُوَ ٱللَّهُ أَحَدٌ
 
 | Details |  |

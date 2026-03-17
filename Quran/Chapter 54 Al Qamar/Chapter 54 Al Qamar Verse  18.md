@@ -452,6 +452,18 @@ Kadhabat 'Ādun Fakayfa Kāna 'Adhābī Wa Nudhuri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِي وَنُذُرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذبت عاد فكيف كان عذابي ونذر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَّبَتۡ عَادࣱ فَكَیۡفَ كَانَ عَذَابِی وَنُذُرِ
 
 | Details |  |

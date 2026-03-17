@@ -452,6 +452,18 @@ Wa La'in 'Arsalnā Rīĥāan Fara'awhu Muşfarrāan Lažallū Min Ba'dihi Yakfur
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَئِنْ أَرْسَلْنَا رِيحًا فَرَأَوْهُ مُصْفَرًّا لَظَلُّوا مِنْ بَعْدِهِ يَكْفُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولين ارسلنا ريحا فراوه مصفرا لظلوا من بعده يكفرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَئِنۡ أَرۡسَلۡنَا رِیحࣰا فَرَأَوۡهُ مُصۡفَرࣰّا لَّظَلُّوا۟ مِنۢ بَعۡدِهِۦ یَكۡفُرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Mā Yastawī Al-'A'má Wa Al-Başīru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا يَسْتَوِي الْأَعْمَى وَالْبَصِيرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما يستوي الاعمى والبصير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا یَسۡتَوِی ٱلۡأَعۡمَىٰ وَٱلۡبَصِیرُ
 
 | Details |  |

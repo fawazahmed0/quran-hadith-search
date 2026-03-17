@@ -452,6 +452,18 @@ Min Fir'awna 'Innahu Kāna 'Ālīāan Mina Al-Musrifīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مِنْ فِرْعَوْنَ إِنَّهُ كَانَ عَالِيًا مِنَ الْمُسْرِفِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من فرعون انه كان عاليا من المسرفين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مِن فِرۡعَوۡنَۚ إِنَّهُۥ كَانَ عَالِیࣰا مِّنَ ٱلۡمُسۡرِفِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Thumma Ruddū 'Ilá Allāhi Mawlāhumu Al-Ĥaqqi 'Alā Lahu Al-Ĥukmu Wa Huwa 'A
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ رُدُّوا إِلَى اللَّهِ مَوْلَاهُمُ الْحَقِّ أَلَا لَهُ الْحُكْمُ وَهُوَ أَسْرَعُ الْحَاسِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم ردوا الى الله مولاهم الحق الا له الحكم وهو اسرع الحاسبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ رُدُّوۤا۟ إِلَى ٱللَّهِ مَوۡلَىٰهُمُ ٱلۡحَقِّۚ أَلَا لَهُ ٱلۡحُكۡمُ وَهُوَ أَسۡرَعُ ٱلۡحَـٰسِبِینَ
 
 | Details |  |

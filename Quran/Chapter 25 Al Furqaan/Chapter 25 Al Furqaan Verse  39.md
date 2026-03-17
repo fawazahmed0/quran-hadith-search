@@ -452,6 +452,18 @@ Wa Kullāan Đarabnā Lahu Al-'Amthāla Wa Kullāan Tabbarnā Tatbīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكُلًّا ضَرَبْنَا لَهُ الْأَمْثَالَ وَكُلًّا تَبَّرْنَا تَتْبِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكلا ضربنا له الامثال وكلا تبرنا تتبيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكُلࣰّا ضَرَبۡنَا لَهُ ٱلۡأَمۡثَـٰلَۖ وَكُلࣰّا تَبَّرۡنَا تَتۡبِیرࣰا
 
 | Details |  |

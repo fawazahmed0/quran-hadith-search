@@ -452,6 +452,18 @@ Wa 'Annahu Huwa Rabbu Ash-Shi'rá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّهُ هُوَ رَبُّ الشِّعْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه هو رب الشعرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعۡرَىٰ
 
 | Details |  |

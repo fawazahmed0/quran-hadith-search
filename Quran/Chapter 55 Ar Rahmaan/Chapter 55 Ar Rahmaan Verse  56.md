@@ -452,6 +452,18 @@ Fīhinna Qāşirātu Aţ-Ţarfi Lam Yaţmithhunna 'Insun Qablahum Wa Lā Jānnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِيهِنَّ قَاصِرَاتُ الطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيهن قاصرات الطرف لم يطمثهن انس قبلهم ولا جان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِیهِنَّ قَـٰصِرَ ٰتُ ٱلطَّرۡفِ لَمۡ یَطۡمِثۡهُنَّ إِنسࣱ قَبۡلَهُمۡ وَلَا جَاۤنࣱّ
 
 | Details |  |

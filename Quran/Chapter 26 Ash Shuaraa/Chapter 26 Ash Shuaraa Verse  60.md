@@ -452,6 +452,18 @@ Fa'atba'ūhum Mushriqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَتْبَعُوهُمْ مُشْرِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاتبعوهم مشرقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَتۡبَعُوهُم مُّشۡرِقِینَ
 
 | Details |  |

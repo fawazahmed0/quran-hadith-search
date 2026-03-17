@@ -452,6 +452,18 @@ Wa Attaqū An-Nāra Allatī 'U'iddat Lilkāfirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاتَّقُوا النَّارَ الَّتِي أُعِدَّتْ لِلْكَافِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتقوا النار التي اعدت للكافرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِیۤ أُعِدَّتۡ لِلۡكَـٰفِرِینَ
 
 | Details |  |

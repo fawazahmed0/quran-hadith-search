@@ -452,6 +452,18 @@ Inna Al-'Insāna Lirabbihi Lakanūdun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الانسان لربه لكنود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلۡإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودࣱ
 
 | Details |  |

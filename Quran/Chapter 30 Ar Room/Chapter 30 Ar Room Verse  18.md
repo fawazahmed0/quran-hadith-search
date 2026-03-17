@@ -452,6 +452,18 @@ Wa Lahu Al-Ĥamdu Fī As-Samāwāti Wa Al-'Arđi Wa 'Ashīyāan Wa Ĥīna Tužhi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَهُ الْحَمْدُ فِي السَّمَاوَاتِ وَالْأَرْضِ وَعَشِيًّا وَحِينَ تُظْهِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وله الحمد في السماوات والارض وعشيا وحين تظهرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَهُ ٱلۡحَمۡدُ فِی ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ وَعَشِیࣰّا وَحِینَ تُظۡهِرُونَ
 
 | Details |  |

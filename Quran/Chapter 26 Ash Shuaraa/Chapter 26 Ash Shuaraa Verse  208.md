@@ -452,6 +452,18 @@ Wa Mā 'Ahlaknā Min Qaryatin 'Illā Lahā Mundhirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَهْلَكْنَا مِنْ قَرْيَةٍ إِلَّا لَهَا مُنْذِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما اهلكنا من قرية الا لها منذرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَهۡلَكۡنَا مِن قَرۡیَةٍ إِلَّا لَهَا مُنذِرُونَ
 
 | Details |  |

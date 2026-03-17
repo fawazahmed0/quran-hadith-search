@@ -452,6 +452,18 @@ Sunnata Allāhi Allatī Qad Khalat Min Qablu Wa Lan Tajida Lisunnati Allāhi Tab
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سُنَّةَ اللَّهِ الَّتِي قَدْ خَلَتْ مِنْ قَبْلُ وَلَنْ تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سنة الله التي قد خلت من قبل ولن تجد لسنة الله تبديلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سُنَّةَ ٱللَّهِ ٱلَّتِی قَدۡ خَلَتۡ مِن قَبۡلُۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبۡدِیلࣰا
 
 | Details |  |

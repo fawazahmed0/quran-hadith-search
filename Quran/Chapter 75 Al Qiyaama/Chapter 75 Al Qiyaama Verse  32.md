@@ -452,6 +452,18 @@ Wa Lakin Kadhaba Wa Tawallá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَكِنْ كَذَّبَ وَتَوَلَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولكن كذب وتولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَـٰكِن كَذَّبَ وَتَوَلَّىٰ
 
 | Details |  |

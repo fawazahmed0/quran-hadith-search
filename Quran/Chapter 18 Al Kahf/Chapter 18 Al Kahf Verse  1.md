@@ -452,6 +452,18 @@ Al-Ĥamdu Lillāhi Al-Ladhī 'Anzala 'Alá 'Abdihi Al-Kitāba Wa Lam Yaj'al Llah
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الْحَمْدُ لِلَّهِ الَّذِي أَنْزَلَ عَلَى عَبْدِهِ الْكِتَابَ وَلَمْ يَجْعَلْ لَهُ عِوَجًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الحمد لله الذي انزل على عبده الكتاب ولم يجعل له عوجا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِیۤ أَنزَلَ عَلَىٰ عَبۡدِهِ ٱلۡكِتَـٰبَ وَلَمۡ یَجۡعَل لَّهُۥ عِوَجَاۜ
 
 | Details |  |

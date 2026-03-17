@@ -452,6 +452,18 @@ Qāla Lahu Mūsá Hal 'Attabi'uka 'Alá 'An Tu'allimani Mimmā 'Ullimta Rushdāa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ لَهُ مُوسَى هَلْ أَتَّبِعُكَ عَلَى أَنْ تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال له موسى هل اتبعك على ان تعلمن مما علمت رشدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ لَهُۥ مُوسَىٰ هَلۡ أَتَّبِعُكَ عَلَىٰۤ أَن تُعَلِّمَنِ مِمَّا عُلِّمۡتَ رُشۡدࣰا
 
 | Details |  |

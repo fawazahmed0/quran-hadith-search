@@ -452,6 +452,18 @@ Lā 'Uqsimu Bihadhā Al-Baladi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا أُقْسِمُ بِهَذَا الْبَلَدِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا اقسم بهذا البلد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ لَاۤ أُقۡسِمُ بِهَـٰذَا ٱلۡبَلَدِ
 
 | Details |  |

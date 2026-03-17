@@ -452,6 +452,18 @@ Asmi' Bihim Wa 'Abşir Yawma Ya'tūnanā Lakini Až-Žālimūna Al-Yawma Fī Đa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَسْمِعْ بِهِمْ وَأَبْصِرْ يَوْمَ يَأْتُونَنَا لَكِنِ الظَّالِمُونَ الْيَوْمَ فِي ضَلَالٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اسمع بهم وابصر يوم ياتوننا لكن الظالمون اليوم في ضلال مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَسۡمِعۡ بِهِمۡ وَأَبۡصِرۡ یَوۡمَ یَأۡتُونَنَاۖ لَـٰكِنِ ٱلظَّـٰلِمُونَ ٱلۡیَوۡمَ فِی ضَلَـٰلࣲ مُّبِینࣲ
 
 | Details |  |

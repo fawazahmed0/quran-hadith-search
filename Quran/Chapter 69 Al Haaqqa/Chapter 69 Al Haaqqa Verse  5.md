@@ -452,6 +452,18 @@ Fa'ammā Thamūdu Fa'uhlikū Biţ-Ţāghiyahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَمَّا ثَمُودُ فَأُهْلِكُوا بِالطَّاغِيَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاما ثمود فاهلكوا بالطاغية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَمَّا ثَمُودُ فَأُهۡلِكُوا۟ بِٱلطَّاغِیَةِ
 
 | Details |  |

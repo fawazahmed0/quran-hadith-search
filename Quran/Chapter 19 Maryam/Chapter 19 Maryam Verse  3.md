@@ -452,6 +452,18 @@ Idh Nādá Rabbahu Nidā'an Khafīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ نَادَى رَبَّهُ نِدَاءً خَفِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ نادى ربه نداء خفيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ نَادَىٰ رَبَّهُۥ نِدَاۤءً خَفِیࣰّا
 
 | Details |  |

@@ -452,6 +452,18 @@ Alam Tará Kayfa Fa'ala Rabbuka Bi'aşĥābi Al-Fīl
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم تر كيف فعل ربك باصحاب الفيل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ تَرَ كَیۡفَ فَعَلَ رَبُّكَ بِأَصۡحَـٰبِ ٱلۡفِیلِ
 
 | Details |  |

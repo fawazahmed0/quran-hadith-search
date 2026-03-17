@@ -452,6 +452,18 @@ Wa Law 'Annahum 'Āmanū Wa Attaqaw Lamathūbatun Min 'Indi Allāhi Khayrun Law 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْ أَنَّهُمْ آمَنُوا وَاتَّقَوْا لَمَثُوبَةٌ مِنْ عِنْدِ اللَّهِ خَيْرٌ لَوْ كَانُوا يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولو انهم امنوا واتقوا لمثوبة من عند الله خير لو كانوا يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡ أَنَّهُمۡ ءَامَنُوا۟ وَٱتَّقَوۡا۟ لَمَثُوبَةࣱ مِّنۡ عِندِ ٱللَّهِ خَیۡرࣱۚ لَّوۡ كَانُوا۟ یَعۡلَمُونَ
 
 | Details |  |

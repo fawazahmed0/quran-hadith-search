@@ -452,6 +452,18 @@ Wa Furushin Marfū'ahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفُرُشٍ مَرْفُوعَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفرش مرفوعة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفُرُشࣲ مَّرۡفُوعَةٍ
 
 | Details |  |

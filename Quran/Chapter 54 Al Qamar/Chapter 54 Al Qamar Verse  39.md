@@ -452,6 +452,18 @@ Fadhūqū 'Adhābī Wa Nudhuri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَذُوقُوا عَذَابِي وَنُذُرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فذوقوا عذابي ونذر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَذُوقُوا۟ عَذَابِی وَنُذُرِ
 
 | Details |  |

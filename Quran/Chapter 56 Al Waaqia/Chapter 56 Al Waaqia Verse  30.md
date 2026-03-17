@@ -452,6 +452,18 @@ Wa Žillin Mamdūdin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَظِلٍّ مَمْدُودٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وظل ممدود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَظِلࣲّ مَّمۡدُودࣲ
 
 | Details |  |

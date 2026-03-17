@@ -452,6 +452,18 @@ Wa Mā Kunta Tatlū Min Qablihi Min Kitābin Wa Lā Takhuţţuhu Biyamīnika 'Id
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا كُنْتَ تَتْلُو مِنْ قَبْلِهِ مِنْ كِتَابٍ وَلَا تَخُطُّهُ بِيَمِينِكَ إِذًا لَارْتَابَ الْمُبْطِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما كنت تتلو من قبله من كتاب ولا تخطه بيمينك اذا لارتاب المبطلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا كُنتَ تَتۡلُوا۟ مِن قَبۡلِهِۦ مِن كِتَـٰبࣲ وَلَا تَخُطُّهُۥ بِیَمِینِكَۖ إِذࣰا لَّٱرۡتَابَ ٱلۡمُبۡطِلُونَ
 
 | Details |  |

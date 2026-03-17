@@ -452,6 +452,18 @@ Idh Najjaynāhu Wa 'Ahlahu 'Ajma'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ نَجَّيْنَاهُ وَأَهْلَهُ أَجْمَعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ نجيناه واهله اجمعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ نَجَّیۡنَـٰهُ وَأَهۡلَهُۥۤ أَجۡمَعِینَ
 
 | Details |  |

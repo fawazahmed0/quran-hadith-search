@@ -452,6 +452,18 @@ Lā Yusminu Wa Lā Yughnī Min Jū'in
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يُسْمِنُ وَلَا يُغْنِي مِنْ جُوعٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يسمن ولا يغني من جوع
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا یُسۡمِنُ وَلَا یُغۡنِی مِن جُوعࣲ
 
 | Details |  |

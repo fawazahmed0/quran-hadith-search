@@ -452,6 +452,18 @@ Qāla Bal Fa'alahu Kabīruhum Hādhā Fās'alūhum 'In Kānū Yanţiqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ بَلْ فَعَلَهُ كَبِيرُهُمْ هَذَا فَاسْأَلُوهُمْ إِنْ كَانُوا يَنْطِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال بل فعله كبيرهم هذا فاسالوهم ان كانوا ينطقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ بَلۡ فَعَلَهُۥ كَبِیرُهُمۡ هَـٰذَا فَسۡءَلُوهُمۡ إِن كَانُوا۟ یَنطِقُونَ
 
 | Details |  |

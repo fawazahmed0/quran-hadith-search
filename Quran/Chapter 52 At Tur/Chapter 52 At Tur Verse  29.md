@@ -452,6 +452,18 @@ Fadhakkir Famā 'Anta Bini'mati Rabbika Bikāhinin Wa Lā Majnūnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَذَكِّرْ فَمَا أَنْتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍ وَلَا مَجْنُونٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فذكر فما انت بنعمت ربك بكاهن ولا مجنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَذَكِّرۡ فَمَاۤ أَنتَ بِنِعۡمَتِ رَبِّكَ بِكَاهِنࣲ وَلَا مَجۡنُونٍ
 
 | Details |  |

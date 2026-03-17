@@ -452,6 +452,18 @@ Wa 'Idhā Baţashtum Baţashtum Jabbārīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا بَطَشْتُمْ بَطَشْتُمْ جَبَّارِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا بطشتم بطشتم جبارين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا بَطَشۡتُم بَطَشۡتُمۡ جَبَّارِینَ
 
 | Details |  |

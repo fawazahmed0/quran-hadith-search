@@ -452,6 +452,18 @@ Wa Laqad 'Arsalnā Nūĥāan 'Ilá Qawmihi 'Innī Lakum Nadhīrun Mubīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَى قَوْمِهِ إِنِّي لَكُمْ نَذِيرٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد ارسلنا نوحا الى قومه اني لكم نذير مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦۤ إِنِّی لَكُمۡ نَذِیرࣱ مُّبِینٌ
 
 | Details |  |

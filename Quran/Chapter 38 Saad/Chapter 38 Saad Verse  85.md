@@ -452,6 +452,18 @@ La'amla'anna Jahannama Minka Wa Mimman Tabi'aka Minhum 'Ajma'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَأَمْلَأَنَّ جَهَنَّمَ مِنْكَ وَمِمَّنْ تَبِعَكَ مِنْهُمْ أَجْمَعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لاملان جهنم منك وممن تبعك منهم اجمعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَأَمۡلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنۡهُمۡ أَجۡمَعِینَ
 
 | Details |  |

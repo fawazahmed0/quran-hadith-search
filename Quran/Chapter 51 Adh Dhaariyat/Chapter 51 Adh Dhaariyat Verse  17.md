@@ -452,6 +452,18 @@ Kānū Qalīlāan Mina Al-Layli Mā Yahja'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَانُوا قَلِيلًا مِنَ اللَّيْلِ مَا يَهْجَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كانوا قليلا من الليل ما يهجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَانُوا۟ قَلِیلࣰا مِّنَ ٱلَّیۡلِ مَا یَهۡجَعُونَ
 
 | Details |  |

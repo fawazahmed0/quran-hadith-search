@@ -452,6 +452,18 @@ Wa Mā 'Adrāka Mā Yawmu Ad-Dīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ادراك ما يوم الدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَدۡرَىٰكَ مَا یَوۡمُ ٱلدِّینِ
 
 | Details |  |

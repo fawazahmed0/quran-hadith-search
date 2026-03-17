@@ -452,6 +452,18 @@ Wa Astakbara Huwa Wa Junūduhu Fī Al-'Arđi Bighayri Al-Ĥaqqi Wa Žannū 'Anna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاسْتَكْبَرَ هُوَ وَجُنُودُهُ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَظَنُّوا أَنَّهُمْ إِلَيْنَا لَا يُرْجَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واستكبر هو وجنوده في الارض بغير الحق وظنوا انهم الينا لا يرجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱسۡتَكۡبَرَ هُوَ وَجُنُودُهُۥ فِی ٱلۡأَرۡضِ بِغَیۡرِ ٱلۡحَقِّ وَظَنُّوۤا۟ أَنَّهُمۡ إِلَیۡنَا لَا یُرۡجَعُونَ
 
 | Details |  |

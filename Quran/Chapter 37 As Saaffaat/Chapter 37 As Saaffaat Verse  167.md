@@ -452,6 +452,18 @@ Wa 'In Kānū Layaqūlūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ كَانُوا لَيَقُولُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان كانوا ليقولون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن كَانُوا۟ لَیَقُولُونَ
 
 | Details |  |

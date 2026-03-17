@@ -452,6 +452,18 @@ Wa Adh-Dhāriyāti Dharwan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالذَّارِيَاتِ ذَرْوًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذاريات ذروا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلذَّ ٰرِیَـٰتِ ذَرۡوࣰا
 
 | Details |  |

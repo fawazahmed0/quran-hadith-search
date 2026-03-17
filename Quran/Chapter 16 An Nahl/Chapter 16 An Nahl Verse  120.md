@@ -452,6 +452,18 @@ Inna 'Ibrāhīma Kāna 'Ummatan Qānitāan Lillāhi Ĥanīfāan Wa Lam Yaku Mina
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ إِبْرَاهِيمَ كَانَ أُمَّةً قَانِتًا لِلَّهِ حَنِيفًا وَلَمْ يَكُ مِنَ الْمُشْرِكِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان ابراهيم كان امة قانتا لله حنيفا ولم يك من المشركين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ إِبۡرَ ٰهِیمَ كَانَ أُمَّةࣰ قَانِتࣰا لِّلَّهِ حَنِیفࣰا وَلَمۡ یَكُ مِنَ ٱلۡمُشۡرِكِینَ
 
 | Details |  |

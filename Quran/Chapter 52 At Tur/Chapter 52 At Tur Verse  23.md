@@ -452,6 +452,18 @@ Yatanāza'ūna Fīhā Ka'sāan Lā Laghwun Fīhā Wa Lā Ta'thīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَتَنَازَعُونَ فِيهَا كَأْسًا لَا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يتنازعون فيها كاسا لا لغو فيها ولا تاثيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَتَنَـٰزَعُونَ فِیهَا كَأۡسࣰا لَّا لَغۡوࣱ فِیهَا وَلَا تَأۡثِیمࣱ
 
 | Details |  |

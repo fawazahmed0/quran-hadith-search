@@ -452,6 +452,18 @@ Bi'ayyi Dhanbin Qutilat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بِأَيِّ ذَنْبٍ قُتِلَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+باي ذنب قتلت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بِأَیِّ ذَنۢبࣲ قُتِلَتۡ
 
 | Details |  |

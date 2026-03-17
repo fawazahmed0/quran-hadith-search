@@ -452,6 +452,18 @@ Thumma Qīla Lilladhīna Žalamū Dhūqū 'Adhāba Al-Khuldi Hal Tujzawna 'Illā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُوا ذُوقُوا عَذَابَ الْخُلْدِ هَلْ تُجْزَوْنَ إِلَّا بِمَا كُنْتُمْ تَكْسِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم قيل للذين ظلموا ذوقوا عذاب الخلد هل تجزون الا بما كنتم تكسبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ قِیلَ لِلَّذِینَ ظَلَمُوا۟ ذُوقُوا۟ عَذَابَ ٱلۡخُلۡدِ هَلۡ تُجۡزَوۡنَ إِلَّا بِمَا كُنتُمۡ تَكۡسِبُونَ
 
 | Details |  |

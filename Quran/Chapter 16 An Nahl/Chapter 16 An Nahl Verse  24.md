@@ -452,6 +452,18 @@ Wa 'Idhā Qīla Lahum Mādhā 'Anzala Rabbukum Qālū 'Asāţīru Al-'Awwalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا قِيلَ لَهُمْ مَاذَا أَنْزَلَ رَبُّكُمْ قَالُوا أَسَاطِيرُ الْأَوَّلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا قيل لهم ماذا انزل ربكم قالوا اساطير الاولين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا قِیلَ لَهُم مَّاذَاۤ أَنزَلَ رَبُّكُمۡ قَالُوۤا۟ أَسَـٰطِیرُ ٱلۡأَوَّلِینَ
 
 | Details |  |

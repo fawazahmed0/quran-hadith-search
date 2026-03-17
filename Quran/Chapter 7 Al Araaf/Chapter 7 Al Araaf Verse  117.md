@@ -452,6 +452,18 @@ Wa 'Awĥaynā 'Ilá Mūsá 'An 'Alqi 'Aşāka Fa'idhā Hiya Talqafu Mā Ya'fikū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَوْحَيْنَا إِلَى مُوسَى أَنْ أَلْقِ عَصَاكَ فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واوحينا الى موسى ان الق عصاك فاذا هي تلقف ما يافكون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَأَوۡحَیۡنَاۤ إِلَىٰ مُوسَىٰۤ أَنۡ أَلۡقِ عَصَاكَۖ فَإِذَا هِیَ تَلۡقَفُ مَا یَأۡفِكُونَ
 
 | Details |  |

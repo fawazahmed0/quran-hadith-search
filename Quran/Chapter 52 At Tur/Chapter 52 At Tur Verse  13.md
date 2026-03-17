@@ -452,6 +452,18 @@ Yawma Yuda''ūna 'Ilá Nāri Jahannama Da''āan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ يُدَعُّونَ إِلَى نَارِ جَهَنَّمَ دَعًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم يدعون الى نار جهنم دعا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ یُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا
 
 | Details |  |

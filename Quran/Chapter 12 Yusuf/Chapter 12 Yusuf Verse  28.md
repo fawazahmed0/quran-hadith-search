@@ -452,6 +452,18 @@ Falammā Ra'á Qamīşahu Qudda Min Duburin Qāla 'Innahu Min Kaydikunna 'Inna K
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا رَأَى قَمِيصَهُ قُدَّ مِنْ دُبُرٍ قَالَ إِنَّهُ مِنْ كَيْدِكُنَّ إِنَّ كَيْدَكُنَّ عَظِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما راى قميصه قد من دبر قال انه من كيدكن ان كيدكن عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّا رَءَا قَمِیصَهُۥ قُدَّ مِن دُبُرࣲ قَالَ إِنَّهُۥ مِن كَیۡدِكُنَّۖ إِنَّ كَیۡدَكُنَّ عَظِیمࣱ
 
 | Details |  |

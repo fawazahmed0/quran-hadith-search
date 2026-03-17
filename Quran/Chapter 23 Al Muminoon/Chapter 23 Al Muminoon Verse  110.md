@@ -452,6 +452,18 @@ Fāttakhadhtumūhum Sikhrīyāan Ĥattá 'Ansawkum Dhikrī Wa Kuntum Minhum Tađ
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّى أَنْسَوْكُمْ ذِكْرِي وَكُنْتُمْ مِنْهُمْ تَضْحَكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاتخذتموهم سخريا حتى انسوكم ذكري وكنتم منهم تضحكون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱتَّخَذۡتُمُوهُمۡ سِخۡرِیًّا حَتَّىٰۤ أَنسَوۡكُمۡ ذِكۡرِی وَكُنتُم مِّنۡهُمۡ تَضۡحَكُونَ
 
 | Details |  |

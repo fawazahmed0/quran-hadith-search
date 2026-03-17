@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا أَنَّ رَسُولَ اللَّهِ صلى الله عليه و سلم قَالَ: "إنَّ اللَّهَ تَجَاوَزَ لِي عَنْ أُمَّتِي الْخَطَأَ وَالنِّسْيَانَ وَمَا اسْتُكْرِهُوا عَلَيْهِ" . حَدِيثٌ حَسَنٌ، رَوَاهُ ابْنُ مَاجَهْ \[رقم:2045\]، وَالْبَيْهَقِيّ \["السنن\]
@@ -47,6 +49,16 @@ On the authority of Ibn Abbas (may Allah be pleased with him), that the Messenge
 ## French
 
 Selon Ibn Abbas (qu’Allah l’agrée), le Messager d’Allah (ﷺ) a dit : « Allah a excusé pour moi ma communauté : l’erreur, l’oubli et ce qu’on les a forcés à faire sous la contrainte. » Un hadith bon rapporté par Ibn Majah, al-Bayhaqi et d’autres
+
+| References: |  |
+| --- | --- |
+| Hadith No | 39 |
+| Arabic No | 39 |
+| Reference | Book 1 Hadith 39 |
+
+## Turkish
+
+İbn Abbas (ra) anlatıyor: Resulullah (ﷺ) şöyle buyurdu: "Allah, ümmetimden yanılma, unutma ve zorlanma (ikrah) ile yaptıkları şeylerin hükmünü kaldırmıştır (onları affetmiştir)." \[İbn Mace\]
 
 | References: |  |
 | --- | --- |

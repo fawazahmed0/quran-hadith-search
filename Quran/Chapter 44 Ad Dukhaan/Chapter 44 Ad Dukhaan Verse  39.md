@@ -452,6 +452,18 @@ Mā Khalaqnāhumā 'Illā Bil-Ĥaqqi Wa Lakinna 'Aktharahum Lā Ya'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا خَلَقْنَاهُمَا إِلَّا بِالْحَقِّ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما خلقناهما الا بالحق ولكن اكثرهم لا يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا خَلَقۡنَـٰهُمَاۤ إِلَّا بِٱلۡحَقِّ وَلَـٰكِنَّ أَكۡثَرَهُمۡ لَا یَعۡلَمُونَ
 
 | Details |  |

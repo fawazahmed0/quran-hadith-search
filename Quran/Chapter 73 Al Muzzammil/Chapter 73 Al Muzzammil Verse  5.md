@@ -452,6 +452,18 @@ Innā Sanulqī 'Alayka Qawlāan Thaqīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا سنلقي عليك قولا ثقيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا سَنُلۡقِی عَلَیۡكَ قَوۡلࣰا ثَقِیلًا
 
 | Details |  |

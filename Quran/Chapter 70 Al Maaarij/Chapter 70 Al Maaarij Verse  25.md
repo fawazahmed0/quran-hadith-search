@@ -452,6 +452,18 @@ Lilssā'ili Wa Al-Maĥrūmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِلسَّائِلِ وَالْمَحْرُومِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+للسايل والمحروم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِّلسَّاۤئِلِ وَٱلۡمَحۡرُومِ
 
 | Details |  |

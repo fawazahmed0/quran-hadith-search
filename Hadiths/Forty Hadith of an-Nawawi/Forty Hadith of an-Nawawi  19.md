@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: "كُنْت خَلْفَ رَسُولِ اللَّهِ صلى الله عليه و سلم يَوْمًا، فَقَالَ: يَا غُلَامِ! إنِّي أُعَلِّمُك كَلِمَاتٍ: احْفَظْ اللَّهَ يَحْفَظْك، احْفَظْ اللَّهَ تَجِدْهُ تُجَاهَك، إذَا سَأَلْت فَاسْأَلْ اللَّهَ، وَإِذَا اسْتَعَنْت فَاسْتَعِنْ بِاَللَّهِ، وَاعْلَمْ أَنَّ الْأُمَّةَ لَوْ اجْتَمَعَتْ عَلَى أَنْ يَنْفَعُوك بِشَيْءٍ لَمْ يَنْفَعُوك إلَّا بِشَيْءٍ قَدْ كَتَبَهُ اللَّهُ لَك، وَإِنْ اجْتَمَعُوا عَلَى أَنْ يَضُرُّوك بِشَيْءٍ لَمْ يَضُرُّوك إلَّا بِشَيْءٍ قَدْ كَتَبَهُ اللَّهُ عَلَيْك؛ رُفِعَتْ الْأَقْلَامُ، وَجَفَّتْ الصُّحُفُ" . رَوَاهُ التِّرْمِذِيُّ \[رقم:2516\] وَقَالَ: حَدِيثٌ حَسَنٌ صَحِيحٌ. وَفِي رِوَايَةِ غَيْرِ التِّرْمِذِيِّ: "احْفَظْ اللَّهَ تَجِدْهُ أمامك، تَعَرَّفْ إلَى اللَّهِ فِي الرَّخَاءِ يَعْرِفُك فِي الشِّدَّةِ، وَاعْلَمْ أَنَّ مَا أَخْطَأَك لَمْ يَكُنْ لِيُصِيبَك، وَمَا أَصَابَك لَمْ يَكُنْ لِيُخْطِئَك، وَاعْلَمْ أَنَّ النَّصْرَ مَعَ الصَّبْرِ، وَأَنْ الْفَرَجَ مَعَ الْكَرْبِ، وَأَنَّ مَعَ الْعُسْرِ يُسْرًا
@@ -47,6 +49,16 @@ On the authority of Abu Abbas Abdullah bin Abbas (may Allah be pleased with him)
 ## French
 
 Selon Abou ‘Abbas Abdallah ibn ‘Abbas (qu’Allah l’agrée), qui a dit : Un jour, j’étais derrière le Prophète (ﷺ) \[sur la même monture\] et il m’a dit : « Jeune homme, je vais t’apprendre quelques paroles : Préserve Allah, Il te préservera. Préserve Allah, tu Le trouveras devant toi. Si tu demandes, demande à Allah ; si tu cherches secours, cherche-le auprès d’Allah. Sache que si toute la communauté se réunissait pour t’apporter un bénéfice, elle ne pourrait te bénéficier que de ce qu’Allah a déjà décrété pour toi. Et si elle se réunissait pour te nuire, elle ne pourrait te nuire que par ce qu’Allah a déjà écrit contre toi. Les plumes sont levées et les feuillets sont secs. » Rapporté par at-Tirmidhi, qui l’a qualifié de bon et authentique. Dans une autre version : Préserve Allah, tu Le trouveras devant toi. Reconnais Allah dans l’aisance, Il te reconnaîtra dans la difficulté. Sache que ce qui t’a manqué ne devait pas t’atteindre, et ce qui t’a atteint ne devait pas te manquer. Sache que la victoire vient avec la patience, l’issue avec l’épreuve, et la facilité avec la difficulté
+
+| References: |  |
+| --- | --- |
+| Hadith No | 19 |
+| Arabic No | 19 |
+| Reference | Book 1 Hadith 19 |
+
+## Turkish
+
+Ebu’l-Abbas Abdullah bin Abbas (ra) anlatıyor: Bir gün Peygamber'in (ﷺ) arkasındaydım (aynı binek üzerinde), bana şöyle buyurdu: "Ey genç! Sana bazı kelimeler öğreteceğim: Allah’ı (emir ve yasaklarını) koru ki Allah da seni korusun. Allah’ı koru ki O’nu karşında bulasın. Bir şey istediğinde Allah’tan iste; yardım dilediğinde Allah’tan dile. Bil ki, bütün ümmet sana bir fayda sağlamak için toplansa, Allah’ın senin için yazdığından başka bir fayda veremezler. Eğer sana bir zarar vermek için toplansalar, Allah’ın senin aleyhine yazdığından başka bir zarar veremezler. Kalemler kaldırılmış, sayfalar kurumuştur." \[Tirmizi\]. Başka bir rivayette ise şöyledir: "Allah’ı bollukta tanı ki, O da seni darlıkta tanısın. Bil ki, sana isabet etmeyecek olan şey başına gelmezdi; başına gelen şey ise seni atlayıp geçmezdi. Bil ki, zafer sabırla, kurtuluş darlıkla ve kolaylık da zorlukla beraberdir
 
 | References: |  |
 | --- | --- |

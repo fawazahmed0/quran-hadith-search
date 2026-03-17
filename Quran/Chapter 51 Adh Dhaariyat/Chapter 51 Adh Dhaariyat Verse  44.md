@@ -452,6 +452,18 @@ Fa'ataw 'An 'Amri Rabbihim Fa'akhadhat/humu Aş-Şā'iqatu Wa Hum Yanžurūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَعَتَوْا عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ الصَّاعِقَةُ وَهُمْ يَنْظُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فعتوا عن امر ربهم فاخذتهم الصاعقة وهم ينظرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَعَتَوۡا۟ عَنۡ أَمۡرِ رَبِّهِمۡ فَأَخَذَتۡهُمُ ٱلصَّـٰعِقَةُ وَهُمۡ یَنظُرُونَ
 
 | Details |  |

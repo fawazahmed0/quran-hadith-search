@@ -452,6 +452,18 @@ Innahum Kānū Qabla Dhālika Mutrafīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُمْ كَانُوا قَبْلَ ذَلِكَ مُتْرَفِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انهم كانوا قبل ذلك مترفين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُمۡ كَانُوا۟ قَبۡلَ ذَ ٰلِكَ مُتۡرَفِینَ
 
 | Details |  |

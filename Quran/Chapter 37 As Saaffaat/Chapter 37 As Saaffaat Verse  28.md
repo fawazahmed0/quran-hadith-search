@@ -452,6 +452,18 @@ Qālū 'Innakum Kuntum Ta'tūnanā 'Ani Al-Yamīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا إِنَّكُمْ كُنْتُمْ تَأْتُونَنَا عَنِ الْيَمِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا انكم كنتم تاتوننا عن اليمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوۤا۟ إِنَّكُمۡ كُنتُمۡ تَأۡتُونَنَا عَنِ ٱلۡیَمِینِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Kullu Şaghīrin Wa Kabīrin Mustaţarun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُسْتَطَرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكل صغير وكبير مستطر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكُلُّ صَغِیرࣲ وَكَبِیرࣲ مُّسۡتَطَرٌ
 
 | Details |  |

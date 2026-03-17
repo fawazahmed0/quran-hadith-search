@@ -452,6 +452,18 @@ Ilá Allāhi Marji'ukum Wa Huwa 'Alá Kulli Shay'in Qadīrun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَى اللَّهِ مَرْجِعُكُمْ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الى الله مرجعكم وهو على كل شيء قدير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَى ٱللَّهِ مَرۡجِعُكُمۡۖ وَهُوَ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرٌ
 
 | Details |  |

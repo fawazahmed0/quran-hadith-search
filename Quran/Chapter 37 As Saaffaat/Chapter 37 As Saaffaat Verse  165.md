@@ -452,6 +452,18 @@ Wa 'Innā Lanaĥnu Aş-Şāffūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّا لَنَحْنُ الصَّافُّونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانا لنحن الصافون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّا لَنَحۡنُ ٱلصَّاۤفُّونَ
 
 | Details |  |

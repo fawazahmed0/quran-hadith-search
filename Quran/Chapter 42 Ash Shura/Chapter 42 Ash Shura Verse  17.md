@@ -452,6 +452,18 @@ Allāhu Al-Ladhī 'Anzala Al-Kitāba Bil-Ĥaqqi Wa Al-Mīzāna Wa Mā Yudrīka L
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اللَّهُ الَّذِي أَنْزَلَ الْكِتَابَ بِالْحَقِّ وَالْمِيزَانَ وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ قَرِيبٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الله الذي انزل الكتاب بالحق والميزان وما يدريك لعل الساعة قريب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱللَّهُ ٱلَّذِیۤ أَنزَلَ ٱلۡكِتَـٰبَ بِٱلۡحَقِّ وَٱلۡمِیزَانَۗ وَمَا یُدۡرِیكَ لَعَلَّ ٱلسَّاعَةَ قَرِیبࣱ
 
 | Details |  |

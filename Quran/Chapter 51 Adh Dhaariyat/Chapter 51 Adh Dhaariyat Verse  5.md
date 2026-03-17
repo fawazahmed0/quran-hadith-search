@@ -452,6 +452,18 @@ Innamā Tū'adūna Laşādiqun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّمَا تُوعَدُونَ لَصَادِقٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انما توعدون لصادق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّمَا تُوعَدُونَ لَصَادِقࣱ
 
 | Details |  |

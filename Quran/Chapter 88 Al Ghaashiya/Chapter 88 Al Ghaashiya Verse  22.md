@@ -452,6 +452,18 @@ Lasta 'Alayhim Bimusayţirin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَسْتَ عَلَيْهِمْ بِمُصَيْطِرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لست عليهم بمصيطر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّسۡتَ عَلَیۡهِم بِمُصَۣیۡطِرٍ
 
 | Details |  |

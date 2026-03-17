@@ -452,6 +452,18 @@ Inna Mā Tū'adūna La'ātin Wa Mā 'Antum Bimu'jizīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ مَا تُوعَدُونَ لَآتٍ وَمَا أَنْتُمْ بِمُعْجِزِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان ما توعدون لات وما انتم بمعجزين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ مَا تُوعَدُونَ لَءَاتࣲۖ وَمَاۤ أَنتُم بِمُعۡجِزِینَ
 
 | Details |  |

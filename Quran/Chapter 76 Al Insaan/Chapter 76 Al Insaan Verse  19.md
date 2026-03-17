@@ -452,6 +452,18 @@ Wa Yaţūfu 'Alayhim Wildānun Mukhalladūna 'Idhā Ra'aytahum Ĥasibtahum Lu'ul
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَنْثُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويطوف عليهم ولدان مخلدون اذا رايتهم حسبتهم لولوا منثورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَیَطُوفُ عَلَیۡهِمۡ وِلۡدَ ٰنࣱ مُّخَلَّدُونَ إِذَا رَأَیۡتَهُمۡ حَسِبۡتَهُمۡ لُؤۡلُؤࣰا مَّنثُورࣰا
 
 | Details |  |

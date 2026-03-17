@@ -452,6 +452,18 @@ Wa Kadhalika Nurī 'Ibrāhīma Malakūta As-Samāwāti Wa Al-'Arđi Wa Liyakūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَذَلِكَ نُرِي إِبْرَاهِيمَ مَلَكُوتَ السَّمَاوَاتِ وَالْأَرْضِ وَلِيَكُونَ مِنَ الْمُوقِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكذلك نري ابراهيم ملكوت السماوات والارض وليكون من الموقنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَذَ ٰلِكَ نُرِیۤ إِبۡرَ ٰهِیمَ مَلَكُوتَ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ وَلِیَكُونَ مِنَ ٱلۡمُوقِنِینَ
 
 | Details |  |

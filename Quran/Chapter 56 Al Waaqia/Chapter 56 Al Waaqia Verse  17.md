@@ -452,6 +452,18 @@ Yaţūfu 'Alayhim Wildānun Mukhalladūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُخَلَّدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يطوف عليهم ولدان مخلدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَطُوفُ عَلَیۡهِمۡ وِلۡدَ ٰنࣱ مُّخَلَّدُونَ
 
 | Details |  |

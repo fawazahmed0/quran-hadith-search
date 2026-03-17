@@ -452,6 +452,18 @@ Fawarabbi As-Samā'i Wa Al-'Arđi 'Innahu Laĥaqqun Mithla Mā 'Annakum Tanţiq�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَوَرَبِّ السَّمَاءِ وَالْأَرْضِ إِنَّهُ لَحَقٌّ مِثْلَ مَا أَنَّكُمْ تَنْطِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فورب السماء والارض انه لحق مثل ما انكم تنطقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَوَرَبِّ ٱلسَّمَاۤءِ وَٱلۡأَرۡضِ إِنَّهُۥ لَحَقࣱّ مِّثۡلَ مَاۤ أَنَّكُمۡ تَنطِقُونَ
 
 | Details |  |

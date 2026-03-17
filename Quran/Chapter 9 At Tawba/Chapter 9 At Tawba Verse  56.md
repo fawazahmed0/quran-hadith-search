@@ -452,6 +452,18 @@ Wa Yaĥlifūna Billāhi 'Innahum Laminkum Wa Mā Hum Minkum Wa Lakinnahum Qawmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَحْلِفُونَ بِاللَّهِ إِنَّهُمْ لَمِنْكُمْ وَمَا هُمْ مِنْكُمْ وَلَكِنَّهُمْ قَوْمٌ يَفْرَقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويحلفون بالله انهم لمنكم وما هم منكم ولكنهم قوم يفرقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَحۡلِفُونَ بِٱللَّهِ إِنَّهُمۡ لَمِنكُمۡ وَمَا هُم مِّنكُمۡ وَلَـٰكِنَّهُمۡ قَوۡمࣱ یَفۡرَقُونَ
 
 | Details |  |

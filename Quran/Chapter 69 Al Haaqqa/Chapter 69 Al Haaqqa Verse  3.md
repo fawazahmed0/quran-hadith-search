@@ -452,6 +452,18 @@ Wa Mā 'Adrāka Mā Al-Ĥāqqahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَدْرَاكَ مَا الْحَاقَّةُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ادراك ما الحاقة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَدۡرَىٰكَ مَا ٱلۡحَاۤقَّةُ
 
 | Details |  |

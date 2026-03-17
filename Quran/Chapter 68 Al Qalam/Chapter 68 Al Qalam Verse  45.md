@@ -452,6 +452,18 @@ Wa 'Umlī Lahum 'Inna Kaydī Matīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأُمْلِي لَهُمْ إِنَّ كَيْدِي مَتِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واملي لهم ان كيدي متين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأُمۡلِی لَهُمۡۚ إِنَّ كَیۡدِی مَتِینٌ
 
 | Details |  |

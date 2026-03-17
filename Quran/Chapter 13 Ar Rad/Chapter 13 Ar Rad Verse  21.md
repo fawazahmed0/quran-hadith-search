@@ -452,6 +452,18 @@ Wa Al-Ladhīna Yaşilūna Mā 'Amara Allāhu Bihi 'An Yūşala Wa Yakhshawna Rab
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ يَصِلُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَيَخْشَوْنَ رَبَّهُمْ وَيَخَافُونَ سُوءَ الْحِسَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين يصلون ما امر الله به ان يوصل ويخشون ربهم ويخافون سوء الحساب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ یَصِلُونَ مَاۤ أَمَرَ ٱللَّهُ بِهِۦۤ أَن یُوصَلَ وَیَخۡشَوۡنَ رَبَّهُمۡ وَیَخَافُونَ سُوۤءَ ٱلۡحِسَابِ
 
 | Details |  |

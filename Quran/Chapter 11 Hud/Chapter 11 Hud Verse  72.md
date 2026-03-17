@@ -452,6 +452,18 @@ Qālat Yā Waylatā 'A'alidu Wa 'Anā 'Ajūzun Wa Hadhā Ba'lī Shaykhāan 'Inna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَتْ يَا وَيْلَتَى أَأَلِدُ وَأَنَا عَجُوزٌ وَهَذَا بَعْلِي شَيْخًا إِنَّ هَذَا لَشَيْءٌ عَجِيبٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالت يا ويلتى االد وانا عجوز وهذا بعلي شيخا ان هذا لشيء عجيب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَتۡ یَـٰوَیۡلَتَىٰۤ ءَأَلِدُ وَأَنَا۠ عَجُوزࣱ وَهَـٰذَا بَعۡلِی شَیۡخًاۖ إِنَّ هَـٰذَا لَشَیۡءٌ عَجِیبࣱ
 
 | Details |  |

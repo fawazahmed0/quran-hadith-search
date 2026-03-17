@@ -452,6 +452,18 @@ Fa'arsala Fir'awnu Fī Al-Madā'ini Ĥāshirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَرْسَلَ فِرْعَوْنُ فِي الْمَدَائِنِ حَاشِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فارسل فرعون في المداين حاشرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَرۡسَلَ فِرۡعَوۡنُ فِی ٱلۡمَدَاۤئِنِ حَـٰشِرِینَ
 
 | Details |  |

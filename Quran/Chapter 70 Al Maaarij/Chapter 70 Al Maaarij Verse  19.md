@@ -452,6 +452,18 @@ Inna Al-'Insāna Khuliqa Halū'āan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الْإِنْسَانَ خُلِقَ هَلُوعًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الانسان خلق هلوعا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ إِنَّ ٱلۡإِنسَـٰنَ خُلِقَ هَلُوعًا
 
 | Details |  |

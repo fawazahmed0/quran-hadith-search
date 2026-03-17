@@ -452,6 +452,18 @@ Hādhā Mā Tū'adūna Liyawmi Al-Ĥisābi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذَا مَا تُوعَدُونَ لِيَوْمِ الْحِسَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذا ما توعدون ليوم الحساب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذَا مَا تُوعَدُونَ لِیَوۡمِ ٱلۡحِسَابِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Awalam Yaraw Kayfa Yubdi'u Allāhu Al-Khalqa Thumma Yu'īduhu 'Inna Dhālika 'Al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوَلَمْ يَرَوْا كَيْفَ يُبْدِئُ اللَّهُ الْخَلْقَ ثُمَّ يُعِيدُهُ إِنَّ ذَلِكَ عَلَى اللَّهِ يَسِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اولم يروا كيف يبدي الله الخلق ثم يعيده ان ذلك على الله يسير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوَ لَمۡ یَرَوۡا۟ كَیۡفَ یُبۡدِئُ ٱللَّهُ ٱلۡخَلۡقَ ثُمَّ یُعِیدُهُۥۤۚ إِنَّ ذَ ٰلِكَ عَلَى ٱللَّهِ یَسِیرࣱ
 
 | Details |  |

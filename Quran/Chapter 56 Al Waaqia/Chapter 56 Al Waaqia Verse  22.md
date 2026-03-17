@@ -452,6 +452,18 @@ Wa Ĥūrun 'Īnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَحُورٌ عِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وحور عين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَحُورٌ عِینࣱ
 
 | Details |  |

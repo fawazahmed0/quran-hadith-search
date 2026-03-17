@@ -452,6 +452,18 @@ Inna Al-Ladhīna 'Āmanū Wa 'Amilū Aş-Şāliĥāti 'Ūlā'ika Hum Khayru Al-B
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَئِكَ هُمْ خَيْرُ الْبَرِيَّةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين امنوا وعملوا الصالحات اوليك هم خير البرية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰۤئِكَ هُمۡ خَیۡرُ ٱلۡبَرِیَّةِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Lillahi Mulku As-Samāwāti Wa Al-'Arđi Wa 'Ilá Allāhi Al-Maşīru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَإِلَى اللَّهِ الْمَصِيرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولله ملك السماوات والارض والى الله المصير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِلَّهِ مُلۡكُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۖ وَإِلَى ٱللَّهِ ٱلۡمَصِیرُ
 
 | Details |  |

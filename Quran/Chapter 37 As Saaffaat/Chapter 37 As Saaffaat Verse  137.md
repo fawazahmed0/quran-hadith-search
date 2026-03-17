@@ -452,6 +452,18 @@ Wa 'Innakum Latamurrūna 'Alayhim Muşbiĥīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِمْ مُصْبِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانكم لتمرون عليهم مصبحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّكُمۡ لَتَمُرُّونَ عَلَیۡهِم مُّصۡبِحِینَ
 
 | Details |  |

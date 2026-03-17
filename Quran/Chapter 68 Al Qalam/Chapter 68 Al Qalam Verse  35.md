@@ -452,6 +452,18 @@ Afanaj'alu Al-Muslimīna Kālmujrimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افنجعل المسلمين كالمجرمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَنَجۡعَلُ ٱلۡمُسۡلِمِینَ كَٱلۡمُجۡرِمِینَ
 
 | Details |  |

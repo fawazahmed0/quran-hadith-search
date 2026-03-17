@@ -452,6 +452,18 @@ Mā Tadharu Min Shay'in 'Atat 'Alayhi 'Illā Ja'alat/hu Kālrramīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا تَذَرُ مِنْ شَيْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَالرَّمِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما تذر من شيء اتت عليه الا جعلته كالرميم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا تَذَرُ مِن شَیۡءٍ أَتَتۡ عَلَیۡهِ إِلَّا جَعَلَتۡهُ كَٱلرَّمِیمِ
 
 | Details |  |

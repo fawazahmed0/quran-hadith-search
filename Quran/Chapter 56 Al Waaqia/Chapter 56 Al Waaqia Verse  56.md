@@ -452,6 +452,18 @@ Hādhā Nuzuluhum Yawma Ad-Dīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذَا نُزُلُهُمْ يَوْمَ الدِّينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذا نزلهم يوم الدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذَا نُزُلُهُمۡ یَوۡمَ ٱلدِّینِ
 
 | Details |  |

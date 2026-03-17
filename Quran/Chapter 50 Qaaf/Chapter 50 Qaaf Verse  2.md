@@ -452,6 +452,18 @@ Bal 'Ajibū 'An Jā'ahum Mundhirun Minhum Faqāla Al-Kāfirūna Hādhā Shay'un 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ عَجِبُوا أَنْ جَاءَهُمْ مُنْذِرٌ مِنْهُمْ فَقَالَ الْكَافِرُونَ هَذَا شَيْءٌ عَجِيبٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل عجبوا ان جاءهم منذر منهم فقال الكافرون هذا شيء عجيب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ عَجِبُوۤا۟ أَن جَاۤءَهُم مُّنذِرࣱ مِّنۡهُمۡ فَقَالَ ٱلۡكَـٰفِرُونَ هَـٰذَا شَیۡءٌ عَجِیبٌ
 
 | Details |  |

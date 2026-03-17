@@ -452,6 +452,18 @@ Aqtarabati As-Sā'atu Wa Anshaqqa Al-Qamaru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اقتربت الساعة وانشق القمر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱقۡتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلۡقَمَرُ
 
 | Details |  |

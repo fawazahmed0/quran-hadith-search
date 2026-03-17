@@ -452,6 +452,18 @@ Wa Al-Ĥabbu Dhū Al-'Aşfi Wa Ar-Rayĥānu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والحب ذو العصف والريحان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّیۡحَانُ
 
 | Details |  |

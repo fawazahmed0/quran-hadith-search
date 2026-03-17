@@ -452,6 +452,18 @@ Wa Yubayyinu Allāhu Lakumu Al-'Āyāti Wa Allāhu 'Alīmun Ĥakīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ وَاللَّهُ عَلِيمٌ حَكِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويبين الله لكم الايات والله عليم حكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیُبَیِّنُ ٱللَّهُ لَكُمُ ٱلۡءَایَـٰتِۚ وَٱللَّهُ عَلِیمٌ حَكِیمٌ
 
 | Details |  |

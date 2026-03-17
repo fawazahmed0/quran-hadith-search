@@ -452,6 +452,18 @@ Idh Nādāhu Rabbuhu Bil-Wādi Al-Muqaddasi Ţūáan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ نَادَاهُ رَبُّهُ بِالْوَادِ الْمُقَدَّسِ طُوًى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ ناداه ربه بالواد المقدس طوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ نَادَىٰهُ رَبُّهُۥ بِٱلۡوَادِ ٱلۡمُقَدَّسِ طُوًى
 
 | Details |  |

@@ -452,6 +452,18 @@ Qad Şaddaqta Ar-Ru'uyā 'Innā Kadhālika Najzī Al-Muĥsinīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَدْ صَدَّقْتَ الرُّؤْيَا إِنَّا كَذَلِكَ نَجْزِي الْمُحْسِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قد صدقت الرويا انا كذلك نجزي المحسنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَدۡ صَدَّقۡتَ ٱلرُّءۡیَاۤۚ إِنَّا كَذَ ٰلِكَ نَجۡزِی ٱلۡمُحۡسِنِینَ
 
 | Details |  |

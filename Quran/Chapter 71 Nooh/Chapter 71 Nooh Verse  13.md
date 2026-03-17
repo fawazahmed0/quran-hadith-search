@@ -452,6 +452,18 @@ Mā Lakum Lā Tarjūna Lillāhi Waqārāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما لكم لا ترجون لله وقارا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّا لَكُمۡ لَا تَرۡجُونَ لِلَّهِ وَقَارࣰا
 
 | Details |  |

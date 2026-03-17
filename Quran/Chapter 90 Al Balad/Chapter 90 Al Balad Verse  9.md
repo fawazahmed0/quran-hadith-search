@@ -452,6 +452,18 @@ Wa Lisānāan Wa Shafatayni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِسَانًا وَشَفَتَيْنِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولسانا وشفتين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِسَانࣰا وَشَفَتَیۡنِ
 
 | Details |  |

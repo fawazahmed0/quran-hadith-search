@@ -452,6 +452,18 @@ Thumma Mā 'Adrāka Mā Yawmu Ad-Dīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم ما ادراك ما يوم الدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ مَاۤ أَدۡرَىٰكَ مَا یَوۡمُ ٱلدِّینِ
 
 | Details |  |

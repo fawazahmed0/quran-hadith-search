@@ -452,6 +452,18 @@ Wa Mathalu Kalimatin Khabīthatin Kashajaratin Khabīthatin Ajtuththat Min Fawqi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ اجْتُثَّتْ مِنْ فَوْقِ الْأَرْضِ مَا لَهَا مِنْ قَرَارٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومثل كلمة خبيثة كشجرة خبيثة اجتثت من فوق الارض ما لها من قرار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَثَلُ كَلِمَةٍ خَبِیثَةࣲ كَشَجَرَةٍ خَبِیثَةٍ ٱجۡتُثَّتۡ مِن فَوۡقِ ٱلۡأَرۡضِ مَا لَهَا مِن قَرَارࣲ
 
 | Details |  |

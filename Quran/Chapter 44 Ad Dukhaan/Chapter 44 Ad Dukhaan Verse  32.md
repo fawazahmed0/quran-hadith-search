@@ -452,6 +452,18 @@ Wa Laqadi Akhtarnāhum 'Alá 'Ilmin 'Alá Al-'Ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدِ اخْتَرْنَاهُمْ عَلَى عِلْمٍ عَلَى الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد اخترناهم على علم على العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدِ ٱخۡتَرۡنَـٰهُمۡ عَلَىٰ عِلۡمٍ عَلَى ٱلۡعَـٰلَمِینَ
 
 | Details |  |

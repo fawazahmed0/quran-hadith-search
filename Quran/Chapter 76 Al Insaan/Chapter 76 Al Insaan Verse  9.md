@@ -452,6 +452,18 @@ Innamā Nuţ'imukum Liwajhi Allāhi Lā Nurīdu Minkum Jazā'an Wa Lā Shukūrā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لَا نُرِيدُ مِنْكُمْ جَزَاءً وَلَا شُكُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انما نطعمكم لوجه الله لا نريد منكم جزاء ولا شكورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّمَا نُطۡعِمُكُمۡ لِوَجۡهِ ٱللَّهِ لَا نُرِیدُ مِنكُمۡ جَزَاۤءࣰ وَلَا شُكُورًا
 
 | Details |  |

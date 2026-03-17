@@ -452,6 +452,18 @@ Walam Yakun Lahu Kufūan 'Aĥadun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولم يكن له كفوا احد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَمۡ یَكُن لَّهُۥ كُفُوًا أَحَدُۢ
 
 | Details |  |

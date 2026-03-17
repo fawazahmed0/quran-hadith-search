@@ -452,6 +452,18 @@ Wa Huwa Al-Ladhī Yaqbalu At-Tawbat 'An 'Ibādihi Wa Ya'fū 'Ani As-Sayyi'āti W
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُوَ الَّذِي يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَعْفُو عَنِ السَّيِّئَاتِ وَيَعْلَمُ مَا تَفْعَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهو الذي يقبل التوبة عن عباده ويعفو عن السييات ويعلم ما تفعلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُوَ ٱلَّذِی یَقۡبَلُ ٱلتَّوۡبَةَ عَنۡ عِبَادِهِۦ وَیَعۡفُوا۟ عَنِ ٱلسَّیِّءَاتِ وَیَعۡلَمُ مَا تَفۡعَلُونَ
 
 | Details |  |

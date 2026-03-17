@@ -452,6 +452,18 @@ Wa Kayfa Taşbiru 'Alá Mā Lam Tuĥiţ Bihi Khubrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَيْفَ تَصْبِرُ عَلَى مَا لَمْ تُحِطْ بِهِ خُبْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكيف تصبر على ما لم تحط به خبرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَیۡفَ تَصۡبِرُ عَلَىٰ مَا لَمۡ تُحِطۡ بِهِۦ خُبۡرࣰا
 
 | Details |  |

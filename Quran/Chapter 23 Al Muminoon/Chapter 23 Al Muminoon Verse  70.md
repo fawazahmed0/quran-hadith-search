@@ -452,6 +452,18 @@ Am Yaqūlūna Bihi Jinnatun Bal Jā'ahum Bil-Ĥaqqi Wa 'Aktharuhum Lilĥaqqi Kā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ يَقُولُونَ بِهِ جِنَّةٌ بَلْ جَاءَهُمْ بِالْحَقِّ وَأَكْثَرُهُمْ لِلْحَقِّ كَارِهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام يقولون به جنة بل جاءهم بالحق واكثرهم للحق كارهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ یَقُولُونَ بِهِۦ جِنَّةُۢۚ بَلۡ جَاۤءَهُم بِٱلۡحَقِّ وَأَكۡثَرُهُمۡ لِلۡحَقِّ كَـٰرِهُونَ
 
 | Details |  |

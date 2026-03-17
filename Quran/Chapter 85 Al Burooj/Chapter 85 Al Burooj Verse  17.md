@@ -452,6 +452,18 @@ Hal 'Atāka Ĥadīthu Al-Junūdi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هل اتاك حديث الجنود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَلۡ أَتَىٰكَ حَدِیثُ ٱلۡجُنُودِ
 
 | Details |  |

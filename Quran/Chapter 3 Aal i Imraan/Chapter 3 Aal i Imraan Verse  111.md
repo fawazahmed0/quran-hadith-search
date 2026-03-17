@@ -452,6 +452,18 @@ Lan Yađurrūkum 'Illā 'Adháan Wa 'In Yuqātilūkum Yuwallūkumu Al-'Adbāra T
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَنْ يَضُرُّوكُمْ إِلَّا أَذًى وَإِنْ يُقَاتِلُوكُمْ يُوَلُّوكُمُ الْأَدْبَارَ ثُمَّ لَا يُنْصَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لن يضروكم الا اذى وان يقاتلوكم يولوكم الادبار ثم لا ينصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَن یَضُرُّوكُمۡ إِلَّاۤ أَذࣰىۖ وَإِن یُقَـٰتِلُوكُمۡ یُوَلُّوكُمُ ٱلۡأَدۡبَارَ ثُمَّ لَا یُنصَرُونَ
 
 | Details |  |

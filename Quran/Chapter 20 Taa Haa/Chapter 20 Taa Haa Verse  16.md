@@ -452,6 +452,18 @@ Falā Yaşuddannaka 'Anhā Man Lā Yu'uminu Bihā Wa Attaba'a Hawāhu Fatardá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَا يَصُدَّنَّكَ عَنْهَا مَنْ لَا يُؤْمِنُ بِهَا وَاتَّبَعَ هَوَاهُ فَتَرْدَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلا يصدنك عنها من لا يومن بها واتبع هواه فتردى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَا یَصُدَّنَّكَ عَنۡهَا مَن لَّا یُؤۡمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ فَتَرۡدَىٰ
 
 | Details |  |

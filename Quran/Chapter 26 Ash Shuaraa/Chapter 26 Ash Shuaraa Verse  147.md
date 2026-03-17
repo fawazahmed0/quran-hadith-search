@@ -452,6 +452,18 @@ Fī Jannātin Wa 'Uyūnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي جَنَّاتٍ وَعُيُونٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في جنات وعيون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِی جَنَّـٰتࣲ وَعُیُونࣲ
 
 | Details |  |

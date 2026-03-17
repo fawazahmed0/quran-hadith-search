@@ -452,6 +452,18 @@ Wa Ash-Shu'arā'u Yattabi'uhumu Al-Ghāwūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالشُّعَرَاءُ يَتَّبِعُهُمُ الْغَاوُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والشعراء يتبعهم الغاوون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلشُّعَرَاۤءُ یَتَّبِعُهُمُ ٱلۡغَاوُۥنَ
 
 | Details |  |

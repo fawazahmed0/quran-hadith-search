@@ -452,6 +452,18 @@ Hārūna 'Akhī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَارُونَ أَخِي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هارون اخي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰرُونَ أَخِی
 
 | Details |  |

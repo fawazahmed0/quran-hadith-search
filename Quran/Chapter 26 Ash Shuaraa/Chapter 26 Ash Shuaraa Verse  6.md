@@ -452,6 +452,18 @@ Faqad Kadhabū Fasaya'tīhim 'Anbā'u Mā Kānū Bihi Yastahzi'ūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقَدْ كَذَّبُوا فَسَيَأْتِيهِمْ أَنْبَاءُ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقد كذبوا فسياتيهم انباء ما كانوا به يستهزيون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقَدۡ كَذَّبُوا۟ فَسَیَأۡتِیهِمۡ أَنۢبَـٰۤؤُا۟ مَا كَانُوا۟ بِهِۦ یَسۡتَهۡزِءُونَ
 
 | Details |  |

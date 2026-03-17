@@ -452,6 +452,18 @@ Al-Ladhī Jama'a Mālāan Wa 'Addadahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي جمع مالا وعدده
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِی جَمَعَ مَالࣰا وَعَدَّدَهُۥ
 
 | Details |  |

@@ -452,6 +452,18 @@ Sayaşlá Nārāan Dhāta Lahabin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَيَصْلَى نَارًا ذَاتَ لَهَبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سيصلى نارا ذات لهب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَیَصۡلَىٰ نَارࣰا ذَاتَ لَهَبࣲ
 
 | Details |  |

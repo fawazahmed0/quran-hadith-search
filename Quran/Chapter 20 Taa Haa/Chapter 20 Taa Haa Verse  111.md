@@ -452,6 +452,18 @@ Wa 'Anati Al-Wujūhu Lilĥayyi Al-Qayyūmi Wa Qad Khāba Man Ĥamala Žulmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَعَنَتِ الْوُجُوهُ لِلْحَيِّ الْقَيُّومِ وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وعنت الوجوه للحي القيوم وقد خاب من حمل ظلما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَعَنَتِ ٱلۡوُجُوهُ لِلۡحَیِّ ٱلۡقَیُّومِۖ وَقَدۡ خَابَ مَنۡ حَمَلَ ظُلۡمࣰا
 
 | Details |  |

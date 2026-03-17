@@ -452,6 +452,18 @@ Wa An-Nāshiţāti Nashţāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالنَّاشِطَاتِ نَشْطًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والناشطات نشطا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلنَّـٰشِطَـٰتِ نَشۡطࣰا
 
 | Details |  |

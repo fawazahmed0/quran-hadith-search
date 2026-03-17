@@ -452,6 +452,18 @@ Wa Huwa Al-Ladhī 'Arsala Ar-Riyāĥa Bushrāan Bayna Yaday Raĥmatihi Wa 'Anzal
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُوَ الَّذِي أَرْسَلَ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ وَأَنْزَلْنَا مِنَ السَّمَاءِ مَاءً طَهُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهو الذي ارسل الرياح بشرا بين يدي رحمته وانزلنا من السماء ماء طهورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُوَ ٱلَّذِیۤ أَرۡسَلَ ٱلرِّیَـٰحَ بُشۡرَۢا بَیۡنَ یَدَیۡ رَحۡمَتِهِۦۚ وَأَنزَلۡنَا مِنَ ٱلسَّمَاۤءِ مَاۤءࣰ طَهُورࣰا
 
 | Details |  |

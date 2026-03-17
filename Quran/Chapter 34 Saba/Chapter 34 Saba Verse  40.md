@@ -452,6 +452,18 @@ Wa Yawma Yaĥshuruhum Jamī'āan Thumma Yaqūlu Lilmalā'ikati 'Ahā'uulā' 'Īy
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَوْمَ يَحْشُرُهُمْ جَمِيعًا ثُمَّ يَقُولُ لِلْمَلَائِكَةِ أَهَؤُلَاءِ إِيَّاكُمْ كَانُوا يَعْبُدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويوم يحشرهم جميعا ثم يقول للملايكة اهولاء اياكم كانوا يعبدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَوۡمَ یَحۡشُرُهُمۡ جَمِیعࣰا ثُمَّ یَقُولُ لِلۡمَلَـٰۤئِكَةِ أَهَـٰۤؤُلَاۤءِ إِیَّاكُمۡ كَانُوا۟ یَعۡبُدُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Innā 'Arsalnāka Bil-Ĥaqqi Bashīrāan Wa Nadhīrāan Wa Lā Tus'alu 'An 'Aş�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا أَرْسَلْنَاكَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا وَلَا تُسْأَلُ عَنْ أَصْحَابِ الْجَحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا ارسلناك بالحق بشيرا ونذيرا ولا تسال عن اصحاب الجحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّاۤ أَرۡسَلۡنَـٰكَ بِٱلۡحَقِّ بَشِیرࣰا وَنَذِیرࣰاۖ وَلَا تُسۡءَلُ عَنۡ أَصۡحَـٰبِ ٱلۡجَحِیمِ
 
 | Details |  |

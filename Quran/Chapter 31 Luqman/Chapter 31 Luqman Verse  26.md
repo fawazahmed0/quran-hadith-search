@@ -452,6 +452,18 @@ Lillāhi Mā Fī As-Samāwāti Wa Al-'Arđi 'Inna Allāha Huwa Al-Ghanīyu Al-Ĥ
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ إِنَّ اللَّهَ هُوَ الْغَنِيُّ الْحَمِيدُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لله ما في السماوات والارض ان الله هو الغني الحميد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِلَّهِ مَا فِی ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۚ إِنَّ ٱللَّهَ هُوَ ٱلۡغَنِیُّ ٱلۡحَمِیدُ
 
 | Details |  |

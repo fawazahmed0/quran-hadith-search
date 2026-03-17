@@ -452,6 +452,18 @@ La'anahu Allāhu Wa Qāla La'attakhidhanna Min 'Ibādika Naşībāan Mafrūđāa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَعَنَهُ اللَّهُ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًا مَفْرُوضًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لعنه الله وقال لاتخذن من عبادك نصيبا مفروضا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّعَنَهُ ٱللَّهُۘ وَقَالَ لَأَتَّخِذَنَّ مِنۡ عِبَادِكَ نَصِیبࣰا مَّفۡرُوضࣰا
 
 | Details |  |

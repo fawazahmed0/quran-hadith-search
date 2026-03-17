@@ -452,6 +452,18 @@ Wa Laqad Makkannākum Fī Al-'Arđi Wa Ja'alnā Lakum Fīhā Ma'āyisha Qalīlā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ مَكَّنَّاكُمْ فِي الْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ قَلِيلًا مَا تَشْكُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد مكناكم في الارض وجعلنا لكم فيها معايش قليلا ما تشكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ مَكَّنَّـٰكُمۡ فِی ٱلۡأَرۡضِ وَجَعَلۡنَا لَكُمۡ فِیهَا مَعَـٰیِشَۗ قَلِیلࣰا مَّا تَشۡكُرُونَ
 
 | Details |  |

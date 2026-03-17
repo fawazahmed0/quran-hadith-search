@@ -452,6 +452,18 @@ Takādu As-Samāwātu Yatafaţţarna Minhu Wa Tanshaqqu Al-'Arđu Wa Takhirru Al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنْشَقُّ الْأَرْضُ وَتَخِرُّ الْجِبَالُ هَدًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تكاد السماوات يتفطرن منه وتنشق الارض وتخر الجبال هدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَكَادُ ٱلسَّمَـٰوَ ٰتُ یَتَفَطَّرۡنَ مِنۡهُ وَتَنشَقُّ ٱلۡأَرۡضُ وَتَخِرُّ ٱلۡجِبَالُ هَدًّا
 
 | Details |  |

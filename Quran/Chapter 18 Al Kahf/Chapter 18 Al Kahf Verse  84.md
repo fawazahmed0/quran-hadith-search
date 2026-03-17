@@ -452,6 +452,18 @@ Innā Makkannā Lahu Fī Al-'Arđi Wa 'Ātaynāhu Min Kulli Shay'in Sababāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا مَكَّنَّا لَهُ فِي الْأَرْضِ وَآتَيْنَاهُ مِنْ كُلِّ شَيْءٍ سَبَبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا مكنا له في الارض واتيناه من كل شيء سببا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا مَكَّنَّا لَهُۥ فِی ٱلۡأَرۡضِ وَءَاتَیۡنَـٰهُ مِن كُلِّ شَیۡءࣲ سَبَبࣰا
 
 | Details |  |

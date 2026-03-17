@@ -452,6 +452,18 @@ Alif-Lām-Rā Tilka 'Āyātu Al-Kitābi Al-Mubīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الر تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الر تلك ايات الكتاب المبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 الۤرۚ تِلۡكَ ءَایَـٰتُ ٱلۡكِتَـٰبِ ٱلۡمُبِینِ
 
 | Details |  |

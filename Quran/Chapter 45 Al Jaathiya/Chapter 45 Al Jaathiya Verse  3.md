@@ -452,6 +452,18 @@ Inna Fī As-Samāwāti Wa Al-'Arđi La'āyātin Lilmu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ فِي السَّمَاوَاتِ وَالْأَرْضِ لَآيَاتٍ لِلْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان في السماوات والارض لايات للمومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ فِی ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ لَءَایَـٰتࣲ لِّلۡمُؤۡمِنِینَ
 
 | Details |  |

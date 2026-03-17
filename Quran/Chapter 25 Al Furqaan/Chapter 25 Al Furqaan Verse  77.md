@@ -452,6 +452,18 @@ Qul Mā Ya'ba'u Bikum Rabbī Lawlā Du'ā'uukum Faqad Kadhabtum Fasawfa Yakūnu 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ مَا يَعْبَأُ بِكُمْ رَبِّي لَوْلَا دُعَاؤُكُمْ فَقَدْ كَذَّبْتُمْ فَسَوْفَ يَكُونُ لِزَامًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل ما يعبا بكم ربي لولا دعاوكم فقد كذبتم فسوف يكون لزاما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ مَا یَعۡبَؤُا۟ بِكُمۡ رَبِّی لَوۡلَا دُعَاۤؤُكُمۡۖ فَقَدۡ كَذَّبۡتُمۡ فَسَوۡفَ یَكُونُ لِزَامَۢا
 
 | Details |  |

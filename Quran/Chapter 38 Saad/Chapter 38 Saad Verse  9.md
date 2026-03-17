@@ -452,6 +452,18 @@ Am 'Indahum Khazā'inu Raĥmati Rabbika Al-'Azīzi Al-Wahhābi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ عِنْدَهُمْ خَزَائِنُ رَحْمَةِ رَبِّكَ الْعَزِيزِ الْوَهَّابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام عندهم خزاين رحمة ربك العزيز الوهاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ عِندَهُمۡ خَزَاۤئِنُ رَحۡمَةِ رَبِّكَ ٱلۡعَزِیزِ ٱلۡوَهَّابِ
 
 | Details |  |

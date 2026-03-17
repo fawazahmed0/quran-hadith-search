@@ -452,6 +452,18 @@ Wa 'Ammā Al-Ladhīna Fī Qulūbihim Marađun Fazādat/hum Rijsāan 'Ilá Rijsih
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ فَزَادَتْهُمْ رِجْسًا إِلَى رِجْسِهِمْ وَمَاتُوا وَهُمْ كَافِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما الذين في قلوبهم مرض فزادتهم رجسا الى رجسهم وماتوا وهم كافرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمَّا ٱلَّذِینَ فِی قُلُوبِهِم مَّرَضࣱ فَزَادَتۡهُمۡ رِجۡسًا إِلَىٰ رِجۡسِهِمۡ وَمَاتُوا۟ وَهُمۡ كَـٰفِرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qālū 'Innā 'Ilá Rabbinā Munqalibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا إِنَّا إِلَى رَبِّنَا مُنْقَلِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا انا الى ربنا منقلبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوۤا۟ إِنَّاۤ إِلَىٰ رَبِّنَا مُنقَلِبُونَ
 
 | Details |  |

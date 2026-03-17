@@ -452,6 +452,18 @@ Wa Qālū Lawlā Ya'tīnā Bi'āyatin Min Rabbihi 'Awalam Ta'tihim Bayyinatu Mā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا لَوْلَا يَأْتِينَا بِآيَةٍ مِنْ رَبِّهِ أَوَلَمْ تَأْتِهِمْ بَيِّنَةُ مَا فِي الصُّحُفِ الْأُولَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا لولا ياتينا باية من ربه اولم تاتهم بينة ما في الصحف الاولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ لَوۡلَا یَأۡتِینَا بِءَایَةࣲ مِّن رَّبِّهِۦۤۚ أَوَ لَمۡ تَأۡتِهِم بَیِّنَةُ مَا فِی ٱلصُّحُفِ ٱلۡأُولَىٰ
 
 | Details |  |

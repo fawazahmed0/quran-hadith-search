@@ -452,6 +452,18 @@ Wa Tanĥitūna Mina Al-Jibāli Buyūtāan Fārihīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا فَارِهِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتنحتون من الجبال بيوتا فارهين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَنۡحِتُونَ مِنَ ٱلۡجِبَالِ بُیُوتࣰا فَـٰرِهِینَ
 
 | Details |  |

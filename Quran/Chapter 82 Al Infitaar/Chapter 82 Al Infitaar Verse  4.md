@@ -452,6 +452,18 @@ Wa 'Idhā Al-Qubūru Bu'thirat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا الْقُبُورُ بُعْثِرَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا القبور بعثرت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱلۡقُبُورُ بُعۡثِرَتۡ
 
 | Details |  |

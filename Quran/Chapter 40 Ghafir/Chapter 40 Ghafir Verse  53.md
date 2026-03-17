@@ -452,6 +452,18 @@ Wa Laqad 'Ātaynā Mūsá Al-Hudá Wa 'Awrathnā Banī 'Isrā'īla Al-Kitāba
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ آتَيْنَا مُوسَى الْهُدَى وَأَوْرَثْنَا بَنِي إِسْرَائِيلَ الْكِتَابَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد اتينا موسى الهدى واورثنا بني اسراييل الكتاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ ءَاتَیۡنَا مُوسَى ٱلۡهُدَىٰ وَأَوۡرَثۡنَا بَنِیۤ إِسۡرَ ٰۤءِیلَ ٱلۡكِتَـٰبَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Lillahi Mulku As-Samāwāti Wa Al-'Arđi Wa Allāhu 'Alá Kulli Shay'in Qadī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَاللَّهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولله ملك السماوات والارض والله على كل شيء قدير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِلَّهِ مُلۡكُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرٌ
 
 | Details |  |

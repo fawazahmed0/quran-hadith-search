@@ -452,6 +452,18 @@ Fayadharuhā Qā'āan Şafşafāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَيَذَرُهَا قَاعًا صَفْصَفًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيذرها قاعا صفصفا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَیَذَرُهَا قَاعࣰا صَفۡصَفࣰا
 
 | Details |  |

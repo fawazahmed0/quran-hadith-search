@@ -452,6 +452,18 @@ Sanafrughu Lakum 'Ayyuhā Ath-Thaqalāni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَنَفْرُغُ لَكُمْ أَيُّهَ الثَّقَلَانِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سنفرغ لكم ايه الثقلان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَنَفۡرُغُ لَكُمۡ أَیُّهَ ٱلثَّقَلَانِ
 
 | Details |  |

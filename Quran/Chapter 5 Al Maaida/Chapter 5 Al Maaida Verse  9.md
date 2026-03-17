@@ -452,6 +452,18 @@ Wa'ada Allāhu Al-Ladhīna 'Āmanū Wa 'Amilū Aş-Şāliĥāti Lahum Maghfiratu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وعد الله الذين امنوا وعملوا الصالحات لهم مغفرة واجر عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَعَدَ ٱللَّهُ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُم مَّغۡفِرَةࣱ وَأَجۡرٌ عَظِیمࣱ
 
 | Details |  |

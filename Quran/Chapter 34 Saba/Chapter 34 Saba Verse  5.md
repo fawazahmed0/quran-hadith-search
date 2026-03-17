@@ -452,6 +452,18 @@ Wa Al-Ladhīna Sa'aw Fī 'Āyātinā Mu'ājizīna 'Ūlā'ika Lahum 'Adhābun Min
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ سَعَوْا فِي آيَاتِنَا مُعَاجِزِينَ أُولَئِكَ لَهُمْ عَذَابٌ مِنْ رِجْزٍ أَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين سعوا في اياتنا معاجزين اوليك لهم عذاب من رجز اليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ سَعَوۡ فِیۤ ءَایَـٰتِنَا مُعَـٰجِزِینَ أُو۟لَـٰۤئِكَ لَهُمۡ عَذَابࣱ مِّن رِّجۡزٍ أَلِیمࣱ
 
 | Details |  |

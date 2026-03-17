@@ -452,6 +452,18 @@ Qāla 'Ilmuhā 'Inda Rabbī Fī Kitābin Lā Yađillu Rabbī Wa Lā Yansá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ عِلْمُهَا عِنْدَ رَبِّي فِي كِتَابٍ لَا يَضِلُّ رَبِّي وَلَا يَنْسَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال علمها عند ربي في كتاب لا يضل ربي ولا ينسى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ عِلۡمُهَا عِندَ رَبِّی فِی كِتَـٰبࣲۖ لَّا یَضِلُّ رَبِّی وَلَا یَنسَى
 
 | Details |  |

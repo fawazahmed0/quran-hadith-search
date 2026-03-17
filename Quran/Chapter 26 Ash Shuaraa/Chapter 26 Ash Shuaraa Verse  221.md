@@ -452,6 +452,18 @@ Hal 'Unabbi'ukum 'Alá Man Tanazzalu Ash-Shayāţīnu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَلْ أُنَبِّئُكُمْ عَلَى مَنْ تَنَزَّلُ الشَّيَاطِينُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هل انبيكم على من تنزل الشياطين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَلۡ أُنَبِّئُكُمۡ عَلَىٰ مَن تَنَزَّلُ ٱلشَّیَـٰطِینُ
 
 | Details |  |

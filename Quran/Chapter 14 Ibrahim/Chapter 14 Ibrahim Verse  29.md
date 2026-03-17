@@ -452,6 +452,18 @@ Jahannama Yaşlawnahā Wa Bi'sa Al-Qarāru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+جَهَنَّمَ يَصْلَوْنَهَا وَبِئْسَ الْقَرَارُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+جهنم يصلونها وبيس القرار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 جَهَنَّمَ یَصۡلَوۡنَهَاۖ وَبِئۡسَ ٱلۡقَرَارُ
 
 | Details |  |

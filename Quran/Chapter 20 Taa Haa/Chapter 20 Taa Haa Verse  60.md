@@ -452,6 +452,18 @@ Fatawallá Fir'awnu Fajama'a Kaydahu Thumma 'Atá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَتَوَلَّى فِرْعَوْنُ فَجَمَعَ كَيْدَهُ ثُمَّ أَتَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فتولى فرعون فجمع كيده ثم اتى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَتَوَلَّىٰ فِرۡعَوۡنُ فَجَمَعَ كَیۡدَهُۥ ثُمَّ أَتَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Dhālika Fađlu Allāhi Yu'utīhi Man Yashā'u Wa Allāhu Dhū Al-Fađli Al-'Až
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك فضل الله يوتيه من يشاء والله ذو الفضل العظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ فَضۡلُ ٱللَّهِ یُؤۡتِیهِ مَن یَشَاۤءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِیمِ
 
 | Details |  |

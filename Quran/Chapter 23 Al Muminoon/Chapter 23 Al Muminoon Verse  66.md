@@ -452,6 +452,18 @@ Qad Kānat 'Āyātī Tutlá 'Alaykum Fakuntum 'Alá 'A'qābikum Tankişūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَدْ كَانَتْ آيَاتِي تُتْلَى عَلَيْكُمْ فَكُنْتُمْ عَلَى أَعْقَابِكُمْ تَنْكِصُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قد كانت اياتي تتلى عليكم فكنتم على اعقابكم تنكصون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَدۡ كَانَتۡ ءَایَـٰتِی تُتۡلَىٰ عَلَیۡكُمۡ فَكُنتُمۡ عَلَىٰۤ أَعۡقَـٰبِكُمۡ تَنكِصُونَ
 
 | Details |  |

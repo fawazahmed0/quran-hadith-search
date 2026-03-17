@@ -452,6 +452,18 @@ Wa 'Ilahukum 'Ilahun Wāĥidun Lā 'Ilāha 'Illā Huwa Ar-Raĥmānu Ar-Raĥīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِلَهُكُمْ إِلَهٌ وَاحِدٌ لَا إِلَهَ إِلَّا هُوَ الرَّحْمَنُ الرَّحِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والهكم اله واحد لا اله الا هو الرحمن الرحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِلَـٰهُكُمۡ إِلَـٰهࣱ وَ ٰحِدࣱۖ لَّاۤ إِلَـٰهَ إِلَّا هُوَ ٱلرَّحۡمَـٰنُ ٱلرَّحِیمُ
 
 | Details |  |

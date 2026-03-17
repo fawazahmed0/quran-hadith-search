@@ -452,6 +452,18 @@ Wa Qāla Mūsá Yā Qawmi 'In Kuntum 'Āmantum Billāhi Fa'alayhi Tawakkalū 'In
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ مُوسَى يَا قَوْمِ إِنْ كُنْتُمْ آمَنْتُمْ بِاللَّهِ فَعَلَيْهِ تَوَكَّلُوا إِنْ كُنْتُمْ مُسْلِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال موسى يا قوم ان كنتم امنتم بالله فعليه توكلوا ان كنتم مسلمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ مُوسَىٰ یَـٰقَوۡمِ إِن كُنتُمۡ ءَامَنتُم بِٱللَّهِ فَعَلَیۡهِ تَوَكَّلُوۤا۟ إِن كُنتُم مُّسۡلِمِینَ
 
 | Details |  |

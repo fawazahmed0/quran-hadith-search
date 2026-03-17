@@ -452,6 +452,18 @@ Yurīdūna Liyuţfi'ū Nūra Allāhi Bi'afwāhihim Wa Allāhu Mutimmu Nūrihi Wa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُرِيدُونَ لِيُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَاللَّهُ مُتِمُّ نُورِهِ وَلَوْ كَرِهَ الْكَافِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يريدون ليطفيوا نور الله بافواههم والله متم نوره ولو كره الكافرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُرِیدُونَ لِیُطۡفِءُوا۟ نُورَ ٱللَّهِ بِأَفۡوَ ٰهِهِمۡ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوۡ كَرِهَ ٱلۡكَـٰفِرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fawākihu Wa Hum Mukramūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَوَاكِهُ وَهُمْ مُكْرَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فواكه وهم مكرمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَوَ ٰكِهُ وَهُم مُّكۡرَمُونَ
 
 | Details |  |

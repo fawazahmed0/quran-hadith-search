@@ -452,6 +452,18 @@ Man 'Amila Şāliĥāan Falinafsihi Wa Man 'Asā'a Fa'alayhā Thumma 'Ilá Rabbi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَنْ عَمِلَ صَالِحًا فَلِنَفْسِهِ وَمَنْ أَسَاءَ فَعَلَيْهَا ثُمَّ إِلَى رَبِّكُمْ تُرْجَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من عمل صالحا فلنفسه ومن اساء فعليها ثم الى ربكم ترجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَنۡ عَمِلَ صَـٰلِحࣰا فَلِنَفۡسِهِۦۖ وَمَنۡ أَسَاۤءَ فَعَلَیۡهَاۖ ثُمَّ إِلَىٰ رَبِّكُمۡ تُرۡجَعُونَ
 
 | Details |  |

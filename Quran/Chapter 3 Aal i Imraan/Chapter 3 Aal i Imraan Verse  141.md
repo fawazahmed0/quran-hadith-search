@@ -452,6 +452,18 @@ Wa Liyumaĥĥişa Allāhu Al-Ladhīna 'Āmanū Wa Yamĥaqa Al-Kāfirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِيُمَحِّصَ اللَّهُ الَّذِينَ آمَنُوا وَيَمْحَقَ الْكَافِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وليمحص الله الذين امنوا ويمحق الكافرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِیُمَحِّصَ ٱللَّهُ ٱلَّذِینَ ءَامَنُوا۟ وَیَمۡحَقَ ٱلۡكَـٰفِرِینَ
 
 | Details |  |

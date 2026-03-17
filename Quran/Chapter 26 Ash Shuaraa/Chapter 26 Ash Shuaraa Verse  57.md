@@ -452,6 +452,18 @@ Fa'akhrajnāhum Min Jannātin Wa 'Uyūnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَخْرَجْنَاهُمْ مِنْ جَنَّاتٍ وَعُيُونٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاخرجناهم من جنات وعيون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَخۡرَجۡنَـٰهُم مِّن جَنَّـٰتࣲ وَعُیُونࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna 'Ibrāhīma Laĥalīmun 'Awwāhun Munībun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ إِبْرَاهِيمَ لَحَلِيمٌ أَوَّاهٌ مُنِيبٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان ابراهيم لحليم اواه منيب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ إِبۡرَ ٰهِیمَ لَحَلِیمٌ أَوَّ ٰهࣱ مُّنِیبࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Antum Sāmidūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنْتُمْ سَامِدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانتم سامدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنتُمۡ سَـٰمِدُونَ
 
 | Details |  |

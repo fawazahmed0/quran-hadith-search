@@ -452,6 +452,18 @@ Allāhu Lā 'Ilāha 'Illā Huwa Lahu Al-'Asmā'u Al-Ĥusná
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اللَّهُ لَا إِلَهَ إِلَّا هُوَ لَهُ الْأَسْمَاءُ الْحُسْنَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الله لا اله الا هو له الاسماء الحسنى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱللَّهُ لَاۤ إِلَـٰهَ إِلَّا هُوَۖ لَهُ ٱلۡأَسۡمَاۤءُ ٱلۡحُسۡنَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Idhā As-Samā'u Kushiţat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا السَّمَاءُ كُشِطَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا السماء كشطت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱلسَّمَاۤءُ كُشِطَتۡ
 
 | Details |  |

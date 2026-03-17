@@ -452,6 +452,18 @@ Wa Takūnu Al-Jibālu Kāl'ihni Al-Manfūshi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتكون الجبال كالعهن المنفوش
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ
 
 | Details |  |

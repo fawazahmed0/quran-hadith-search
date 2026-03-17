@@ -452,6 +452,18 @@ Summun Bukmun 'Umyun Fahum La Yarji'una
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَرْجِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+صم بكم عمي فهم لا يرجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 صُمُّۢ بُكۡمٌ عُمۡیࣱ فَهُمۡ لَا یَرۡجِعُونَ
 
 | Details |  |

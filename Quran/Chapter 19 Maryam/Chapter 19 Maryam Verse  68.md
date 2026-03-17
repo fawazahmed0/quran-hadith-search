@@ -452,6 +452,18 @@ Fawarabbika Lanaĥshurannahum Wa Ash-Shayāţīna Thumma Lanuĥđirannahum Ĥawl
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَوَرَبِّكَ لَنَحْشُرَنَّهُمْ وَالشَّيَاطِينَ ثُمَّ لَنُحْضِرَنَّهُمْ حَوْلَ جَهَنَّمَ جِثِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فوربك لنحشرنهم والشياطين ثم لنحضرنهم حول جهنم جثيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَوَرَبِّكَ لَنَحۡشُرَنَّهُمۡ وَٱلشَّیَـٰطِینَ ثُمَّ لَنُحۡضِرَنَّهُمۡ حَوۡلَ جَهَنَّمَ جِثِیࣰّا
 
 | Details |  |

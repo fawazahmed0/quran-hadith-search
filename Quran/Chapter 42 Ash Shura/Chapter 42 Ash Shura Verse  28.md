@@ -452,6 +452,18 @@ Wa Huwa Al-Ladhī Yunazzilu Al-Ghaytha Min Ba'di Mā Qanaţū Wa Yanshuru Raĥma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُوَ الَّذِي يُنَزِّلُ الْغَيْثَ مِنْ بَعْدِ مَا قَنَطُوا وَيَنْشُرُ رَحْمَتَهُ وَهُوَ الْوَلِيُّ الْحَمِيدُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهو الذي ينزل الغيث من بعد ما قنطوا وينشر رحمته وهو الولي الحميد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُوَ ٱلَّذِی یُنَزِّلُ ٱلۡغَیۡثَ مِنۢ بَعۡدِ مَا قَنَطُوا۟ وَیَنشُرُ رَحۡمَتَهُۥۚ وَهُوَ ٱلۡوَلِیُّ ٱلۡحَمِیدُ
 
 | Details |  |

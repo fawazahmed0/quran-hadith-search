@@ -452,6 +452,18 @@ FalammÄ JÄ'a 'Ä€la LÅ«Å£in Al-MursalÅ«na
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا جَاءَ آلَ لُوطٍ الْمُرْسَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما جاء ال لوط المرسلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّا جَاۤءَ ءَالَ لُوطٍ ٱلۡمُرۡسَلُونَ
 
 | Details |  |

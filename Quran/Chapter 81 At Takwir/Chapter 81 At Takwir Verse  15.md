@@ -452,6 +452,18 @@ Falā 'Uqsimu Bil-Khunnasi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَا أُقْسِمُ بِالْخُنَّسِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلا اقسم بالخنس
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَاۤ أُقۡسِمُ بِٱلۡخُنَّسِ
 
 | Details |  |

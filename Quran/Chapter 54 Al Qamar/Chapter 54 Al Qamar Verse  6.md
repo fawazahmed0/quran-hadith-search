@@ -452,6 +452,18 @@ Fatawalla 'Anhum Yawma Yad'u Ad-Dā'i 'Ilá Shay'in Nukurin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَتَوَلَّ عَنْهُمْ يَوْمَ يَدْعُ الدَّاعِ إِلَى شَيْءٍ نُكُرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فتول عنهم يوم يدع الداع الى شيء نكر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَتَوَلَّ عَنۡهُمۡۘ یَوۡمَ یَدۡعُ ٱلدَّاعِ إِلَىٰ شَیۡءࣲ نُّكُرٍ
 
 | Details |  |

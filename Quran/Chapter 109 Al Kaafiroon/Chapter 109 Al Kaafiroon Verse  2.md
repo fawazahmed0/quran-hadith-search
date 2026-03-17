@@ -452,6 +452,18 @@ Lā 'A'budu Mā Ta'budūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا أَعْبُدُ مَا تَعْبُدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا اعبد ما تعبدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَاۤ أَعۡبُدُ مَا تَعۡبُدُونَ
 
 | Details |  |

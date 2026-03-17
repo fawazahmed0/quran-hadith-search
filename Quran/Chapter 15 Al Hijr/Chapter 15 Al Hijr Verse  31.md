@@ -452,6 +452,18 @@ Illā 'Iblīsa 'Abá 'An Yakūna Ma'a As-Sājidīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا إِبْلِيسَ أَبَى أَنْ يَكُونَ مَعَ السَّاجِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا ابليس ابى ان يكون مع الساجدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّاۤ إِبۡلِیسَ أَبَىٰۤ أَن یَكُونَ مَعَ ٱلسَّـٰجِدِینَ
 
 | Details |  |

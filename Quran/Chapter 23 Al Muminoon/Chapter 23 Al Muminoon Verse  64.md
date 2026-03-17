@@ -452,6 +452,18 @@ Hatta 'Idha 'Akhadhna Mutrafihim Bil-'Adhabi 'Idha Hum Yaj'aruna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+حَتَّى إِذَا أَخَذْنَا مُتْرَفِيهِمْ بِالْعَذَابِ إِذَا هُمْ يَجْأَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+حتى اذا اخذنا مترفيهم بالعذاب اذا هم يجارون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 حَتَّىٰۤ إِذَاۤ أَخَذۡنَا مُتۡرَفِیهِم بِٱلۡعَذَابِ إِذَا هُمۡ یَجۡءَرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Innahu Laĥaqqu Al-Yaqīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّهُ لَحَقُّ الْيَقِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه لحق اليقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّهُۥ لَحَقُّ ٱلۡیَقِینِ
 
 | Details |  |

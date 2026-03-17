@@ -452,6 +452,18 @@ Adh/hab 'Ilá Fir'awna 'Innahu Ţaghá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اذْهَبْ إِلَى فِرْعَوْنَ إِنَّهُ طَغَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذهب الى فرعون انه طغى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱذۡهَبۡ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ
 
 | Details |  |

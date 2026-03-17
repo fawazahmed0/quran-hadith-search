@@ -452,6 +452,18 @@ Subĥāna Rabbi As-Samāwāti Wa Al-'Arđi Rabbi Al-'Arshi 'Ammā Yaşifūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سُبْحَانَ رَبِّ السَّمَاوَاتِ وَالْأَرْضِ رَبِّ الْعَرْشِ عَمَّا يَصِفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سبحان رب السماوات والارض رب العرش عما يصفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سُبۡحَـٰنَ رَبِّ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ رَبِّ ٱلۡعَرۡشِ عَمَّا یَصِفُونَ
 
 | Details |  |

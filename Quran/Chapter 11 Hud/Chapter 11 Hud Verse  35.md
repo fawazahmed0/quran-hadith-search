@@ -452,6 +452,18 @@ Am Yaqūlūna Aftarāhu Qul 'Ini Aftaraytuhu Fa'alayya 'Ijrāmī Wa 'Anā Barī'
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ يَقُولُونَ افْتَرَاهُ قُلْ إِنِ افْتَرَيْتُهُ فَعَلَيَّ إِجْرَامِي وَأَنَا بَرِيءٌ مِمَّا تُجْرِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام يقولون افتراه قل ان افتريته فعلي اجرامي وانا بريء مما تجرمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ یَقُولُونَ ٱفۡتَرَىٰهُۖ قُلۡ إِنِ ٱفۡتَرَیۡتُهُۥ فَعَلَیَّ إِجۡرَامِی وَأَنَا۠ بَرِیۤءࣱ مِّمَّا تُجۡرِمُونَ
 
 | Details |  |

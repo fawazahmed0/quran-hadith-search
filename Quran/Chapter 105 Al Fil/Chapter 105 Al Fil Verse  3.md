@@ -452,6 +452,18 @@ Wa 'Arsala 'Alayhim Ţayrāan 'Abābīla
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وارسل عليهم طيرا ابابيل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَرۡسَلَ عَلَیۡهِمۡ طَیۡرًا أَبَابِیلَ
 
 | Details |  |

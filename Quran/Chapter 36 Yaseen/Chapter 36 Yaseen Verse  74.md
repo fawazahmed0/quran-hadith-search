@@ -452,6 +452,18 @@ Wa Attakhadhū Min Dūni Allāhi 'Ālihatan La'allahum Yunşarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاتَّخَذُوا مِنْ دُونِ اللَّهِ آلِهَةً لَعَلَّهُمْ يُنْصَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتخذوا من دون الله الهة لعلهم ينصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةࣰ لَّعَلَّهُمۡ یُنصَرُونَ
 
 | Details |  |

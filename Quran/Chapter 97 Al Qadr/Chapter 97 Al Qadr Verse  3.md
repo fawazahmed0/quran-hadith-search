@@ -452,6 +452,18 @@ Laylatu Al-Qadri Khayrun Min 'Alfi Shahrin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ليلة القدر خير من الف شهر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَیۡلَةُ ٱلۡقَدۡرِ خَیۡرࣱ مِّنۡ أَلۡفِ شَهۡرࣲ
 
 | Details |  |

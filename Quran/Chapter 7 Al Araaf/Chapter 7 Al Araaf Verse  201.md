@@ -452,6 +452,18 @@ Inna Al-Ladhīna Attaqaw 'Idhā Massahum Ţā'ifun Mina Ash-Shayţāni Tadhakkar
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ اتَّقَوْا إِذَا مَسَّهُمْ طَائِفٌ مِنَ الشَّيْطَانِ تَذَكَّرُوا فَإِذَا هُمْ مُبْصِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين اتقوا اذا مسهم طايف من الشيطان تذكروا فاذا هم مبصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ ٱتَّقَوۡا۟ إِذَا مَسَّهُمۡ طَـٰۤئِفࣱ مِّنَ ٱلشَّیۡطَـٰنِ تَذَكَّرُوا۟ فَإِذَا هُم مُّبۡصِرُونَ
 
 | Details |  |

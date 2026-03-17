@@ -452,6 +452,18 @@ Al-Ladhīna Yuĥsharūna 'Alá Wujūhihim 'Ilá Jahannama 'Ūlā'ika Sharrun Mak
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ يُحْشَرُونَ عَلَى وُجُوهِهِمْ إِلَى جَهَنَّمَ أُولَئِكَ شَرٌّ مَكَانًا وَأَضَلُّ سَبِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين يحشرون على وجوههم الى جهنم اوليك شر مكانا واضل سبيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ یُحۡشَرُونَ عَلَىٰ وُجُوهِهِمۡ إِلَىٰ جَهَنَّمَ أُو۟لَـٰۤئِكَ شَرࣱّ مَّكَانࣰا وَأَضَلُّ سَبِیلࣰا
 
 | Details |  |

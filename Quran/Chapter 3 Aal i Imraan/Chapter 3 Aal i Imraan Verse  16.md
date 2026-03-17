@@ -452,6 +452,18 @@ Al-Ladhīna Yaqūlūna Rabbanā 'Innanā 'Āmannā Fāghfir Lanā Dhunūbanā Wa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ يَقُولُونَ رَبَّنَا إِنَّنَا آمَنَّا فَاغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ النَّارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين يقولون ربنا اننا امنا فاغفر لنا ذنوبنا وقنا عذاب النار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ یَقُولُونَ رَبَّنَاۤ إِنَّنَاۤ ءَامَنَّا فَٱغۡفِرۡ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ
 
 | Details |  |

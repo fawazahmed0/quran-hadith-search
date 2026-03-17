@@ -452,6 +452,18 @@ Awfū Al-Kayla Wa Lā Takūnū Mina Al-Mukhsirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْفُوا الْكَيْلَ وَلَا تَكُونُوا مِنَ الْمُخْسِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوفوا الكيل ولا تكونوا من المخسرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ أَوۡفُوا۟ ٱلۡكَیۡلَ وَلَا تَكُونُوا۟ مِنَ ٱلۡمُخۡسِرِینَ
 
 | Details |  |

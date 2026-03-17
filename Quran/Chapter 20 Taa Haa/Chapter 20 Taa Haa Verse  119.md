@@ -452,6 +452,18 @@ Wa 'Annaka Lā Tažma'u Fīhā Wa Lā Tađĥá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّكَ لَا تَظْمَأُ فِيهَا وَلَا تَضْحَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانك لا تظما فيها ولا تضحى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّكَ لَا تَظۡمَؤُا۟ فِیهَا وَلَا تَضۡحَىٰ
 
 | Details |  |

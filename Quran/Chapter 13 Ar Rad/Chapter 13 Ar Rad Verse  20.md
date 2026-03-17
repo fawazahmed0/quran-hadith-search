@@ -452,6 +452,18 @@ Al-Ladhīna Yūfūna Bi'ahdi Allāhi Wa Lā Yanquđūna Al-Mīthāqa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ يُوفُونَ بِعَهْدِ اللَّهِ وَلَا يَنْقُضُونَ الْمِيثَاقَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين يوفون بعهد الله ولا ينقضون الميثاق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ یُوفُونَ بِعَهۡدِ ٱللَّهِ وَلَا یَنقُضُونَ ٱلۡمِیثَـٰقَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Yawma Yatadhakkaru Al-'Insānu Mā Sa'á
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ يَتَذَكَّرُ الْإِنْسَانُ مَا سَعَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم يتذكر الانسان ما سعى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ یَتَذَكَّرُ ٱلۡإِنسَـٰنُ مَا سَعَىٰ
 
 | Details |  |

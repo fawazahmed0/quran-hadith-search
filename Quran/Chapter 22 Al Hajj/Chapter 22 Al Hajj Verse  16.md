@@ -452,6 +452,18 @@ Wa Kadhalika 'Anzalnāhu 'Āyātin Bayyinātin Wa 'Anna Allāha Yahdī Man Yurī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَذَلِكَ أَنْزَلْنَاهُ آيَاتٍ بَيِّنَاتٍ وَأَنَّ اللَّهَ يَهْدِي مَنْ يُرِيدُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكذلك انزلناه ايات بينات وان الله يهدي من يريد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَذَ ٰلِكَ أَنزَلۡنَـٰهُ ءَایَـٰتِۭ بَیِّنَـٰتࣲ وَأَنَّ ٱللَّهَ یَهۡدِی مَن یُرِیدُ
 
 | Details |  |

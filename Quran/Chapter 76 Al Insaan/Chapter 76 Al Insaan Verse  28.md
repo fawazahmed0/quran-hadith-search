@@ -452,6 +452,18 @@ Naĥnu Khalaqnāhum Wa Shadadnā 'Asrahum Wa 'Idhā Shi'nā Baddalnā 'Amthālah
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نَحْنُ خَلَقْنَاهُمْ وَشَدَدْنَا أَسْرَهُمْ وَإِذَا شِئْنَا بَدَّلْنَا أَمْثَالَهُمْ تَبْدِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نحن خلقناهم وشددنا اسرهم واذا شينا بدلنا امثالهم تبديلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نَّحۡنُ خَلَقۡنَـٰهُمۡ وَشَدَدۡنَاۤ أَسۡرَهُمۡۖ وَإِذَا شِئۡنَا بَدَّلۡنَاۤ أَمۡثَـٰلَهُمۡ تَبۡدِیلًا
 
 | Details |  |

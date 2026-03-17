@@ -452,6 +452,18 @@ Wa 'In Yatafarraqā Yughni Allāhu Kullā Min Sa'atihi Wa Kāna Allāhu Wāsi'ā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ يَتَفَرَّقَا يُغْنِ اللَّهُ كُلًّا مِنْ سَعَتِهِ وَكَانَ اللَّهُ وَاسِعًا حَكِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان يتفرقا يغن الله كلا من سعته وكان الله واسعا حكيما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن یَتَفَرَّقَا یُغۡنِ ٱللَّهُ كُلࣰّا مِّن سَعَتِهِۦۚ وَكَانَ ٱللَّهُ وَ ٰسِعًا حَكِیمࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Amman Hādhā Al-Ladhī Huwa Jundun Lakum Yanşurukum Min Dūni Ar-Raĥmāni 'In
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمَّنْ هَذَا الَّذِي هُوَ جُنْدٌ لَكُمْ يَنْصُرُكُمْ مِنْ دُونِ الرَّحْمَنِ إِنِ الْكَافِرُونَ إِلَّا فِي غُرُورٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+امن هذا الذي هو جند لكم ينصركم من دون الرحمن ان الكافرون الا في غرور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمَّنۡ هَـٰذَا ٱلَّذِی هُوَ جُندࣱ لَّكُمۡ یَنصُرُكُم مِّن دُونِ ٱلرَّحۡمَـٰنِۚ إِنِ ٱلۡكَـٰفِرُونَ إِلَّا فِی غُرُورٍ
 
 | Details |  |

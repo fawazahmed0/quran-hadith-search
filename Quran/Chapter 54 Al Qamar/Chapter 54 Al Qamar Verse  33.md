@@ -452,6 +452,18 @@ Kadhabat Qawmu Lūţin Bin-Nudhuri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَّبَتْ قَوْمُ لُوطٍ بِالنُّذُرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذبت قوم لوط بالنذر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَّبَتۡ قَوۡمُ لُوطِۭ بِٱلنُّذُرِ
 
 | Details |  |

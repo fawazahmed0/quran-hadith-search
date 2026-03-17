@@ -452,6 +452,18 @@ Raĥmatan Min Rabbika 'Innahu Huwa As-Samī'u Al-'Alīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَحْمَةً مِنْ رَبِّكَ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+رحمة من ربك انه هو السميع العليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَحۡمَةࣰ مِّن رَّبِّكَۚ إِنَّهُۥ هُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ
 
 | Details |  |

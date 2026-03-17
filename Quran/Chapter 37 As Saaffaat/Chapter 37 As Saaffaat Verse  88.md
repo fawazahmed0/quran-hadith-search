@@ -452,6 +452,18 @@ Fanažara Nažratan Fī An-Nujūmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَنَظَرَ نَظْرَةً فِي النُّجُومِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فنظر نظرة في النجوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَنَظَرَ نَظۡرَةࣰ فِی ٱلنُّجُومِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Hādhā Hudáan Wa Al-Ladhīna Kafarū Bi'āyāti Rabbihim Lahum 'Adhābun Min R
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذَا هُدًى وَالَّذِينَ كَفَرُوا بِآيَاتِ رَبِّهِمْ لَهُمْ عَذَابٌ مِنْ رِجْزٍ أَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذا هدى والذين كفروا بايات ربهم لهم عذاب من رجز اليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذَا هُدࣰىۖ وَٱلَّذِینَ كَفَرُوا۟ بِءَایَـٰتِ رَبِّهِمۡ لَهُمۡ عَذَابࣱ مِّن رِّجۡزٍ أَلِیمٌ
 
 | Details |  |

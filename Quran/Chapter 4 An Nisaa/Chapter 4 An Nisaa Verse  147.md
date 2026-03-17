@@ -452,6 +452,18 @@ Mā Yaf'alu Allāhu Bi'adhābikum 'In Shakartum Wa 'Āmantum Wa Kāna Allāhu Sh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا يَفْعَلُ اللَّهُ بِعَذَابِكُمْ إِنْ شَكَرْتُمْ وَآمَنْتُمْ وَكَانَ اللَّهُ شَاكِرًا عَلِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما يفعل الله بعذابكم ان شكرتم وامنتم وكان الله شاكرا عليما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّا یَفۡعَلُ ٱللَّهُ بِعَذَابِكُمۡ إِن شَكَرۡتُمۡ وَءَامَنتُمۡۚ وَكَانَ ٱللَّهُ شَاكِرًا عَلِیمࣰا
 
 | Details |  |

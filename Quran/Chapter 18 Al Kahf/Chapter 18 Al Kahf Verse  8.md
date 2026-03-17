@@ -452,6 +452,18 @@ Wa 'Innā Lajā'ilūna Mā 'Alayhā Şa'īdāan Juruzāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّا لَجَاعِلُونَ مَا عَلَيْهَا صَعِيدًا جُرُزًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانا لجاعلون ما عليها صعيدا جرزا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّا لَجَـٰعِلُونَ مَا عَلَیۡهَا صَعِیدࣰا جُرُزًا
 
 | Details |  |

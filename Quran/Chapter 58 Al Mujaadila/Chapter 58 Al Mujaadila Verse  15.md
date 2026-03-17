@@ -452,6 +452,18 @@ A'adda Allāhu Lahum 'Adhābāan Shadīdāan 'Innahum Sā'a Mā Kānū Ya'malūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَعَدَّ اللَّهُ لَهُمْ عَذَابًا شَدِيدًا إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اعد الله لهم عذابا شديدا انهم ساء ما كانوا يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَعَدَّ ٱللَّهُ لَهُمۡ عَذَابࣰا شَدِیدًاۖ إِنَّهُمۡ سَاۤءَ مَا كَانُوا۟ یَعۡمَلُونَ
 
 | Details |  |

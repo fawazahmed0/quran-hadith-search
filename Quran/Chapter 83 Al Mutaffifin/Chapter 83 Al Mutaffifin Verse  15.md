@@ -452,6 +452,18 @@ Kallā 'Innahum 'An Rabbihim Yawma'idhin Lamaĥjūbūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا إِنَّهُمْ عَنْ رَبِّهِمْ يَوْمَئِذٍ لَمَحْجُوبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا انهم عن ربهم يوميذ لمحجوبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّاۤ إِنَّهُمۡ عَن رَّبِّهِمۡ یَوۡمَئِذࣲ لَّمَحۡجُوبُونَ
 
 | Details |  |

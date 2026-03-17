@@ -452,6 +452,18 @@ Wa Barrāan Biwālidatī Wa Lam Yaj'alnī Jabbārāan Shaqīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَبَرًّا بِوَالِدَتِي وَلَمْ يَجْعَلْنِي جَبَّارًا شَقِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وبرا بوالدتي ولم يجعلني جبارا شقيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَبَرَّۢا بِوَ ٰلِدَتِی وَلَمۡ یَجۡعَلۡنِی جَبَّارࣰا شَقِیࣰّا
 
 | Details |  |

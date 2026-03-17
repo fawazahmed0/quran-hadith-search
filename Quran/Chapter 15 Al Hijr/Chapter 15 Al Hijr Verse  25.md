@@ -452,6 +452,18 @@ Wa 'Inna Rabbaka Huwa Yaĥshuruhum 'Innahu Ĥakīmun 'Alīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ رَبَّكَ هُوَ يَحْشُرُهُمْ إِنَّهُ حَكِيمٌ عَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان ربك هو يحشرهم انه حكيم عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ رَبَّكَ هُوَ یَحۡشُرُهُمۡۚ إِنَّهُۥ حَكِیمٌ عَلِیمࣱ
 
 | Details |  |

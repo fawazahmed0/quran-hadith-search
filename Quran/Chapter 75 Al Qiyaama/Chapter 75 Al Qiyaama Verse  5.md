@@ -452,6 +452,18 @@ Bal Yurīdu Al-'Insānu Liyafjura 'Amāmahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ أَمَامَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل يريد الانسان ليفجر امامه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ یُرِیدُ ٱلۡإِنسَـٰنُ لِیَفۡجُرَ أَمَامَهُۥ
 
 | Details |  |

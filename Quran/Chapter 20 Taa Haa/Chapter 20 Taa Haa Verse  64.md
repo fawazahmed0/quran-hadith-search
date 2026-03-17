@@ -452,6 +452,18 @@ Fa'ajmi'ū Kaydakum Thumma A'tū Şaffāan Wa Qad 'Aflaĥa Al-Yawma Mani Asta'l�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَجْمِعُوا كَيْدَكُمْ ثُمَّ ائْتُوا صَفًّا وَقَدْ أَفْلَحَ الْيَوْمَ مَنِ اسْتَعْلَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاجمعوا كيدكم ثم ايتوا صفا وقد افلح اليوم من استعلى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَجۡمِعُوا۟ كَیۡدَكُمۡ ثُمَّ ٱئۡتُوا۟ صَفࣰّاۚ وَقَدۡ أَفۡلَحَ ٱلۡیَوۡمَ مَنِ ٱسۡتَعۡلَىٰ
 
 | Details |  |

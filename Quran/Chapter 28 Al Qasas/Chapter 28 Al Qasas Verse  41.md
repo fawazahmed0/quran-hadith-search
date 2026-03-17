@@ -452,6 +452,18 @@ Wa Ja'alnāhum 'A'immatan Yad'ūna 'Ilá An-Nāri Wa Yawma Al-Qiyāmati Lā Yun�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ وَيَوْمَ الْقِيَامَةِ لَا يُنْصَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلناهم ايمة يدعون الى النار ويوم القيامة لا ينصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلۡنَـٰهُمۡ أَئِمَّةࣰ یَدۡعُونَ إِلَى ٱلنَّارِۖ وَیَوۡمَ ٱلۡقِیَـٰمَةِ لَا یُنصَرُونَ
 
 | Details |  |

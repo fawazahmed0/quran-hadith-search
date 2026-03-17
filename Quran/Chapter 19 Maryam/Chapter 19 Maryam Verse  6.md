@@ -452,6 +452,18 @@ Yarithunī Wa Yarithu Min 'Āli Ya'qūba Wa Aj'alhu Rabbi Rađīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَرِثُنِي وَيَرِثُ مِنْ آلِ يَعْقُوبَ وَاجْعَلْهُ رَبِّ رَضِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يرثني ويرث من ال يعقوب واجعله رب رضيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَرِثُنِی وَیَرِثُ مِنۡ ءَالِ یَعۡقُوبَۖ وَٱجۡعَلۡهُ رَبِّ رَضِیࣰّا
 
 | Details |  |

@@ -452,6 +452,18 @@ Aw 'Iţ'āmun Fī Yawmin Dhī Masghabahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+او اطعام في يوم ذي مسغبة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوۡ إِطۡعَـٰمࣱ فِی یَوۡمࣲ ذِی مَسۡغَبَةࣲ
 
 | Details |  |

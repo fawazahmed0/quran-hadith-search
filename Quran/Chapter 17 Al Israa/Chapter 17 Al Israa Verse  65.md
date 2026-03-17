@@ -452,6 +452,18 @@ Inna 'Ibādī Laysa Laka 'Alayhim Sulţānun Wa Kafá Birabbika Wa Kīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ وَكَفَى بِرَبِّكَ وَكِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان عبادي ليس لك عليهم سلطان وكفى بربك وكيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ عِبَادِی لَیۡسَ لَكَ عَلَیۡهِمۡ سُلۡطَـٰنࣱۚ وَكَفَىٰ بِرَبِّكَ وَكِیلࣰا
 
 | Details |  |

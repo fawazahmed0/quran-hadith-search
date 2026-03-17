@@ -452,6 +452,18 @@ Wa Mā Huwa 'Illā Dhikrun Lil'ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما هو الا ذكر للعالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا هُوَ إِلَّا ذِكۡرࣱ لِّلۡعَـٰلَمِینَ
 
 | Details |  |

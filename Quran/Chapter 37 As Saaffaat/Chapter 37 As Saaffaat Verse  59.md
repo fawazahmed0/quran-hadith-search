@@ -452,6 +452,18 @@ Illā Mawtatanā Al-'Ūlá Wa Mā Naĥnu Bimu'adhabīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا مَوْتَتَنَا الْأُولَى وَمَا نَحْنُ بِمُعَذَّبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا موتتنا الاولى وما نحن بمعذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا مَوۡتَتَنَا ٱلۡأُولَىٰ وَمَا نَحۡنُ بِمُعَذَّبِینَ
 
 | Details |  |

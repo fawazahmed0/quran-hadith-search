@@ -452,6 +452,18 @@ Wa Al-Ladhīna Yaqūlūna Rabbanā Aşrif 'Annā 'Adhāba Jahannama 'Inna 'Adhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ يَقُولُونَ رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ إِنَّ عَذَابَهَا كَانَ غَرَامًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين يقولون ربنا اصرف عنا عذاب جهنم ان عذابها كان غراما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ یَقُولُونَ رَبَّنَا ٱصۡرِفۡ عَنَّا عَذَابَ جَهَنَّمَۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا
 
 | Details |  |

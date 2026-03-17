@@ -452,6 +452,18 @@ Aw Yūbiqhunna Bimā Kasabū Wa Ya'fu 'An Kathīrin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْ يُوبِقْهُنَّ بِمَا كَسَبُوا وَيَعْفُ عَنْ كَثِيرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+او يوبقهن بما كسبوا ويعف عن كثير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوۡ یُوبِقۡهُنَّ بِمَا كَسَبُوا۟ وَیَعۡفُ عَن كَثِیرࣲ
 
 | Details |  |

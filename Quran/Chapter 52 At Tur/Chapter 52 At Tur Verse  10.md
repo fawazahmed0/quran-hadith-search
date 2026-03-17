@@ -452,6 +452,18 @@ Wa Tasīru Al-Jibālu Sayrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَسِيرُ الْجِبَالُ سَيْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتسير الجبال سيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَسِیرُ ٱلۡجِبَالُ سَیۡرࣰا
 
 | Details |  |

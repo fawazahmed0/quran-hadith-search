@@ -452,6 +452,18 @@ Wa Lā Nukallifu Nafsāan 'Illā Wus'ahā Wa Ladaynā Kitābun Yanţiqu Bil-Ĥaq
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَلَدَيْنَا كِتَابٌ يَنْطِقُ بِالْحَقِّ وَهُمْ لَا يُظْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا نكلف نفسا الا وسعها ولدينا كتاب ينطق بالحق وهم لا يظلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا نُكَلِّفُ نَفۡسًا إِلَّا وُسۡعَهَاۚ وَلَدَیۡنَا كِتَـٰبࣱ یَنطِقُ بِٱلۡحَقِّ وَهُمۡ لَا یُظۡلَمُونَ
 
 | Details |  |

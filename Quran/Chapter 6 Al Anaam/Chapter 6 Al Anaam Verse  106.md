@@ -452,6 +452,18 @@ Attabi' Mā 'Ūĥiya 'Ilayka Min Rabbika Lā 'Ilāha 'Illā Huwa Wa 'A'riđ 'Ani
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اتَّبِعْ مَا أُوحِيَ إِلَيْكَ مِنْ رَبِّكَ لَا إِلَهَ إِلَّا هُوَ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اتبع ما اوحي اليك من ربك لا اله الا هو واعرض عن المشركين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱتَّبِعۡ مَاۤ أُوحِیَ إِلَیۡكَ مِن رَّبِّكَۖ لَاۤ إِلَـٰهَ إِلَّا هُوَۖ وَأَعۡرِضۡ عَنِ ٱلۡمُشۡرِكِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Lillahi Mulku As-Samāwāti Wa Al-'Arđi Wa Yawma Taqūmu As-Sā'atu Yawma'id
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَخْسَرُ الْمُبْطِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولله ملك السماوات والارض ويوم تقوم الساعة يوميذ يخسر المبطلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِلَّهِ مُلۡكُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۚ وَیَوۡمَ تَقُومُ ٱلسَّاعَةُ یَوۡمَئِذࣲ یَخۡسَرُ ٱلۡمُبۡطِلُونَ
 
 | Details |  |

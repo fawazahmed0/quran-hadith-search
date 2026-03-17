@@ -452,6 +452,18 @@ Wa As-Samā'i Wa Aţ-Ţāriqi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالسَّمَاءِ وَالطَّارِقِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والسماء والطارق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلسَّمَاۤءِ وَٱلطَّارِقِ
 
 | Details |  |

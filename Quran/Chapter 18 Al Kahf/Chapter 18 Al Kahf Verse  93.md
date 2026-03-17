@@ -452,6 +452,18 @@ Hatta 'Idha Balagha Bayna As-Saddayni Wajada Min Dunihima Qawmaan La Yakaduna Ya
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+حَتَّى إِذَا بَلَغَ بَيْنَ السَّدَّيْنِ وَجَدَ مِنْ دُونِهِمَا قَوْمًا لَا يَكَادُونَ يَفْقَهُونَ قَوْلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+حتى اذا بلغ بين السدين وجد من دونهما قوما لا يكادون يفقهون قولا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 حَتَّىٰۤ إِذَا بَلَغَ بَیۡنَ ٱلسَّدَّیۡنِ وَجَدَ مِن دُونِهِمَا قَوۡمࣰا لَّا یَكَادُونَ یَفۡقَهُونَ قَوۡلࣰا
 
 | Details |  |

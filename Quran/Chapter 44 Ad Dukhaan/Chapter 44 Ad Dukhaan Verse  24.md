@@ -452,6 +452,18 @@ Wa Atruki Al-Baĥra Rahwan 'Innahum Jundun Mughraqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاتْرُكِ الْبَحْرَ رَهْوًا إِنَّهُمْ جُنْدٌ مُغْرَقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واترك البحر رهوا انهم جند مغرقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱتۡرُكِ ٱلۡبَحۡرَ رَهۡوًاۖ إِنَّهُمۡ جُندࣱ مُّغۡرَقُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Matā'un Qalīlun Thumma Ma'wāhum Jahannamu Wa Bi'sa Al-Mihādu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَتَاعٌ قَلِيلٌ ثُمَّ مَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمِهَادُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+متاع قليل ثم ماواهم جهنم وبيس المهاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَتَـٰعࣱ قَلِیلࣱ ثُمَّ مَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمِهَادُ
 
 | Details |  |

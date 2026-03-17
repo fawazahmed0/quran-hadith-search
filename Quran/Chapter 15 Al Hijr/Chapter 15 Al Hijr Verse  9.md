@@ -452,6 +452,18 @@ Innā Naĥnu Nazzalnā Adh-Dhikra Wa 'Innā Lahu Laĥāfižūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا نحن نزلنا الذكر وانا له لحافظون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا نَحۡنُ نَزَّلۡنَا ٱلذِّكۡرَ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ
 
 | Details |  |

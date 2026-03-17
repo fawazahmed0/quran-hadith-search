@@ -452,6 +452,18 @@ Inna Hādhā Lahuwa Al-Balā'u Al-Mubīnu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ هَذَا لَهُوَ الْبَلَاءُ الْمُبِينُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هذا لهو البلاء المبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ هَـٰذَا لَهُوَ ٱلۡبَلَـٰۤؤُا۟ ٱلۡمُبِینُ
 
 | Details |  |

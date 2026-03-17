@@ -452,6 +452,18 @@ Bal Ta'tīhim Baghtatan Fatabhatuhum Falā Yastaţī'ūna Raddahā Wa Lā Hum Yu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ تَأْتِيهِمْ بَغْتَةً فَتَبْهَتُهُمْ فَلَا يَسْتَطِيعُونَ رَدَّهَا وَلَا هُمْ يُنْظَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل تاتيهم بغتة فتبهتهم فلا يستطيعون ردها ولا هم ينظرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ تَأۡتِیهِم بَغۡتَةࣰ فَتَبۡهَتُهُمۡ فَلَا یَسۡتَطِیعُونَ رَدَّهَا وَلَا هُمۡ یُنظَرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla 'In Sa'altuka 'An Shay'in Ba'dahā Falā Tuşāĥibnī Qad Balaghta Min La
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ إِنْ سَأَلْتُكَ عَنْ شَيْءٍ بَعْدَهَا فَلَا تُصَاحِبْنِي قَدْ بَلَغْتَ مِنْ لَدُنِّي عُذْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال ان سالتك عن شيء بعدها فلا تصاحبني قد بلغت من لدني عذرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ إِن سَأَلۡتُكَ عَن شَیۡءِۭ بَعۡدَهَا فَلَا تُصَـٰحِبۡنِیۖ قَدۡ بَلَغۡتَ مِن لَّدُنِّی عُذۡرࣰا
 
 | Details |  |

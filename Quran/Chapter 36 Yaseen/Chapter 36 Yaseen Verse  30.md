@@ -452,6 +452,18 @@ Yā Ĥasratan 'Alá Al-'Ibādi Mā Ya'tīhim Min Rasūlin 'Illā Kānū Bihi Yas
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا حَسْرَةً عَلَى الْعِبَادِ مَا يَأْتِيهِمْ مِنْ رَسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا حسرة على العباد ما ياتيهم من رسول الا كانوا به يستهزيون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰحَسۡرَةً عَلَى ٱلۡعِبَادِۚ مَا یَأۡتِیهِم مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ یَسۡتَهۡزِءُونَ
 
 | Details |  |

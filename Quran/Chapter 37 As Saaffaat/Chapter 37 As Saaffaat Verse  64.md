@@ -452,6 +452,18 @@ Innahā Shajaratun Takhruju Fī 'Aşli Al-Jaĥīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهَا شَجَرَةٌ تَخْرُجُ فِي أَصْلِ الْجَحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انها شجرة تخرج في اصل الجحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهَا شَجَرَةࣱ تَخۡرُجُ فِیۤ أَصۡلِ ٱلۡجَحِیمِ
 
 | Details |  |

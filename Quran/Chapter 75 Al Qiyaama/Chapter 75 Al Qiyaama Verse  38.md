@@ -452,6 +452,18 @@ Thumma Kāna 'Alaqatan Fakhalaqa Fasawwá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم كان علقة فخلق فسوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ كَانَ عَلَقَةࣰ فَخَلَقَ فَسَوَّىٰ
 
 | Details |  |

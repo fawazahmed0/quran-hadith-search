@@ -452,6 +452,18 @@ Wa Al-Ladhīna Kadhabū Bi'āyātinā Yamassuhumu Al-'Adhābu Bimā Kānū Yafsu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا يَمَسُّهُمُ الْعَذَابُ بِمَا كَانُوا يَفْسُقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين كذبوا باياتنا يمسهم العذاب بما كانوا يفسقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ كَذَّبُوا۟ بِءَایَـٰتِنَا یَمَسُّهُمُ ٱلۡعَذَابُ بِمَا كَانُوا۟ یَفۡسُقُونَ
 
 | Details |  |

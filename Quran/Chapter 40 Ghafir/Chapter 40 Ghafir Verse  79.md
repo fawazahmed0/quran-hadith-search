@@ -452,6 +452,18 @@ Allāhu Al-Ladhī Ja'ala Lakumu Al-'An'ām Litarkabū Minhā Wa Minhā Ta'kulūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اللَّهُ الَّذِي جَعَلَ لَكُمُ الْأَنْعَامَ لِتَرْكَبُوا مِنْهَا وَمِنْهَا تَأْكُلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الله الذي جعل لكم الانعام لتركبوا منها ومنها تاكلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱللَّهُ ٱلَّذِی جَعَلَ لَكُمُ ٱلۡأَنۡعَـٰمَ لِتَرۡكَبُوا۟ مِنۡهَا وَمِنۡهَا تَأۡكُلُونَ
 
 | Details |  |

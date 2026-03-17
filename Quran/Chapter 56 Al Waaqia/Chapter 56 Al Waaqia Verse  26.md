@@ -452,6 +452,18 @@ Illā Qīlāan Salāmāan Salāmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا قِيلًا سَلَامًا سَلَامًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا قيلا سلاما سلاما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا قِیلࣰا سَلَـٰمࣰا سَلَـٰمࣰا
 
 | Details |  |

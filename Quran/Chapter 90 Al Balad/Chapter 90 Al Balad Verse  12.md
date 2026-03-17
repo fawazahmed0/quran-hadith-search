@@ -452,6 +452,18 @@ Wa Mā 'Adrāka Mā Al-'Aqabahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَدْرَاكَ مَا الْعَقَبَةُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ادراك ما العقبة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَدۡرَىٰكَ مَا ٱلۡعَقَبَةُ
 
 | Details |  |

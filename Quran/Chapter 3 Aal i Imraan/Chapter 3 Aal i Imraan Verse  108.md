@@ -452,6 +452,18 @@ Tilka 'Āyātu Allāhi Natlūhā 'Alayka Bil-Ĥaqqi Wa Mā Allāhu Yurīdu Žulm
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تِلْكَ آيَاتُ اللَّهِ نَتْلُوهَا عَلَيْكَ بِالْحَقِّ وَمَا اللَّهُ يُرِيدُ ظُلْمًا لِلْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تلك ايات الله نتلوها عليك بالحق وما الله يريد ظلما للعالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تِلۡكَ ءَایَـٰتُ ٱللَّهِ نَتۡلُوهَا عَلَیۡكَ بِٱلۡحَقِّۗ وَمَا ٱللَّهُ یُرِیدُ ظُلۡمࣰا لِّلۡعَـٰلَمِینَ
 
 | Details |  |

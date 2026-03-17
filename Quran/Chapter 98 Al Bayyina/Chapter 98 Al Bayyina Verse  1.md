@@ -452,6 +452,18 @@ Lam Yakuni Al-Ladhīna Kafarū Min 'Ahli Al-Kitābi Wa Al-Mushrikīna Munfakkīn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنْفَكِّينَ حَتَّى تَأْتِيَهُمُ الْبَيِّنَةُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لم يكن الذين كفروا من اهل الكتاب والمشركين منفكين حتى تاتيهم البينة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَمۡ یَكُنِ ٱلَّذِینَ كَفَرُوا۟ مِنۡ أَهۡلِ ٱلۡكِتَـٰبِ وَٱلۡمُشۡرِكِینَ مُنفَكِّینَ حَتَّىٰ تَأۡتِیَهُمُ ٱلۡبَیِّنَةُ
 
 | Details |  |

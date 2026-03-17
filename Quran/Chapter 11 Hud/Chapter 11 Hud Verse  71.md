@@ -452,6 +452,18 @@ Wa Amra'atuhu Qā'imatun Fađaĥikat Fabasharnāhā Bi'isĥāqa Wa Min Warā'i '
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَامْرَأَتُهُ قَائِمَةٌ فَضَحِكَتْ فَبَشَّرْنَاهَا بِإِسْحَاقَ وَمِنْ وَرَاءِ إِسْحَاقَ يَعْقُوبَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وامراته قايمة فضحكت فبشرناها باسحاق ومن وراء اسحاق يعقوب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱمۡرَأَتُهُۥ قَاۤئِمَةࣱ فَضَحِكَتۡ فَبَشَّرۡنَـٰهَا بِإِسۡحَـٰقَ وَمِن وَرَاۤءِ إِسۡحَـٰقَ یَعۡقُوبَ
 
 | Details |  |

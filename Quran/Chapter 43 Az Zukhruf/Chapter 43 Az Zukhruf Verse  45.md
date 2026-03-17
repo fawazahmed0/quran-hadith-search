@@ -452,6 +452,18 @@ Wa As'al Man 'Arsalnā Min Qablika Min Rusulinā 'Aja'alnā Min Dūni Ar-Raĥmā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاسْأَلْ مَنْ أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رُسُلِنَا أَجَعَلْنَا مِنْ دُونِ الرَّحْمَنِ آلِهَةً يُعْبَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واسال من ارسلنا من قبلك من رسلنا اجعلنا من دون الرحمن الهة يعبدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَسۡءَلۡ مَنۡ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رُّسُلِنَاۤ أَجَعَلۡنَا مِن دُونِ ٱلرَّحۡمَـٰنِ ءَالِهَةࣰ یُعۡبَدُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fakāna 'Āqibatahumā 'Annahumā Fī An-Nāri Khālidayni Fīhā Wa Dhalika Jaz
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكَانَ عَاقِبَتَهُمَا أَنَّهُمَا فِي النَّارِ خَالِدَيْنِ فِيهَا وَذَلِكَ جَزَاءُ الظَّالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكان عاقبتهما انهما في النار خالدين فيها وذلك جزاء الظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكَانَ عَـٰقِبَتَهُمَاۤ أَنَّهُمَا فِی ٱلنَّارِ خَـٰلِدَیۡنِ فِیهَاۚ وَذَ ٰلِكَ جَزَ ٰۤؤُا۟ ٱلظَّـٰلِمِینَ
 
 | Details |  |

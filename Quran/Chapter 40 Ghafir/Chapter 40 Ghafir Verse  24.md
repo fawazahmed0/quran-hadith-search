@@ -452,6 +452,18 @@ Ilá Fir'awna Wa Hāmāna Wa Qārūna Faqālū Sāĥirun Kadhābun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَى فِرْعَوْنَ وَهَامَانَ وَقَارُونَ فَقَالُوا سَاحِرٌ كَذَّابٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الى فرعون وهامان وقارون فقالوا ساحر كذاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَىٰ فِرۡعَوۡنَ وَهَـٰمَـٰنَ وَقَـٰرُونَ فَقَالُوا۟ سَـٰحِرࣱ كَذَّابࣱ
 
 | Details |  |

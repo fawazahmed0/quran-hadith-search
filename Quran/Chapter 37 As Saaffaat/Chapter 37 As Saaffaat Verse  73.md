@@ -452,6 +452,18 @@ Fānžur Kayfa Kāna 'Āqibatu Al-Mundharīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُنْذَرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانظر كيف كان عاقبة المنذرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱنظُرۡ كَیۡفَ كَانَ عَـٰقِبَةُ ٱلۡمُنذَرِینَ
 
 | Details |  |

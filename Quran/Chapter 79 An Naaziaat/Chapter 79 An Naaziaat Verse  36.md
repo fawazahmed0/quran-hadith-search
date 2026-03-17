@@ -452,6 +452,18 @@ Wa Burrizati Al-Jaĥīmu Liman Yará
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَبُرِّزَتِ الْجَحِيمُ لِمَنْ يَرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وبرزت الجحيم لمن يرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَبُرِّزَتِ ٱلۡجَحِیمُ لِمَن یَرَىٰ
 
 | Details |  |

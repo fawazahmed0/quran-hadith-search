@@ -452,6 +452,18 @@ Aja'ala Al-'Ālihata 'Ilahāan Wāĥidāan 'Inna Hādhā Lashay'un 'Ujābun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَجَعَلَ الْآلِهَةَ إِلَهًا وَاحِدًا إِنَّ هَذَا لَشَيْءٌ عُجَابٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اجعل الالهة الها واحدا ان هذا لشيء عجاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَجَعَلَ ٱلۡءَالِهَةَ إِلَـٰهࣰا وَ ٰحِدًاۖ إِنَّ هَـٰذَا لَشَیۡءٌ عُجَابࣱ
 
 | Details |  |

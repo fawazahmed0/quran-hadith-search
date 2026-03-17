@@ -452,6 +452,18 @@ Wa Lirabbika Fāşbir
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِرَبِّكَ فَاصْبِرْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولربك فاصبر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِرَبِّكَ فَٱصۡبِرۡ
 
 | Details |  |

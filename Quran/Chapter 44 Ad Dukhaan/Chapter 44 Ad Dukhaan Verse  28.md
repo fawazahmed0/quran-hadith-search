@@ -452,6 +452,18 @@ Kadhālika Wa 'Awrathnāhā Qawmāan 'Ākharīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَلِكَ وَأَوْرَثْنَاهَا قَوْمًا آخَرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذلك واورثناها قوما اخرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَ ٰلِكَۖ وَأَوۡرَثۡنَـٰهَا قَوۡمًا ءَاخَرِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Innahā Sā'at Mustaqarrāan Wa Muqāmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهَا سَاءَتْ مُسْتَقَرًّا وَمُقَامًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انها ساءت مستقرا ومقاما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهَا سَاۤءَتۡ مُسۡتَقَرࣰّا وَمُقَامࣰا
 
 | Details |  |

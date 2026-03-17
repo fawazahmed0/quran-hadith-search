@@ -452,6 +452,18 @@ Hadhihi Jahannamu Allatī Kuntum Tū'adūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذِهِ جَهَنَّمُ الَّتِي كُنْتُمْ تُوعَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذه جهنم التي كنتم توعدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِی كُنتُمۡ تُوعَدُونَ
 
 | Details |  |

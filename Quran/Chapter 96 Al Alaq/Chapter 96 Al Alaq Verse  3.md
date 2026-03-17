@@ -452,6 +452,18 @@ Aqra' Wa Rabbuka Al-'Akramu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اقْرَأْ وَرَبُّكَ الْأَكْرَمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اقرا وربك الاكرم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱقۡرَأۡ وَرَبُّكَ ٱلۡأَكۡرَمُ
 
 | Details |  |

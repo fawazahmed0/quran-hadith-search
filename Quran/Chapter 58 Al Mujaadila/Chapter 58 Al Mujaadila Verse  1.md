@@ -452,6 +452,18 @@ Qad Sami'a Allāhu Qawla Allatī Tujādiluka Fī Zawjihā Wa Tashtakī 'Ilá All
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا وَتَشْتَكِي إِلَى اللَّهِ وَاللَّهُ يَسْمَعُ تَحَاوُرَكُمَا إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قد سمع الله قول التي تجادلك في زوجها وتشتكي الى الله والله يسمع تحاوركما ان الله سميع بصير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ قَدۡ سَمِعَ ٱللَّهُ قَوۡلَ ٱلَّتِی تُجَـٰدِلُكَ فِی زَوۡجِهَا وَتَشۡتَكِیۤ إِلَى ٱللَّهِ وَٱللَّهُ یَسۡمَعُ تَحَاوُرَكُمَاۤۚ إِنَّ ٱللَّهَ سَمِیعُۢ بَصِیرٌ
 
 | Details |  |
@@ -3162,7 +3174,7 @@ Allah pochuv slova tiyeyi, yaka sperechalasya z toboyu pro svoho cholovika, i sk
 
 ## Urdu
 
-Allah ne sun li us aurat ki baat jo apne shohar kay maamle mein tumse takrar kar rahi hai aur Allah se faryaad kiye jati hai. |Allah tum dono ki guftagu sun raha hai. Woh sab kuch sunnay aur dekhne wala hai
+Allah ne sun li us aurat ki baat jo apne shohar kay maamle mein tumse takrar kar rahi hai aur Allah se faryaad kiye jati hai.Allah tum dono ki guftagu sun raha hai. Woh sab kuch sunnay aur dekhne wala hai
 
 | Details |  |
 | --- | --- |

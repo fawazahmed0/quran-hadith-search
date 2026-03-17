@@ -452,6 +452,18 @@ Wa Al-Ladhīna 'Idhā 'Aşābahumu Al-Baghyu Hum Yantaşirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ إِذَا أَصَابَهُمُ الْبَغْيُ هُمْ يَنْتَصِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين اذا اصابهم البغي هم ينتصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ إِذَاۤ أَصَابَهُمُ ٱلۡبَغۡیُ هُمۡ یَنتَصِرُونَ
 
 | Details |  |

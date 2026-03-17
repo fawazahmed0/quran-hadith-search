@@ -452,6 +452,18 @@ Wa Makarū Makrāan Wa Makarnā Makrāan Wa Hum Lā Yash'urūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَكَرُوا مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومكروا مكرا ومكرنا مكرا وهم لا يشعرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَكَرُوا۟ مَكۡرࣰا وَمَكَرۡنَا مَكۡرࣰا وَهُمۡ لَا یَشۡعُرُونَ
 
 | Details |  |

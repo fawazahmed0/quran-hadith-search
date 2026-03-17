@@ -452,6 +452,18 @@ Alam Nashraĥ Laka Şadraka
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم نشرح لك صدرك
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ
 
 | Details |  |

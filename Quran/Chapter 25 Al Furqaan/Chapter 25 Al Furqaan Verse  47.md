@@ -452,6 +452,18 @@ Wa Huwa Al-Ladhī Ja'ala Lakumu Al-Layla Libāsāan Wa An-Nawma Subātāan Wa Ja
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُوَ الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِبَاسًا وَالنَّوْمَ سُبَاتًا وَجَعَلَ النَّهَارَ نُشُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهو الذي جعل لكم الليل لباسا والنوم سباتا وجعل النهار نشورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُوَ ٱلَّذِی جَعَلَ لَكُمُ ٱلَّیۡلَ لِبَاسࣰا وَٱلنَّوۡمَ سُبَاتࣰا وَجَعَلَ ٱلنَّهَارَ نُشُورࣰا
 
 | Details |  |

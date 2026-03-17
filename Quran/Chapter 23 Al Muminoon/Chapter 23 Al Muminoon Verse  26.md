@@ -452,6 +452,18 @@ Qāla Rabbi Anşurnī Bimā Kadhabūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ انْصُرْنِي بِمَا كَذَّبُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب انصرني بما كذبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ ٱنصُرۡنِی بِمَا كَذَّبُونِ
 
 | Details |  |

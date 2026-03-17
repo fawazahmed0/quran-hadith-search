@@ -452,6 +452,18 @@ Bali Al-LadhÄ«na KafarÅ« YukadhibÅ«na
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل الذين كفروا يكذبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلِ ٱلَّذِینَ كَفَرُوا۟ یُكَذِّبُونَ
 
 | Details |  |

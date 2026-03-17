@@ -452,6 +452,18 @@ Fāşbir Liĥukmi Rabbika Wa Lā Tuţi' Minhum 'Āthimāan 'Aw Kafūrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ آثِمًا أَوْ كَفُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاصبر لحكم ربك ولا تطع منهم اثما او كفورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تُطِعۡ مِنۡهُمۡ ءَاثِمًا أَوۡ كَفُورࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Mā 'Ađallanā 'Illā Al-Mujrimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَضَلَّنَا إِلَّا الْمُجْرِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما اضلنا الا المجرمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَضَلَّنَاۤ إِلَّا ٱلۡمُجۡرِمُونَ
 
 | Details |  |

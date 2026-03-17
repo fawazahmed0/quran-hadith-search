@@ -452,6 +452,18 @@ Innahu Kāna Lā Yu'uminu Billāhi Al-'Ažīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُ كَانَ لَا يُؤْمِنُ بِاللَّهِ الْعَظِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انه كان لا يومن بالله العظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُۥ كَانَ لَا یُؤۡمِنُ بِٱللَّهِ ٱلۡعَظِیمِ
 
 | Details |  |

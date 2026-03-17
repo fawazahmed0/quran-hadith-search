@@ -452,6 +452,18 @@ Aw Zid 'Alayhi Wa Rattili Al-Qur'āna Tartīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+او زد عليه ورتل القران ترتيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوۡ زِدۡ عَلَیۡهِ وَرَتِّلِ ٱلۡقُرۡءَانَ تَرۡتِیلًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Thumma 'Ansha'nā Min Ba'dihim Qarnāan 'Ākharīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ أَنْشَأْنَا مِنْ بَعْدِهِمْ قَرْنًا آخَرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم انشانا من بعدهم قرنا اخرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ أَنشَأۡنَا مِنۢ بَعۡدِهِمۡ قَرۡنًا ءَاخَرِینَ
 
 | Details |  |

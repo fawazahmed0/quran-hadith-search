@@ -452,6 +452,18 @@ Muţā'in Thamma 'Amīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مُطَاعٍ ثَمَّ أَمِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+مطاع ثم امين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مُّطَاعࣲ ثَمَّ أَمِینࣲ
 
 | Details |  |

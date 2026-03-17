@@ -452,6 +452,18 @@ In Kullu Man Fī As-Samāwāti Wa Al-'Arđi 'Illā 'Ātī Ar-Raĥmāni 'Abdāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ كُلُّ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ إِلَّا آتِي الرَّحْمَنِ عَبْدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان كل من في السماوات والارض الا اتي الرحمن عبدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِن كُلُّ مَن فِی ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ إِلَّاۤ ءَاتِی ٱلرَّحۡمَـٰنِ عَبۡدࣰا
 
 | Details |  |

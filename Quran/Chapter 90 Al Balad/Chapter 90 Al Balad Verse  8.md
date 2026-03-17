@@ -452,6 +452,18 @@ Alam Naj'al Lahu 'Aynayni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ نَجْعَلْ لَهُ عَيْنَيْنِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم نجعل له عينين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ نَجۡعَل لَّهُۥ عَیۡنَیۡنِ
 
 | Details |  |

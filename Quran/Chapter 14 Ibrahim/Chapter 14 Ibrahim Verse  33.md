@@ -452,6 +452,18 @@ Wa Sakhkhara Lakumu Ash-Shamsa Wa Al-Qamara Dā'ibayni Wa Sakhkhara Lakumu Al-La
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَسَخَّرَ لَكُمُ الشَّمْسَ وَالْقَمَرَ دَائِبَيْنِ وَسَخَّرَ لَكُمُ اللَّيْلَ وَالنَّهَارَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وسخر لكم الشمس والقمر دايبين وسخر لكم الليل والنهار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَسَخَّرَ لَكُمُ ٱلشَّمۡسَ وَٱلۡقَمَرَ دَاۤئِبَیۡنِۖ وَسَخَّرَ لَكُمُ ٱلَّیۡلَ وَٱلنَّهَارَ
 
 | Details |  |

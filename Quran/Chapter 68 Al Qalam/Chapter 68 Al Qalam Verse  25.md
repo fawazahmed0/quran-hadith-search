@@ -452,6 +452,18 @@ Waghadaw 'Alá Ĥardin Qādirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَغَدَوْا عَلَى حَرْدٍ قَادِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وغدوا على حرد قادرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَغَدَوۡا۟ عَلَىٰ حَرۡدࣲ قَـٰدِرِینَ
 
 | Details |  |

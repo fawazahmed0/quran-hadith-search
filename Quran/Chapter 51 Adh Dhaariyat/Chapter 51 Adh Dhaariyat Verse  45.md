@@ -452,6 +452,18 @@ Famā Astaţā'ū Min Qiyāmin Wa Mā Kānū Muntaşirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَا اسْتَطَاعُوا مِنْ قِيَامٍ وَمَا كَانُوا مُنْتَصِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فما استطاعوا من قيام وما كانوا منتصرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَا ٱسۡتَطَـٰعُوا۟ مِن قِیَامࣲ وَمَا كَانُوا۟ مُنتَصِرِینَ
 
 | Details |  |

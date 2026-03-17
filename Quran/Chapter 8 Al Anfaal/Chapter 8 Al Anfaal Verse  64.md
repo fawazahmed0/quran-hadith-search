@@ -452,6 +452,18 @@ Yā 'Ayyuhā An-Nabīyu Ĥasbuka Allāhu Wa Mani Attaba'aka Mina Al-Mu'uminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيُّهَا النَّبِيُّ حَسْبُكَ اللَّهُ وَمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايها النبي حسبك الله ومن اتبعك من المومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَیُّهَا ٱلنَّبِیُّ حَسۡبُكَ ٱللَّهُ وَمَنِ ٱتَّبَعَكَ مِنَ ٱلۡمُؤۡمِنِینَ
 
 | Details |  |

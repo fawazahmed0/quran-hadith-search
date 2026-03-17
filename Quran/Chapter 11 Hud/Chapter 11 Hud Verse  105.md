@@ -452,6 +452,18 @@ Yawma Ya'ti Lā Takallamu Nafsun 'Illā Bi'idhnihi Faminhum Shaqīyun Wa Sa'īdu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ يَأْتِ لَا تَكَلَّمُ نَفْسٌ إِلَّا بِإِذْنِهِ فَمِنْهُمْ شَقِيٌّ وَسَعِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم يات لا تكلم نفس الا باذنه فمنهم شقي وسعيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ یَأۡتِ لَا تَكَلَّمُ نَفۡسٌ إِلَّا بِإِذۡنِهِۦۚ فَمِنۡهُمۡ شَقِیࣱّ وَسَعِیدࣱ
 
 | Details |  |

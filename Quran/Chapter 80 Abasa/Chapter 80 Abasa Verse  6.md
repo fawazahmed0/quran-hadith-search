@@ -452,6 +452,18 @@ Fa'anta Lahu Taşaddá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَنْتَ لَهُ تَصَدَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانت له تصدى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَنتَ لَهُۥ تَصَدَّىٰ
 
 | Details |  |

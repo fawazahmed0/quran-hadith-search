@@ -452,6 +452,18 @@ Ta-Sin-Mim
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+طسم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+طسم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ طسۤمۤ
 
 | Details |  |

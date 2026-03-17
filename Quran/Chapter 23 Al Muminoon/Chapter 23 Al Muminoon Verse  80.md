@@ -452,6 +452,18 @@ Wa Huwa Al-Ladhī Yuĥyī Wa Yumītu Wa Lahu Akhtilāfu Al-Layli Wa An-Nahāri '
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُوَ الَّذِي يُحْيِي وَيُمِيتُ وَلَهُ اخْتِلَافُ اللَّيْلِ وَالنَّهَارِ أَفَلَا تَعْقِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهو الذي يحيي ويميت وله اختلاف الليل والنهار افلا تعقلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُوَ ٱلَّذِی یُحۡیِۦ وَیُمِیتُ وَلَهُ ٱخۡتِلَـٰفُ ٱلَّیۡلِ وَٱلنَّهَارِۚ أَفَلَا تَعۡقِلُونَ
 
 | Details |  |

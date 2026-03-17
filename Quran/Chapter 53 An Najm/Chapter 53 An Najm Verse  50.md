@@ -452,6 +452,18 @@ Wa 'Annahu 'Ahlaka 'Ādāan Al-'Ūlá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّهُ أَهْلَكَ عَادًا الْأُولَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه اهلك عادا الاولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّهُۥۤ أَهۡلَكَ عَادًا ٱلۡأُولَىٰ
 
 | Details |  |

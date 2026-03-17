@@ -452,6 +452,18 @@ Inna Al-Ladhīna Lā Yu'uminūna Bi'āyāti Allāhi Lā Yahdīhimu Allāhu Wa La
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِآيَاتِ اللَّهِ لَا يَهْدِيهِمُ اللَّهُ وَلَهُمْ عَذَابٌ أَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين لا يومنون بايات الله لا يهديهم الله ولهم عذاب اليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ لَا یُؤۡمِنُونَ بِءَایَـٰتِ ٱللَّهِ لَا یَهۡدِیهِمُ ٱللَّهُ وَلَهُمۡ عَذَابٌ أَلِیمٌ
 
 | Details |  |

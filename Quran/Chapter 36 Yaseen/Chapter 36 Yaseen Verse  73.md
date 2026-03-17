@@ -452,6 +452,18 @@ Wa Lahum Fīhā Manāfi'u Wa Mashāribu 'Afalā Yashkurūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَهُمْ فِيهَا مَنَافِعُ وَمَشَارِبُ أَفَلَا يَشْكُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولهم فيها منافع ومشارب افلا يشكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَهُمۡ فِیهَا مَنَـٰفِعُ وَمَشَارِبُۚ أَفَلَا یَشۡكُرُونَ
 
 | Details |  |

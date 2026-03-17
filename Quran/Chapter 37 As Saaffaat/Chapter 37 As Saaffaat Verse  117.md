@@ -452,6 +452,18 @@ Wa 'Ātaynāhumā Al-Kitāba Al-Mustabīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَآتَيْنَاهُمَا الْكِتَابَ الْمُسْتَبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتيناهما الكتاب المستبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَءَاتَیۡنَـٰهُمَا ٱلۡكِتَـٰبَ ٱلۡمُسۡتَبِینَ
 
 | Details |  |

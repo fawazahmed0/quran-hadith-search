@@ -452,6 +452,18 @@ Innamā 'Ilahukumu Allāhu Al-Ladhī Lā 'Ilāha 'Illā Huwa Wasi'a Kulla Shay'i
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّمَا إِلَهُكُمُ اللَّهُ الَّذِي لَا إِلَهَ إِلَّا هُوَ وَسِعَ كُلَّ شَيْءٍ عِلْمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انما الهكم الله الذي لا اله الا هو وسع كل شيء علما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّمَاۤ إِلَـٰهُكُمُ ٱللَّهُ ٱلَّذِی لَاۤ إِلَـٰهَ إِلَّا هُوَۚ وَسِعَ كُلَّ شَیۡءٍ عِلۡمࣰا
 
 | Details |  |

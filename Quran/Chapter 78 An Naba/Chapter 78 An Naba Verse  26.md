@@ -452,6 +452,18 @@ Jazā'an Wifāqāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+جَزَاءً وِفَاقًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+جزاء وفاقا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 جَزَاۤءࣰ وِفَاقًا
 
 | Details |  |

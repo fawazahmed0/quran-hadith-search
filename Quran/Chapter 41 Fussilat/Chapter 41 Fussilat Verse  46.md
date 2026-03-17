@@ -452,6 +452,18 @@ Man 'Amila Şāliĥāan Falinafsihi Wa Man 'Asā'a Fa'alayhā Wa Mā Rabbuka Bi�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَنْ عَمِلَ صَالِحًا فَلِنَفْسِهِ وَمَنْ أَسَاءَ فَعَلَيْهَا وَمَا رَبُّكَ بِظَلَّامٍ لِلْعَبِيدِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من عمل صالحا فلنفسه ومن اساء فعليها وما ربك بظلام للعبيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّنۡ عَمِلَ صَـٰلِحࣰا فَلِنَفۡسِهِۦۖ وَمَنۡ أَسَاۤءَ فَعَلَیۡهَاۗ وَمَا رَبُّكَ بِظَلَّـٰمࣲ لِّلۡعَبِیدِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Ayyūba 'Idh Nādá Rabbahu 'Annī Massanī Ađ-Đurru Wa 'Anta 'Arĥamu Ar-
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَيُّوبَ إِذْ نَادَى رَبَّهُ أَنِّي مَسَّنِيَ الضُّرُّ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وايوب اذ نادى ربه اني مسني الضر وانت ارحم الراحمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَأَیُّوبَ إِذۡ نَادَىٰ رَبَّهُۥۤ أَنِّی مَسَّنِیَ ٱلضُّرُّ وَأَنتَ أَرۡحَمُ ٱلرَّ ٰحِمِینَ
 
 | Details |  |

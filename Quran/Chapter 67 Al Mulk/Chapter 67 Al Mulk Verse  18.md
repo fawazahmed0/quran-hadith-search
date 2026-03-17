@@ -452,6 +452,18 @@ Wa Laqad Kadhaba Al-Ladhīna Min Qablihim Fakayfa Kāna Nakīri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد كذب الذين من قبلهم فكيف كان نكير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ كَذَّبَ ٱلَّذِینَ مِن قَبۡلِهِمۡ فَكَیۡفَ كَانَ نَكِیرِ
 
 | Details |  |

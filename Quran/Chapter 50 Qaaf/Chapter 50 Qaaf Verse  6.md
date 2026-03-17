@@ -452,6 +452,18 @@ Afalam Yanžurū 'Ilá As-Samā'i Fawqahum Kayfa Banaynāhā Wa Zayyannāhā Wa 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَلَمْ يَنْظُرُوا إِلَى السَّمَاءِ فَوْقَهُمْ كَيْفَ بَنَيْنَاهَا وَزَيَّنَّاهَا وَمَا لَهَا مِنْ فُرُوجٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افلم ينظروا الى السماء فوقهم كيف بنيناها وزيناها وما لها من فروج
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَلَمۡ یَنظُرُوۤا۟ إِلَى ٱلسَّمَاۤءِ فَوۡقَهُمۡ كَیۡفَ بَنَیۡنَـٰهَا وَزَیَّنَّـٰهَا وَمَا لَهَا مِن فُرُوجࣲ
 
 | Details |  |

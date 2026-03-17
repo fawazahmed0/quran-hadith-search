@@ -452,6 +452,18 @@ Wa Laqad 'Arsalnā Mūsá Bi'āyātinā Wa Sulţānin Mubīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ أَرْسَلْنَا مُوسَى بِآيَاتِنَا وَسُلْطَانٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد ارسلنا موسى باياتنا وسلطان مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِءَایَـٰتِنَا وَسُلۡطَـٰنࣲ مُّبِینٍ
 
 | Details |  |

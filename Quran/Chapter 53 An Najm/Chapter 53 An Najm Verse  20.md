@@ -452,6 +452,18 @@ Wa Manāata Ath-Thālithata Al-'Ukhrá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنَاةَ الثَّالِثَةَ الْأُخْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومناة الثالثة الاخرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلۡأُخۡرَىٰۤ
 
 | Details |  |

@@ -452,6 +452,18 @@ Kallā 'Innahā Tadhkirahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا إِنَّهَا تَذْكِرَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا انها تذكرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّاۤ إِنَّهَا تَذۡكِرَةࣱ
 
 | Details |  |

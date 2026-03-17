@@ -452,6 +452,18 @@ Wa La'in Qutiltum Fī Sabīli Allāhi 'Aw Muttum Lamaghfiratun Mina Allāhi Wa R
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَئِنْ قُتِلْتُمْ فِي سَبِيلِ اللَّهِ أَوْ مُتُّمْ لَمَغْفِرَةٌ مِنَ اللَّهِ وَرَحْمَةٌ خَيْرٌ مِمَّا يَجْمَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولين قتلتم في سبيل الله او متم لمغفرة من الله ورحمة خير مما يجمعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَئِن قُتِلۡتُمۡ فِی سَبِیلِ ٱللَّهِ أَوۡ مُتُّمۡ لَمَغۡفِرَةࣱ مِّنَ ٱللَّهِ وَرَحۡمَةٌ خَیۡرࣱ مِّمَّا یَجۡمَعُونَ
 
 | Details |  |

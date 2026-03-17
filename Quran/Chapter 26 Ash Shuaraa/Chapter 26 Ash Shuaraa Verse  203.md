@@ -452,6 +452,18 @@ Fayaqūlū Hal Naĥnu Munžarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَيَقُولُوا هَلْ نَحْنُ مُنْظَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيقولوا هل نحن منظرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَیَقُولُوا۟ هَلۡ نَحۡنُ مُنظَرُونَ
 
 | Details |  |

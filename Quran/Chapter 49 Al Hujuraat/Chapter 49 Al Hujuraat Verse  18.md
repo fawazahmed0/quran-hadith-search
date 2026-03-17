@@ -452,6 +452,18 @@ Inna Allāha Ya'lamu Ghayba As-Samāwāti Wa Al-'Arđi Wa Allāhu Başīrun Bim�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ اللَّهَ يَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَاللَّهُ بَصِيرٌ بِمَا تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الله يعلم غيب السماوات والارض والله بصير بما تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱللَّهَ یَعۡلَمُ غَیۡبَ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۚ وَٱللَّهُ بَصِیرُۢ بِمَا تَعۡمَلُونَ
 
 | Details |  |

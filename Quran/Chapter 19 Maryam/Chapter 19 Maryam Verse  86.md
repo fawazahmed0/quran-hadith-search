@@ -452,6 +452,18 @@ Wa Nasūqu Al-Mujrimīna 'Ilá Jahannama Wirdāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَسُوقُ الْمُجْرِمِينَ إِلَى جَهَنَّمَ وِرْدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونسوق المجرمين الى جهنم وردا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَسُوقُ ٱلۡمُجۡرِمِینَ إِلَىٰ جَهَنَّمَ وِرۡدࣰا
 
 | Details |  |

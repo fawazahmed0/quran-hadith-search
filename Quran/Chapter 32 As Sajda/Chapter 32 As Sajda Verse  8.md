@@ -452,6 +452,18 @@ Thumma Ja'ala Naslahu Min Sulālatin Min Mā'in Mahīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ جَعَلَ نَسْلَهُ مِنْ سُلَالَةٍ مِنْ مَاءٍ مَهِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم جعل نسله من سلالة من ماء مهين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ جَعَلَ نَسۡلَهُۥ مِن سُلَـٰلَةࣲ مِّن مَّاۤءࣲ مَّهِینࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Famani Aftará 'Alá Allāhi Al-Kadhiba Min Ba'di Dhālika Fa'ūlā'ika Humu Až
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَنِ افْتَرَى عَلَى اللَّهِ الْكَذِبَ مِنْ بَعْدِ ذَلِكَ فَأُولَئِكَ هُمُ الظَّالِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فمن افترى على الله الكذب من بعد ذلك فاوليك هم الظالمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ ٱلۡكَذِبَ مِنۢ بَعۡدِ ذَ ٰلِكَ فَأُو۟لَـٰۤئِكَ هُمُ ٱلظَّـٰلِمُونَ
 
 | Details |  |

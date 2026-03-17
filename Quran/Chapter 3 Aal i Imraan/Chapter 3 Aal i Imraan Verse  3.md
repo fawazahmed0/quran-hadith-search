@@ -452,6 +452,18 @@ Nazzala 'Alayka Al-Kitāba Bil-Ĥaqqi Muşaddiqāan Limā Bayna Yadayhi Wa 'Anza
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ وَأَنْزَلَ التَّوْرَاةَ وَالْإِنْجِيلَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نزل عليك الكتاب بالحق مصدقا لما بين يديه وانزل التوراة والانجيل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نَزَّلَ عَلَیۡكَ ٱلۡكِتَـٰبَ بِٱلۡحَقِّ مُصَدِّقࣰا لِّمَا بَیۡنَ یَدَیۡهِ وَأَنزَلَ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِیلَ
 
 | Details |  |

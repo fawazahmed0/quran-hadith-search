@@ -452,6 +452,18 @@ Fakafarū Bihi Fasawfa Ya'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكَفَرُوا بِهِ فَسَوْفَ يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكفروا به فسوف يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكَفَرُوا۟ بِهِۦۖ فَسَوۡفَ یَعۡلَمُونَ
 
 | Details |  |

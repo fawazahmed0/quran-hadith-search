@@ -452,6 +452,18 @@ Qālat 'Innī 'A'ūdhu Bir-Raĥmani Minka 'In Kunta Taqīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَتْ إِنِّي أَعُوذُ بِالرَّحْمَنِ مِنْكَ إِنْ كُنْتَ تَقِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالت اني اعوذ بالرحمن منك ان كنت تقيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَتۡ إِنِّیۤ أَعُوذُ بِٱلرَّحۡمَـٰنِ مِنكَ إِن كُنتَ تَقِیࣰّا
 
 | Details |  |

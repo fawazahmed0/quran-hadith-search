@@ -452,6 +452,18 @@ Ta'ruju Al-Malā'ikatu Wa Ar-Rūĥu 'Ilayhi Fī Yawmin Kāna Miqdāruhu Khamsīn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَعْرُجُ الْمَلَائِكَةُ وَالرُّوحُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تعرج الملايكة والروح اليه في يوم كان مقداره خمسين الف سنة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَعۡرُجُ ٱلۡمَلَـٰۤئِكَةُ وَٱلرُّوحُ إِلَیۡهِ فِی یَوۡمࣲ كَانَ مِقۡدَارُهُۥ خَمۡسِینَ أَلۡفَ سَنَةࣲ
 
 | Details |  |

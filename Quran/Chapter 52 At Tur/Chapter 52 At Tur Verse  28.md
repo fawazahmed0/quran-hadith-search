@@ -452,6 +452,18 @@ Innā Kunnā Min Qablu Nad'ūhu 'Innahu Huwa Al-Barru Ar-Raĥīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا كُنَّا مِنْ قَبْلُ نَدْعُوهُ إِنَّهُ هُوَ الْبَرُّ الرَّحِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا كنا من قبل ندعوه انه هو البر الرحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا كُنَّا مِن قَبۡلُ نَدۡعُوهُۖ إِنَّهُۥ هُوَ ٱلۡبَرُّ ٱلرَّحِیمُ
 
 | Details |  |

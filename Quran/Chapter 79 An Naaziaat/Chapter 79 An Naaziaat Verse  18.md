@@ -452,6 +452,18 @@ Faqul Hal Laka 'Ilá 'An Tazakká
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقُلْ هَلْ لَكَ إِلَى أَنْ تَزَكَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقل هل لك الى ان تزكى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقُلۡ هَل لَّكَ إِلَىٰۤ أَن تَزَكَّىٰ
 
 | Details |  |

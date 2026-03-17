@@ -452,6 +452,18 @@ Innahā La'iĥdá Al-Kubari
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهَا لَإِحْدَى الْكُبَرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انها لاحدى الكبر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهَا لَإِحۡدَى ٱلۡكُبَرِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna Rabbahum Bihim Yawma'idhin Lakhabīrun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَبِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان ربهم بهم يوميذ لخبير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ رَبَّهُم بِهِمۡ یَوۡمَئِذࣲ لَّخَبِیرُۢ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wāqşid Fī Mashyika Wa Aghđuđ Min Şawtika 'Inna 'Ankara Al-'Aşwāti Laşaw
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِنْ صَوْتِكَ إِنَّ أَنْكَرَ الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واقصد في مشيك واغضض من صوتك ان انكر الاصوات لصوت الحمير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱقۡصِدۡ فِی مَشۡیِكَ وَٱغۡضُضۡ مِن صَوۡتِكَۚ إِنَّ أَنكَرَ ٱلۡأَصۡوَ ٰتِ لَصَوۡتُ ٱلۡحَمِیرِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Mā 'Aghná 'Anhu Māluhu Wa Mā Kasaba
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا أَغْنَى عَنْهُ مَالُهُ وَمَا كَسَبَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما اغنى عنه ماله وما كسب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَاۤ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ
 
 | Details |  |

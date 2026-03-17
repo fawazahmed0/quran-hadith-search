@@ -452,6 +452,18 @@ Mā Lakum Lā Tanāşarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا لَكُمْ لَا تَنَاصَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما لكم لا تناصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا لَكُمۡ لَا تَنَاصَرُونَ
 
 | Details |  |

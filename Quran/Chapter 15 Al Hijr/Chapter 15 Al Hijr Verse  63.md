@@ -452,6 +452,18 @@ Qālū Bal Ji'nāka Bimā Kānū Fīhi Yamtarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا بَلْ جِئْنَاكَ بِمَا كَانُوا فِيهِ يَمْتَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا بل جيناك بما كانوا فيه يمترون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ بَلۡ جِئۡنَـٰكَ بِمَا كَانُوا۟ فِیهِ یَمۡتَرُونَ
 
 | Details |  |

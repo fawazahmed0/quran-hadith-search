@@ -452,6 +452,18 @@ Wa 'Aşĥābu Ash-Shimāli Mā 'Aşĥābu Ash-Shimāli
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَصْحَابُ الشِّمَالِ مَا أَصْحَابُ الشِّمَالِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واصحاب الشمال ما اصحاب الشمال
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَصۡحَـٰبُ ٱلشِّمَالِ مَاۤ أَصۡحَـٰبُ ٱلشِّمَالِ
 
 | Details |  |

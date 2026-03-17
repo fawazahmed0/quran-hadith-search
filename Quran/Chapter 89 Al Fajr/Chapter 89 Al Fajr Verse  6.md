@@ -452,6 +452,18 @@ Alam Tara Kayfa Fa'ala Rabbuka Bi'ādin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم تر كيف فعل ربك بعاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ تَرَ كَیۡفَ فَعَلَ رَبُّكَ بِعَادٍ
 
 | Details |  |

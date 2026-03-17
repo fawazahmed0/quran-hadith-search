@@ -452,6 +452,18 @@ Wa 'Inna Lahu 'Indanā Lazulfá Wa Ĥusna Ma'ābin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ لَهُ عِنْدَنَا لَزُلْفَى وَحُسْنَ مَآبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان له عندنا لزلفى وحسن ماب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ لَهُۥ عِندَنَا لَزُلۡفَىٰ وَحُسۡنَ مَءَابࣲ
 
 | Details |  |

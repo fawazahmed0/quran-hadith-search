@@ -452,6 +452,18 @@ Wa Laqad Ja'alnā Fī As-Samā'i Burūjāan Wa Zayyannāhā Lilnnāžirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ جَعَلْنَا فِي السَّمَاءِ بُرُوجًا وَزَيَّنَّاهَا لِلنَّاظِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد جعلنا في السماء بروجا وزيناها للناظرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ جَعَلۡنَا فِی ٱلسَّمَاۤءِ بُرُوجࣰا وَزَیَّنَّـٰهَا لِلنَّـٰظِرِینَ
 
 | Details |  |

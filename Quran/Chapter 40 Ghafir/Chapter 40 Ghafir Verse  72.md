@@ -452,6 +452,18 @@ Fī Al-Ĥamīmi Thumma Fī An-Nāri Yusjarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي الْحَمِيمِ ثُمَّ فِي النَّارِ يُسْجَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في الحميم ثم في النار يسجرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِی ٱلۡحَمِیمِ ثُمَّ فِی ٱلنَّارِ یُسۡجَرُونَ
 
 | Details |  |

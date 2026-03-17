@@ -452,6 +452,18 @@ Wa 'An Lā Ta'lū 'Alá Allāhi 'Innī 'Ātīkum Bisulţānin Mubīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنْ لَا تَعْلُوا عَلَى اللَّهِ إِنِّي آتِيكُمْ بِسُلْطَانٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان لا تعلوا على الله اني اتيكم بسلطان مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَن لَّا تَعۡلُوا۟ عَلَى ٱللَّهِۖ إِنِّیۤ ءَاتِیكُم بِسُلۡطَـٰنࣲ مُّبِینࣲ
 
 | Details |  |

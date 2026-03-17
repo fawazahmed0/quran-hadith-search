@@ -452,6 +452,18 @@ Mustakbirīna Bihi Sāmirāan Tahjurūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مُسْتَكْبِرِينَ بِهِ سَامِرًا تَهْجُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+مستكبرين به سامرا تهجرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مُسۡتَكۡبِرِینَ بِهِۦ سَـٰمِرࣰا تَهۡجُرُونَ
 
 | Details |  |

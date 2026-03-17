@@ -452,6 +452,18 @@ Yūliju Al-Layla Fī An-Nahāri Wa Yūliju An-Nahāra Fī Al-Layli Wa Huwa 'Alī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَهُوَ عَلِيمٌ بِذَاتِ الصُّدُورِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يولج الليل في النهار ويولج النهار في الليل وهو عليم بذات الصدور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُولِجُ ٱلَّیۡلَ فِی ٱلنَّهَارِ وَیُولِجُ ٱلنَّهَارَ فِی ٱلَّیۡلِۚ وَهُوَ عَلِیمُۢ بِذَاتِ ٱلصُّدُورِ
 
 | Details |  |

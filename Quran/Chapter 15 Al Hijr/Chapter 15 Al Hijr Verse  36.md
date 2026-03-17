@@ -452,6 +452,18 @@ Qāla Rabbi Fa'anžirnī 'Ilá Yawmi Yub'athūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ فَأَنْظِرْنِي إِلَى يَوْمِ يُبْعَثُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب فانظرني الى يوم يبعثون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ فَأَنظِرۡنِیۤ إِلَىٰ یَوۡمِ یُبۡعَثُونَ
 
 | Details |  |

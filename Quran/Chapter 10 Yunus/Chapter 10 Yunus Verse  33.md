@@ -452,6 +452,18 @@ Kadhālika Ĥaqqat Kalimatu Rabbika 'Alá Al-Ladhīna Fasaqū 'Annahum Lā Yu'um
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى الَّذِينَ فَسَقُوا أَنَّهُمْ لَا يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذلك حقت كلمت ربك على الذين فسقوا انهم لا يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَ ٰلِكَ حَقَّتۡ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِینَ فَسَقُوۤا۟ أَنَّهُمۡ لَا یُؤۡمِنُونَ
 
 | Details |  |

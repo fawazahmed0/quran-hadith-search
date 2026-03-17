@@ -452,6 +452,18 @@ Qāla 'Innamā 'Anā Rasūlu Rabbiki Li'haba Laki Ghulāmāan Zakīyāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ إِنَّمَا أَنَا رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَامًا زَكِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال انما انا رسول ربك لاهب لك غلاما زكيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ إِنَّمَاۤ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَـٰمࣰا زَكِیࣰّا
 
 | Details |  |

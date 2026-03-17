@@ -452,6 +452,18 @@ Kallā 'Innā Khalaqnāhum Mimmā Ya'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا إِنَّا خَلَقْنَاهُمْ مِمَّا يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا انا خلقناهم مما يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّاۤۖ إِنَّا خَلَقۡنَـٰهُم مِّمَّا یَعۡلَمُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Afabi'adhābinā Yasta'jilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افبعذابنا يستعجلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَبِعَذَابِنَا یَسۡتَعۡجِلُونَ
 
 | Details |  |

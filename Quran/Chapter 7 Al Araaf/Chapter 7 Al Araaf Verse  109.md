@@ -452,6 +452,18 @@ Qāla Al-Mala'u Min Qawmi Fir'awna 'Inna Hādhā Lasāĥirun 'Alīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ الْمَلَأُ مِنْ قَوْمِ فِرْعَوْنَ إِنَّ هَذَا لَسَاحِرٌ عَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال الملا من قوم فرعون ان هذا لساحر عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ ٱلۡمَلَأُ مِن قَوۡمِ فِرۡعَوۡنَ إِنَّ هَـٰذَا لَسَـٰحِرٌ عَلِیمࣱ
 
 | Details |  |

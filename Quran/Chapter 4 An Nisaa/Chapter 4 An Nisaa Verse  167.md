@@ -452,6 +452,18 @@ Inna Al-Ladhīna Kafarū Wa Şaddū 'An Sabīli Allāhi Qad Đallū Đalālāan 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ قَدْ ضَلُّوا ضَلَالًا بَعِيدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين كفروا وصدوا عن سبيل الله قد ضلوا ضلالا بعيدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِیلِ ٱللَّهِ قَدۡ ضَلُّوا۟ ضَلَـٰلَۢا بَعِیدًا
 
 | Details |  |

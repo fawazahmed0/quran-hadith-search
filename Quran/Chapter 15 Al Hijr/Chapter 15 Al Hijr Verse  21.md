@@ -452,6 +452,18 @@ Wa 'In Min Shay'in 'Illā 'Indanā Khazā'inuhu Wa Mā Nunazziluhu 'Illā Biqada
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ مِنْ شَيْءٍ إِلَّا عِنْدَنَا خَزَائِنُهُ وَمَا نُنَزِّلُهُ إِلَّا بِقَدَرٍ مَعْلُومٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان من شيء الا عندنا خزاينه وما ننزله الا بقدر معلوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن مِّن شَیۡءٍ إِلَّا عِندَنَا خَزَاۤئِنُهُۥ وَمَا نُنَزِّلُهُۥۤ إِلَّا بِقَدَرࣲ مَّعۡلُومࣲ
 
 | Details |  |

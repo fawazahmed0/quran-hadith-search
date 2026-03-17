@@ -452,6 +452,18 @@ Wa Ja'alnā Min Bayni 'Aydīhim Saddāan Wa Min Khalfihim Saddāan Fa'aghshaynā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلْنَا مِنْ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَاهُمْ فَهُمْ لَا يُبْصِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلنا من بين ايديهم سدا ومن خلفهم سدا فاغشيناهم فهم لا يبصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلۡنَا مِنۢ بَیۡنِ أَیۡدِیهِمۡ سَدࣰّا وَمِنۡ خَلۡفِهِمۡ سَدࣰّا فَأَغۡشَیۡنَـٰهُمۡ فَهُمۡ لَا یُبۡصِرُونَ
 
 | Details |  |

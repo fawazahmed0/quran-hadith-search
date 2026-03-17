@@ -452,6 +452,18 @@ Fa'aqbalati Amra'atuhu Fī Şarratin Faşakkat Wajhahā Wa Qālat 'Ajūzun 'Aqī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَقْبَلَتِ امْرَأَتُهُ فِي صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاقبلت امراته في صرة فصكت وجهها وقالت عجوز عقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَقۡبَلَتِ ٱمۡرَأَتُهُۥ فِی صَرَّةࣲ فَصَكَّتۡ وَجۡهَهَا وَقَالَتۡ عَجُوزٌ عَقِیمࣱ
 
 | Details |  |

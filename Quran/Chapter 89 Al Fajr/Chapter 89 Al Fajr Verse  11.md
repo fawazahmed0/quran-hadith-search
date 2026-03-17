@@ -452,6 +452,18 @@ Al-Ladhīna Ţaghaw Fī Al-Bilādi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ طَغَوْا فِي الْبِلَادِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين طغوا في البلاد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ طَغَوۡا۟ فِی ٱلۡبِلَـٰدِ
 
 | Details |  |

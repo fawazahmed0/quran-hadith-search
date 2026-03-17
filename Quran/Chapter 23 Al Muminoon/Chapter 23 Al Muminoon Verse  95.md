@@ -452,6 +452,18 @@ Wa 'Innā 'Alá 'An Nuriyaka Mā Na'iduhum Laqādirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّا عَلَى أَنْ نُرِيَكَ مَا نَعِدُهُمْ لَقَادِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانا على ان نريك ما نعدهم لقادرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّا عَلَىٰۤ أَن نُّرِیَكَ مَا نَعِدُهُمۡ لَقَـٰدِرُونَ
 
 | Details |  |

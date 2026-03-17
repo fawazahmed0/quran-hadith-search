@@ -452,6 +452,18 @@ Wa Rafa'nā Laka Dhikraka
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَرَفَعْنَا لَكَ ذِكْرَكَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ورفعنا لك ذكرك
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَرَفَعۡنَا لَكَ ذِكۡرَكَ
 
 | Details |  |

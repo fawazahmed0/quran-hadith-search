@@ -452,6 +452,18 @@ Wa 'A'ūdhu Bika Rabbi 'An Yaĥđurūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَعُوذُ بِكَ رَبِّ أَنْ يَحْضُرُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واعوذ بك رب ان يحضرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَعُوذُ بِكَ رَبِّ أَن یَحۡضُرُونِ
 
 | Details |  |

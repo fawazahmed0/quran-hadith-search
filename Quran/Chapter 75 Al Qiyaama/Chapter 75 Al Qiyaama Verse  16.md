@@ -452,6 +452,18 @@ Lā Tuĥarrik Bihi Lisānaka Lita'jala Bihi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا تحرك به لسانك لتعجل به
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا تُحَرِّكۡ بِهِۦ لِسَانَكَ لِتَعۡجَلَ بِهِۦۤ
 
 | Details |  |

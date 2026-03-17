@@ -452,6 +452,18 @@ Wa Min Sharri An-Naffāthāti Fī Al-'Uqadi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن شر النفاثات في العقد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِی ٱلۡعُقَدِ
 
 | Details |  |

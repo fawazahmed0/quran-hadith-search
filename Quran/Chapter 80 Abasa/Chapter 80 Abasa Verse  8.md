@@ -452,6 +452,18 @@ Wa 'Ammā Man Jā'aka Yas'á
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمَّا مَنْ جَاءَكَ يَسْعَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما من جاءك يسعى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمَّا مَن جَاۤءَكَ یَسۡعَىٰ
 
 | Details |  |

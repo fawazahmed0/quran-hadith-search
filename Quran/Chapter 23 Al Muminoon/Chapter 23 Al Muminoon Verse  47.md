@@ -452,6 +452,18 @@ Faqālū 'Anu'uminu Libasharayni Mithlinā Wa Qawmuhumā Lanā 'Ābidūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقَالُوا أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا وَقَوْمُهُمَا لَنَا عَابِدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقالوا انومن لبشرين مثلنا وقومهما لنا عابدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقَالُوۤا۟ أَنُؤۡمِنُ لِبَشَرَیۡنِ مِثۡلِنَا وَقَوۡمُهُمَا لَنَا عَـٰبِدُونَ
 
 | Details |  |

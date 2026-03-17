@@ -452,6 +452,18 @@ Mā Yuqālu Laka 'Illā Mā Qad Qīla Lilrrusuli Min Qablika 'Inna Rabbaka Ladh�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا يُقَالُ لَكَ إِلَّا مَا قَدْ قِيلَ لِلرُّسُلِ مِنْ قَبْلِكَ إِنَّ رَبَّكَ لَذُو مَغْفِرَةٍ وَذُو عِقَابٍ أَلِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما يقال لك الا ما قد قيل للرسل من قبلك ان ربك لذو مغفرة وذو عقاب اليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّا یُقَالُ لَكَ إِلَّا مَا قَدۡ قِیلَ لِلرُّسُلِ مِن قَبۡلِكَۚ إِنَّ رَبَّكَ لَذُو مَغۡفِرَةࣲ وَذُو عِقَابٍ أَلِیمࣲ
 
 | Details |  |

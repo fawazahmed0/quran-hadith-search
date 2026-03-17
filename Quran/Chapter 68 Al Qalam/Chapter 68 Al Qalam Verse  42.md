@@ -452,6 +452,18 @@ Yawma Yukshafu 'An Sāqin Wa Yud'awna 'Ilá As-Sujūdi Falā Yastaţī'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ يُكْشَفُ عَنْ سَاقٍ وَيُدْعَوْنَ إِلَى السُّجُودِ فَلَا يَسْتَطِيعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم يكشف عن ساق ويدعون الى السجود فلا يستطيعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ یُكۡشَفُ عَن سَاقࣲ وَیُدۡعَوۡنَ إِلَى ٱلسُّجُودِ فَلَا یَسۡتَطِیعُونَ
 
 | Details |  |

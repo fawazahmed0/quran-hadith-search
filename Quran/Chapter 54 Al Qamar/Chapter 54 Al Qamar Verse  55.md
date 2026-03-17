@@ -452,6 +452,18 @@ Fī Maq'adi Şidqin 'Inda Malīkin Muqtadirin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي مَقْعَدِ صِدْقٍ عِنْدَ مَلِيكٍ مُقْتَدِرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في مقعد صدق عند مليك مقتدر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِی مَقۡعَدِ صِدۡقٍ عِندَ مَلِیكࣲ مُّقۡتَدِرِۭ
 
 | Details |  |

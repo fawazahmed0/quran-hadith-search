@@ -452,6 +452,18 @@ Min Dūni Allāhi Hal Yanşurūnakum 'Aw Yantaşirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مِنْ دُونِ اللَّهِ هَلْ يَنْصُرُونَكُمْ أَوْ يَنْتَصِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من دون الله هل ينصرونكم او ينتصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مِن دُونِ ٱللَّهِ هَلۡ یَنصُرُونَكُمۡ أَوۡ یَنتَصِرُونَ
 
 | Details |  |

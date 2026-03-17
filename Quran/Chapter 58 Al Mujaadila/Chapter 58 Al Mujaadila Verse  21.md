@@ -452,6 +452,18 @@ Kataba Allāhu La'aghlibanna 'Anā Wa Rusulī 'Inna Allāha Qawīyun 'Azīzun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كتب الله لاغلبن انا ورسلي ان الله قوي عزيز
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَتَبَ ٱللَّهُ لَأَغۡلِبَنَّ أَنَا۠ وَرُسُلِیۤۚ إِنَّ ٱللَّهَ قَوِیٌّ عَزِیزࣱ
 
 | Details |  |

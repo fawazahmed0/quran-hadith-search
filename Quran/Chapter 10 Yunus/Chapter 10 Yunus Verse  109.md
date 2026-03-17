@@ -452,6 +452,18 @@ Wa Attabi' Mā Yūĥá 'Ilayka Wa Aşbir Ĥattá Yaĥkuma Allāhu Wa Huwa Khayru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاتَّبِعْ مَا يُوحَى إِلَيْكَ وَاصْبِرْ حَتَّى يَحْكُمَ اللَّهُ وَهُوَ خَيْرُ الْحَاكِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتبع ما يوحى اليك واصبر حتى يحكم الله وهو خير الحاكمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱتَّبِعۡ مَا یُوحَىٰۤ إِلَیۡكَ وَٱصۡبِرۡ حَتَّىٰ یَحۡكُمَ ٱللَّهُۚ وَهُوَ خَیۡرُ ٱلۡحَـٰكِمِینَ
 
 | Details |  |

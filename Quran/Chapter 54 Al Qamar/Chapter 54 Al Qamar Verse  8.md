@@ -452,6 +452,18 @@ Muhţi'īna 'Ilá Ad-Dā'i Yaqūlu Al-Kāfirūna Hādhā Yawmun 'Asirun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مُهْطِعِينَ إِلَى الدَّاعِ يَقُولُ الْكَافِرُونَ هَذَا يَوْمٌ عَسِرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+مهطعين الى الداع يقول الكافرون هذا يوم عسر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مُّهۡطِعِینَ إِلَى ٱلدَّاعِۖ یَقُولُ ٱلۡكَـٰفِرُونَ هَـٰذَا یَوۡمٌ عَسِرࣱ
 
 | Details |  |

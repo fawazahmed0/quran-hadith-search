@@ -452,6 +452,18 @@ Wa Mā Tashā'ūna 'Illā 'An Yashā'a Allāhu 'Inna Allāha Kāna 'Alīmāan Ĥ
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما تشاءون الا ان يشاء الله ان الله كان عليما حكيما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا تَشَاۤءُونَ إِلَّاۤ أَن یَشَاۤءَ ٱللَّهُۚ إِنَّ ٱللَّهَ كَانَ عَلِیمًا حَكِیمࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Innakum Lafī Qawlin Mukhtalifin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّكُمْ لَفِي قَوْلٍ مُخْتَلِفٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انكم لفي قول مختلف
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّكُمۡ لَفِی قَوۡلࣲ مُّخۡتَلِفࣲ
 
 | Details |  |

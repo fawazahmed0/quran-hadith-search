@@ -452,6 +452,18 @@ Fanādāhā Min Taĥtihā 'Allā Taĥzanī Qad Ja'ala Rabbuki Taĥtaki Sarīyāa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَنَادَاهَا مِنْ تَحْتِهَا أَلَّا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فناداها من تحتها الا تحزني قد جعل ربك تحتك سريا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَنَادَىٰهَا مِن تَحۡتِهَاۤ أَلَّا تَحۡزَنِی قَدۡ جَعَلَ رَبُّكِ تَحۡتَكِ سَرِیࣰّا
 
 | Details |  |

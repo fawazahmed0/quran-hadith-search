@@ -452,6 +452,18 @@ Wa Kānū Yuşirrūna 'Alá Al-Ĥinthi Al-'Ažīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَانُوا يُصِرُّونَ عَلَى الْحِنْثِ الْعَظِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكانوا يصرون على الحنث العظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَانُوا۟ یُصِرُّونَ عَلَى ٱلۡحِنثِ ٱلۡعَظِیمِ
 
 | Details |  |

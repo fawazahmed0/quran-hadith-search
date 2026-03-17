@@ -452,6 +452,18 @@ Kadhālika Salaknāhu Fī Qulūbi Al-Mujrimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَلِكَ سَلَكْنَاهُ فِي قُلُوبِ الْمُجْرِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذلك سلكناه في قلوب المجرمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَ ٰلِكَ سَلَكۡنَـٰهُ فِی قُلُوبِ ٱلۡمُجۡرِمِینَ
 
 | Details |  |

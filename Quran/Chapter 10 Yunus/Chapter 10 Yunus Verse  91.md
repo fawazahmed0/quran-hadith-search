@@ -452,6 +452,18 @@ Al'ana Wa Qad 'Asayta Qablu Wa Kunta Mina Al-Mufsidina
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+آلْآنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنْتَ مِنَ الْمُفْسِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الان وقد عصيت قبل وكنت من المفسدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ءَاۤلۡءَـٰنَ وَقَدۡ عَصَیۡتَ قَبۡلُ وَكُنتَ مِنَ ٱلۡمُفۡسِدِینَ
 
 | Details |  |

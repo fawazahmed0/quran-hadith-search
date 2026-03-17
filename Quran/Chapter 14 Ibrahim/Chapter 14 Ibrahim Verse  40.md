@@ -452,6 +452,18 @@ Rabbi Aj'alnī Muqīma Aş-Şalāati Wa Min Dhurrīyatī Rabbanā Wa Taqabbal Du
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِي رَبَّنَا وَتَقَبَّلْ دُعَاءِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+رب اجعلني مقيم الصلاة ومن ذريتي ربنا وتقبل دعاء
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَبِّ ٱجۡعَلۡنِی مُقِیمَ ٱلصَّلَوٰةِ وَمِن ذُرِّیَّتِیۚ رَبَّنَا وَتَقَبَّلۡ دُعَاۤءِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Thumma Ja'alnākum Khalā'ifa Fī Al-'Arđi Min Ba'dihim Linanžura Kayfa Ta'mal
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ جَعَلْنَاكُمْ خَلَائِفَ فِي الْأَرْضِ مِنْ بَعْدِهِمْ لِنَنْظُرَ كَيْفَ تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم جعلناكم خلايف في الارض من بعدهم لننظر كيف تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ جَعَلۡنَـٰكُمۡ خَلَـٰۤئِفَ فِی ٱلۡأَرۡضِ مِنۢ بَعۡدِهِمۡ لِنَنظُرَ كَیۡفَ تَعۡمَلُونَ
 
 | Details |  |

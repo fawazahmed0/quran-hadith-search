@@ -452,6 +452,18 @@ Fasubĥāna Al-Ladhī Biyadihi Malakūtu Kulli Shay'in Wa 'Ilayhi Turja'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَسُبْحَانَ الَّذِي بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَإِلَيْهِ تُرْجَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فسبحان الذي بيده ملكوت كل شيء واليه ترجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَسُبۡحَـٰنَ ٱلَّذِی بِیَدِهِۦ مَلَكُوتُ كُلِّ شَیۡءࣲ وَإِلَیۡهِ تُرۡجَعُونَ
 
 | Details |  |

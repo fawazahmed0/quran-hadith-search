@@ -452,6 +452,18 @@ Hatta 'Idha Ra'aw Ma Yu'aduna Fasaya'lamuna Man 'Ađ'afu Nasiraan Wa 'Aqallu 'Ad
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+حَتَّى إِذَا رَأَوْا مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+حتى اذا راوا ما يوعدون فسيعلمون من اضعف ناصرا واقل عددا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 حَتَّىٰۤ إِذَا رَأَوۡا۟ مَا یُوعَدُونَ فَسَیَعۡلَمُونَ مَنۡ أَضۡعَفُ نَاصِرࣰا وَأَقَلُّ عَدَدࣰا
 
 | Details |  |

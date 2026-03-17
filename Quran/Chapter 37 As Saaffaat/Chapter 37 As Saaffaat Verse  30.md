@@ -452,6 +452,18 @@ Wa Mā Kāna Lanā 'Alaykum Min Sulţānin Bal Kuntum Qawmāan Ţāghīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا كَانَ لَنَا عَلَيْكُمْ مِنْ سُلْطَانٍ بَلْ كُنْتُمْ قَوْمًا طَاغِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما كان لنا عليكم من سلطان بل كنتم قوما طاغين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا كَانَ لَنَا عَلَیۡكُم مِّن سُلۡطَـٰنِۭۖ بَلۡ كُنتُمۡ قَوۡمࣰا طَـٰغِینَ
 
 | Details |  |

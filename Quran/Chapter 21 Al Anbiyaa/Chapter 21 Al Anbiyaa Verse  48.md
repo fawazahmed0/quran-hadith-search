@@ -452,6 +452,18 @@ Wa Laqad 'Ātaynā Mūsá Wa Hārūna Al-Furqāna Wa Điyā'an Wa Dhikrāan Lilm
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ آتَيْنَا مُوسَى وَهَارُونَ الْفُرْقَانَ وَضِيَاءً وَذِكْرًا لِلْمُتَّقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد اتينا موسى وهارون الفرقان وضياء وذكرا للمتقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ ءَاتَیۡنَا مُوسَىٰ وَهَـٰرُونَ ٱلۡفُرۡقَانَ وَضِیَاۤءࣰ وَذِكۡرࣰا لِّلۡمُتَّقِینَ
 
 | Details |  |

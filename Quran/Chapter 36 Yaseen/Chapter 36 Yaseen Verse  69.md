@@ -452,6 +452,18 @@ Wa Mā 'Allamnāhu Ash-Shi'ra Wa Mā Yanbaghī Lahu 'In Huwa 'Illā Dhikrun Wa Q
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا عَلَّمْنَاهُ الشِّعْرَ وَمَا يَنْبَغِي لَهُ إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْآنٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما علمناه الشعر وما ينبغي له ان هو الا ذكر وقران مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا عَلَّمۡنَـٰهُ ٱلشِّعۡرَ وَمَا یَنۢبَغِی لَهُۥۤۚ إِنۡ هُوَ إِلَّا ذِكۡرࣱ وَقُرۡءَانࣱ مُّبِینࣱ
 
 | Details |  |

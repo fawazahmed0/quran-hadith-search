@@ -452,6 +452,18 @@ Wa 'Idh 'Ātaynā Mūsá Al-Kitāba Wa Al-Furqāna La'allakum Tahtadūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذْ آتَيْنَا مُوسَى الْكِتَابَ وَالْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذ اتينا موسى الكتاب والفرقان لعلكم تهتدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذۡ ءَاتَیۡنَا مُوسَى ٱلۡكِتَـٰبَ وَٱلۡفُرۡقَانَ لَعَلَّكُمۡ تَهۡتَدُونَ
 
 | Details |  |

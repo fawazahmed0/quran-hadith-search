@@ -452,6 +452,18 @@ Wa Al-Ladhīna Yabītūna Lirabbihim Sujjadāan Wa Qiyāmāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيَامًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين يبيتون لربهم سجدا وقياما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ یَبِیتُونَ لِرَبِّهِمۡ سُجَّدࣰا وَقِیَـٰمࣰا
 
 | Details |  |

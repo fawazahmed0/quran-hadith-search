@@ -452,6 +452,18 @@ Am Lahum Mulku As-Samāwāti Wa Al-'Arđi Wa Mā Baynahumā Falyartaqū Fī Al-'
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ لَهُمْ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا فَلْيَرْتَقُوا فِي الْأَسْبَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام لهم ملك السماوات والارض وما بينهما فليرتقوا في الاسباب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ لَهُم مُّلۡكُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ وَمَا بَیۡنَهُمَاۖ فَلۡیَرۡتَقُوا۟ فِی ٱلۡأَسۡبَـٰبِ
 
 | Details |  |

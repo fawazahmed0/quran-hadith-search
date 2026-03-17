@@ -452,6 +452,18 @@ Fārtaqib 'Innahum Murtaqibūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَارْتَقِبْ إِنَّهُمْ مُرْتَقِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فارتقب انهم مرتقبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱرۡتَقِبۡ إِنَّهُم مُّرۡتَقِبُونَ
 
 | Details |  |

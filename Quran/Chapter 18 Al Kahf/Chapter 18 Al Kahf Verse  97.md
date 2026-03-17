@@ -452,6 +452,18 @@ Famā Asţā'ū 'An Yažharūhu Wa Mā Astaţā'ū Lahu Naqbāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَا اسْطَاعُوا أَنْ يَظْهَرُوهُ وَمَا اسْتَطَاعُوا لَهُ نَقْبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فما اسطاعوا ان يظهروه وما استطاعوا له نقبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَا ٱسۡطَـٰعُوۤا۟ أَن یَظۡهَرُوهُ وَمَا ٱسۡتَطَـٰعُوا۟ لَهُۥ نَقۡبࣰا
 
 | Details |  |

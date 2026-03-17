@@ -452,6 +452,18 @@ Thumma Nunajjī Rusulanā Wa Al-Ladhīna 'Āmanū Kadhālika Ĥaqqāan 'Alaynā 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ نُنَجِّي رُسُلَنَا وَالَّذِينَ آمَنُوا كَذَلِكَ حَقًّا عَلَيْنَا نُنْجِ الْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم ننجي رسلنا والذين امنوا كذلك حقا علينا ننج المومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ نُنَجِّی رُسُلَنَا وَٱلَّذِینَ ءَامَنُوا۟ۚ كَذَ ٰلِكَ حَقًّا عَلَیۡنَا نُنجِ ٱلۡمُؤۡمِنِینَ
 
 | Details |  |

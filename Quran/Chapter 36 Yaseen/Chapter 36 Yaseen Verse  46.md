@@ -452,6 +452,18 @@ Wa Mā Ta'tīhim Min 'Āyatin Min 'Āyāti Rabbihim 'Illā Kānū 'Anhā Mu'riđ
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا تَأْتِيهِمْ مِنْ آيَةٍ مِنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما تاتيهم من اية من ايات ربهم الا كانوا عنها معرضين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا تَأۡتِیهِم مِّنۡ ءَایَةࣲ مِّنۡ ءَایَـٰتِ رَبِّهِمۡ إِلَّا كَانُوا۟ عَنۡهَا مُعۡرِضِینَ
 
 | Details |  |

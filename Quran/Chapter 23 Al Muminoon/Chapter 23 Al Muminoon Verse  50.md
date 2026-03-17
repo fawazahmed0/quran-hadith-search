@@ -452,6 +452,18 @@ Wa Ja'alnā Abna Maryama Wa 'Ummahu 'Āyatan Wa 'Āwaynāhumā 'Ilá Rabwatin Dh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلْنَا ابْنَ مَرْيَمَ وَأُمَّهُ آيَةً وَآوَيْنَاهُمَا إِلَى رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلنا ابن مريم وامه اية واويناهما الى ربوة ذات قرار ومعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلۡنَا ٱبۡنَ مَرۡیَمَ وَأُمَّهُۥۤ ءَایَةࣰ وَءَاوَیۡنَـٰهُمَاۤ إِلَىٰ رَبۡوَةࣲ ذَاتِ قَرَارࣲ وَمَعِینࣲ
 
 | Details |  |

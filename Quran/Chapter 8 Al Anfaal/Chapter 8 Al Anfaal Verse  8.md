@@ -452,6 +452,18 @@ Liyuĥiqqa Al-Ĥaqqa Wa Yubţila Al-Bāţila Wa Law Kariha Al-Mujrimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِيُحِقَّ الْحَقَّ وَيُبْطِلَ الْبَاطِلَ وَلَوْ كَرِهَ الْمُجْرِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ليحق الحق ويبطل الباطل ولو كره المجرمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِیُحِقَّ ٱلۡحَقَّ وَیُبۡطِلَ ٱلۡبَـٰطِلَ وَلَوۡ كَرِهَ ٱلۡمُجۡرِمُونَ
 
 | Details |  |

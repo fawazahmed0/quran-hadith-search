@@ -452,6 +452,18 @@ Wa Hum 'Alá Mā Yaf'alūna Bil-Mu'uminīna Shuhūdun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُمْ عَلَى مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهم على ما يفعلون بالمومنين شهود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُمۡ عَلَىٰ مَا یَفۡعَلُونَ بِٱلۡمُؤۡمِنِینَ شُهُودࣱ
 
 | Details |  |

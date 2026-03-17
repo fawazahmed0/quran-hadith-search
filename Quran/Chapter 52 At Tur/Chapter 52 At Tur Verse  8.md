@@ -452,6 +452,18 @@ Mā Lahu Min Dāfi'in
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا لَهُ مِنْ دَافِعٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما له من دافع
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّا لَهُۥ مِن دَافِعࣲ
 
 | Details |  |

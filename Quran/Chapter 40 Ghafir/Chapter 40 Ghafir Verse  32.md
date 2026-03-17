@@ -452,6 +452,18 @@ Wa Yāqawmi 'Innī 'Akhāfu 'Alaykum Yawma At-Tanādi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَا قَوْمِ إِنِّي أَخَافُ عَلَيْكُمْ يَوْمَ التَّنَادِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويا قوم اني اخاف عليكم يوم التناد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَـٰقَوۡمِ إِنِّیۤ أَخَافُ عَلَیۡكُمۡ یَوۡمَ ٱلتَّنَادِ
 
 | Details |  |

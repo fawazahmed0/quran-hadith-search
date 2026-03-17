@@ -452,6 +452,18 @@ Farāgha 'Alayhim Đarbāan Bil-Yamīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَرَاغَ عَلَيْهِمْ ضَرْبًا بِالْيَمِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فراغ عليهم ضربا باليمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَرَاغَ عَلَیۡهِمۡ ضَرۡبَۢا بِٱلۡیَمِینِ
 
 | Details |  |

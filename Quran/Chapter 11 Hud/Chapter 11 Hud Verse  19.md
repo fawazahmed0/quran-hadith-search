@@ -452,6 +452,18 @@ Al-Ladhīna Yaşuddūna 'An Sabīli Allāhi Wa Yabghūnahā 'Iwajāan Wa Hum Bil
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ يَصُدُّونَ عَنْ سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُمْ بِالْآخِرَةِ هُمْ كَافِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين يصدون عن سبيل الله ويبغونها عوجا وهم بالاخرة هم كافرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ یَصُدُّونَ عَن سَبِیلِ ٱللَّهِ وَیَبۡغُونَهَا عِوَجࣰا وَهُم بِٱلۡءَاخِرَةِ هُمۡ كَـٰفِرُونَ
 
 | Details |  |

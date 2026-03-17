@@ -452,6 +452,18 @@ Illā Raĥmatan Min Rabbika 'Inna Fađlahu Kāna 'Alayka Kabīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا رَحْمَةً مِنْ رَبِّكَ إِنَّ فَضْلَهُ كَانَ عَلَيْكَ كَبِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا رحمة من ربك ان فضله كان عليك كبيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا رَحۡمَةࣰ مِّن رَّبِّكَۚ إِنَّ فَضۡلَهُۥ كَانَ عَلَیۡكَ كَبِیرࣰا
 
 | Details |  |

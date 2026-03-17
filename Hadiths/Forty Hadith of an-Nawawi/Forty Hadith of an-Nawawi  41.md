@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي مُحَمَّدٍ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللَّهُ عَنْهُمَا، قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه و سلم "لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يَكُونَ هَوَاهُ تَبَعًا لِمَا جِئْتُ بِهِ". حَدِيثٌ حَسَنٌ صَحِيحٌ، رَوَيْنَاهُ فِي كِتَابِ "الْحُجَّةِ" بِإِسْنَادٍ صَحِيحٍ
@@ -47,6 +49,16 @@ On the authority of Abu Muhammad Abdullah bin ’Amr bin al-’Aas (may Allah be
 ## French
 
 Selon Abou Muhammad Abdallah ibn ‘Amr ibn al-‘As (qu’Allah l’agrée), le Messager d’Allah (ﷺ) a dit : « Aucun de vous ne croit vraiment tant que ses désirs ne sont pas conformes à ce que j’ai apporté. » \[Imam an-Nawawi précise :\] Nous l’avons rapporté dans Kitab al-Hujja avec une chaîne authentique
+
+| References: |  |
+| --- | --- |
+| Hadith No | 41 |
+| Arabic No | 41 |
+| Reference | Book 1 Hadith 41 |
+
+## Turkish
+
+Ebu Muhammed Abdullah bin Amr bin el-As (ra) anlatıyor: Resulullah (ﷺ) şöyle buyurdu: "Arzuları (hevası), benim getirdiğim şeye tabi olmadıkça sizden hiçbiriniz gerçek manada iman etmiş olmaz." \[Kitabu'l-Hücce\]
 
 | References: |  |
 | --- | --- |

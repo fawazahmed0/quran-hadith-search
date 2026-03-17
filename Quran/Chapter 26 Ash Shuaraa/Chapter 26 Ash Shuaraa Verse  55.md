@@ -452,6 +452,18 @@ Wa 'Innahum Lanā Laghā'ižūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّهُمْ لَنَا لَغَائِظُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانهم لنا لغايظون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّهُمۡ لَنَا لَغَاۤئِظُونَ
 
 | Details |  |

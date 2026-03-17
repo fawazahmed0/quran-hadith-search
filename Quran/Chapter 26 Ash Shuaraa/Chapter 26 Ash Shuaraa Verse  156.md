@@ -452,6 +452,18 @@ Wa Lā Tamassūhā Bisū'in Faya'khudhakum 'Adhābu Yawmin 'Ažīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تَمَسُّوهَا بِسُوءٍ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تمسوها بسوء فياخذكم عذاب يوم عظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تَمَسُّوهَا بِسُوۤءࣲ فَیَأۡخُذَكُمۡ عَذَابُ یَوۡمٍ عَظِیمࣲ
 
 | Details |  |

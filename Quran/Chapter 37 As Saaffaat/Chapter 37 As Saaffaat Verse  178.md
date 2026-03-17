@@ -452,6 +452,18 @@ Wa Tawalla 'Anhum Ĥattá Ĥīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَوَلَّ عَنْهُمْ حَتَّى حِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتول عنهم حتى حين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَوَلَّ عَنۡهُمۡ حَتَّىٰ حِینࣲ
 
 | Details |  |

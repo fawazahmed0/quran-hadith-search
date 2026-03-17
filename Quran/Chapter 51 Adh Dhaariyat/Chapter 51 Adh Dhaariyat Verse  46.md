@@ -452,6 +452,18 @@ Wa Qawma Nūĥin Min Qablu 'Innahum Kānū Qawmāan Fāsiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَوْمَ نُوحٍ مِنْ قَبْلُ إِنَّهُمْ كَانُوا قَوْمًا فَاسِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقوم نوح من قبل انهم كانوا قوما فاسقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَوۡمَ نُوحࣲ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُوا۟ قَوۡمࣰا فَـٰسِقِینَ
 
 | Details |  |

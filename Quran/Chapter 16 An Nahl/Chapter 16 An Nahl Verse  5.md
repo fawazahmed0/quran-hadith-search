@@ -452,6 +452,18 @@ Wa Al-'An'āma Khalaqahā Lakum Fīhā Dif'un Wa Manāfi'u Wa Minhā Ta'kulūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْأَنْعَامَ خَلَقَهَا لَكُمْ فِيهَا دِفْءٌ وَمَنَافِعُ وَمِنْهَا تَأْكُلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والانعام خلقها لكم فيها دفء ومنافع ومنها تاكلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡأَنۡعَـٰمَ خَلَقَهَاۖ لَكُمۡ فِیهَا دِفۡءࣱ وَمَنَـٰفِعُ وَمِنۡهَا تَأۡكُلُونَ
 
 | Details |  |

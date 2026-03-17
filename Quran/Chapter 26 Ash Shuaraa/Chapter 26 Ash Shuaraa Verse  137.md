@@ -452,6 +452,18 @@ In Hādhā 'Illā Khuluqu Al-'Awwalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ هَذَا إِلَّا خُلُقُ الْأَوَّلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هذا الا خلق الاولين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنۡ هَـٰذَاۤ إِلَّا خُلُقُ ٱلۡأَوَّلِینَ
 
 | Details |  |

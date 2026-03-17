@@ -452,6 +452,18 @@ Qāla Ta-Allāhi 'In Kidta Laturdīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ تَاللَّهِ إِنْ كِدْتَ لَتُرْدِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال تالله ان كدت لتردين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرۡدِینِ
 
 | Details |  |

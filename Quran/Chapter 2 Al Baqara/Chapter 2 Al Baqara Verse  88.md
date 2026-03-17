@@ -452,6 +452,18 @@ Wa Qālū Qulūbunā Ghulfun Bal La'anahumu Allāhu Bikufrihim Faqalīlāan Mā 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا قُلُوبُنَا غُلْفٌ بَلْ لَعَنَهُمُ اللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَا يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا قلوبنا غلف بل لعنهم الله بكفرهم فقليلا ما يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ قُلُوبُنَا غُلۡفُۢۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفۡرِهِمۡ فَقَلِیلࣰا مَّا یُؤۡمِنُونَ
 
 | Details |  |

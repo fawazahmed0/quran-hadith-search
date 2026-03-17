@@ -452,6 +452,18 @@ Am Lil'insāni Mā Tamanná
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ لِلْإِنْسَانِ مَا تَمَنَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام للانسان ما تمنى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ لِلۡإِنسَـٰنِ مَا تَمَنَّىٰ
 
 | Details |  |

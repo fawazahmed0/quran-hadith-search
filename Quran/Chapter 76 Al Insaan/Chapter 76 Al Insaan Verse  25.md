@@ -452,6 +452,18 @@ Wa Adhkur Asma Rabbika Bukratan Wa 'Aşīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاذْكُرِ اسْمَ رَبِّكَ بُكْرَةً وَأَصِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذكر اسم ربك بكرة واصيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱذۡكُرِ ٱسۡمَ رَبِّكَ بُكۡرَةࣰ وَأَصِیلࣰا
 
 | Details |  |

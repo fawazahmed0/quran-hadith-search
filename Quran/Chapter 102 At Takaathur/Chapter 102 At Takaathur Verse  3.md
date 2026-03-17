@@ -452,6 +452,18 @@ Kallā Sawfa Ta'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا سَوْفَ تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا سوف تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّا سَوۡفَ تَعۡلَمُونَ
 
 | Details |  |

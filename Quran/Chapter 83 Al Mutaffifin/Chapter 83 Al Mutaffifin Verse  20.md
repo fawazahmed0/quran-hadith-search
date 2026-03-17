@@ -452,6 +452,18 @@ Kitābun Marqūmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كِتَابٌ مَرْقُومٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كتاب مرقوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كِتَـٰبࣱ مَّرۡقُومࣱ
 
 | Details |  |

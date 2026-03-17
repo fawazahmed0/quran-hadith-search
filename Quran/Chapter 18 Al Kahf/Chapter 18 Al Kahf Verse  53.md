@@ -452,6 +452,18 @@ Wa Ra'á Al-Mujrimūna An-Nāra Fažannū 'Annahum Muwāqi'ūhā Wa Lam Yajidū 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَرَأَى الْمُجْرِمُونَ النَّارَ فَظَنُّوا أَنَّهُمْ مُوَاقِعُوهَا وَلَمْ يَجِدُوا عَنْهَا مَصْرِفًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وراى المجرمون النار فظنوا انهم مواقعوها ولم يجدوا عنها مصرفا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَرَءَا ٱلۡمُجۡرِمُونَ ٱلنَّارَ فَظَنُّوۤا۟ أَنَّهُم مُّوَاقِعُوهَا وَلَمۡ یَجِدُوا۟ عَنۡهَا مَصۡرِفࣰا
 
 | Details |  |

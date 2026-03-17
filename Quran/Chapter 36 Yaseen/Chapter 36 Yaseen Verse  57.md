@@ -452,6 +452,18 @@ Lahum Fīhā Fākihatun Wa Lahum Mā Yadda'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَهُمْ فِيهَا فَاكِهَةٌ وَلَهُمْ مَا يَدَّعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لهم فيها فاكهة ولهم ما يدعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَهُمۡ فِیهَا فَـٰكِهَةࣱ وَلَهُم مَّا یَدَّعُونَ
 
 | Details |  |

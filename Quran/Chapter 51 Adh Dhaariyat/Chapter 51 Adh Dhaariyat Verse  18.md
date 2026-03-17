@@ -452,6 +452,18 @@ Wa Bil-'Asĥāri Hum Yastaghfirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَبِالْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وبالاسحار هم يستغفرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَبِٱلۡأَسۡحَارِ هُمۡ یَسۡتَغۡفِرُونَ
 
 | Details |  |

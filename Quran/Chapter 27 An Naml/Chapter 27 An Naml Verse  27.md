@@ -452,6 +452,18 @@ Qāla Sananžuru 'Aşadaqta 'Am Kunta Mina Al-Kādhibīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ سَنَنْظُرُ أَصَدَقْتَ أَمْ كُنْتَ مِنَ الْكَاذِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال سننظر اصدقت ام كنت من الكاذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ قَالَ سَنَنظُرُ أَصَدَقۡتَ أَمۡ كُنتَ مِنَ ٱلۡكَـٰذِبِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Al-Ladhī Ja'ala Ma'a Allāhi 'Ilahāan 'Ākhara Fa'alqiyāhu Fī Al-'Adhābi As
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي جَعَلَ مَعَ اللَّهِ إِلَهًا آخَرَ فَأَلْقِيَاهُ فِي الْعَذَابِ الشَّدِيدِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي جعل مع الله الها اخر فالقياه في العذاب الشديد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِی جَعَلَ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَأَلۡقِیَاهُ فِی ٱلۡعَذَابِ ٱلشَّدِیدِ
 
 | Details |  |

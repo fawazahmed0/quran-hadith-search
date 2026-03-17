@@ -452,6 +452,18 @@ Fa'aqarūhā Fa'aşbaĥū Nādimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَعَقَرُوهَا فَأَصْبَحُوا نَادِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فعقروها فاصبحوا نادمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَعَقَرُوهَا فَأَصۡبَحُوا۟ نَـٰدِمِینَ
 
 | Details |  |

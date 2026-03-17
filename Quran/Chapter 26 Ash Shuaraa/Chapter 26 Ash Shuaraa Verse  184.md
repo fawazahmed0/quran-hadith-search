@@ -452,6 +452,18 @@ Wa Attaqū Al-Ladhī Khalaqakum Wa Al-Jibillata Al-'Awwalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاتَّقُوا الَّذِي خَلَقَكُمْ وَالْجِبِلَّةَ الْأَوَّلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتقوا الذي خلقكم والجبلة الاولين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱتَّقُوا۟ ٱلَّذِی خَلَقَكُمۡ وَٱلۡجِبِلَّةَ ٱلۡأَوَّلِینَ
 
 | Details |  |

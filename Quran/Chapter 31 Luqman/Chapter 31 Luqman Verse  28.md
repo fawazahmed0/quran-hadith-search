@@ -452,6 +452,18 @@ Mā Khalqukum Wa Lā Ba'thukum 'Illā Kanafsin Wāĥidatin 'Inna Allāha Samī'u
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا خَلْقُكُمْ وَلَا بَعْثُكُمْ إِلَّا كَنَفْسٍ وَاحِدَةٍ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما خلقكم ولا بعثكم الا كنفس واحدة ان الله سميع بصير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّا خَلۡقُكُمۡ وَلَا بَعۡثُكُمۡ إِلَّا كَنَفۡسࣲ وَ ٰحِدَةٍۚ إِنَّ ٱللَّهَ سَمِیعُۢ بَصِیرٌ
 
 | Details |  |

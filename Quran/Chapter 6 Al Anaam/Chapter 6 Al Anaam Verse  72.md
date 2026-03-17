@@ -452,6 +452,18 @@ Wa 'An 'Aqīmū Aş-Şalāata Wa Attaqūhu Wa Huwa Al-Ladhī 'Ilayhi Tuĥsharūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنْ أَقِيمُوا الصَّلَاةَ وَاتَّقُوهُ وَهُوَ الَّذِي إِلَيْهِ تُحْشَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان اقيموا الصلاة واتقوه وهو الذي اليه تحشرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنۡ أَقِیمُوا۟ ٱلصَّلَوٰةَ وَٱتَّقُوهُۚ وَهُوَ ٱلَّذِیۤ إِلَیۡهِ تُحۡشَرُونَ
 
 | Details |  |

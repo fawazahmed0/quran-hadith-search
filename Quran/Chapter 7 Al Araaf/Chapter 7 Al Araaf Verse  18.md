@@ -452,6 +452,18 @@ Qāla Akhruj Minhā Madh'ūmāan Madĥūrāan Laman Tabi'aka Minhum La'amla'anna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ اخْرُجْ مِنْهَا مَذْءُومًا مَدْحُورًا لَمَنْ تَبِعَكَ مِنْهُمْ لَأَمْلَأَنَّ جَهَنَّمَ مِنْكُمْ أَجْمَعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال اخرج منها مذءوما مدحورا لمن تبعك منهم لاملان جهنم منكم اجمعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ ٱخۡرُجۡ مِنۡهَا مَذۡءُومࣰا مَّدۡحُورࣰاۖ لَّمَن تَبِعَكَ مِنۡهُمۡ لَأَمۡلَأَنَّ جَهَنَّمَ مِنكُمۡ أَجۡمَعِینَ
 
 | Details |  |

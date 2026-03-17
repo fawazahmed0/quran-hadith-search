@@ -452,6 +452,18 @@ Fa'in Tawallaw Fa'innamā 'Alayka Al-Balāghu Al-Mubīnu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنْ تَوَلَّوْا فَإِنَّمَا عَلَيْكَ الْبَلَاغُ الْمُبِينُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فان تولوا فانما عليك البلاغ المبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِن تَوَلَّوۡا۟ فَإِنَّمَا عَلَیۡكَ ٱلۡبَلَـٰغُ ٱلۡمُبِینُ
 
 | Details |  |

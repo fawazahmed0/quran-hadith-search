@@ -452,6 +452,18 @@ Wa Lā Tamshi Fī Al-'Arđi Maraĥāan 'Innaka Lan Takhriqa Al-'Arđa Wa Lan Tab
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا إِنَّكَ لَنْ تَخْرِقَ الْأَرْضَ وَلَنْ تَبْلُغَ الْجِبَالَ طُولًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تمش في الارض مرحا انك لن تخرق الارض ولن تبلغ الجبال طولا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تَمۡشِ فِی ٱلۡأَرۡضِ مَرَحًاۖ إِنَّكَ لَن تَخۡرِقَ ٱلۡأَرۡضَ وَلَن تَبۡلُغَ ٱلۡجِبَالَ طُولࣰا
 
 | Details |  |

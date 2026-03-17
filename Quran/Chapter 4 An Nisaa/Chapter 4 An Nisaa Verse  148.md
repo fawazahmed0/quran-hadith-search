@@ -452,6 +452,18 @@ Lā Yuĥibbu Allāhu Al-Jahra Bis-Sū'i Mina Al-Qawli 'Illā Man Žulima Wa Kān
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يُحِبُّ اللَّهُ الْجَهْرَ بِالسُّوءِ مِنَ الْقَوْلِ إِلَّا مَنْ ظُلِمَ وَكَانَ اللَّهُ سَمِيعًا عَلِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يحب الله الجهر بالسوء من القول الا من ظلم وكان الله سميعا عليما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ لَّا یُحِبُّ ٱللَّهُ ٱلۡجَهۡرَ بِٱلسُّوۤءِ مِنَ ٱلۡقَوۡلِ إِلَّا مَن ظُلِمَۚ وَكَانَ ٱللَّهُ سَمِیعًا عَلِیمًا
 
 | Details |  |

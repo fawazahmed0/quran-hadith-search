@@ -452,6 +452,18 @@ Wa Al-Khayla Wa Al-Bighāla Wa Al-Ĥamīra Litarkabūhā Wa Zīnatan Wa Yakhluqu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْخَيْلَ وَالْبِغَالَ وَالْحَمِيرَ لِتَرْكَبُوهَا وَزِينَةً وَيَخْلُقُ مَا لَا تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والخيل والبغال والحمير لتركبوها وزينة ويخلق ما لا تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡخَیۡلَ وَٱلۡبِغَالَ وَٱلۡحَمِیرَ لِتَرۡكَبُوهَا وَزِینَةࣰۚ وَیَخۡلُقُ مَا لَا تَعۡلَمُونَ
 
 | Details |  |

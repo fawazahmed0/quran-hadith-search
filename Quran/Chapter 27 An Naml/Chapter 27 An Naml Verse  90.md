@@ -452,6 +452,18 @@ Wa Man Jā'a Bis-Sayyi'ati Fakubbat Wujūhuhum Fī An-Nāri Hal Tujzawna 'Illā 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ جَاءَ بِالسَّيِّئَةِ فَكُبَّتْ وُجُوهُهُمْ فِي النَّارِ هَلْ تُجْزَوْنَ إِلَّا مَا كُنْتُمْ تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن جاء بالسيية فكبت وجوههم في النار هل تجزون الا ما كنتم تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن جَاۤءَ بِٱلسَّیِّئَةِ فَكُبَّتۡ وُجُوهُهُمۡ فِی ٱلنَّارِ هَلۡ تُجۡزَوۡنَ إِلَّا مَا كُنتُمۡ تَعۡمَلُونَ
 
 | Details |  |

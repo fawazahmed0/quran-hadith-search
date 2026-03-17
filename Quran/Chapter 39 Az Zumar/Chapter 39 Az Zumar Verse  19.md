@@ -452,6 +452,18 @@ Afaman Ĥaqqa 'Alayhi Kalimatu Al-'Adhābi 'Afa'anta Tunqidhu Man Fī An-Nāri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَمَنْ حَقَّ عَلَيْهِ كَلِمَةُ الْعَذَابِ أَفَأَنْتَ تُنْقِذُ مَنْ فِي النَّارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افمن حق عليه كلمة العذاب افانت تنقذ من في النار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَمَنۡ حَقَّ عَلَیۡهِ كَلِمَةُ ٱلۡعَذَابِ أَفَأَنتَ تُنقِذُ مَن فِی ٱلنَّارِ
 
 | Details |  |

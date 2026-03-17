@@ -452,6 +452,18 @@ Awa 'Amina 'Ahlu Al-Qurá 'An Ya'tiyahum Ba'sunā Đuĥáan Wa Hum Yal'abūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوَأَمِنَ أَهْلُ الْقُرَى أَنْ يَأْتِيَهُمْ بَأْسُنَا ضُحًى وَهُمْ يَلْعَبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوامن اهل القرى ان ياتيهم باسنا ضحى وهم يلعبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوَ أَمِنَ أَهۡلُ ٱلۡقُرَىٰۤ أَن یَأۡتِیَهُم بَأۡسُنَا ضُحࣰى وَهُمۡ یَلۡعَبُونَ
 
 | Details |  |

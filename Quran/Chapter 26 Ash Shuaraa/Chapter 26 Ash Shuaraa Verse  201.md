@@ -452,6 +452,18 @@ Lā Yu'uminūna Bihi Ĥattá Yaraw Al-'Adhāba Al-'Alīma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يُؤْمِنُونَ بِهِ حَتَّى يَرَوُا الْعَذَابَ الْأَلِيمَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يومنون به حتى يروا العذاب الاليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا یُؤۡمِنُونَ بِهِۦ حَتَّىٰ یَرَوُا۟ ٱلۡعَذَابَ ٱلۡأَلِیمَ
 
 | Details |  |

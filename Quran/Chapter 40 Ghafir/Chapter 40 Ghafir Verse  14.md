@@ -452,6 +452,18 @@ Fād'ū Allāha Mukhlişīna Lahu Ad-Dīna Wa Law Kariha Al-Kāfirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَادْعُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ وَلَوْ كَرِهَ الْكَافِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فادعوا الله مخلصين له الدين ولو كره الكافرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱدۡعُوا۟ ٱللَّهَ مُخۡلِصِینَ لَهُ ٱلدِّینَ وَلَوۡ كَرِهَ ٱلۡكَـٰفِرُونَ
 
 | Details |  |

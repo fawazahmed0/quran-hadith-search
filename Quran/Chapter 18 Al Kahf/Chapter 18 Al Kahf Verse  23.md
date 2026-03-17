@@ -452,6 +452,18 @@ Wa Lā Taqūlanna Lishay'in 'Innī Fā'ilun Dhālika Ghadāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تَقُولَنَّ لِشَيْءٍ إِنِّي فَاعِلٌ ذَلِكَ غَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تقولن لشيء اني فاعل ذلك غدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تَقُولَنَّ لِشَا۟یۡءٍ إِنِّی فَاعِلࣱ ذَ ٰلِكَ غَدًا
 
 | Details |  |

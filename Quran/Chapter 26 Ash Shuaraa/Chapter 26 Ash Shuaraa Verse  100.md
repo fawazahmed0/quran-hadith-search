@@ -452,6 +452,18 @@ Famā Lanā Min Shāfi'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَا لَنَا مِنْ شَافِعِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فما لنا من شافعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَا لَنَا مِن شَـٰفِعِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Hādhā Dhikrun Wa 'Inna Lilmuttaqīna Laĥusna Ma'ābin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذَا ذِكْرٌ وَإِنَّ لِلْمُتَّقِينَ لَحُسْنَ مَآبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذا ذكر وان للمتقين لحسن ماب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذَا ذِكۡرࣱۚ وَإِنَّ لِلۡمُتَّقِینَ لَحُسۡنَ مَءَابࣲ
 
 | Details |  |

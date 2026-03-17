@@ -452,6 +452,18 @@ Faman Baddalahu Ba'damā Sami'ahu Fa'innamā 'Ithmuhu 'Alá Al-Ladhīna Yubaddil
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَنْ بَدَّلَهُ بَعْدَمَا سَمِعَهُ فَإِنَّمَا إِثْمُهُ عَلَى الَّذِينَ يُبَدِّلُونَهُ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فمن بدله بعدما سمعه فانما اثمه على الذين يبدلونه ان الله سميع عليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَنۢ بَدَّلَهُۥ بَعۡدَ مَا سَمِعَهُۥ فَإِنَّمَاۤ إِثۡمُهُۥ عَلَى ٱلَّذِینَ یُبَدِّلُونَهُۥۤۚ إِنَّ ٱللَّهَ سَمِیعٌ عَلِیمࣱ
 
 | Details |  |

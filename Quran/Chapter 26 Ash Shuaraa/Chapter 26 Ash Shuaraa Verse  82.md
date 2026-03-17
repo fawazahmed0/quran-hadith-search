@@ -452,6 +452,18 @@ Wa Al-Ladhī 'Aţma'u 'An Yaghfira Lī Khaţī'atī Yawma Ad-Dīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِي أَطْمَعُ أَنْ يَغْفِرَ لِي خَطِيئَتِي يَوْمَ الدِّينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذي اطمع ان يغفر لي خطييتي يوم الدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِیۤ أَطۡمَعُ أَن یَغۡفِرَ لِی خَطِیۤءَتِی یَوۡمَ ٱلدِّینِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Thumma Kāna Mina Al-Ladhīna 'Āmanū Wa Tawāşaw Biş-Şabri Wa Tawāşaw Bil
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم كان من الذين امنوا وتواصوا بالصبر وتواصوا بالمرحمة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ كَانَ مِنَ ٱلَّذِینَ ءَامَنُوا۟ وَتَوَاصَوۡا۟ بِٱلصَّبۡرِ وَتَوَاصَوۡا۟ بِٱلۡمَرۡحَمَةِ
 
 | Details |  |

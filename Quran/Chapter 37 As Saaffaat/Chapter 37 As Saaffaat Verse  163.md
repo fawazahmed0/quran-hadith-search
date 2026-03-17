@@ -452,6 +452,18 @@ Illā Man Huwa Şālī Al-Jaĥīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا مَنْ هُوَ صَالِ الْجَحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا من هو صال الجحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا مَنۡ هُوَ صَالِ ٱلۡجَحِیمِ
 
 | Details |  |

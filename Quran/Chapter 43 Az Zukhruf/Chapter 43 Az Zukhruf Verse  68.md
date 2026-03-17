@@ -452,6 +452,18 @@ Yā 'Ibādi Lā Khawfun 'Alaykumu Al-Yawma Wa Lā 'Antum Taĥzanūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا عِبَادِ لَا خَوْفٌ عَلَيْكُمُ الْيَوْمَ وَلَا أَنْتُمْ تَحْزَنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا عباد لا خوف عليكم اليوم ولا انتم تحزنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰعِبَادِ لَا خَوۡفٌ عَلَیۡكُمُ ٱلۡیَوۡمَ وَلَاۤ أَنتُمۡ تَحۡزَنُونَ
 
 | Details |  |

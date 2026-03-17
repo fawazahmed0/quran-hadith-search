@@ -452,6 +452,18 @@ Wa Al-Baĥri Al-Masjūri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْبَحْرِ الْمَسْجُورِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والبحر المسجور
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡبَحۡرِ ٱلۡمَسۡجُورِ
 
 | Details |  |

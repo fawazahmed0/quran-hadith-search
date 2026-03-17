@@ -452,6 +452,18 @@ Wa Qur'ānāan Faraqnāhu Litaqra'ahu 'Alá An-Nāsi 'Alá Mukthin Wa Nazzalnāh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقُرْآنًا فَرَقْنَاهُ لِتَقْرَأَهُ عَلَى النَّاسِ عَلَى مُكْثٍ وَنَزَّلْنَاهُ تَنْزِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقرانا فرقناه لتقراه على الناس على مكث ونزلناه تنزيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقُرۡءَانࣰا فَرَقۡنَـٰهُ لِتَقۡرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكۡثࣲ وَنَزَّلۡنَـٰهُ تَنزِیلࣰا
 
 | Details |  |

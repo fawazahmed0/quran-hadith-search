@@ -452,6 +452,18 @@ Qul Law Kāna Ma'ahu 'Ālihatun Kamā Yaqūlūna 'Idhāan Lābtaghaw 'Ilá Dhī 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ لَوْ كَانَ مَعَهُ آلِهَةٌ كَمَا يَقُولُونَ إِذًا لَابْتَغَوْا إِلَى ذِي الْعَرْشِ سَبِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل لو كان معه الهة كما يقولون اذا لابتغوا الى ذي العرش سبيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُل لَّوۡ كَانَ مَعَهُۥۤ ءَالِهَةࣱ كَمَا یَقُولُونَ إِذࣰا لَّٱبۡتَغَوۡا۟ إِلَىٰ ذِی ٱلۡعَرۡشِ سَبِیلࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Al-Ladhīna Lā Yu'utūna Az-Zakāata Wa Hum Bil-'Ākhirati Hum Kāfirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ لَا يُؤْتُونَ الزَّكَاةَ وَهُمْ بِالْآخِرَةِ هُمْ كَافِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين لا يوتون الزكاة وهم بالاخرة هم كافرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ لَا یُؤۡتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلۡءَاخِرَةِ هُمۡ كَـٰفِرُونَ
 
 | Details |  |

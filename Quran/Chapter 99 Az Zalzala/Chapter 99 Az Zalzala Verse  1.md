@@ -452,6 +452,18 @@ Idhā Zulzilati Al-'Arđu Zilzālahā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذا زلزلت الارض زلزالها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا
 
 | Details |  |

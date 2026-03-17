@@ -452,6 +452,18 @@ Linukhrija Bihi Ĥabbāan Wa Nabātāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لنخرج به حبا ونباتا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِّنُخۡرِجَ بِهِۦ حَبࣰّا وَنَبَاتࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Qul 'Innī 'Anā An-Nadhīru Al-Mubīnu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقُلْ إِنِّي أَنَا النَّذِيرُ الْمُبِينُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقل اني انا النذير المبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقُلۡ إِنِّیۤ أَنَا ٱلنَّذِیرُ ٱلۡمُبِینُ
 
 | Details |  |

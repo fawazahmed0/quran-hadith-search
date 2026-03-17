@@ -452,6 +452,18 @@ Wa Yudkhiluhumu Al-Jannata 'Arrafahā Lahum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيُدْخِلُهُمُ الْجَنَّةَ عَرَّفَهَا لَهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويدخلهم الجنة عرفها لهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیُدۡخِلُهُمُ ٱلۡجَنَّةَ عَرَّفَهَا لَهُمۡ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Ja'alnā As-Samā'a Saqfāan Maĥfūžāan Wa Hum 'An 'Āyātihā Mu'riđūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلْنَا السَّمَاءَ سَقْفًا مَحْفُوظًا وَهُمْ عَنْ آيَاتِهَا مُعْرِضُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلنا السماء سقفا محفوظا وهم عن اياتها معرضون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلۡنَا ٱلسَّمَاۤءَ سَقۡفࣰا مَّحۡفُوظࣰاۖ وَهُمۡ عَنۡ ءَایَـٰتِهَا مُعۡرِضُونَ
 
 | Details |  |

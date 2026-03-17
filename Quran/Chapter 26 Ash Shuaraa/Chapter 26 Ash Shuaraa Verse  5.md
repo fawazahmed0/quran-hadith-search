@@ -452,6 +452,18 @@ Wa Mā Ya'tīhim Min Dhikrin Mina Ar-Raĥmāni Muĥdathin 'Illā Kānū 'Anhu Mu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا يَأْتِيهِمْ مِنْ ذِكْرٍ مِنَ الرَّحْمَنِ مُحْدَثٍ إِلَّا كَانُوا عَنْهُ مُعْرِضِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ياتيهم من ذكر من الرحمن محدث الا كانوا عنه معرضين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا یَأۡتِیهِم مِّن ذِكۡرࣲ مِّنَ ٱلرَّحۡمَـٰنِ مُحۡدَثٍ إِلَّا كَانُوا۟ عَنۡهُ مُعۡرِضِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Nazzā'atan Lilshawá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نَزَّاعَةً لِلشَّوَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نزاعة للشوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نَزَّاعَةࣰ لِّلشَّوَىٰ
 
 | Details |  |

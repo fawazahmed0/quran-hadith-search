@@ -452,6 +452,18 @@ Ilá Yawmi Al-Waqti Al-Ma'lūmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَى يَوْمِ الْوَقْتِ الْمَعْلُومِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الى يوم الوقت المعلوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَىٰ یَوۡمِ ٱلۡوَقۡتِ ٱلۡمَعۡلُومِ
 
 | Details |  |

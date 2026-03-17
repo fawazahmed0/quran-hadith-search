@@ -452,6 +452,18 @@ Fakayfa 'Idhā Tawaffat/humu Al-Malā'ikatu Yađribūna Wujūhahum Wa 'Adbārahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكَيْفَ إِذَا تَوَفَّتْهُمُ الْمَلَائِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَارَهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكيف اذا توفتهم الملايكة يضربون وجوههم وادبارهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكَیۡفَ إِذَا تَوَفَّتۡهُمُ ٱلۡمَلَـٰۤئِكَةُ یَضۡرِبُونَ وُجُوهَهُمۡ وَأَدۡبَـٰرَهُمۡ
 
 | Details |  |

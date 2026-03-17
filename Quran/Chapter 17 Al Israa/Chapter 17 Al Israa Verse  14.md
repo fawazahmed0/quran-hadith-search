@@ -452,6 +452,18 @@ Iqra' Kitābaka Kafá Binafsika Al-Yawma 'Alayka Ĥasībāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اقْرَأْ كِتَابَكَ كَفَى بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اقرا كتابك كفى بنفسك اليوم عليك حسيبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱقۡرَأۡ كِتَـٰبَكَ كَفَىٰ بِنَفۡسِكَ ٱلۡیَوۡمَ عَلَیۡكَ حَسِیبࣰا
 
 | Details |  |

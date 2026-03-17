@@ -452,6 +452,18 @@ Innamā Tundhiru Mani Attaba'a Adh-Dhikra Wa Khashiya Ar-Raĥmana Bil-Ghaybi Fab
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّمَا تُنْذِرُ مَنِ اتَّبَعَ الذِّكْرَ وَخَشِيَ الرَّحْمَنَ بِالْغَيْبِ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انما تنذر من اتبع الذكر وخشي الرحمن بالغيب فبشره بمغفرة واجر كريم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكۡرَ وَخَشِیَ ٱلرَّحۡمَـٰنَ بِٱلۡغَیۡبِۖ فَبَشِّرۡهُ بِمَغۡفِرَةࣲ وَأَجۡرࣲ كَرِیمٍ
 
 | Details |  |

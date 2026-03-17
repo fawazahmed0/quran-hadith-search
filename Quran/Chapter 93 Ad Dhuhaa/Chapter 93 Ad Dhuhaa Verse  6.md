@@ -452,6 +452,18 @@ Alam Yajidka Yatīmāan Fa'āwá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ يَجِدْكَ يَتِيمًا فَآوَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم يجدك يتيما فاوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ یَجِدۡكَ یَتِیمࣰا فَءَاوَىٰ
 
 | Details |  |

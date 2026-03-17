@@ -452,6 +452,18 @@ Wa Al-Ladhīna Hum Bi'āyāti Rabbihim Yu'uminūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ هُمْ بِآيَاتِ رَبِّهِمْ يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين هم بايات ربهم يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ هُم بِءَایَـٰتِ رَبِّهِمۡ یُؤۡمِنُونَ
 
 | Details |  |

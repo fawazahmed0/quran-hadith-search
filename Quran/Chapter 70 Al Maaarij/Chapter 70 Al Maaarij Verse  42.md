@@ -452,6 +452,18 @@ Fadharhum Yakhūđū Wa Yal'abū Ĥattá Yulāqū Yawmahumu Al-Ladhī Yū'adūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّى يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فذرهم يخوضوا ويلعبوا حتى يلاقوا يومهم الذي يوعدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَذَرۡهُمۡ یَخُوضُوا۟ وَیَلۡعَبُوا۟ حَتَّىٰ یُلَـٰقُوا۟ یَوۡمَهُمُ ٱلَّذِی یُوعَدُونَ
 
 | Details |  |

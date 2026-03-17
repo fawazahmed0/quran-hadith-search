@@ -452,6 +452,18 @@ Laysa Laka Mina Al-'Amri Shay'un 'Aw Yatūba 'Alayhim 'Aw Yu'adhibahum Fa'innahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَيْسَ لَكَ مِنَ الْأَمْرِ شَيْءٌ أَوْ يَتُوبَ عَلَيْهِمْ أَوْ يُعَذِّبَهُمْ فَإِنَّهُمْ ظَالِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ليس لك من الامر شيء او يتوب عليهم او يعذبهم فانهم ظالمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَیۡسَ لَكَ مِنَ ٱلۡأَمۡرِ شَیۡءٌ أَوۡ یَتُوبَ عَلَیۡهِمۡ أَوۡ یُعَذِّبَهُمۡ فَإِنَّهُمۡ ظَـٰلِمُونَ
 
 | Details |  |

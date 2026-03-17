@@ -452,6 +452,18 @@ Musawwamatan 'Inda Rabbika Lilmusrifīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مُسَوَّمَةً عِنْدَ رَبِّكَ لِلْمُسْرِفِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+مسومة عند ربك للمسرفين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مُّسَوَّمَةً عِندَ رَبِّكَ لِلۡمُسۡرِفِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Kadhabū Bi'āyātinā Kullihā Fa'akhadhnāhum 'Akhdha 'Azīzin Muqtadirin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَّبُوا بِآيَاتِنَا كُلِّهَا فَأَخَذْنَاهُمْ أَخْذَ عَزِيزٍ مُقْتَدِرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذبوا باياتنا كلها فاخذناهم اخذ عزيز مقتدر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَّبُوا۟ بِءَایَـٰتِنَا كُلِّهَا فَأَخَذۡنَـٰهُمۡ أَخۡذَ عَزِیزࣲ مُّقۡتَدِرٍ
 
 | Details |  |

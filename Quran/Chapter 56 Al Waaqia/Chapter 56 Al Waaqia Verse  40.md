@@ -452,6 +452,18 @@ Wa Thullatun Mina Al-'Ākhirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَثُلَّةٌ مِنَ الْآخِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وثلة من الاخرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَثُلَّةࣱ مِّنَ ٱلۡءَاخِرِینَ
 
 | Details |  |

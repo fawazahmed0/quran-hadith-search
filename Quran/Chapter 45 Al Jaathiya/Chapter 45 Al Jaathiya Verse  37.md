@@ -452,6 +452,18 @@ Wa Lahu Al-Kibriyā'u Fī As-Samāwāti Wa Al-'Arđi Wa Huwa Al-'Azīzu Al-Ĥak�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَهُ الْكِبْرِيَاءُ فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وله الكبرياء في السماوات والارض وهو العزيز الحكيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَهُ ٱلۡكِبۡرِیَاۤءُ فِی ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Faja'alnā 'Āliyahā Sāfilahā Wa 'Amţarnā 'Alayhim Ĥijāratan Min Sijjīli
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَجَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِنْ سِجِّيلٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فجعلنا عاليها سافلها وامطرنا عليهم حجارة من سجيل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَجَعَلۡنَا عَـٰلِیَهَا سَافِلَهَا وَأَمۡطَرۡنَا عَلَیۡهِمۡ حِجَارَةࣰ مِّن سِجِّیلٍ
 
 | Details |  |

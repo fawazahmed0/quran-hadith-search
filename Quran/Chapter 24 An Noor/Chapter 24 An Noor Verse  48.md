@@ -452,6 +452,18 @@ Wa 'Idhā Du'ū 'Ilá Allāhi Wa Rasūlihi Liyaĥkuma Baynahum 'Idhā Farīqun M
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا دُعُوا إِلَى اللَّهِ وَرَسُولِهِ لِيَحْكُمَ بَيْنَهُمْ إِذَا فَرِيقٌ مِنْهُمْ مُعْرِضُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا دعوا الى الله ورسوله ليحكم بينهم اذا فريق منهم معرضون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا دُعُوۤا۟ إِلَى ٱللَّهِ وَرَسُولِهِۦ لِیَحۡكُمَ بَیۡنَهُمۡ إِذَا فَرِیقࣱ مِّنۡهُم مُّعۡرِضُونَ
 
 | Details |  |

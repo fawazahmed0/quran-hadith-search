@@ -452,6 +452,18 @@ Wa Mā Huwa Biqawli Shā'irin Qalīlāan Mā Tu'uminūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا هُوَ بِقَوْلِ شَاعِرٍ قَلِيلًا مَا تُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما هو بقول شاعر قليلا ما تومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا هُوَ بِقَوۡلِ شَاعِرࣲۚ قَلِیلࣰا مَّا تُؤۡمِنُونَ
 
 | Details |  |

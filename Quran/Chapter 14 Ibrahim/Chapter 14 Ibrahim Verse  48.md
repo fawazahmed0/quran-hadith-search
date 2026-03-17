@@ -452,6 +452,18 @@ Yawma Tubaddalu Al-'Arđu Ghayra Al-'Arđi Wa As-Samāwātu Wa Barazū Lillāhi 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ تُبَدَّلُ الْأَرْضُ غَيْرَ الْأَرْضِ وَالسَّمَاوَاتُ وَبَرَزُوا لِلَّهِ الْوَاحِدِ الْقَهَّارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم تبدل الارض غير الارض والسماوات وبرزوا لله الواحد القهار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ تُبَدَّلُ ٱلۡأَرۡضُ غَیۡرَ ٱلۡأَرۡضِ وَٱلسَّمَـٰوَ ٰتُۖ وَبَرَزُوا۟ لِلَّهِ ٱلۡوَ ٰحِدِ ٱلۡقَهَّارِ
 
 | Details |  |

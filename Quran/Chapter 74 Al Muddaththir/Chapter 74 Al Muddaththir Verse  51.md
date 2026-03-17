@@ -452,6 +452,18 @@ Farrat Min Qaswarahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَرَّتْ مِنْ قَسْوَرَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فرت من قسورة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَرَّتۡ مِن قَسۡوَرَةِۭ
 
 | Details |  |

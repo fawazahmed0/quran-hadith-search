@@ -452,6 +452,18 @@ Wa 'Idh Qāla 'Ibrāhīmu Li'abīhi Wa Qawmihi 'Innanī Barā'un Mimmā Ta'budū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذْ قَالَ إِبْرَاهِيمُ لِأَبِيهِ وَقَوْمِهِ إِنَّنِي بَرَاءٌ مِمَّا تَعْبُدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذ قال ابراهيم لابيه وقومه انني براء مما تعبدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذۡ قَالَ إِبۡرَ ٰهِیمُ لِأَبِیهِ وَقَوۡمِهِۦۤ إِنَّنِی بَرَاۤءࣱ مِّمَّا تَعۡبُدُونَ
 
 | Details |  |

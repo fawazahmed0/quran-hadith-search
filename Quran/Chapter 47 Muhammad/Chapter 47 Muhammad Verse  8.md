@@ -452,6 +452,18 @@ Wa Al-Ladhīna Kafarū Fata'sāan Lahum Wa 'Ađalla 'A'mālahum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ كَفَرُوا فَتَعْسًا لَهُمْ وَأَضَلَّ أَعْمَالَهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين كفروا فتعسا لهم واضل اعمالهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ كَفَرُوا۟ فَتَعۡسࣰا لَّهُمۡ وَأَضَلَّ أَعۡمَـٰلَهُمۡ
 
 | Details |  |

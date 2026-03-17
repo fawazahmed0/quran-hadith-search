@@ -452,6 +452,18 @@ Ilá Rabbika Muntahāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَى رَبِّكَ مُنْتَهَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الى ربك منتهاها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَىٰ رَبِّكَ مُنتَهَىٰهَاۤ
 
 | Details |  |

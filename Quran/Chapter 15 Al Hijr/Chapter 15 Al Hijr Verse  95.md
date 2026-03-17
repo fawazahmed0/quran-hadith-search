@@ -452,6 +452,18 @@ Innā Kafaynāka Al-Mustahzi'īna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا كَفَيْنَاكَ الْمُسْتَهْزِئِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا كفيناك المستهزيين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا كَفَیۡنَـٰكَ ٱلۡمُسۡتَهۡزِءِینَ
 
 | Details |  |

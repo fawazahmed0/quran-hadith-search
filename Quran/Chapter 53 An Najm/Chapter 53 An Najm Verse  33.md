@@ -452,6 +452,18 @@ Afara'ayta Al-Ladhī Tawallá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَرَأَيْتَ الَّذِي تَوَلَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افرايت الذي تولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَرَءَیۡتَ ٱلَّذِی تَوَلَّىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fa'āmanū Famatta'nāhum 'Ilá Ĥīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَآمَنُوا فَمَتَّعْنَاهُمْ إِلَى حِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فامنوا فمتعناهم الى حين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَءَامَنُوا۟ فَمَتَّعۡنَـٰهُمۡ إِلَىٰ حِینࣲ
 
 | Details |  |

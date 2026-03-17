@@ -452,6 +452,18 @@ Thumma 'Innī Da'awtuhum Jihārāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ إِنِّي دَعَوْتُهُمْ جِهَارًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم اني دعوتهم جهارا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ إِنِّی دَعَوۡتُهُمۡ جِهَارࣰا
 
 | Details |  |

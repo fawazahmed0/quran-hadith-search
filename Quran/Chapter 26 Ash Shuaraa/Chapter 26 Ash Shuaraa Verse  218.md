@@ -452,6 +452,18 @@ Al-Ladhī Yarāka Ĥīna Taqūmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي يَرَاكَ حِينَ تَقُومُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي يراك حين تقوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِی یَرَىٰكَ حِینَ تَقُومُ
 
 | Details |  |

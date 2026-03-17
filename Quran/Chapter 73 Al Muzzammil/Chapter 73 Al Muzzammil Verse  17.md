@@ -452,6 +452,18 @@ Fakayfa Tattaqūna 'In Kafartum Yawmāan Yaj'alu Al-Wildāna Shībāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكَيْفَ تَتَّقُونَ إِنْ كَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شِيبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكيف تتقون ان كفرتم يوما يجعل الولدان شيبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكَیۡفَ تَتَّقُونَ إِن كَفَرۡتُمۡ یَوۡمࣰا یَجۡعَلُ ٱلۡوِلۡدَ ٰنَ شِیبًا
 
 | Details |  |

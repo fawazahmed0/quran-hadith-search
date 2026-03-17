@@ -452,6 +452,18 @@ Wa 'Inna Rabbaka Ladhū Fađlin 'Alá An-Nāsi Wa Lakinna 'Aktharahum Lā Yashku
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ رَبَّكَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان ربك لذو فضل على الناس ولكن اكثرهم لا يشكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ رَبَّكَ لَذُو فَضۡلٍ عَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكۡثَرَهُمۡ لَا یَشۡكُرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Mā Tanazzalat Bihi Ash-Shayāţīnu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا تَنَزَّلَتْ بِهِ الشَّيَاطِينُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما تنزلت به الشياطين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا تَنَزَّلَتۡ بِهِ ٱلشَّیَـٰطِینُ
 
 | Details |  |

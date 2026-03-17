@@ -452,6 +452,18 @@ Wa Yawma Ya'ađđu Až-Žālimu 'Alá Yadayhi Yaqūlu Yā Laytanī Attakhadhtu M
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَوْمَ يَعَضُّ الظَّالِمُ عَلَى يَدَيْهِ يَقُولُ يَا لَيْتَنِي اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويوم يعض الظالم على يديه يقول يا ليتني اتخذت مع الرسول سبيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَوۡمَ یَعَضُّ ٱلظَّالِمُ عَلَىٰ یَدَیۡهِ یَقُولُ یَـٰلَیۡتَنِی ٱتَّخَذۡتُ مَعَ ٱلرَّسُولِ سَبِیلࣰا
 
 | Details |  |

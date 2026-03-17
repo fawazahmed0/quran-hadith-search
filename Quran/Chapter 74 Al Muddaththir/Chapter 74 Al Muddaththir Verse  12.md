@@ -452,6 +452,18 @@ Wa Ja'altu Lahu Mālāan Mamdūdāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَعَلْتُ لَهُ مَالًا مَمْدُودًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجعلت له مالا ممدودا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَعَلۡتُ لَهُۥ مَالࣰا مَّمۡدُودࣰا
 
 | Details |  |

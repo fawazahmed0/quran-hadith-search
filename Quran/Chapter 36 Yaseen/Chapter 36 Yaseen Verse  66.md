@@ -452,6 +452,18 @@ Wa Law Nashā'u Laţamasnā 'Alá 'A'yunihim Fāstabaqū Aş-Şirāţa Fa'anná 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْ نَشَاءُ لَطَمَسْنَا عَلَى أَعْيُنِهِمْ فَاسْتَبَقُوا الصِّرَاطَ فَأَنَّى يُبْصِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولو نشاء لطمسنا على اعينهم فاستبقوا الصراط فانى يبصرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡ نَشَاۤءُ لَطَمَسۡنَا عَلَىٰۤ أَعۡیُنِهِمۡ فَٱسۡتَبَقُوا۟ ٱلصِّرَ ٰطَ فَأَنَّىٰ یُبۡصِرُونَ
 
 | Details |  |

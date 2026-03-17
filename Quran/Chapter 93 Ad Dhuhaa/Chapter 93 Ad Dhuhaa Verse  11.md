@@ -452,6 +452,18 @@ Wa 'Ammā Bini'mati Rabbika Faĥaddith
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما بنعمة ربك فحدث
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ
 
 | Details |  |

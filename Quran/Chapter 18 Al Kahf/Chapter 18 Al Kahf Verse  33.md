@@ -452,6 +452,18 @@ Kiltā Al-Jannatayni 'Ātat 'Ukulahā Wa Lam Tažlim Minhu Shay'āan Wa Fajjarn�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كِلْتَا الْجَنَّتَيْنِ آتَتْ أُكُلَهَا وَلَمْ تَظْلِمْ مِنْهُ شَيْئًا وَفَجَّرْنَا خِلَالَهُمَا نَهَرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلتا الجنتين اتت اكلها ولم تظلم منه شييا وفجرنا خلالهما نهرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كِلۡتَا ٱلۡجَنَّتَیۡنِ ءَاتَتۡ أُكُلَهَا وَلَمۡ تَظۡلِم مِّنۡهُ شَیۡءࣰاۚ وَفَجَّرۡنَا خِلَـٰلَهُمَا نَهَرࣰا
 
 | Details |  |

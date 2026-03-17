@@ -452,6 +452,18 @@ Hal Fī Dhālika Qasamun Lidhī Ĥijrin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَلْ فِي ذَلِكَ قَسَمٌ لِذِي حِجْرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هل في ذلك قسم لذي حجر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَلۡ فِی ذَ ٰلِكَ قَسَمࣱ لِّذِی حِجۡرٍ
 
 | Details |  |

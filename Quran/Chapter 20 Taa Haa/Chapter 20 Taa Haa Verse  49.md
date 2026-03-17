@@ -452,6 +452,18 @@ Qāla Faman Rabbukumā Yā Mūsá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ فَمَنْ رَبُّكُمَا يَا مُوسَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال فمن ربكما يا موسى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ فَمَن رَّبُّكُمَا یَـٰمُوسَىٰ
 
 | Details |  |

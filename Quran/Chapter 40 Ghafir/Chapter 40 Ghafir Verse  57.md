@@ -452,6 +452,18 @@ Lakhalqu As-Samāwāti Wa Al-'Arđi 'Akbaru Min Khalqi An-Nāsi Wa Lakinna 'Akth
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَخَلْقُ السَّمَاوَاتِ وَالْأَرْضِ أَكْبَرُ مِنْ خَلْقِ النَّاسِ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لخلق السماوات والارض اكبر من خلق الناس ولكن اكثر الناس لا يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَخَلۡقُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ أَكۡبَرُ مِنۡ خَلۡقِ ٱلنَّاسِ وَلَـٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا یَعۡلَمُونَ
 
 | Details |  |

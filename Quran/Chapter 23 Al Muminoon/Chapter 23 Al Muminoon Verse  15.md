@@ -452,6 +452,18 @@ Thumma 'Innakum Ba'da Dhālika Lamayyitūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ إِنَّكُمْ بَعْدَ ذَلِكَ لَمَيِّتُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم انكم بعد ذلك لميتون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ إِنَّكُم بَعۡدَ ذَ ٰلِكَ لَمَیِّتُونَ
 
 | Details |  |

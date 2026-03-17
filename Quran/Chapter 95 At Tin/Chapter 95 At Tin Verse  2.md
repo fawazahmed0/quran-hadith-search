@@ -452,6 +452,18 @@ Wa Ţūri Sīnīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَطُورِ سِينِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وطور سينين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَطُورِ سِینِینَ
 
 | Details |  |

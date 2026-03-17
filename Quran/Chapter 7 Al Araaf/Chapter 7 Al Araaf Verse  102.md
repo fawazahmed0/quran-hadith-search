@@ -452,6 +452,18 @@ Wa Mā Wajadnā Li'ktharihim Min 'Ahdin Wa 'In Wajadnā 'Aktharahum Lafāsiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا وَجَدْنَا لِأَكْثَرِهِمْ مِنْ عَهْدٍ وَإِنْ وَجَدْنَا أَكْثَرَهُمْ لَفَاسِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما وجدنا لاكثرهم من عهد وان وجدنا اكثرهم لفاسقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا وَجَدۡنَا لِأَكۡثَرِهِم مِّنۡ عَهۡدࣲۖ وَإِن وَجَدۡنَاۤ أَكۡثَرَهُمۡ لَفَـٰسِقِینَ
 
 | Details |  |

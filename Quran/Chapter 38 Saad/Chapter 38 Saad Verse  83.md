@@ -452,6 +452,18 @@ Illā 'Ibādaka Minhumu Al-Mukhlaşīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا عِبَادَكَ مِنْهُمُ الْمُخْلَصِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا عبادك منهم المخلصين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا عِبَادَكَ مِنۡهُمُ ٱلۡمُخۡلَصِینَ
 
 | Details |  |

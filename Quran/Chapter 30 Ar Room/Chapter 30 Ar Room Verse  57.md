@@ -452,6 +452,18 @@ Fayawma'idhin Lā Yanfa'u Al-Ladhīna Žalamū Ma'dhiratuhum Wa Lā Hum Yusta'ta
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَيَوْمَئِذٍ لَا يَنْفَعُ الَّذِينَ ظَلَمُوا مَعْذِرَتُهُمْ وَلَا هُمْ يُسْتَعْتَبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيوميذ لا ينفع الذين ظلموا معذرتهم ولا هم يستعتبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَیَوۡمَئِذࣲ لَّا یَنفَعُ ٱلَّذِینَ ظَلَمُوا۟ مَعۡذِرَتُهُمۡ وَلَا هُمۡ یُسۡتَعۡتَبُونَ
 
 | Details |  |

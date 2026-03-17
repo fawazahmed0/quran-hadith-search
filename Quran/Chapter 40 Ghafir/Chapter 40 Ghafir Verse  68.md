@@ -452,6 +452,18 @@ Huwa Al-Ladhī Yuĥyī Wa Yumītu Fa'idhā Qađá 'Amrāan Fa'innamā Yaqūlu La
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُوَ الَّذِي يُحْيِي وَيُمِيتُ فَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هو الذي يحيي ويميت فاذا قضى امرا فانما يقول له كن فيكون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُوَ ٱلَّذِی یُحۡیِۦ وَیُمِیتُۖ فَإِذَا قَضَىٰۤ أَمۡرࣰا فَإِنَّمَا یَقُولُ لَهُۥ كُن فَیَكُونُ
 
 | Details |  |

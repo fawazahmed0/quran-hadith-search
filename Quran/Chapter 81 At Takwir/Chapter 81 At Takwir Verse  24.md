@@ -452,6 +452,18 @@ Wa Mā Huwa 'Alá Al-Ghaybi Biđanīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما هو على الغيب بضنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا هُوَ عَلَى ٱلۡغَیۡبِ بِضَنِینࣲ
 
 | Details |  |

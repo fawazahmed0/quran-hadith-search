@@ -452,6 +452,18 @@ Wa 'Annahu Ta'ālá Jaddu Rabbinā Mā Attakhadha Şāĥibatan Wa Lā Waladāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّهُ تَعَالَى جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا وَلَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه تعالى جد ربنا ما اتخذ صاحبة ولا ولدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّهُۥ تَعَـٰلَىٰ جَدُّ رَبِّنَا مَا ٱتَّخَذَ صَـٰحِبَةࣰ وَلَا وَلَدࣰا
 
 | Details |  |

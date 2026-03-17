@@ -452,6 +452,18 @@ Lā Yu'uminūna Bihi Wa Qad Khalat Sunnatu Al-'Awwalīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يُؤْمِنُونَ بِهِ وَقَدْ خَلَتْ سُنَّةُ الْأَوَّلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يومنون به وقد خلت سنة الاولين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا یُؤۡمِنُونَ بِهِۦ وَقَدۡ خَلَتۡ سُنَّةُ ٱلۡأَوَّلِینَ
 
 | Details |  |

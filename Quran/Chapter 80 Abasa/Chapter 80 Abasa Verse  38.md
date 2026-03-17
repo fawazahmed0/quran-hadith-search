@@ -452,6 +452,18 @@ Wujūhun Yawma'idhin Musfirahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجوه يوميذ مسفرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وُجُوهࣱ یَوۡمَئِذࣲ مُّسۡفِرَةࣱ
 
 | Details |  |

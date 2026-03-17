@@ -452,6 +452,18 @@ Wa Mina Al-Layli Fatahajjad Bihi Nāfilatan Laka 'Asá 'An Yab'athaka Rabbuka Ma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَى أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن الليل فتهجد به نافلة لك عسى ان يبعثك ربك مقاما محمودا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِنَ ٱلَّیۡلِ فَتَهَجَّدۡ بِهِۦ نَافِلَةࣰ لَّكَ عَسَىٰۤ أَن یَبۡعَثَكَ رَبُّكَ مَقَامࣰا مَّحۡمُودࣰا
 
 | Details |  |

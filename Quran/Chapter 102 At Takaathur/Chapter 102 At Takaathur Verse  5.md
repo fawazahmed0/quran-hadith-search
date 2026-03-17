@@ -452,6 +452,18 @@ Kallā Law Ta'lamūna 'Ilma Al-Yaqīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا لو تعلمون علم اليقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡیَقِینِ
 
 | Details |  |

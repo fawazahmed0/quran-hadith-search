@@ -452,6 +452,18 @@ Innā Khalaqnā Al-'Insāna Min Nuţfatin 'Amshājin Nabtalīhi Faja'alnāhu Sam
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا خَلَقْنَا الْإِنْسَانَ مِنْ نُطْفَةٍ أَمْشَاجٍ نَبْتَلِيهِ فَجَعَلْنَاهُ سَمِيعًا بَصِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا خلقنا الانسان من نطفة امشاج نبتليه فجعلناه سميعا بصيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا خَلَقۡنَا ٱلۡإِنسَـٰنَ مِن نُّطۡفَةٍ أَمۡشَاجࣲ نَّبۡتَلِیهِ فَجَعَلۡنَـٰهُ سَمِیعَۢا بَصِیرًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Dhalikum Žannukumu Al-Ladhī Žanantum Birabbikum 'Ardākum Fa'aşbaĥtum Mi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَذَلِكُمْ ظَنُّكُمُ الَّذِي ظَنَنْتُمْ بِرَبِّكُمْ أَرْدَاكُمْ فَأَصْبَحْتُمْ مِنَ الْخَاسِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وذلكم ظنكم الذي ظننتم بربكم ارداكم فاصبحتم من الخاسرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَذَ ٰلِكُمۡ ظَنُّكُمُ ٱلَّذِی ظَنَنتُم بِرَبِّكُمۡ أَرۡدَىٰكُمۡ فَأَصۡبَحۡتُم مِّنَ ٱلۡخَـٰسِرِینَ
 
 | Details |  |

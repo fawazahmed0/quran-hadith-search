@@ -452,6 +452,18 @@ Wa Lawlā Kalimatun Sabaqat Min Rabbika Lakāna Lizāmāan Wa 'Ajalun Musammáan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ لَكَانَ لِزَامًا وَأَجَلٌ مُسَمًّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولولا كلمة سبقت من ربك لكان لزاما واجل مسمى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡلَا كَلِمَةࣱ سَبَقَتۡ مِن رَّبِّكَ لَكَانَ لِزَامࣰا وَأَجَلࣱ مُّسَمࣰّى
 
 | Details |  |

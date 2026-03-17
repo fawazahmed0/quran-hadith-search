@@ -452,6 +452,18 @@ Qul Sīrū Fī Al-'Arđi Thumma Anžurū Kayfa Kāna 'Āqibatu Al-Mukadhibīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ سِيرُوا فِي الْأَرْضِ ثُمَّ انْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل سيروا في الارض ثم انظروا كيف كان عاقبة المكذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ سِیرُوا۟ فِی ٱلۡأَرۡضِ ثُمَّ ٱنظُرُوا۟ كَیۡفَ كَانَ عَـٰقِبَةُ ٱلۡمُكَذِّبِینَ
 
 | Details |  |

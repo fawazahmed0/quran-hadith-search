@@ -452,6 +452,18 @@ Aqtaraba Lilnnāsi Ĥisābuhum Wa Hum Fī Ghaflatin Mu'riđūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِي غَفْلَةٍ مُعْرِضُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اقترب للناس حسابهم وهم في غفلة معرضون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ ٱقۡتَرَبَ لِلنَّاسِ حِسَابُهُمۡ وَهُمۡ فِی غَفۡلَةࣲ مُّعۡرِضُونَ
 
 | Details |  |

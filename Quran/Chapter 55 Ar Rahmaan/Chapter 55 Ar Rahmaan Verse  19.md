@@ -452,6 +452,18 @@ Maraja Al-Baĥrayni Yaltaqiyāni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+مرج البحرين يلتقيان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَرَجَ ٱلۡبَحۡرَیۡنِ یَلۡتَقِیَانِ
 
 | Details |  |

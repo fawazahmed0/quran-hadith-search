@@ -452,6 +452,18 @@ Wa Adhkur 'Ibādanā 'Ibrāhīma Wa 'Isĥāqa Wa Ya'qūba 'Ūlī Al-'Aydī Wa Al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاذْكُرْ عِبَادَنَا إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ أُولِي الْأَيْدِي وَالْأَبْصَارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذكر عبادنا ابراهيم واسحاق ويعقوب اولي الايدي والابصار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱذۡكُرۡ عِبَـٰدَنَاۤ إِبۡرَ ٰهِیمَ وَإِسۡحَـٰقَ وَیَعۡقُوبَ أُو۟لِی ٱلۡأَیۡدِی وَٱلۡأَبۡصَـٰرِ
 
 | Details |  |

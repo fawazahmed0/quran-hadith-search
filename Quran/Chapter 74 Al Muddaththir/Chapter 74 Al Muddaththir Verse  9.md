@@ -452,6 +452,18 @@ Fadhālika Yawma'idhin Yawmun 'Asīrun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَذَلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فذلك يوميذ يوم عسير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَذَ ٰلِكَ یَوۡمَئِذࣲ یَوۡمٌ عَسِیرٌ
 
 | Details |  |

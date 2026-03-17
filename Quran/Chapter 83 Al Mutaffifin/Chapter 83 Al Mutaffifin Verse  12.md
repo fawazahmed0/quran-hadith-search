@@ -452,6 +452,18 @@ Wa Mā Yukadhibu Bihi 'Illā Kullu Mu'tadin 'Athīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا يُكَذِّبُ بِهِ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما يكذب به الا كل معتد اثيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا یُكَذِّبُ بِهِۦۤ إِلَّا كُلُّ مُعۡتَدٍ أَثِیمٍ
 
 | Details |  |

@@ -452,6 +452,18 @@ Hal Thūwiba Al-Kuffāru Mā Kānū Yaf'alūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هل ثوب الكفار ما كانوا يفعلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَلۡ ثُوِّبَ ٱلۡكُفَّارُ مَا كَانُوا۟ یَفۡعَلُونَ
 
 | Details |  |

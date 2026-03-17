@@ -452,6 +452,18 @@ Wa Lanuskinannakumu Al-'Arđa Min Ba'dihim Dhālika Liman Khāfa Maqāmī Wa Kh�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَنُسْكِنَنَّكُمُ الْأَرْضَ مِنْ بَعْدِهِمْ ذَلِكَ لِمَنْ خَافَ مَقَامِي وَخَافَ وَعِيدِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولنسكننكم الارض من بعدهم ذلك لمن خاف مقامي وخاف وعيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَنُسۡكِنَنَّكُمُ ٱلۡأَرۡضَ مِنۢ بَعۡدِهِمۡۚ ذَ ٰلِكَ لِمَنۡ خَافَ مَقَامِی وَخَافَ وَعِیدِ
 
 | Details |  |

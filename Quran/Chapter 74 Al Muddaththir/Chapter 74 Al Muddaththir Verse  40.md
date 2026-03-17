@@ -452,6 +452,18 @@ Fī Jannātin Yatasā'alūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي جَنَّاتٍ يَتَسَاءَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في جنات يتساءلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِی جَنَّـٰتࣲ یَتَسَاۤءَلُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Huwa Al-Qāhiru Fawqa 'Ibādihi Wa Huwa Al-Ĥakīmu Al-Khabīru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُوَ الْقَاهِرُ فَوْقَ عِبَادِهِ وَهُوَ الْحَكِيمُ الْخَبِيرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهو القاهر فوق عباده وهو الحكيم الخبير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُوَ ٱلۡقَاهِرُ فَوۡقَ عِبَادِهِۦۚ وَهُوَ ٱلۡحَكِیمُ ٱلۡخَبِیرُ
 
 | Details |  |

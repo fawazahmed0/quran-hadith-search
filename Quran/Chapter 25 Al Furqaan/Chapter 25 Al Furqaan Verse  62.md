@@ -452,6 +452,18 @@ Wa Huwa Al-Ladhī Ja'ala Al-Layla Wa An-Nahāra Khilfatan Liman 'Arāda 'An Yadh
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُوَ الَّذِي جَعَلَ اللَّيْلَ وَالنَّهَارَ خِلْفَةً لِمَنْ أَرَادَ أَنْ يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهو الذي جعل الليل والنهار خلفة لمن اراد ان يذكر او اراد شكورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُوَ ٱلَّذِی جَعَلَ ٱلَّیۡلَ وَٱلنَّهَارَ خِلۡفَةࣰ لِّمَنۡ أَرَادَ أَن یَذَّكَّرَ أَوۡ أَرَادَ شُكُورࣰا
 
 | Details |  |

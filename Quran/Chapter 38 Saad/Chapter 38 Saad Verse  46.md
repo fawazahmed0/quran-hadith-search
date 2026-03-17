@@ -452,6 +452,18 @@ Innā 'Akhlaşnāhum Bikhālişatin Dhikrá Ad-Dāri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا أَخْلَصْنَاهُمْ بِخَالِصَةٍ ذِكْرَى الدَّارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا اخلصناهم بخالصة ذكرى الدار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّاۤ أَخۡلَصۡنَـٰهُم بِخَالِصَةࣲ ذِكۡرَى ٱلدَّارِ
 
 | Details |  |

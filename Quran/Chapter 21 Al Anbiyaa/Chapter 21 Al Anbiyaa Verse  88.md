@@ -452,6 +452,18 @@ Fāstajabnā Lahu Wa Najjaynāhu Mina Al-Ghammi Wa Kadhalika Nunjī Al-Mu'uminī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ مِنَ الْغَمِّ وَكَذَلِكَ نُنْجِي الْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاستجبنا له ونجيناه من الغم وكذلك ننجي المومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱسۡتَجَبۡنَا لَهُۥ وَنَجَّیۡنَـٰهُ مِنَ ٱلۡغَمِّۚ وَكَذَ ٰلِكَ نُۨجِی ٱلۡمُؤۡمِنِینَ
 
 | Details |  |

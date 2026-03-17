@@ -452,6 +452,18 @@ Wa 'Adhinat LirabbihÄ Wa Ä¤uqqat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذنت لربها وحقت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَذِنَتۡ لِرَبِّهَا وَحُقَّتۡ
 
 | Details |  |

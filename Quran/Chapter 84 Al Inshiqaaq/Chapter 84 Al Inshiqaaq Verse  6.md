@@ -452,6 +452,18 @@ YÄ 'AyyuhÄ Al-'InsÄnu 'Innaka KÄdiÄ¥un 'IlÃ¡ Rabbika KadÄ¥Ä
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَى رَبِّكَ كَدْحًا فَمُلَاقِيهِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايها الانسان انك كادح الى ربك كدحا فملاقيه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَیُّهَا ٱلۡإِنسَـٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدۡحࣰا فَمُلَـٰقِیهِ
 
 | Details |  |

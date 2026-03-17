@@ -452,6 +452,18 @@ Wa 'Inna Lanā Lal'ākhirata Wa Al-'Ūlá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان لنا للاخرة والاولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ لَنَا لَلۡءَاخِرَةَ وَٱلۡأُولَىٰ
 
 | Details |  |

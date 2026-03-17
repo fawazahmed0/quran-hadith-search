@@ -452,6 +452,18 @@ Liyakfurū Bimā 'Ātaynāhum Fatamatta'ū Fasawfa Ta'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِيَكْفُرُوا بِمَا آتَيْنَاهُمْ فَتَمَتَّعُوا فَسَوْفَ تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ليكفروا بما اتيناهم فتمتعوا فسوف تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِیَكۡفُرُوا۟ بِمَاۤ ءَاتَیۡنَـٰهُمۡۚ فَتَمَتَّعُوا۟ فَسَوۡفَ تَعۡلَمُونَ
 
 | Details |  |

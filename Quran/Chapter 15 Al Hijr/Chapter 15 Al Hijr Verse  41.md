@@ -452,6 +452,18 @@ Qāla Hādhā Şirāţun 'Alayya Mustaqīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ هَذَا صِرَاطٌ عَلَيَّ مُسْتَقِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال هذا صراط علي مستقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ هَـٰذَا صِرَ ٰطٌ عَلَیَّ مُسۡتَقِیمٌ
 
 | Details |  |

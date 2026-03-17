@@ -452,6 +452,18 @@ Man Dhā Al-Ladhī Yuqriđu Allāha Qarđāan Ĥasanāan Fayuđā'ifahu Lahu Wa 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ وَلَهُ أَجْرٌ كَرِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من ذا الذي يقرض الله قرضا حسنا فيضاعفه له وله اجر كريم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّن ذَا ٱلَّذِی یُقۡرِضُ ٱللَّهَ قَرۡضًا حَسَنࣰا فَیُضَـٰعِفَهُۥ لَهُۥ وَلَهُۥۤ أَجۡرࣱ كَرِیمࣱ
 
 | Details |  |

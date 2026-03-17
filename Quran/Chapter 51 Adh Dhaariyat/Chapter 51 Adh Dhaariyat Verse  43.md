@@ -452,6 +452,18 @@ Wa Fī Thamūda 'Idh Qīla Lahum Tamatta'ū Ĥattá Ĥīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفِي ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا حَتَّى حِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفي ثمود اذ قيل لهم تمتعوا حتى حين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفِی ثَمُودَ إِذۡ قِیلَ لَهُمۡ تَمَتَّعُوا۟ حَتَّىٰ حِینࣲ
 
 | Details |  |

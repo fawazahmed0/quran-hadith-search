@@ -452,6 +452,18 @@ Linursila 'Alayhim Ĥijāratan Min Ţīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِنْ طِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لنرسل عليهم حجارة من طين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِنُرۡسِلَ عَلَیۡهِمۡ حِجَارَةࣰ مِّن طِینࣲ
 
 | Details |  |

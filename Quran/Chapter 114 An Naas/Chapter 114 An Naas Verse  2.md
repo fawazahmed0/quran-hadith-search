@@ -452,6 +452,18 @@ Maliki An-Nāsi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَلِكِ النَّاسِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ملك الناس
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَلِكِ ٱلنَّاسِ
 
 | Details |  |

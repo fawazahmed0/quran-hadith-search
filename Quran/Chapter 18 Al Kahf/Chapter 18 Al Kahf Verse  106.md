@@ -452,6 +452,18 @@ Dhālika Jazā'uuhum Jahannamu Bimā Kafarū Wa Attakhadhū 'Āyātī Wa Rusulī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ جَزَاؤُهُمْ جَهَنَّمُ بِمَا كَفَرُوا وَاتَّخَذُوا آيَاتِي وَرُسُلِي هُزُوًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك جزاوهم جهنم بما كفروا واتخذوا اياتي ورسلي هزوا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ جَزَاۤؤُهُمۡ جَهَنَّمُ بِمَا كَفَرُوا۟ وَٱتَّخَذُوۤا۟ ءَایَـٰتِی وَرُسُلِی هُزُوًا
 
 | Details |  |

@@ -452,6 +452,18 @@ Adkhulūhā Bisalāmin 'Āminīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ادْخُلُوهَا بِسَلَامٍ آمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ادخلوها بسلام امنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱدۡخُلُوهَا بِسَلَـٰمٍ ءَامِنِینَ
 
 | Details |  |

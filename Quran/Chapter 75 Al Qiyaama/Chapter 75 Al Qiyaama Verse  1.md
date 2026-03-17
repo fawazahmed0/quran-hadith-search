@@ -452,6 +452,18 @@ Lā 'Uqsimu Biyawmi Al-Qiyāmahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا اقسم بيوم القيامة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ لَاۤ أُقۡسِمُ بِیَوۡمِ ٱلۡقِیَـٰمَةِ
 
 | Details |  |

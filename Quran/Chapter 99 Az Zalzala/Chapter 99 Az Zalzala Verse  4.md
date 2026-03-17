@@ -452,6 +452,18 @@ Yawma'idhin Tuĥaddithu 'Akhbārahā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوميذ تحدث اخبارها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَئِذࣲ تُحَدِّثُ أَخۡبَارَهَا
 
 | Details |  |

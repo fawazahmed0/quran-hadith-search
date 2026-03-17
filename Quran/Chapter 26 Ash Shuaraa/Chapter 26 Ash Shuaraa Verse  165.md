@@ -452,6 +452,18 @@ Ata'tūna Adh-Dhukrāna Mina Al-'Ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَتَأْتُونَ الذُّكْرَانَ مِنَ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اتاتون الذكران من العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَتَأۡتُونَ ٱلذُّكۡرَانَ مِنَ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

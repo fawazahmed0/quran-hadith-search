@@ -452,6 +452,18 @@ Fā'tarafū Bidhanbihim Fasuĥqāan Li'şĥābi As-Sa'īri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَاعْتَرَفُوا بِذَنْبِهِمْ فَسُحْقًا لِأَصْحَابِ السَّعِيرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاعترفوا بذنبهم فسحقا لاصحاب السعير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱعۡتَرَفُوا۟ بِذَنۢبِهِمۡ فَسُحۡقࣰا لِّأَصۡحَـٰبِ ٱلسَّعِیرِ
 
 | Details |  |

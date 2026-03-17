@@ -452,6 +452,18 @@ A'antum Tazra'ūnahu 'Am Naĥnu Az-Zāri'ūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَأَنْتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ الزَّارِعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اانتم تزرعونه ام نحن الزارعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ءَأَنتُمۡ تَزۡرَعُونَهُۥۤ أَمۡ نَحۡنُ ٱلزَّ ٰرِعُونَ
 
 | Details |  |

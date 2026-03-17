@@ -452,6 +452,18 @@ Wa 'Andhir 'Ashīrataka Al-'Aqrabīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنْذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانذر عشيرتك الاقربين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنذِرۡ عَشِیرَتَكَ ٱلۡأَقۡرَبِینَ
 
 | Details |  |

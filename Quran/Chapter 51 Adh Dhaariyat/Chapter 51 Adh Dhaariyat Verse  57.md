@@ -452,6 +452,18 @@ Mā 'Urīdu Minhum Min Rizqin Wa Mā 'Urīdu 'An Yuţ'imūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا أُرِيدُ مِنْهُمْ مِنْ رِزْقٍ وَمَا أُرِيدُ أَنْ يُطْعِمُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما اريد منهم من رزق وما اريد ان يطعمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَاۤ أُرِیدُ مِنۡهُم مِّن رِّزۡقࣲ وَمَاۤ أُرِیدُ أَن یُطۡعِمُونِ
 
 | Details |  |

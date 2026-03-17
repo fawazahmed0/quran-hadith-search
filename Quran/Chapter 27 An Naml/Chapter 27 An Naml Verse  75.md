@@ -452,6 +452,18 @@ Wa Mā Min Ghā'ibatin Fī As-Samā'i Wa Al-'Arđi 'Illā Fī Kitābin Mubīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا مِنْ غَائِبَةٍ فِي السَّمَاءِ وَالْأَرْضِ إِلَّا فِي كِتَابٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما من غايبة في السماء والارض الا في كتاب مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا مِنۡ غَاۤئِبَةࣲ فِی ٱلسَّمَاۤءِ وَٱلۡأَرۡضِ إِلَّا فِی كِتَـٰبࣲ مُّبِینٍ
 
 | Details |  |

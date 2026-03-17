@@ -452,6 +452,18 @@ Thumma 'Akhadhtu Al-Ladhīna Kafarū Fakayfa Kāna Nakīri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ أَخَذْتُ الَّذِينَ كَفَرُوا فَكَيْفَ كَانَ نَكِيرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم اخذت الذين كفروا فكيف كان نكير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ أَخَذۡتُ ٱلَّذِینَ كَفَرُوا۟ۖ فَكَیۡفَ كَانَ نَكِیرِ
 
 | Details |  |

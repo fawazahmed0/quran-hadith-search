@@ -452,6 +452,18 @@ In Tajtanibū Kabā'ira Mā Tunhawna 'Anhu Nukaffir 'Ankum Sayyi'ātikum Wa Nudk
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ تَجْتَنِبُوا كَبَائِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنْكُمْ سَيِّئَاتِكُمْ وَنُدْخِلْكُمْ مُدْخَلًا كَرِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان تجتنبوا كباير ما تنهون عنه نكفر عنكم سيياتكم وندخلكم مدخلا كريما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِن تَجۡتَنِبُوا۟ كَبَاۤئِرَ مَا تُنۡهَوۡنَ عَنۡهُ نُكَفِّرۡ عَنكُمۡ سَیِّءَاتِكُمۡ وَنُدۡخِلۡكُم مُّدۡخَلࣰا كَرِیمࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Dhālikum Fadhūqūhu Wa 'Anna Lilkāfirīna 'Adhāba An-Nāri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكُمْ فَذُوقُوهُ وَأَنَّ لِلْكَافِرِينَ عَذَابَ النَّارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلكم فذوقوه وان للكافرين عذاب النار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكُمۡ فَذُوقُوهُ وَأَنَّ لِلۡكَـٰفِرِینَ عَذَابَ ٱلنَّارِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Anā Akhtartuka Fāstami' Limā Yūĥá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَا اخْتَرْتُكَ فَاسْتَمِعْ لِمَا يُوحَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانا اخترتك فاستمع لما يوحى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَا ٱخۡتَرۡتُكَ فَٱسۡتَمِعۡ لِمَا یُوحَىٰۤ
 
 | Details |  |

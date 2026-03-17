@@ -452,6 +452,18 @@ Wa 'Innahum Layaşuddūnahum 'Ani As-Sabīli Wa Yaĥsabūna 'Annahum Muhtadūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ السَّبِيلِ وَيَحْسَبُونَ أَنَّهُمْ مُهْتَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانهم ليصدونهم عن السبيل ويحسبون انهم مهتدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّهُمۡ لَیَصُدُّونَهُمۡ عَنِ ٱلسَّبِیلِ وَیَحۡسَبُونَ أَنَّهُم مُّهۡتَدُونَ
 
 | Details |  |

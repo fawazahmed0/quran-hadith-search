@@ -452,6 +452,18 @@ Fa'ini Antahaw Fa'inna Allāha Ghafūrun Raĥīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنِ انْتَهَوْا فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فان انتهوا فان الله غفور رحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِنِ ٱنتَهَوۡا۟ فَإِنَّ ٱللَّهَ غَفُورࣱ رَّحِیمࣱ
 
 | Details |  |

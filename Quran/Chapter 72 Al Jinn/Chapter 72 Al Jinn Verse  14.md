@@ -452,6 +452,18 @@ Wa 'Annā Minnā Al-Muslimūna Wa Minnā Al-Qāsiţūna Faman 'Aslama Fa'ūlā'i
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّا مِنَّا الْمُسْلِمُونَ وَمِنَّا الْقَاسِطُونَ فَمَنْ أَسْلَمَ فَأُولَئِكَ تَحَرَّوْا رَشَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانا منا المسلمون ومنا القاسطون فمن اسلم فاوليك تحروا رشدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّا مِنَّا ٱلۡمُسۡلِمُونَ وَمِنَّا ٱلۡقَـٰسِطُونَۖ فَمَنۡ أَسۡلَمَ فَأُو۟لَـٰۤئِكَ تَحَرَّوۡا۟ رَشَدࣰا
 
 | Details |  |

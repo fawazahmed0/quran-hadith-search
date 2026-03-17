@@ -452,6 +452,18 @@ Naĥnu Qaddarnā Baynakumu Al-Mawta Wa Mā Naĥnu Bimasbūqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نحن قدرنا بينكم الموت وما نحن بمسبوقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نَحۡنُ قَدَّرۡنَا بَیۡنَكُمُ ٱلۡمَوۡتَ وَمَا نَحۡنُ بِمَسۡبُوقِینَ
 
 | Details |  |

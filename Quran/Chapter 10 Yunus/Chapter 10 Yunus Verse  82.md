@@ -452,6 +452,18 @@ Wa Yuĥiqqu Allāhu Al-Ĥaqqa Bikalimātihi Wa Law Kariha Al-Mujrimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيُحِقُّ اللَّهُ الْحَقَّ بِكَلِمَاتِهِ وَلَوْ كَرِهَ الْمُجْرِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويحق الله الحق بكلماته ولو كره المجرمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیُحِقُّ ٱللَّهُ ٱلۡحَقَّ بِكَلِمَـٰتِهِۦ وَلَوۡ كَرِهَ ٱلۡمُجۡرِمُونَ
 
 | Details |  |

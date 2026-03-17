@@ -452,6 +452,18 @@ Afaman Yamshī Mukibbāan 'Alá Wajhihi 'Ahdá 'Amman Yamshī Sawīyāan 'Alá �
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَمَنْ يَمْشِي مُكِبًّا عَلَى وَجْهِهِ أَهْدَى أَمَّنْ يَمْشِي سَوِيًّا عَلَى صِرَاطٍ مُسْتَقِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افمن يمشي مكبا على وجهه اهدى امن يمشي سويا على صراط مستقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَمَن یَمۡشِی مُكِبًّا عَلَىٰ وَجۡهِهِۦۤ أَهۡدَىٰۤ أَمَّن یَمۡشِی سَوِیًّا عَلَىٰ صِرَ ٰطࣲ مُّسۡتَقِیمࣲ
 
 | Details |  |

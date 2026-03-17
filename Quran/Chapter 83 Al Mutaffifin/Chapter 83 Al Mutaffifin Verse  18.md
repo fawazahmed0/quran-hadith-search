@@ -452,6 +452,18 @@ Kallā 'Inna Kitāba Al-'Abrāri Lafī 'Illīyīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا ان كتاب الابرار لفي عليين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّاۤ إِنَّ كِتَـٰبَ ٱلۡأَبۡرَارِ لَفِی عِلِّیِّینَ
 
 | Details |  |

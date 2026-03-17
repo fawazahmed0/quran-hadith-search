@@ -452,6 +452,18 @@ Ihdinā Aş-Şirāţa Al-Mustaqīma
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اهدنا الصراط المستقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱهۡدِنَا ٱلصِّرَ ٰطَ ٱلۡمُسۡتَقِیمَ
 
 | Details |  |

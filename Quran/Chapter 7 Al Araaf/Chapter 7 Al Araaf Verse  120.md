@@ -452,6 +452,18 @@ Wa 'Ulqiya As-Saĥaratu Sājidīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والقي السحرة ساجدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأُلۡقِیَ ٱلسَّحَرَةُ سَـٰجِدِینَ
 
 | Details |  |

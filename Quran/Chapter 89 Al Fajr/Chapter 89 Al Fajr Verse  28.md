@@ -452,6 +452,18 @@ Arji'ī 'Ilá Rabbiki Rāđiyatan Marđīyahan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ارْجِعِي إِلَى رَبِّكِ رَاضِيَةً مَرْضِيَّةً
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ارجعي الى ربك راضية مرضية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱرۡجِعِیۤ إِلَىٰ رَبِّكِ رَاضِیَةࣰ مَّرۡضِیَّةࣰ
 
 | Details |  |

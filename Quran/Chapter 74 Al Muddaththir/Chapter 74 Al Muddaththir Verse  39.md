@@ -452,6 +452,18 @@ Illā 'Aşĥāba Al-Yamīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا أَصْحَابَ الْيَمِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا اصحاب اليمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّاۤ أَصۡحَـٰبَ ٱلۡیَمِینِ
 
 | Details |  |

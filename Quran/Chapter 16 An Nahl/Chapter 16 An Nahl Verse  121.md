@@ -452,6 +452,18 @@ Shākirāan Li'n'umihi Ajtabāhu Wa Hadāhu 'Ilá Şirāţin Mustaqīm
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+شَاكِرًا لِأَنْعُمِهِ اجْتَبَاهُ وَهَدَاهُ إِلَى صِرَاطٍ مُسْتَقِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+شاكرا لانعمه اجتباه وهداه الى صراط مستقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 شَاكِرࣰا لِّأَنۡعُمِهِۚ ٱجۡتَبَىٰهُ وَهَدَىٰهُ إِلَىٰ صِرَ ٰطࣲ مُّسۡتَقِیمࣲ
 
 | Details |  |

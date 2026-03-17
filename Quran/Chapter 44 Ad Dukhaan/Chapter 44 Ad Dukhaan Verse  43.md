@@ -452,6 +452,18 @@ Inna Shajarata Az-Zaqqūmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ شَجَرَتَ الزَّقُّومِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان شجرت الزقوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ شَجَرَتَ ٱلزَّقُّومِ
 
 | Details |  |

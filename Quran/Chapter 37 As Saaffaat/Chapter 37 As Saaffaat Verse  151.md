@@ -452,6 +452,18 @@ Alā 'Innahum Min 'Ifkihim Layaqūlūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَا إِنَّهُمْ مِنْ إِفْكِهِمْ لَيَقُولُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا انهم من افكهم ليقولون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَاۤ إِنَّهُم مِّنۡ إِفۡكِهِمۡ لَیَقُولُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qīla Adkhuli Al-Jannata Qāla Yā Layta Qawmī Ya'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قِيلَ ادْخُلِ الْجَنَّةَ قَالَ يَا لَيْتَ قَوْمِي يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قيل ادخل الجنة قال يا ليت قومي يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قِیلَ ٱدۡخُلِ ٱلۡجَنَّةَۖ قَالَ یَـٰلَیۡتَ قَوۡمِی یَعۡلَمُونَ
 
 | Details |  |

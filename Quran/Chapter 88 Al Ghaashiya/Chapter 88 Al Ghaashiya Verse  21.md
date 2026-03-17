@@ -452,6 +452,18 @@ Fadhakkir 'Innamā 'Anta Mudhakkirun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَذَكِّرْ إِنَّمَا أَنْتَ مُذَكِّرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فذكر انما انت مذكر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَذَكِّرۡ إِنَّمَاۤ أَنتَ مُذَكِّرࣱ
 
 | Details |  |

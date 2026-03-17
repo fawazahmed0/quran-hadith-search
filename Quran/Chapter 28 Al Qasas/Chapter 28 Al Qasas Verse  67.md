@@ -452,6 +452,18 @@ Fa'ammā Man Tāba Wa 'Āmana Wa 'Amila Şāliĥāan Fa'asá 'An Yakūna Mina Al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَمَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا فَعَسَى أَنْ يَكُونَ مِنَ الْمُفْلِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاما من تاب وامن وعمل صالحا فعسى ان يكون من المفلحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَمَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحࣰا فَعَسَىٰۤ أَن یَكُونَ مِنَ ٱلۡمُفۡلِحِینَ
 
 | Details |  |

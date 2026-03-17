@@ -452,6 +452,18 @@ Yu'ufaku 'Anhu Man 'Ufika
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُؤْفَكُ عَنْهُ مَنْ أُفِكَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوفك عنه من افك
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُؤۡفَكُ عَنۡهُ مَنۡ أُفِكَ
 
 | Details |  |

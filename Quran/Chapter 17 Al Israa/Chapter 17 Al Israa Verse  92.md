@@ -452,6 +452,18 @@ Aw Tusqiţa As-Samā'a Kamā Za'amta 'Alaynā Kisafāan 'Aw Ta'tiya Billāhi Wa 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِيَ بِاللَّهِ وَالْمَلَائِكَةِ قَبِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+او تسقط السماء كما زعمت علينا كسفا او تاتي بالله والملايكة قبيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوۡ تُسۡقِطَ ٱلسَّمَاۤءَ كَمَا زَعَمۡتَ عَلَیۡنَا كِسَفًا أَوۡ تَأۡتِیَ بِٱللَّهِ وَٱلۡمَلَـٰۤئِكَةِ قَبِیلًا
 
 | Details |  |

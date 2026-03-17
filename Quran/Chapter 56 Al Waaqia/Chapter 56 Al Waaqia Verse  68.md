@@ -452,6 +452,18 @@ Afara'aytumu Al-Mā'a Al-Ladhī Tashrabūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَرَأَيْتُمُ الْمَاءَ الَّذِي تَشْرَبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افرايتم الماء الذي تشربون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَرَءَیۡتُمُ ٱلۡمَاۤءَ ٱلَّذِی تَشۡرَبُونَ
 
 | Details |  |

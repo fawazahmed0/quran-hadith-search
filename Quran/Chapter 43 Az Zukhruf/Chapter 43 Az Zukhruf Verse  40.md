@@ -452,6 +452,18 @@ Afa'anta Tusmi'u Aş-Şumma 'Aw Tahdī Al-'Umya Wa Man Kāna Fī Đalālin Mubī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَأَنْتَ تُسْمِعُ الصُّمَّ أَوْ تَهْدِي الْعُمْيَ وَمَنْ كَانَ فِي ضَلَالٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افانت تسمع الصم او تهدي العمي ومن كان في ضلال مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَأَنتَ تُسۡمِعُ ٱلصُّمَّ أَوۡ تَهۡدِی ٱلۡعُمۡیَ وَمَن كَانَ فِی ضَلَـٰلࣲ مُّبِینࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qul Yajma'u Baynanā Rabbunā Thumma Yaftaĥu Baynanā Bil-Ĥaqqi Wa Huwa Al-Fat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ يَجْمَعُ بَيْنَنَا رَبُّنَا ثُمَّ يَفْتَحُ بَيْنَنَا بِالْحَقِّ وَهُوَ الْفَتَّاحُ الْعَلِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل يجمع بيننا ربنا ثم يفتح بيننا بالحق وهو الفتاح العليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ یَجۡمَعُ بَیۡنَنَا رَبُّنَا ثُمَّ یَفۡتَحُ بَیۡنَنَا بِٱلۡحَقِّ وَهُوَ ٱلۡفَتَّاحُ ٱلۡعَلِیمُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Ash-Shaf'i Wa Al-Watri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالشَّفْعِ وَالْوَتْرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والشفع والوتر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلشَّفۡعِ وَٱلۡوَتۡرِ
 
 | Details |  |

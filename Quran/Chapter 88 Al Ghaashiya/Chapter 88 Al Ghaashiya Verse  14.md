@@ -452,6 +452,18 @@ Wa 'Akwābun Mawđū'ahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَكْوَابٌ مَوْضُوعَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واكواب موضوعة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَكۡوَابࣱ مَّوۡضُوعَةࣱ
 
 | Details |  |

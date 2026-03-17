@@ -452,6 +452,18 @@ Fa-Al-Ladhīna 'Āmanū Wa 'Amilū Aş-Şāliĥāti Lahum Maghfiratun Wa Rizqun 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ مَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالذين امنوا وعملوا الصالحات لهم مغفرة ورزق كريم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُم مَّغۡفِرَةࣱ وَرِزۡقࣱ كَرِیمࣱ
 
 | Details |  |

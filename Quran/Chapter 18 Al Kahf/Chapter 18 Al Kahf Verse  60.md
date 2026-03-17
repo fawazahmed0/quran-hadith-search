@@ -452,6 +452,18 @@ Wa 'Idh Qāla Mūsá Lifatāhu Lā 'Abraĥu Ĥattá 'Ablugha Majma'a Al-Baĥrayn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذْ قَالَ مُوسَى لِفَتَاهُ لَا أَبْرَحُ حَتَّى أَبْلُغَ مَجْمَعَ الْبَحْرَيْنِ أَوْ أَمْضِيَ حُقُبًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذ قال موسى لفتاه لا ابرح حتى ابلغ مجمع البحرين او امضي حقبا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذۡ قَالَ مُوسَىٰ لِفَتَىٰهُ لَاۤ أَبۡرَحُ حَتَّىٰۤ أَبۡلُغَ مَجۡمَعَ ٱلۡبَحۡرَیۡنِ أَوۡ أَمۡضِیَ حُقُبࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Yawma Tamūru As-Samā'u Mawrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ تَمُورُ السَّمَاءُ مَوْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم تمور السماء مورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ تَمُورُ ٱلسَّمَاۤءُ مَوۡرࣰا
 
 | Details |  |

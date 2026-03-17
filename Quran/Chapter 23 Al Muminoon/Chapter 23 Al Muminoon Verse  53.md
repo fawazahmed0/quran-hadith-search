@@ -452,6 +452,18 @@ Fataqaţţa'ū 'Amrahum Baynahum Zuburāan Kullu Ĥizbin Bimā Ladayhim Fariĥū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَتَقَطَّعُوا أَمْرَهُمْ بَيْنَهُمْ زُبُرًا كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فتقطعوا امرهم بينهم زبرا كل حزب بما لديهم فرحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَتَقَطَّعُوۤا۟ أَمۡرَهُم بَیۡنَهُمۡ زُبُرࣰاۖ كُلُّ حِزۡبِۭ بِمَا لَدَیۡهِمۡ فَرِحُونَ
 
 | Details |  |

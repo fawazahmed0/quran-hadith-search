@@ -452,6 +452,18 @@ Qāla Fālĥaqqu Wa Al-Ĥaqqa 'Aqūlu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ فَالْحَقُّ وَالْحَقَّ أَقُولُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال فالحق والحق اقول
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ فَٱلۡحَقُّ وَٱلۡحَقَّ أَقُولُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Khalaqa Al-Jānna Min Mārijin Min Nārin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَخَلَقَ الْجَانَّ مِنْ مَارِجٍ مِنْ نَارٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وخلق الجان من مارج من نار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَخَلَقَ ٱلۡجَاۤنَّ مِن مَّارِجࣲ مِّن نَّارࣲ
 
 | Details |  |

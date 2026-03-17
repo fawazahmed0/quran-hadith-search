@@ -452,6 +452,18 @@ Wa Man Yaksib Khaţī'atan 'Aw 'Ithmāan Thumma Yarmi Bihi Barī'āan Faqadi Aĥ
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ يَكْسِبْ خَطِيئَةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِ بَرِيئًا فَقَدِ احْتَمَلَ بُهْتَانًا وَإِثْمًا مُبِينًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن يكسب خطيية او اثما ثم يرم به برييا فقد احتمل بهتانا واثما مبينا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن یَكۡسِبۡ خَطِیۤءَةً أَوۡ إِثۡمࣰا ثُمَّ یَرۡمِ بِهِۦ بَرِیۤءࣰا فَقَدِ ٱحۡتَمَلَ بُهۡتَـٰنࣰا وَإِثۡمࣰا مُّبِینࣰا
 
 | Details |  |

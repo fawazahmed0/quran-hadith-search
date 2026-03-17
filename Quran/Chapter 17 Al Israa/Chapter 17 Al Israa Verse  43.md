@@ -452,6 +452,18 @@ Subĥānahu Wa Ta'ālá 'Ammā Yaqūlūna 'Ulūwāan Kabīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سُبْحَانَهُ وَتَعَالَى عَمَّا يَقُولُونَ عُلُوًّا كَبِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سبحانه وتعالى عما يقولون علوا كبيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سُبۡحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا یَقُولُونَ عُلُوࣰّا كَبِیرࣰا
 
 | Details |  |

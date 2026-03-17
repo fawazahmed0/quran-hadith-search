@@ -452,6 +452,18 @@ Wa Laqad Jā'ahum Rasūlun Minhum Fakadhabūhu Fa'akhadhahumu Al-'Adhābu Wa Hum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ جَاءَهُمْ رَسُولٌ مِنْهُمْ فَكَذَّبُوهُ فَأَخَذَهُمُ الْعَذَابُ وَهُمْ ظَالِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد جاءهم رسول منهم فكذبوه فاخذهم العذاب وهم ظالمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ جَاۤءَهُمۡ رَسُولࣱ مِّنۡهُمۡ فَكَذَّبُوهُ فَأَخَذَهُمُ ٱلۡعَذَابُ وَهُمۡ ظَـٰلِمُونَ
 
 | Details |  |

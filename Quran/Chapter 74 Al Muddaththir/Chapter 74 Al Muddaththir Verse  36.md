@@ -452,6 +452,18 @@ Nadhīrāan Lilbashari
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نَذِيرًا لِلْبَشَرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نذيرا للبشر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نَذِیرࣰا لِّلۡبَشَرِ
 
 | Details |  |

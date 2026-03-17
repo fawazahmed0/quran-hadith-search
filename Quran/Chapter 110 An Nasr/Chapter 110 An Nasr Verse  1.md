@@ -452,6 +452,18 @@ Idhā Jā'a Naşru Allāhi Wa Al-Fatĥu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذا جاء نصر الله والفتح
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذَا جَاۤءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ
 
 | Details |  |

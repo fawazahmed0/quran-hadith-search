@@ -452,6 +452,18 @@ Yurīdu Allāhu 'An Yukhaffifa 'Ankum Wa Khuliqa Al-'Insānu Đa'īfāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يُرِيدُ اللَّهُ أَنْ يُخَفِّفَ عَنْكُمْ وَخُلِقَ الْإِنْسَانُ ضَعِيفًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يريد الله ان يخفف عنكم وخلق الانسان ضعيفا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یُرِیدُ ٱللَّهُ أَن یُخَفِّفَ عَنكُمۡۚ وَخُلِقَ ٱلۡإِنسَـٰنُ ضَعِیفࣰا
 
 | Details |  |

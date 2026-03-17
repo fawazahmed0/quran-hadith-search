@@ -452,6 +452,18 @@ Dhālika Bi'anna Allāha Mawlá Al-Ladhīna 'Āmanū Wa 'Anna Al-Kāfirīna Lā 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ بِأَنَّ اللَّهَ مَوْلَى الَّذِينَ آمَنُوا وَأَنَّ الْكَافِرِينَ لَا مَوْلَى لَهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك بان الله مولى الذين امنوا وان الكافرين لا مولى لهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ بِأَنَّ ٱللَّهَ مَوۡلَى ٱلَّذِینَ ءَامَنُوا۟ وَأَنَّ ٱلۡكَـٰفِرِینَ لَا مَوۡلَىٰ لَهُمۡ
 
 | Details |  |

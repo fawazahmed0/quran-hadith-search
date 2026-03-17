@@ -452,6 +452,18 @@ Wa 'Innahā Labisabīlin Muqīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّهَا لَبِسَبِيلٍ مُقِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانها لبسبيل مقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّهَا لَبِسَبِیلࣲ مُّقِیمٍ
 
 | Details |  |

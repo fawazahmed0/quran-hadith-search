@@ -452,6 +452,18 @@ Sayaqūlūna Lillāhi Qul Fa'annā Tusĥarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَيَقُولُونَ لِلَّهِ قُلْ فَأَنَّى تُسْحَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سيقولون لله قل فانى تسحرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَیَقُولُونَ لِلَّهِۚ قُلۡ فَأَنَّىٰ تُسۡحَرُونَ
 
 | Details |  |

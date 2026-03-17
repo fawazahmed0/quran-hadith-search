@@ -452,6 +452,18 @@ Wa Allāhu 'Anbatakum Mina Al-'Arđi Nabātāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاللَّهُ أَنْبَتَكُمْ مِنَ الْأَرْضِ نَبَاتًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والله انبتكم من الارض نباتا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلۡأَرۡضِ نَبَاتࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna Laka Fī Aalnnahāri Sabĥāan Ţawīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان لك في النهار سبحا طويلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ لَكَ فِی ٱلنَّهَارِ سَبۡحࣰا طَوِیلࣰا
 
 | Details |  |

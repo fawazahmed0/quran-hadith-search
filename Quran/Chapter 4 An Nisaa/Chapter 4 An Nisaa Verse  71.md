@@ -452,6 +452,18 @@ Yā 'Ayyuhā Al-Ladhīna 'Āmanū Khudhū Ĥidhrakum Fānfirū Thubātin 'Aw Anf
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيُّهَا الَّذِينَ آمَنُوا خُذُوا حِذْرَكُمْ فَانْفِرُوا ثُبَاتٍ أَوِ انْفِرُوا جَمِيعًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايها الذين امنوا خذوا حذركم فانفروا ثبات او انفروا جميعا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ خُذُوا۟ حِذۡرَكُمۡ فَٱنفِرُوا۟ ثُبَاتٍ أَوِ ٱنفِرُوا۟ جَمِیعࣰا
 
 | Details |  |

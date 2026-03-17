@@ -452,6 +452,18 @@ Faghafarnā Lahu Dhālika Wa 'Inna Lahu 'Indanā Lazulfá Wa Ĥusna Ma'ābin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَغَفَرْنَا لَهُ ذَلِكَ وَإِنَّ لَهُ عِنْدَنَا لَزُلْفَى وَحُسْنَ مَآبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فغفرنا له ذلك وان له عندنا لزلفى وحسن ماب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَغَفَرۡنَا لَهُۥ ذَ ٰلِكَۖ وَإِنَّ لَهُۥ عِندَنَا لَزُلۡفَىٰ وَحُسۡنَ مَءَابࣲ
 
 | Details |  |

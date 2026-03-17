@@ -452,6 +452,18 @@ Hayhāta Hayhāta Limā Tū'adūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَيْهَاتَ هَيْهَاتَ لِمَا تُوعَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هيهات هيهات لما توعدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ هَیۡهَاتَ هَیۡهَاتَ لِمَا تُوعَدُونَ
 
 | Details |  |

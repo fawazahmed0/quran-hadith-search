@@ -452,6 +452,18 @@ Wa Laqad Jā'a 'Āla Fir'awna An-Nudhuru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ جَاءَ آلَ فِرْعَوْنَ النُّذُرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد جاء ال فرعون النذر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ جَاۤءَ ءَالَ فِرۡعَوۡنَ ٱلنُّذُرُ
 
 | Details |  |

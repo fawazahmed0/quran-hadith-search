@@ -452,6 +452,18 @@ Thumma Şubbū Fawqa Ra'sihi Min 'Adhābi Al-Ĥamīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ صُبُّوا فَوْقَ رَأْسِهِ مِنْ عَذَابِ الْحَمِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم صبوا فوق راسه من عذاب الحميم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ صُبُّوا۟ فَوۡقَ رَأۡسِهِۦ مِنۡ عَذَابِ ٱلۡحَمِیمِ
 
 | Details |  |

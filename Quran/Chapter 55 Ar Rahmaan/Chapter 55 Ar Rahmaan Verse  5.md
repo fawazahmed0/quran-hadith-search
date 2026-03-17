@@ -452,6 +452,18 @@ Ash-Shamsu Wa Al-Qamaru Biĥusbānin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الشمس والقمر بحسبان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانࣲ
 
 | Details |  |

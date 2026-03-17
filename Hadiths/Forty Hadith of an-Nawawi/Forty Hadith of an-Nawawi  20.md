@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي مَسْعُودٍ عُقْبَةَ بْنِ عَمْرٍو الْأَنْصَارِيِّ الْبَدْرِيِّ رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه و سلم إنَّ مِمَّا أَدْرَكَ النَّاسُ مِنْ كَلَامِ النُّبُوَّةِ الْأُولَى: إذَا لَمْ تَسْتَحِ فَاصْنَعْ مَا شِئْت .(br)\[رَوَاهُ الْبُخَارِيُّ\]
@@ -47,6 +49,16 @@ On the authority of Abu Masood Uqbah bin ’Amr al-Ansaree al-Badree (may Allah 
 ## French
 
 Selon Abou Mas’oud ‘Oqba ibn ‘Amr al-Ansari al-Badri (qu’Allah l’agrée), qui a dit : Le Messager d’Allah (ﷺ) a dit : « Parmi ce que les gens ont retenu de la première prophétie : Si tu n’as pas de pudeur, alors fais ce que tu veux. » \[Boukhari\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 20 |
+| Arabic No | 20 |
+| Reference | Book 1 Hadith 20 |
+
+## Turkish
+
+Ebu Mes'ud el-Ensari (ra) anlatıyor: Resulullah (ﷺ) şöyle buyurdu: "İnsanların peygamberlik sözlerinden ilk öğrendiği şey şudur: Şayet utanmıyorsan dilediğini yap!" \[Buhari\]
 
 | References: |  |
 | --- | --- |

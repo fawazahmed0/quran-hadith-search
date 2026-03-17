@@ -452,6 +452,18 @@ Qul 'Aţī'ū Allāha Wa Ar-Rasūla Fa'in Tawallaw Fa'inna Allāha Lā Yuĥibbu 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ أَطِيعُوا اللَّهَ وَالرَّسُولَ فَإِنْ تَوَلَّوْا فَإِنَّ اللَّهَ لَا يُحِبُّ الْكَافِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل اطيعوا الله والرسول فان تولوا فان الله لا يحب الكافرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ أَطِیعُوا۟ ٱللَّهَ وَٱلرَّسُولَۖ فَإِن تَوَلَّوۡا۟ فَإِنَّ ٱللَّهَ لَا یُحِبُّ ٱلۡكَـٰفِرِینَ
 
 | Details |  |

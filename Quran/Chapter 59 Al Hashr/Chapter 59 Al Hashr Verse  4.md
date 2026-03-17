@@ -452,6 +452,18 @@ Dhālika Bi'annahum Shāqqū Allāha Wa Rasūlahu Wa Man Yushāqqi Allāha Fa'in
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ وَمَنْ يُشَاقِّ اللَّهَ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك بانهم شاقوا الله ورسوله ومن يشاق الله فان الله شديد العقاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ بِأَنَّهُمۡ شَاۤقُّوا۟ ٱللَّهَ وَرَسُولَهُۥۖ وَمَن یُشَاۤقِّ ٱللَّهَ فَإِنَّ ٱللَّهَ شَدِیدُ ٱلۡعِقَابِ
 
 | Details |  |

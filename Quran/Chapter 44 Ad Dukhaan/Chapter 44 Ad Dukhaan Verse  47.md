@@ -452,6 +452,18 @@ Khudhūhu Fā'tilūhu 'Ilá Sawā'i Al-Jaĥīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خُذُوهُ فَاعْتِلُوهُ إِلَى سَوَاءِ الْجَحِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خذوه فاعتلوه الى سواء الجحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خُذُوهُ فَٱعۡتِلُوهُ إِلَىٰ سَوَاۤءِ ٱلۡجَحِیمِ
 
 | Details |  |

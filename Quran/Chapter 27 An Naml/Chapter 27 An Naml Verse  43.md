@@ -452,6 +452,18 @@ Wa Şaddahā Mā Kānat Ta'budu Min Dūni Allāhi 'Innahā Kānat Min Qawmin Kā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَصَدَّهَا مَا كَانَتْ تَعْبُدُ مِنْ دُونِ اللَّهِ إِنَّهَا كَانَتْ مِنْ قَوْمٍ كَافِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وصدها ما كانت تعبد من دون الله انها كانت من قوم كافرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَصَدَّهَا مَا كَانَت تَّعۡبُدُ مِن دُونِ ٱللَّهِۖ إِنَّهَا كَانَتۡ مِن قَوۡمࣲ كَـٰفِرِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Najjaynāhu Wa 'Ahlahu Mina Al-Karbi Al-'Ažīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ونجيناه واهله من الكرب العظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَنَجَّیۡنَـٰهُ وَأَهۡلَهُۥ مِنَ ٱلۡكَرۡبِ ٱلۡعَظِیمِ
 
 | Details |  |

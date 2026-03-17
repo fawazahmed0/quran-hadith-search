@@ -452,6 +452,18 @@ Bal Matta'tu Hā'uulā' Wa 'Ābā'ahum Ĥattá Jā'ahumu Al-Ĥaqqu Wa Rasūlun M
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ مَتَّعْتُ هَؤُلَاءِ وَآبَاءَهُمْ حَتَّى جَاءَهُمُ الْحَقُّ وَرَسُولٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل متعت هولاء واباءهم حتى جاءهم الحق ورسول مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ مَتَّعۡتُ هَـٰۤؤُلَاۤءِ وَءَابَاۤءَهُمۡ حَتَّىٰ جَاۤءَهُمُ ٱلۡحَقُّ وَرَسُولࣱ مُّبِینࣱ
 
 | Details |  |

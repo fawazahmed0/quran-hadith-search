@@ -452,6 +452,18 @@ Tusqá Min 'Aynin 'Āniyahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تُسْقَى مِنْ عَيْنٍ آنِيَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تسقى من عين انية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تُسۡقَىٰ مِنۡ عَیۡنٍ ءَانِیَةࣲ
 
 | Details |  |

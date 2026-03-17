@@ -452,6 +452,18 @@ Wa 'Inna Ad-Dīna Lawāqi'un
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّ الدِّينَ لَوَاقِعٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان الدين لواقع
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّ ٱلدِّینَ لَوَ ٰقِعࣱ
 
 | Details |  |

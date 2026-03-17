@@ -452,6 +452,18 @@ Ammā Mani Astaghná
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمَّا مَنِ اسْتَغْنَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اما من استغنى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمَّا مَنِ ٱسۡتَغۡنَىٰ
 
 | Details |  |

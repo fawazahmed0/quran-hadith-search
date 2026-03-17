@@ -452,6 +452,18 @@ Wa 'In Kullun Lammā Jamī'un Ladaynā Muĥđarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ كُلٌّ لَمَّا جَمِيعٌ لَدَيْنَا مُحْضَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان كل لما جميع لدينا محضرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن كُلࣱّ لَّمَّا جَمِیعࣱ لَّدَیۡنَا مُحۡضَرُونَ
 
 | Details |  |

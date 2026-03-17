@@ -452,6 +452,18 @@ Qul Na'am Wa 'Antum Dākhirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ نَعَمْ وَأَنْتُمْ دَاخِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل نعم وانتم داخرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ نَعَمۡ وَأَنتُمۡ دَ ٰخِرُونَ
 
 | Details |  |

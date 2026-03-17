@@ -452,6 +452,18 @@ Wa 'Antum Ĥīna'idhin Tanžurūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنْتُمْ حِينَئِذٍ تَنْظُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانتم حينيذ تنظرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنتُمۡ حِینَئِذࣲ تَنظُرُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Bi'ayyyikumu Al-Maftūnu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بِأَيِّكُمُ الْمَفْتُونُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بايكم المفتون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بِأَییِّكُمُ ٱلۡمَفۡتُونُ
 
 | Details |  |

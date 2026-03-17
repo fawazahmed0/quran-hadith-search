@@ -452,6 +452,18 @@ Wa Mā 'Alá Al-Ladhīna Yattaqūna Min Ĥisābihim Min Shay'in Wa Lakin Dhikrá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا عَلَى الَّذِينَ يَتَّقُونَ مِنْ حِسَابِهِمْ مِنْ شَيْءٍ وَلَكِنْ ذِكْرَى لَعَلَّهُمْ يَتَّقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما على الذين يتقون من حسابهم من شيء ولكن ذكرى لعلهم يتقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا عَلَى ٱلَّذِینَ یَتَّقُونَ مِنۡ حِسَابِهِم مِّن شَیۡءࣲ وَلَـٰكِن ذِكۡرَىٰ لَعَلَّهُمۡ یَتَّقُونَ
 
 | Details |  |

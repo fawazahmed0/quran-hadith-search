@@ -452,6 +452,18 @@ Yaqūlūna 'A'innā Lamardūdūna Fī Al-Ĥāfirahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يقولون اانا لمردودون في الحافرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَقُولُونَ أَءِنَّا لَمَرۡدُودُونَ فِی ٱلۡحَافِرَةِ
 
 | Details |  |

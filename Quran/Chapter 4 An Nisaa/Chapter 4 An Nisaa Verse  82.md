@@ -452,6 +452,18 @@ Afalā Yatadabbarūna Al-Qur'āna Wa Law Kāna Min 'Indi Ghayri Allāhi Lawajad�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ وَلَوْ كَانَ مِنْ عِنْدِ غَيْرِ اللَّهِ لَوَجَدُوا فِيهِ اخْتِلَافًا كَثِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افلا يتدبرون القران ولو كان من عند غير الله لوجدوا فيه اختلافا كثيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَلَا یَتَدَبَّرُونَ ٱلۡقُرۡءَانَۚ وَلَوۡ كَانَ مِنۡ عِندِ غَیۡرِ ٱللَّهِ لَوَجَدُوا۟ فِیهِ ٱخۡتِلَـٰفࣰا كَثِیرࣰا
 
 | Details |  |

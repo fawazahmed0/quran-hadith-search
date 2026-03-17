@@ -452,6 +452,18 @@ Wa Lammā Faşalati Al-'Īru Qāla 'Abūhum 'Innī La'ajidu Rīĥa Yūsufa Lawl�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَمَّا فَصَلَتِ الْعِيرُ قَالَ أَبُوهُمْ إِنِّي لَأَجِدُ رِيحَ يُوسُفَ لَوْلَا أَنْ تُفَنِّدُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولما فصلت العير قال ابوهم اني لاجد ريح يوسف لولا ان تفندون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَمَّا فَصَلَتِ ٱلۡعِیرُ قَالَ أَبُوهُمۡ إِنِّی لَأَجِدُ رِیحَ یُوسُفَۖ لَوۡلَاۤ أَن تُفَنِّدُونِ
 
 | Details |  |

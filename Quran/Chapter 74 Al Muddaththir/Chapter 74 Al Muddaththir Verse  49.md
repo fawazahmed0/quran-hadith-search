@@ -452,6 +452,18 @@ Famā Lahum 'Ani At-Tadhkirati Mu'riđīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فما لهم عن التذكرة معرضين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَا لَهُمۡ عَنِ ٱلتَّذۡكِرَةِ مُعۡرِضِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Yā 'Ayyuhā Al-Ladhīna 'Āamanū Hal 'Adullukum 'Alá Tijāratin Tunjīkum Min
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَى تِجَارَةٍ تُنْجِيكُمْ مِنْ عَذَابٍ أَلِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايها الذين امنوا هل ادلكم على تجارة تنجيكم من عذاب اليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ هَلۡ أَدُلُّكُمۡ عَلَىٰ تِجَـٰرَةࣲ تُنجِیكُم مِّنۡ عَذَابٍ أَلِیمࣲ
 
 | Details |  |

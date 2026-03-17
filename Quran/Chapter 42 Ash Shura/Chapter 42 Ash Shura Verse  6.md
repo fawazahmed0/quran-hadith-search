@@ -452,6 +452,18 @@ Wa Al-Ladhīna Attakhadhū Min Dūnihi 'Awliyā'a Allāhu Ĥafīžun 'Alayhim Wa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ اتَّخَذُوا مِنْ دُونِهِ أَوْلِيَاءَ اللَّهُ حَفِيظٌ عَلَيْهِمْ وَمَا أَنْتَ عَلَيْهِمْ بِوَكِيلٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين اتخذوا من دونه اولياء الله حفيظ عليهم وما انت عليهم بوكيل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ ٱتَّخَذُوا۟ مِن دُونِهِۦۤ أَوۡلِیَاۤءَ ٱللَّهُ حَفِیظٌ عَلَیۡهِمۡ وَمَاۤ أَنتَ عَلَیۡهِم بِوَكِیلࣲ
 
 | Details |  |

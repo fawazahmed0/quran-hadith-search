@@ -452,6 +452,18 @@ Wa Attaqū Yawmāan Turja'ūna Fīhi 'Ilá Allāhi Thumma Tuwaffá Kullu Nafsin 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاتَّقُوا يَوْمًا تُرْجَعُونَ فِيهِ إِلَى اللَّهِ ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتقوا يوما ترجعون فيه الى الله ثم توفى كل نفس ما كسبت وهم لا يظلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱتَّقُوا۟ یَوۡمࣰا تُرۡجَعُونَ فِیهِ إِلَى ٱللَّهِۖ ثُمَّ تُوَفَّىٰ كُلُّ نَفۡسࣲ مَّا كَسَبَتۡ وَهُمۡ لَا یُظۡلَمُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Thumma 'Adbara Wa Astakbara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ أَدْبَرَ وَاسْتَكْبَرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم ادبر واستكبر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ أَدۡبَرَ وَٱسۡتَكۡبَرَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Min 'Āyātihi Al-Jawāri Fī Al-Baĥri Kāl'a'lāmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنْ آيَاتِهِ الْجَوَارِ فِي الْبَحْرِ كَالْأَعْلَامِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن اياته الجوار في البحر كالاعلام
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِنۡ ءَایَـٰتِهِ ٱلۡجَوَارِ فِی ٱلۡبَحۡرِ كَٱلۡأَعۡلَـٰمِ
 
 | Details |  |

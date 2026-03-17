@@ -452,6 +452,18 @@ Qāla Famā Khaţbukum 'Ayyuhā Al-Mursalūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ فَمَا خَطْبُكُمْ أَيُّهَا الْمُرْسَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال فما خطبكم ايها المرسلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ فَمَا خَطۡبُكُمۡ أَیُّهَا ٱلۡمُرۡسَلُونَ
 
 | Details |  |

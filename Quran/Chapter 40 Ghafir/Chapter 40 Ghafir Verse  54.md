@@ -452,6 +452,18 @@ Hudáan Wa Dhikrá Li'wlī Al-'Albābi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هُدًى وَذِكْرَى لِأُولِي الْأَلْبَابِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هدى وذكرى لاولي الالباب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هُدࣰى وَذِكۡرَىٰ لِأُو۟لِی ٱلۡأَلۡبَـٰبِ
 
 | Details |  |

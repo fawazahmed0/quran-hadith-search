@@ -452,6 +452,18 @@ Qāla Rabbi Anşurnī 'Alá Al-Qawmi Al-Mufsidīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ انْصُرْنِي عَلَى الْقَوْمِ الْمُفْسِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب انصرني على القوم المفسدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ ٱنصُرۡنِی عَلَى ٱلۡقَوۡمِ ٱلۡمُفۡسِدِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Adh/hab 'Anta Wa 'Akhūka Bi'āyātī Wa Lā Taniyā Fī Dhikrī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+اذْهَبْ أَنْتَ وَأَخُوكَ بِآيَاتِي وَلَا تَنِيَا فِي ذِكْرِي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذهب انت واخوك باياتي ولا تنيا في ذكري
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱذۡهَبۡ أَنتَ وَأَخُوكَ بِءَایَـٰتِی وَلَا تَنِیَا فِی ذِكۡرِی
 
 | Details |  |

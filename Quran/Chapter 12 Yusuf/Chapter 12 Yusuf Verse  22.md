@@ -452,6 +452,18 @@ Wa Lammā Balagha 'Ashuddahu 'Ātaynāhu Ĥukmāan Wa 'Ilmāan Wa Kadhalika Najz
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَمَّا بَلَغَ أَشُدَّهُ آتَيْنَاهُ حُكْمًا وَعِلْمًا وَكَذَلِكَ نَجْزِي الْمُحْسِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولما بلغ اشده اتيناه حكما وعلما وكذلك نجزي المحسنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَمَّا بَلَغَ أَشُدَّهُۥۤ ءَاتَیۡنَـٰهُ حُكۡمࣰا وَعِلۡمࣰاۚ وَكَذَ ٰلِكَ نَجۡزِی ٱلۡمُحۡسِنِینَ
 
 | Details |  |

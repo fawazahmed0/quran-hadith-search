@@ -452,6 +452,18 @@ Wa 'Anna Al-Ladhīna Lā Yu'uminūna Bil-'Ākhirati 'A'tadnā Lahum 'Adhābāan 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان الذين لا يومنون بالاخرة اعتدنا لهم عذابا اليما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّ ٱلَّذِینَ لَا یُؤۡمِنُونَ بِٱلۡءَاخِرَةِ أَعۡتَدۡنَا لَهُمۡ عَذَابًا أَلِیمࣰا
 
 | Details |  |

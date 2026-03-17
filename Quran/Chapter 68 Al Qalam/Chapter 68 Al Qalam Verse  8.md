@@ -452,6 +452,18 @@ Falā Tuţi'i Al-Mukadhibīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَا تُطِعِ الْمُكَذِّبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلا تطع المكذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَا تُطِعِ ٱلۡمُكَذِّبِینَ
 
 | Details |  |

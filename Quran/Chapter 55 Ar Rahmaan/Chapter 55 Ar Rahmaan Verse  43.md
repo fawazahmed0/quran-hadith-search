@@ -452,6 +452,18 @@ Hadhihi Jahannamu Allatī Yukadhibu Bihā Al-Mujrimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَذِهِ جَهَنَّمُ الَّتِي يُكَذِّبُ بِهَا الْمُجْرِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هذه جهنم التي يكذب بها المجرمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِی یُكَذِّبُ بِهَا ٱلۡمُجۡرِمُونَ
 
 | Details |  |

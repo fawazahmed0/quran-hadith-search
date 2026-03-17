@@ -452,6 +452,18 @@ Wa Mā 'Anzalnā 'Alá Qawmihi Min Ba'dihi Min Jundin Mina As-Samā'i Wa Mā Kun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَنْزَلْنَا عَلَى قَوْمِهِ مِنْ بَعْدِهِ مِنْ جُنْدٍ مِنَ السَّمَاءِ وَمَا كُنَّا مُنْزِلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما انزلنا على قومه من بعده من جند من السماء وما كنا منزلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَمَاۤ أَنزَلۡنَا عَلَىٰ قَوۡمِهِۦ مِنۢ بَعۡدِهِۦ مِن جُندࣲ مِّنَ ٱلسَّمَاۤءِ وَمَا كُنَّا مُنزِلِینَ
 
 | Details |  |

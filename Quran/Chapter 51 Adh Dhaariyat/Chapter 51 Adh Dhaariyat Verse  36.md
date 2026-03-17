@@ -452,6 +452,18 @@ Famā Wajadnā Fīhā Ghayra Baytin Mina Al-Muslimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِنَ الْمُسْلِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فما وجدنا فيها غير بيت من المسلمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَا وَجَدۡنَا فِیهَا غَیۡرَ بَیۡتࣲ مِّنَ ٱلۡمُسۡلِمِینَ
 
 | Details |  |

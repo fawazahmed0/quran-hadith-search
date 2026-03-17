@@ -452,6 +452,18 @@ Wa Lilladhīna Kafarū Birabbihim 'Adhābu Jahannama Wa Bi'sa Al-Maşīru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِلَّذِينَ كَفَرُوا بِرَبِّهِمْ عَذَابُ جَهَنَّمَ وَبِئْسَ الْمَصِيرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وللذين كفروا بربهم عذاب جهنم وبيس المصير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِلَّذِینَ كَفَرُوا۟ بِرَبِّهِمۡ عَذَابُ جَهَنَّمَۖ وَبِئۡسَ ٱلۡمَصِیرُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fa'ulqiya As-Saĥaratu Sājidīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالقي السحرة ساجدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأُلۡقِیَ ٱلسَّحَرَةُ سَـٰجِدِینَ
 
 | Details |  |

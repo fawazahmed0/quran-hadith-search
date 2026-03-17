@@ -452,6 +452,18 @@ Hurun Maqsuratun Fi Al-Khiyami
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+حُورٌ مَقْصُورَاتٌ فِي الْخِيَامِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+حور مقصورات في الخيام
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 حُورࣱ مَّقۡصُورَ ٰتࣱ فِی ٱلۡخِیَامِ
 
 | Details |  |

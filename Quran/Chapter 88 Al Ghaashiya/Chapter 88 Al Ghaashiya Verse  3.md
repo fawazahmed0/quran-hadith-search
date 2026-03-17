@@ -452,6 +452,18 @@ Amilatun Nasibahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَامِلَةٌ نَاصِبَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عاملة ناصبة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَامِلَةࣱ نَّاصِبَةࣱ
 
 | Details |  |

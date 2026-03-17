@@ -452,6 +452,18 @@ Wa Mahhadtu Lahu Tamhīdāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَهَّدْتُ لَهُ تَمْهِيدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومهدت له تمهيدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَهَّدتُّ لَهُۥ تَمۡهِیدࣰا
 
 | Details |  |

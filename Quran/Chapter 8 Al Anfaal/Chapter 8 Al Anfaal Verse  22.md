@@ -452,6 +452,18 @@ Inna Sharra Ad-Dawābbi 'Inda Allāhi Aş-Şummu Al-Bukmu Al-Ladhīna Lā Ya'qil
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ شَرَّ الدَّوَابِّ عِنْدَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ لَا يَعْقِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان شر الدواب عند الله الصم البكم الذين لا يعقلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلۡبُكۡمُ ٱلَّذِینَ لَا یَعۡقِلُونَ
 
 | Details |  |

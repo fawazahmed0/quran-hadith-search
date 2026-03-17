@@ -452,6 +452,18 @@ Wa Banaynā Fawqakum Sab'āan Shidādāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وبنينا فوقكم سبعا شدادا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَبَنَیۡنَا فَوۡقَكُمۡ سَبۡعࣰا شِدَادࣰا
 
 | Details |  |

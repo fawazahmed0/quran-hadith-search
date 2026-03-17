@@ -452,6 +452,18 @@ Wa Dhallalnāhā Lahum Faminhā Rakūbuhum Wa Minhā Ya'kulūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَذَلَّلْنَاهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وذللناها لهم فمنها ركوبهم ومنها ياكلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَذَلَّلۡنَـٰهَا لَهُمۡ فَمِنۡهَا رَكُوبُهُمۡ وَمِنۡهَا یَأۡكُلُونَ
 
 | Details |  |

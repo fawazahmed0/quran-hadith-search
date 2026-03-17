@@ -452,6 +452,18 @@ Wa Laqad Khalaqnā Al-'Insāna Min Şalşālin Min Ĥama'iin Masnūnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ خَلَقْنَا الْإِنْسَانَ مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد خلقنا الانسان من صلصال من حما مسنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَـٰنَ مِن صَلۡصَـٰلࣲ مِّنۡ حَمَإࣲ مَّسۡنُونࣲ
 
 | Details |  |

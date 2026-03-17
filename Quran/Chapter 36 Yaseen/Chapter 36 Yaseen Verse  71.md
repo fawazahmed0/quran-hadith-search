@@ -452,6 +452,18 @@ Awalam Yaraw 'Annā Khalaqnā Lahum Mimmā 'Amilat 'Aydīnā 'An'āmāan Fahum L
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَوَلَمْ يَرَوْا أَنَّا خَلَقْنَا لَهُمْ مِمَّا عَمِلَتْ أَيْدِينَا أَنْعَامًا فَهُمْ لَهَا مَالِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اولم يروا انا خلقنا لهم مما عملت ايدينا انعاما فهم لها مالكون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَوَ لَمۡ یَرَوۡا۟ أَنَّا خَلَقۡنَا لَهُم مِّمَّا عَمِلَتۡ أَیۡدِینَاۤ أَنۡعَـٰمࣰا فَهُمۡ لَهَا مَـٰلِكُونَ
 
 | Details |  |

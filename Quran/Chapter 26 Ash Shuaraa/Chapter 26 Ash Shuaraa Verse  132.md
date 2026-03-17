@@ -452,6 +452,18 @@ Wa Attaqū Al-Ladhī 'Amaddakum Bimā Ta'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاتَّقُوا الَّذِي أَمَدَّكُمْ بِمَا تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتقوا الذي امدكم بما تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱتَّقُوا۟ ٱلَّذِیۤ أَمَدَّكُم بِمَا تَعۡلَمُونَ
 
 | Details |  |

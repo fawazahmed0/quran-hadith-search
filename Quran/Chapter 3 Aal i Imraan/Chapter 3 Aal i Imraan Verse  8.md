@@ -452,6 +452,18 @@ Rabbanā Lā Tuzigh Qulūbanā Ba'da 'Idh Hadaytanā Wa Hab Lanā Min Ladunka Ra
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ربنا لا تزغ قلوبنا بعد اذ هديتنا وهب لنا من لدنك رحمة انك انت الوهاب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَبَّنَا لَا تُزِغۡ قُلُوبَنَا بَعۡدَ إِذۡ هَدَیۡتَنَا وَهَبۡ لَنَا مِن لَّدُنكَ رَحۡمَةًۚ إِنَّكَ أَنتَ ٱلۡوَهَّابُ
 
 | Details |  |

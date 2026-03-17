@@ -452,6 +452,18 @@ Wa Laqad Şarrafnāhu Baynahum Liyadhakkarū Fa'abá 'Aktharu An-Nāsi 'Illā Ku
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ صَرَّفْنَاهُ بَيْنَهُمْ لِيَذَّكَّرُوا فَأَبَى أَكْثَرُ النَّاسِ إِلَّا كُفُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد صرفناه بينهم ليذكروا فابى اكثر الناس الا كفورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ صَرَّفۡنَـٰهُ بَیۡنَهُمۡ لِیَذَّكَّرُوا۟ فَأَبَىٰۤ أَكۡثَرُ ٱلنَّاسِ إِلَّا كُفُورࣰا
 
 | Details |  |

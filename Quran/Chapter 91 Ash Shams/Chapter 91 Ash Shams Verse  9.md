@@ -452,6 +452,18 @@ Qad 'Aflaĥa Man Zakkāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَدْ أَفْلَحَ مَنْ زَكَّاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قد افلح من زكاها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَدۡ أَفۡلَحَ مَن زَكَّىٰهَا
 
 | Details |  |

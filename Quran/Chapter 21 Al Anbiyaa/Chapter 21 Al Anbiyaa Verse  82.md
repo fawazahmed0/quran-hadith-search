@@ -452,6 +452,18 @@ Wa Mina Ash-Shayāţīni Man Yaghūşūna Lahu Wa Ya'malūna 'Amalāan Dūna Dh�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنَ الشَّيَاطِينِ مَنْ يَغُوصُونَ لَهُ وَيَعْمَلُونَ عَمَلًا دُونَ ذَلِكَ وَكُنَّا لَهُمْ حَافِظِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن الشياطين من يغوصون له ويعملون عملا دون ذلك وكنا لهم حافظين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِنَ ٱلشَّیَـٰطِینِ مَن یَغُوصُونَ لَهُۥ وَیَعۡمَلُونَ عَمَلࣰا دُونَ ذَ ٰلِكَۖ وَكُنَّا لَهُمۡ حَـٰفِظِینَ
 
 | Details |  |

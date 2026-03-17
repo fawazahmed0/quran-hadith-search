@@ -452,6 +452,18 @@ Afalā Yatadabbarūna Al-Qur'āna 'Am 'Alá Qulūbin 'Aqfāluhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَى قُلُوبٍ أَقْفَالُهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افلا يتدبرون القران ام على قلوب اقفالها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَلَا یَتَدَبَّرُونَ ٱلۡقُرۡءَانَ أَمۡ عَلَىٰ قُلُوبٍ أَقۡفَالُهَاۤ
 
 | Details |  |

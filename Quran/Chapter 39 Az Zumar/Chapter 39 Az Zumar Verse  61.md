@@ -452,6 +452,18 @@ Wa Yunajjī Allāhu Al-Ladhīna Attaqaw Bimafāzatihim Lā Yamassuhumu As-Sū'u 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيُنَجِّي اللَّهُ الَّذِينَ اتَّقَوْا بِمَفَازَتِهِمْ لَا يَمَسُّهُمُ السُّوءُ وَلَا هُمْ يَحْزَنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وينجي الله الذين اتقوا بمفازتهم لا يمسهم السوء ولا هم يحزنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیُنَجِّی ٱللَّهُ ٱلَّذِینَ ٱتَّقَوۡا۟ بِمَفَازَتِهِمۡ لَا یَمَسُّهُمُ ٱلسُّوۤءُ وَلَا هُمۡ یَحۡزَنُونَ
 
 | Details |  |

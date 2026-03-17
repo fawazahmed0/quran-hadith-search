@@ -452,6 +452,18 @@ Wa Kadhalika Nuşarrifu Al-'Āyāti Wa Liyaqūlū Darasta Wa Linubayyinahu Liqaw
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَذَلِكَ نُصَرِّفُ الْآيَاتِ وَلِيَقُولُوا دَرَسْتَ وَلِنُبَيِّنَهُ لِقَوْمٍ يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكذلك نصرف الايات وليقولوا درست ولنبينه لقوم يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَذَ ٰلِكَ نُصَرِّفُ ٱلۡءَایَـٰتِ وَلِیَقُولُوا۟ دَرَسۡتَ وَلِنُبَیِّنَهُۥ لِقَوۡمࣲ یَعۡلَمُونَ
 
 | Details |  |

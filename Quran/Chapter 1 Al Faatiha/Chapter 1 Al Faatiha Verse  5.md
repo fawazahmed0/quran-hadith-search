@@ -452,6 +452,18 @@ Iyaka Na'budu Wa 'Iyaka Nasta'inu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اياك نعبد واياك نستعين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِیَّاكَ نَعۡبُدُ وَإِیَّاكَ نَسۡتَعِینُ
 
 | Details |  |

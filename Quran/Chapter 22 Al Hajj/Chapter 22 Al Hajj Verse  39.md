@@ -452,6 +452,18 @@ Udhina Lilladhīna Yuqātalūna Bi'annahum Žulimū Wa 'Inna Allāha 'Alá Naşr
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا وَإِنَّ اللَّهَ عَلَى نَصْرِهِمْ لَقَدِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذن للذين يقاتلون بانهم ظلموا وان الله على نصرهم لقدير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُذِنَ لِلَّذِینَ یُقَـٰتَلُونَ بِأَنَّهُمۡ ظُلِمُوا۟ۚ وَإِنَّ ٱللَّهَ عَلَىٰ نَصۡرِهِمۡ لَقَدِیرٌ
 
 | Details |  |

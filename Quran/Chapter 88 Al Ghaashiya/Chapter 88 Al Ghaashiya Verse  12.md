@@ -452,6 +452,18 @@ Fīhā 'Aynun Jāriyahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِيهَا عَيْنٌ جَارِيَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيها عين جارية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِیهَا عَیۡنࣱ جَارِیَةࣱ
 
 | Details |  |

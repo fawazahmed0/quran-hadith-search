@@ -452,6 +452,18 @@ Wa Lanabluwannakum Ĥattá Na'lama Al-Mujāhidīna Minkum Wa Aş-Şābirīna Wa 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَنَبْلُوَنَّكُمْ حَتَّى نَعْلَمَ الْمُجَاهِدِينَ مِنْكُمْ وَالصَّابِرِينَ وَنَبْلُوَ أَخْبَارَكُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولنبلونكم حتى نعلم المجاهدين منكم والصابرين ونبلو اخباركم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَنَبۡلُوَنَّكُمۡ حَتَّىٰ نَعۡلَمَ ٱلۡمُجَـٰهِدِینَ مِنكُمۡ وَٱلصَّـٰبِرِینَ وَنَبۡلُوَا۟ أَخۡبَارَكُمۡ
 
 | Details |  |

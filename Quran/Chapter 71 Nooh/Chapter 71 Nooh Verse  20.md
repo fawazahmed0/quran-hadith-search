@@ -452,6 +452,18 @@ Litaslukū Minhā Subulāan Fijājāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لتسلكوا منها سبلا فجاجا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِّتَسۡلُكُوا۟ مِنۡهَا سُبُلࣰا فِجَاجࣰا
 
 | Details |  |

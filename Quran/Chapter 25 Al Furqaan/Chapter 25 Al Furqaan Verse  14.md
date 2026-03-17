@@ -452,6 +452,18 @@ Lā Tad'ū Al-Yawma Thubūrāan Wāĥidāan Wa Ad'ū Thubūrāan Kathīrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا تَدْعُوا الْيَوْمَ ثُبُورًا وَاحِدًا وَادْعُوا ثُبُورًا كَثِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا تدعوا اليوم ثبورا واحدا وادعوا ثبورا كثيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا تَدۡعُوا۟ ٱلۡیَوۡمَ ثُبُورࣰا وَ ٰحِدࣰا وَٱدۡعُوا۟ ثُبُورࣰا كَثِیرࣰا
 
 | Details |  |

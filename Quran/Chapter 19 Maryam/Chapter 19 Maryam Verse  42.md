@@ -452,6 +452,18 @@ Idh Qāla Li'abīhi Yā 'Abati Lima Ta'budu Mā Lā Yasma'u Wa Lā Yubşiru Wa L
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ قَالَ لِأَبِيهِ يَا أَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِي عَنْكَ شَيْئًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ قال لابيه يا ابت لم تعبد ما لا يسمع ولا يبصر ولا يغني عنك شييا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ قَالَ لِأَبِیهِ یَـٰۤأَبَتِ لِمَ تَعۡبُدُ مَا لَا یَسۡمَعُ وَلَا یُبۡصِرُ وَلَا یُغۡنِی عَنكَ شَیۡءࣰا
 
 | Details |  |

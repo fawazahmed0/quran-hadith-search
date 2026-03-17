@@ -452,6 +452,18 @@ Kadhālika Yu'ufaku Al-Ladhīna Kānū Bi'āyāti Allāhi Yajĥadūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَذَلِكَ يُؤْفَكُ الَّذِينَ كَانُوا بِآيَاتِ اللَّهِ يَجْحَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كذلك يوفك الذين كانوا بايات الله يجحدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَذَ ٰلِكَ یُؤۡفَكُ ٱلَّذِینَ كَانُوا۟ بِءَایَـٰتِ ٱللَّهِ یَجۡحَدُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Sayadhakkaru Man Yakhshá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَيَذَّكَّرُ مَنْ يَخْشَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سيذكر من يخشى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَیَذَّكَّرُ مَن یَخۡشَىٰ
 
 | Details |  |

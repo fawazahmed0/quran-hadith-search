@@ -452,6 +452,18 @@ Thumma Latarawunnahā 'Ayna Al-Yaqīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم لترونها عين اليقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ لَتَرَوُنَّهَا عَیۡنَ ٱلۡیَقِینِ
 
 | Details |  |

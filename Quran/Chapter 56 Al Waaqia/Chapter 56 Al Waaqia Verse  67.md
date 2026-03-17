@@ -452,6 +452,18 @@ Bal Naĥnu Maĥrūmūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ نَحْنُ مَحْرُومُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل نحن محرومون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ نَحۡنُ مَحۡرُومُونَ
 
 | Details |  |

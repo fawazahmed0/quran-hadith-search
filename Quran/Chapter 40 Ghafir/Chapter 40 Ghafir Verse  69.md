@@ -452,6 +452,18 @@ Alam Tará 'Ilá Al-Ladhīna Yujādilūna Fī 'Āyāti Allāhi 'Anná Yuşrafūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ تَرَ إِلَى الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ أَنَّى يُصْرَفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم تر الى الذين يجادلون في ايات الله انى يصرفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ تَرَ إِلَى ٱلَّذِینَ یُجَـٰدِلُونَ فِیۤ ءَایَـٰتِ ٱللَّهِ أَنَّىٰ یُصۡرَفُونَ
 
 | Details |  |

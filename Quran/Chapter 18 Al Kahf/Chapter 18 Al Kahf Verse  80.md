@@ -452,6 +452,18 @@ Wa 'Ammā Al-Ghulāmu Fakāna 'Abawāhu Mu'uminayni Fakhashīnā 'An Yurhiqahum�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمَّا الْغُلَامُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ فَخَشِينَا أَنْ يُرْهِقَهُمَا طُغْيَانًا وَكُفْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واما الغلام فكان ابواه مومنين فخشينا ان يرهقهما طغيانا وكفرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمَّا ٱلۡغُلَـٰمُ فَكَانَ أَبَوَاهُ مُؤۡمِنَیۡنِ فَخَشِینَاۤ أَن یُرۡهِقَهُمَا طُغۡیَـٰنࣰا وَكُفۡرࣰا
 
 | Details |  |

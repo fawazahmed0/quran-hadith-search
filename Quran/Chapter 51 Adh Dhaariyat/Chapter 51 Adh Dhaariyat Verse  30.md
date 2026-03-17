@@ -452,6 +452,18 @@ Qālū Kadhāliki Qāla Rabbuki 'Innahu Huwa Al-Ĥakīmu Al-'Alīmu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالُوا كَذَلِكِ قَالَ رَبُّكِ إِنَّهُ هُوَ الْحَكِيمُ الْعَلِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قالوا كذلك قال ربك انه هو الحكيم العليم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالُوا۟ كَذَ ٰلِكِ قَالَ رَبُّكِۖ إِنَّهُۥ هُوَ ٱلۡحَكِیمُ ٱلۡعَلِیمُ
 
 | Details |  |

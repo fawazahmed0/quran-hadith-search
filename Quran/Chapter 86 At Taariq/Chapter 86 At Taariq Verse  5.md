@@ -452,6 +452,18 @@ Falyanžuri Al-'Insānu Mimma Khuliqa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلْيَنْظُرِ الْإِنْسَانُ مِمَّ خُلِقَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلينظر الانسان مم خلق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلۡیَنظُرِ ٱلۡإِنسَـٰنُ مِمَّ خُلِقَ
 
 | Details |  |

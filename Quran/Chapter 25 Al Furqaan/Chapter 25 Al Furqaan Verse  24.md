@@ -452,6 +452,18 @@ Aşĥābu Al-Jannati Yawma'idhin Khayrun Mustaqarrāan Wa 'Aĥsanu Maqīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَصْحَابُ الْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُسْتَقَرًّا وَأَحْسَنُ مَقِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اصحاب الجنة يوميذ خير مستقرا واحسن مقيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَصۡحَـٰبُ ٱلۡجَنَّةِ یَوۡمَئِذٍ خَیۡرࣱ مُّسۡتَقَرࣰّا وَأَحۡسَنُ مَقِیلࣰا
 
 | Details |  |

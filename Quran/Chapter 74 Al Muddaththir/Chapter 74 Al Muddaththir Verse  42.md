@@ -452,6 +452,18 @@ Mā Salakakum Fī Saqara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا سَلَكَكُمْ فِي سَقَرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما سلككم في سقر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا سَلَكَكُمۡ فِی سَقَرَ
 
 | Details |  |

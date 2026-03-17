@@ -452,6 +452,18 @@ Fa'ammā Man Ţaghá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَمَّا مَنْ طَغَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاما من طغى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَمَّا مَن طَغَىٰ
 
 | Details |  |

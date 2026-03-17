@@ -452,6 +452,18 @@ Wa Mā 'Ātaynāhum Min Kutubin Yadrusūnahā Wa Mā 'Arsalnā 'Ilayhim Qablaka 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا آتَيْنَاهُمْ مِنْ كُتُبٍ يَدْرُسُونَهَا وَمَا أَرْسَلْنَا إِلَيْهِمْ قَبْلَكَ مِنْ نَذِيرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما اتيناهم من كتب يدرسونها وما ارسلنا اليهم قبلك من نذير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ ءَاتَیۡنَـٰهُم مِّن كُتُبࣲ یَدۡرُسُونَهَاۖ وَمَاۤ أَرۡسَلۡنَاۤ إِلَیۡهِمۡ قَبۡلَكَ مِن نَّذِیرࣲ
 
 | Details |  |

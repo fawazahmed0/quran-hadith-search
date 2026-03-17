@@ -452,6 +452,18 @@ In Hādhā 'Illā Qawlu Al-Bashari
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنْ هَذَا إِلَّا قَوْلُ الْبَشَرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هذا الا قول البشر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنۡ هَـٰذَاۤ إِلَّا قَوۡلُ ٱلۡبَشَرِ
 
 | Details |  |

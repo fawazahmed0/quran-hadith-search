@@ -452,6 +452,18 @@ Fālyawma Lā Tužlamu Nafsun Shay'āan Wa Lā Tujzawna 'Illā Mā Kuntum Ta'mal
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَالْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْئًا وَلَا تُجْزَوْنَ إِلَّا مَا كُنْتُمْ تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاليوم لا تظلم نفس شييا ولا تجزون الا ما كنتم تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱلۡیَوۡمَ لَا تُظۡلَمُ نَفۡسࣱ شَیۡءࣰا وَلَا تُجۡزَوۡنَ إِلَّا مَا كُنتُمۡ تَعۡمَلُونَ
 
 | Details |  |

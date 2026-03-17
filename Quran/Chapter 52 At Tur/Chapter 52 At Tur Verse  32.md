@@ -452,6 +452,18 @@ Am Ta'muruhum 'Aĥlāmuhum Bihadhā 'Am Hum Qawmun Ţāghūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ تَأْمُرُهُمْ أَحْلَامُهُمْ بِهَذَا أَمْ هُمْ قَوْمٌ طَاغُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام تامرهم احلامهم بهذا ام هم قوم طاغون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ تَأۡمُرُهُمۡ أَحۡلَـٰمُهُم بِهَـٰذَاۤۚ أَمۡ هُمۡ قَوۡمࣱ طَاغُونَ
 
 | Details |  |

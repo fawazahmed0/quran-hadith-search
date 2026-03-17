@@ -452,6 +452,18 @@ Wa Mā 'Adrāka Mā Al-Ĥuţamahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَدْرَاكَ مَا الْحُطَمَةُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ادراك ما الحطمة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ
 
 | Details |  |

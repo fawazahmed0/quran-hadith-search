@@ -452,6 +452,18 @@ Min Dūnihi Fakīdūnī Jamī'āan Thumma Lā Tunžirūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مِنْ دُونِهِ فَكِيدُونِي جَمِيعًا ثُمَّ لَا تُنْظِرُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من دونه فكيدوني جميعا ثم لا تنظرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مِن دُونِهِۦۖ فَكِیدُونِی جَمِیعࣰا ثُمَّ لَا تُنظِرُونِ
 
 | Details |  |

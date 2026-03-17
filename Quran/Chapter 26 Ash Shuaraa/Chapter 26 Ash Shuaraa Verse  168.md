@@ -452,6 +452,18 @@ Qāla 'Innī Li'amalikum Mina Al-Qālīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ إِنِّي لِعَمَلِكُمْ مِنَ الْقَالِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال اني لعملكم من القالين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ إِنِّی لِعَمَلِكُم مِّنَ ٱلۡقَالِینَ
 
 | Details |  |

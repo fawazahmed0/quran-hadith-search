@@ -452,6 +452,18 @@ Wa Jā'a 'Ikhwatu Yūsufa Fadakhalū 'Alayhi Fa'arafahum Wa Hum Lahu Munkirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَاءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُ مُنْكِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجاء اخوة يوسف فدخلوا عليه فعرفهم وهم له منكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَاۤءَ إِخۡوَةُ یُوسُفَ فَدَخَلُوا۟ عَلَیۡهِ فَعَرَفَهُمۡ وَهُمۡ لَهُۥ مُنكِرُونَ
 
 | Details |  |

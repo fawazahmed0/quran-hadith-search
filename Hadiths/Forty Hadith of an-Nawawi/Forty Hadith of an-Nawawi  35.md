@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه و سلم لَا تَحَاسَدُوا، وَلَا تَنَاجَشُوا، وَلَا تَبَاغَضُوا، وَلَا تَدَابَرُوا، وَلَا يَبِعْ بَعْضُكُمْ عَلَى بَيْعِ بَعْضٍ، وَكُونُوا عِبَادَ اللَّهِ إخْوَانًا، الْمُسْلِمُ أَخُو الْمُسْلِمِ، لَا يَظْلِمُهُ، وَلَا يَخْذُلُهُ، وَلَا يَكْذِبُهُ، وَلَا يَحْقِرُهُ، التَّقْوَى هَاهُنَا، وَيُشِيرُ إلَى صَدْرِهِ ثَلَاثَ مَرَّاتٍ، بِحَسْبِ امْرِئٍ مِنْ الشَّرِّ أَنْ يَحْقِرَ أَخَاهُ الْمُسْلِمَ، كُلُّ الْمُسْلِمِ عَلَى الْمُسْلِمِ حَرَامٌ: دَمُهُ وَمَالُهُ وَعِرْضُهُ . \[رَوَاهُ مُسْلِمٌ\]
@@ -47,6 +49,16 @@ On the authority of Abu Hurayrah (may Allah be pleased with him) who said: The M
 ## French
 
 Selon Abou Hourayra (qu’Allah l’agrée), le Messager d’Allah (ﷺ) a dit : « Ne vous enviez pas, ne faites pas monter les prix entre vous, ne vous détestez pas, ne vous tournez pas le dos, ne vous concurrencez pas de manière déloyale, mais soyez, serviteurs d’Allah, des frères. Le musulman est le frère du musulman : il ne l’opprime pas, ne l’abandonne pas, ne lui ment pas et ne le méprise pas. La piété est ici (en montrant sa poitrine trois fois). Il est déjà mal pour un homme de mépriser son frère musulman. Tout du musulman est sacré pour un autre musulman : son sang, ses biens et son honneur. » \[Mouslim\]
+
+| References: |  |
+| --- | --- |
+| Hadith No | 35 |
+| Arabic No | 35 |
+| Reference | Book 1 Hadith 35 |
+
+## Turkish
+
+Ebu Hureyre (ra) anlatıyor: Resulullah (ﷺ) şöyle buyurdu: "Birbirinize haset etmeyin, müşteri kızıştırmayın, birbirinize kin beslemeyin, birbirinize sırt çevirmeyin, birinizin satışı üzerine satış yapmayın; ey Allah’ın kulları, kardeş olun! Müslüman Müslümanın kardeşidir. Ona zulmetmez, onu yardımsız bırakmaz, ona yalan söylemez ve onu hor görmez. Takva işte buradadır (göğsüne üç kez işaret etti). Kişiye kötülük olarak Müslüman kardeşini hor görmesi yeter. Müslümanın her şeyi; kanı, malı ve ırzı (şerefi) diğer Müslümana haramdır." \[Müslim\]
 
 | References: |  |
 | --- | --- |

@@ -452,6 +452,18 @@ Fa'atba'ahum Fir'awnu Bijunūdihi Faghashiyahum Mina Al-Yammi Mā Ghashiyahum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِ فَغَشِيَهُمْ مِنَ الْيَمِّ مَا غَشِيَهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاتبعهم فرعون بجنوده فغشيهم من اليم ما غشيهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَتۡبَعَهُمۡ فِرۡعَوۡنُ بِجُنُودِهِۦ فَغَشِیَهُم مِّنَ ٱلۡیَمِّ مَا غَشِیَهُمۡ
 
 | Details |  |

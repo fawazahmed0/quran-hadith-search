@@ -452,6 +452,18 @@ Wa 'Innahu Ladhikrun Laka Wa Liqawmika Wa Sawfa Tus'alūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّهُ لَذِكْرٌ لَكَ وَلِقَوْمِكَ وَسَوْفَ تُسْأَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه لذكر لك ولقومك وسوف تسالون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّهُۥ لَذِكۡرࣱ لَّكَ وَلِقَوۡمِكَۖ وَسَوۡفَ تُسۡءَلُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fa'inna Ma'a Al-'Usri Yusrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِنَّ مَعَ الْعُسْرِ يُسْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فان مع العسر يسرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِنَّ مَعَ ٱلۡعُسۡرِ یُسۡرًا
 
 | Details |  |

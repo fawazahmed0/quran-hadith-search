@@ -452,6 +452,18 @@ Khalaqa Al-'Insāna Min Şalşālin Kālfakhkhāri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خَلَقَ الْإِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+خلق الانسان من صلصال كالفخار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خَلَقَ ٱلۡإِنسَـٰنَ مِن صَلۡصَـٰلࣲ كَٱلۡفَخَّارِ
 
 | Details |  |

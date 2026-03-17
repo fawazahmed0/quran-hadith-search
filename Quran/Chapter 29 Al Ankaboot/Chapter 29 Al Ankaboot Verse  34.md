@@ -452,6 +452,18 @@ Innā Munzilūna 'Alá 'Ahli Hadhihi Al-Qaryati Rijzāan Mina As-Samā'i Bimā K
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا مُنْزِلُونَ عَلَى أَهْلِ هَذِهِ الْقَرْيَةِ رِجْزًا مِنَ السَّمَاءِ بِمَا كَانُوا يَفْسُقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا منزلون على اهل هذه القرية رجزا من السماء بما كانوا يفسقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا مُنزِلُونَ عَلَىٰۤ أَهۡلِ هَـٰذِهِ ٱلۡقَرۡیَةِ رِجۡزࣰا مِّنَ ٱلسَّمَاۤءِ بِمَا كَانُوا۟ یَفۡسُقُونَ
 
 | Details |  |

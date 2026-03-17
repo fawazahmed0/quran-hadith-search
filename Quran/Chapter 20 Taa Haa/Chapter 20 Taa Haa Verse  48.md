@@ -452,6 +452,18 @@ Innā Qad 'Ūĥiya 'Ilaynā 'Anna Al-'Adhāba 'Alá Man Kadhaba Wa Tawallá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا قَدْ أُوحِيَ إِلَيْنَا أَنَّ الْعَذَابَ عَلَى مَنْ كَذَّبَ وَتَوَلَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا قد اوحي الينا ان العذاب على من كذب وتولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا قَدۡ أُوحِیَ إِلَیۡنَاۤ أَنَّ ٱلۡعَذَابَ عَلَىٰ مَن كَذَّبَ وَتَوَلَّىٰ
 
 | Details |  |

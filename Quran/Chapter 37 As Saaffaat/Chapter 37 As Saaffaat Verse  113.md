@@ -452,6 +452,18 @@ Wa Bāraknā 'Alayhi Wa 'Alá 'Isĥāqa Wa Min Dhurrīyatihimā Muĥsinun Wa Ž�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَبَارَكْنَا عَلَيْهِ وَعَلَى إِسْحَاقَ وَمِنْ ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِنَفْسِهِ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وباركنا عليه وعلى اسحاق ومن ذريتهما محسن وظالم لنفسه مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَبَـٰرَكۡنَا عَلَیۡهِ وَعَلَىٰۤ إِسۡحَـٰقَۚ وَمِن ذُرِّیَّتِهِمَا مُحۡسِنࣱ وَظَالِمࣱ لِّنَفۡسِهِۦ مُبِینࣱ
 
 | Details |  |

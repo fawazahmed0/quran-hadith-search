@@ -452,6 +452,18 @@ Qul Yā 'Ahla Al-Kitābi Lima Takfurūna Bi'āyāti Allāhi Wa Allāhu Shahīdun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ يَا أَهْلَ الْكِتَابِ لِمَ تَكْفُرُونَ بِآيَاتِ اللَّهِ وَاللَّهُ شَهِيدٌ عَلَى مَا تَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل يا اهل الكتاب لم تكفرون بايات الله والله شهيد على ما تعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ یَـٰۤأَهۡلَ ٱلۡكِتَـٰبِ لِمَ تَكۡفُرُونَ بِءَایَـٰتِ ٱللَّهِ وَٱللَّهُ شَهِیدٌ عَلَىٰ مَا تَعۡمَلُونَ
 
 | Details |  |

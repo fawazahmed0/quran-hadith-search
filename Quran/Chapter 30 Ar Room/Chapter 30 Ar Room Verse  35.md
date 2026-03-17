@@ -452,6 +452,18 @@ Am 'Anzalnā 'Alayhim Sulţānāan Fahuwa Yatakallamu Bimā Kānū Bihi Yushrik�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ أَنْزَلْنَا عَلَيْهِمْ سُلْطَانًا فَهُوَ يَتَكَلَّمُ بِمَا كَانُوا بِهِ يُشْرِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام انزلنا عليهم سلطانا فهو يتكلم بما كانوا به يشركون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ أَنزَلۡنَا عَلَیۡهِمۡ سُلۡطَـٰنࣰا فَهُوَ یَتَكَلَّمُ بِمَا كَانُوا۟ بِهِۦ یُشۡرِكُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa At-Taffati As-Sāqu Bis-Sāqi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْتَفَّتِ السَّاقُ بِالسَّاقِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والتفت الساق بالساق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ
 
 | Details |  |

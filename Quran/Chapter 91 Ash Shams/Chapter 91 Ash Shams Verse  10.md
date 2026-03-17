@@ -452,6 +452,18 @@ Wa Qad Khāba Man Dassāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَدْ خَابَ مَنْ دَسَّاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقد خاب من دساها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَدۡ خَابَ مَن دَسَّىٰهَا
 
 | Details |  |

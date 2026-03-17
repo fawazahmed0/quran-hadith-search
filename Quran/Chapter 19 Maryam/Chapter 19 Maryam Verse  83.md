@@ -452,6 +452,18 @@ Alam Tara 'Annā 'Arsalnā Ash-Shayāţīna 'Alá Al-Kāfirīna Ta'uuzzuhum 'Azz
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَلَمْ تَرَ أَنَّا أَرْسَلْنَا الشَّيَاطِينَ عَلَى الْكَافِرِينَ تَؤُزُّهُمْ أَزًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الم تر انا ارسلنا الشياطين على الكافرين توزهم ازا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَلَمۡ تَرَ أَنَّاۤ أَرۡسَلۡنَا ٱلشَّیَـٰطِینَ عَلَى ٱلۡكَـٰفِرِینَ تَؤُزُّهُمۡ أَزࣰّا
 
 | Details |  |

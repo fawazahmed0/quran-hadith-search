@@ -452,6 +452,18 @@ Afa'aminū Makra Allāhi Falā Ya'manu Makra Allāhi 'Illā Al-Qawmu Al-Khāsir�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَفَأَمِنُوا مَكْرَ اللَّهِ فَلَا يَأْمَنُ مَكْرَ اللَّهِ إِلَّا الْقَوْمُ الْخَاسِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+افامنوا مكر الله فلا يامن مكر الله الا القوم الخاسرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَفَأَمِنُوا۟ مَكۡرَ ٱللَّهِۚ فَلَا یَأۡمَنُ مَكۡرَ ٱللَّهِ إِلَّا ٱلۡقَوۡمُ ٱلۡخَـٰسِرُونَ
 
 | Details |  |

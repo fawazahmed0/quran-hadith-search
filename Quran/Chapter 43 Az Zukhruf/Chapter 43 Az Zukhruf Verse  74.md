@@ -452,6 +452,18 @@ Inna Al-Mujrimīna Fī 'Adhābi Jahannama Khālidūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الْمُجْرِمِينَ فِي عَذَابِ جَهَنَّمَ خَالِدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان المجرمين في عذاب جهنم خالدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلۡمُجۡرِمِینَ فِی عَذَابِ جَهَنَّمَ خَـٰلِدُونَ
 
 | Details |  |

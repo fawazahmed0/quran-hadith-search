@@ -452,6 +452,18 @@ Qāla Kadhālika Qāla Rabbuka Huwa 'Alayya Hayyinun Wa Qad Khalaqtuka Min Qablu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ كَذَلِكَ قَالَ رَبُّكَ هُوَ عَلَيَّ هَيِّنٌ وَقَدْ خَلَقْتُكَ مِنْ قَبْلُ وَلَمْ تَكُ شَيْئًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال كذلك قال ربك هو علي هين وقد خلقتك من قبل ولم تك شييا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ كَذَ ٰلِكَ قَالَ رَبُّكَ هُوَ عَلَیَّ هَیِّنࣱ وَقَدۡ خَلَقۡتُكَ مِن قَبۡلُ وَلَمۡ تَكُ شَیۡءࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Innahu Ya'lamu Al-Jahra Mina Al-Qawli Wa Ya'lamu Mā Taktumūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُ يَعْلَمُ الْجَهْرَ مِنَ الْقَوْلِ وَيَعْلَمُ مَا تَكْتُمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انه يعلم الجهر من القول ويعلم ما تكتمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُۥ یَعۡلَمُ ٱلۡجَهۡرَ مِنَ ٱلۡقَوۡلِ وَیَعۡلَمُ مَا تَكۡتُمُونَ
 
 | Details |  |

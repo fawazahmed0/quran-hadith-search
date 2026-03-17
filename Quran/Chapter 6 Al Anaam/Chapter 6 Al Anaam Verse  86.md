@@ -452,6 +452,18 @@ Wa 'Ismā'īla Wa Al-Yasa'a Wa Yūnus Wa Lūţāan Wa Kullāan Fađđalnā 'Alá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِسْمَاعِيلَ وَالْيَسَعَ وَيُونُسَ وَلُوطًا وَكُلًّا فَضَّلْنَا عَلَى الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واسماعيل واليسع ويونس ولوطا وكلا فضلنا على العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِسۡمَـٰعِیلَ وَٱلۡیَسَعَ وَیُونُسَ وَلُوطࣰاۚ وَكُلࣰّا فَضَّلۡنَا عَلَى ٱلۡعَـٰلَمِینَ
 
 | Details |  |

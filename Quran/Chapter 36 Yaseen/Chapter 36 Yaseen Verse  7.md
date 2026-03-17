@@ -452,6 +452,18 @@ Laqad Ĥaqqa Al-Qawlu 'Alá 'Aktharihim Fahum Lā Yu'uminūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَقَدْ حَقَّ الْقَوْلُ عَلَى أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لقد حق القول على اكثرهم فهم لا يومنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَقَدۡ حَقَّ ٱلۡقَوۡلُ عَلَىٰۤ أَكۡثَرِهِمۡ فَهُمۡ لَا یُؤۡمِنُونَ
 
 | Details |  |

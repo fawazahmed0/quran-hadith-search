@@ -452,6 +452,18 @@ Fa'awĥá 'Ilá 'Abdihi Mā 'Awĥá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَوْحَى إِلَى عَبْدِهِ مَا أَوْحَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاوحى الى عبده ما اوحى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَوۡحَىٰۤ إِلَىٰ عَبۡدِهِۦ مَاۤ أَوۡحَىٰ
 
 | Details |  |

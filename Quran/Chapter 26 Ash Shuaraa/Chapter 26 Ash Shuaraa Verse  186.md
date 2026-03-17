@@ -452,6 +452,18 @@ Wa Mā 'Anta 'Illā Basharun Mithlunā Wa 'In Nažunnuka Lamina Al-Kādhibīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا أَنْتَ إِلَّا بَشَرٌ مِثْلُنَا وَإِنْ نَظُنُّكَ لَمِنَ الْكَاذِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما انت الا بشر مثلنا وان نظنك لمن الكاذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَاۤ أَنتَ إِلَّا بَشَرࣱ مِّثۡلُنَا وَإِن نَّظُنُّكَ لَمِنَ ٱلۡكَـٰذِبِینَ
 
 | Details |  |

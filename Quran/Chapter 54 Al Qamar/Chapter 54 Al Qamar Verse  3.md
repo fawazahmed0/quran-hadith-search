@@ -452,6 +452,18 @@ Wa Kadhabū Wa Attaba'ū 'Ahwā'ahum Wa Kullu 'Amrin Mustaqirrun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَذَّبُوا وَاتَّبَعُوا أَهْوَاءَهُمْ وَكُلُّ أَمْرٍ مُسْتَقِرٌّ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكذبوا واتبعوا اهواءهم وكل امر مستقر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَذَّبُوا۟ وَٱتَّبَعُوۤا۟ أَهۡوَاۤءَهُمۡۚ وَكُلُّ أَمۡرࣲ مُّسۡتَقِرࣱّ
 
 | Details |  |

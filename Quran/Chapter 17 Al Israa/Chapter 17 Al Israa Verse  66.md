@@ -452,6 +452,18 @@ Rabbukumu Al-Ladhī Yuzjī Lakumu Al-Fulka Fī Al-Baĥri Litabtaghū Min Fađlih
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبُّكُمُ الَّذِي يُزْجِي لَكُمُ الْفُلْكَ فِي الْبَحْرِ لِتَبْتَغُوا مِنْ فَضْلِهِ إِنَّهُ كَانَ بِكُمْ رَحِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ربكم الذي يزجي لكم الفلك في البحر لتبتغوا من فضله انه كان بكم رحيما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَّبُّكُمُ ٱلَّذِی یُزۡجِی لَكُمُ ٱلۡفُلۡكَ فِی ٱلۡبَحۡرِ لِتَبۡتَغُوا۟ مِن فَضۡلِهِۦۤۚ إِنَّهُۥ كَانَ بِكُمۡ رَحِیمࣰا
 
 | Details |  |

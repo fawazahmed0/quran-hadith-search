@@ -452,6 +452,18 @@ Wa Attabi' Mā Yūĥá 'Ilayka Min Rabbika 'Inna Allāha Kāna Bimā Ta'malūna 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاتَّبِعْ مَا يُوحَى إِلَيْكَ مِنْ رَبِّكَ إِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتبع ما يوحى اليك من ربك ان الله كان بما تعملون خبيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱتَّبِعۡ مَا یُوحَىٰۤ إِلَیۡكَ مِن رَّبِّكَۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعۡمَلُونَ خَبِیرࣰا
 
 | Details |  |

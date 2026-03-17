@@ -452,6 +452,18 @@ Wa 'Idhā Al-Jannatu 'Uzlifat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا الْجَنَّةُ أُزْلِفَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا الجنة ازلفت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱلۡجَنَّةُ أُزۡلِفَتۡ
 
 | Details |  |

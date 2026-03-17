@@ -452,6 +452,18 @@ Fanādaw Şāĥibahum Fata'āţá Fa'aqara
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَنَادَوْا صَاحِبَهُمْ فَتَعَاطَى فَعَقَرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فنادوا صاحبهم فتعاطى فعقر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَنَادَوۡا۟ صَاحِبَهُمۡ فَتَعَاطَىٰ فَعَقَرَ
 
 | Details |  |

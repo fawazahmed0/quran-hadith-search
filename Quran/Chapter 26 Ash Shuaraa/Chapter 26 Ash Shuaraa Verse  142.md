@@ -452,6 +452,18 @@ Idh Qāla Lahum 'Akhūhum Şāliĥun 'Alā Tattaqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِذْ قَالَ لَهُمْ أَخُوهُمْ صَالِحٌ أَلَا تَتَّقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اذ قال لهم اخوهم صالح الا تتقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ صَـٰلِحٌ أَلَا تَتَّقُونَ
 
 | Details |  |

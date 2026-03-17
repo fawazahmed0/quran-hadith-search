@@ -452,6 +452,18 @@ Wa Mā Kāna Linafsin 'An Tu'umina 'Illā Bi'idhni Allāhi Wa Yaj'alu Ar-Rijsa '
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا كَانَ لِنَفْسٍ أَنْ تُؤْمِنَ إِلَّا بِإِذْنِ اللَّهِ وَيَجْعَلُ الرِّجْسَ عَلَى الَّذِينَ لَا يَعْقِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما كان لنفس ان تومن الا باذن الله ويجعل الرجس على الذين لا يعقلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا كَانَ لِنَفۡسٍ أَن تُؤۡمِنَ إِلَّا بِإِذۡنِ ٱللَّهِۚ وَیَجۡعَلُ ٱلرِّجۡسَ عَلَى ٱلَّذِینَ لَا یَعۡقِلُونَ
 
 | Details |  |

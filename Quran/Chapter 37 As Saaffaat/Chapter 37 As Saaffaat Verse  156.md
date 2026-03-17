@@ -452,6 +452,18 @@ Am Lakum Sulţānun Mubīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ لَكُمْ سُلْطَانٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام لكم سلطان مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ لَكُمۡ سُلۡطَـٰنࣱ مُّبِینࣱ
 
 | Details |  |

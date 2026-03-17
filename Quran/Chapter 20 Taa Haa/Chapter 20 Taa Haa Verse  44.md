@@ -452,6 +452,18 @@ Faqūlā Lahu Qawlāan Layyināan La'allahu Yatadhakkaru 'Aw Yakhshá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَقُولَا لَهُ قَوْلًا لَيِّنًا لَعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فقولا له قولا لينا لعله يتذكر او يخشى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَقُولَا لَهُۥ قَوۡلࣰا لَّیِّنࣰا لَّعَلَّهُۥ یَتَذَكَّرُ أَوۡ یَخۡشَىٰ
 
 | Details |  |

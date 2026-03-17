@@ -452,6 +452,18 @@ Al-Ladhīna Yuqīmūna Aş-Şalāata Wa Mimmā Razaqnāhum Yunfiqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذين يقيمون الصلاة ومما رزقناهم ينفقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِینَ یُقِیمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَـٰهُمۡ یُنفِقُونَ
 
 | Details |  |

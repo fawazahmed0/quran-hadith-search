@@ -452,6 +452,18 @@ Wa Qālū Mā Lanā Lā Nará Rijālāan Kunnā Na'udduhum Mina Al-'Ashrār
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا مَا لَنَا لَا نَرَى رِجَالًا كُنَّا نَعُدُّهُمْ مِنَ الْأَشْرَارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا ما لنا لا نرى رجالا كنا نعدهم من الاشرار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوا۟ مَا لَنَا لَا نَرَىٰ رِجَالࣰا كُنَّا نَعُدُّهُم مِّنَ ٱلۡأَشۡرَارِ
 
 | Details |  |

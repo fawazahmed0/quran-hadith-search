@@ -452,6 +452,18 @@ Qāla Kadhālika 'Atatka 'Āyātunā Fanasītahā Wa Kadhalika Al-Yawma Tunsá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ كَذَلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا وَكَذَلِكَ الْيَوْمَ تُنْسَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال كذلك اتتك اياتنا فنسيتها وكذلك اليوم تنسى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ كَذَ ٰلِكَ أَتَتۡكَ ءَایَـٰتُنَا فَنَسِیتَهَاۖ وَكَذَ ٰلِكَ ٱلۡیَوۡمَ تُنسَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fadharhum Fī Ghamratihim Ĥattá Ĥīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَذَرْهُمْ فِي غَمْرَتِهِمْ حَتَّى حِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فذرهم في غمرتهم حتى حين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَذَرۡهُمۡ فِی غَمۡرَتِهِمۡ حَتَّىٰ حِینٍ
 
 | Details |  |

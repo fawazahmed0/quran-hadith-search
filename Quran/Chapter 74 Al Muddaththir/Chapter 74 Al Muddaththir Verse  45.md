@@ -452,6 +452,18 @@ Wa Kunnā Nakhūđu Ma'a Al-Khā'iđīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكُنَّا نَخُوضُ مَعَ الْخَائِضِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكنا نخوض مع الخايضين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكُنَّا نَخُوضُ مَعَ ٱلۡخَاۤئِضِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla Rabbi 'Inna Qawmī Kadhabūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبِّ إِنَّ قَوْمِي كَذَّبُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال رب ان قومي كذبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبِّ إِنَّ قَوۡمِی كَذَّبُونِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla Famā Khaţbuka Yā Sāmirīyu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ فَمَا خَطْبُكَ يَا سَامِرِيُّ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال فما خطبك يا سامري
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ فَمَا خَطۡبُكَ یَـٰسَـٰمِرِیُّ
 
 | Details |  |

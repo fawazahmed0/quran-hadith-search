@@ -452,6 +452,18 @@ Wa Man Ya'shu 'An Dhikri Ar-Raĥmāni Nuqayyiđ Lahu Shayţānāan Fahuwa Lahu Q
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ يَعْشُ عَنْ ذِكْرِ الرَّحْمَنِ نُقَيِّضْ لَهُ شَيْطَانًا فَهُوَ لَهُ قَرِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن يعش عن ذكر الرحمن نقيض له شيطانا فهو له قرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن یَعۡشُ عَن ذِكۡرِ ٱلرَّحۡمَـٰنِ نُقَیِّضۡ لَهُۥ شَیۡطَـٰنࣰا فَهُوَ لَهُۥ قَرِینࣱ
 
 | Details |  |

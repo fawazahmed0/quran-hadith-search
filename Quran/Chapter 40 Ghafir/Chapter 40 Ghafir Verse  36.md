@@ -452,6 +452,18 @@ Wa Qāla Fir'awnu Yā Hāmānu Abni Lī Şarĥāan La'allī 'Ablughu Al-'Asbāba
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ فِرْعَوْنُ يَا هَامَانُ ابْنِ لِي صَرْحًا لَعَلِّي أَبْلُغُ الْأَسْبَابَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال فرعون يا هامان ابن لي صرحا لعلي ابلغ الاسباب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالَ فِرۡعَوۡنُ یَـٰهَـٰمَـٰنُ ٱبۡنِ لِی صَرۡحࣰا لَّعَلِّیۤ أَبۡلُغُ ٱلۡأَسۡبَـٰبَ
 
 | Details |  |

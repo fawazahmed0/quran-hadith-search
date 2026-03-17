@@ -452,6 +452,18 @@ Fa'ummuhu Hāwiyahun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأُمُّهُ هَاوِيَةٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فامه هاوية
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأُمُّهُۥ هَاوِیَةࣱ
 
 | Details |  |

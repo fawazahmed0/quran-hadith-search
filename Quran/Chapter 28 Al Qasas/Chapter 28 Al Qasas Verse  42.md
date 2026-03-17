@@ -452,6 +452,18 @@ Wa 'Atba'nāhum Fī Hadhihi Ad-Dunyā La'natan Wa Yawma Al-Qiyāmati Hum Mina Al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَتْبَعْنَاهُمْ فِي هَذِهِ الدُّنْيَا لَعْنَةً وَيَوْمَ الْقِيَامَةِ هُمْ مِنَ الْمَقْبُوحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتبعناهم في هذه الدنيا لعنة ويوم القيامة هم من المقبوحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَتۡبَعۡنَـٰهُمۡ فِی هَـٰذِهِ ٱلدُّنۡیَا لَعۡنَةࣰۖ وَیَوۡمَ ٱلۡقِیَـٰمَةِ هُم مِّنَ ٱلۡمَقۡبُوحِینَ
 
 | Details |  |

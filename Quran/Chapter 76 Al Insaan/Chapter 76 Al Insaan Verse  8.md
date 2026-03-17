@@ -452,6 +452,18 @@ Wa Yuţ'imūna Aţ-Ţa'āma 'Alá Ĥubbihi Miskīnāan Wa Yatīmāan Wa 'Asīrā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيُطْعِمُونَ الطَّعَامَ عَلَى حُبِّهِ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويطعمون الطعام على حبه مسكينا ويتيما واسيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیُطۡعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسۡكِینࣰا وَیَتِیمࣰا وَأَسِیرًا
 
 | Details |  |

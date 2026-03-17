@@ -452,6 +452,18 @@ Fatalaqqá 'Ādamu Min Rabbihi Kalimātin Fatāba 'Alayhi 'Innahu Huwa At-Tawwā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَتَلَقَّى آدَمُ مِنْ رَبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فتلقى ادم من ربه كلمات فتاب عليه انه هو التواب الرحيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَتَلَقَّىٰۤ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتࣲ فَتَابَ عَلَیۡهِۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِیمُ
 
 | Details |  |

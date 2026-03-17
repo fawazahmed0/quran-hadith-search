@@ -452,6 +452,18 @@ Wa Mā Dhara'a Lakum Fī Al-'Arđi Mukhtalifāan 'Alwānuhu 'Inna Fī Dhālika L
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا ذَرَأَ لَكُمْ فِي الْأَرْضِ مُخْتَلِفًا أَلْوَانُهُ إِنَّ فِي ذَلِكَ لَآيَةً لِقَوْمٍ يَذَّكَّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما ذرا لكم في الارض مختلفا الوانه ان في ذلك لاية لقوم يذكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا ذَرَأَ لَكُمۡ فِی ٱلۡأَرۡضِ مُخۡتَلِفًا أَلۡوَ ٰنُهُۥۤۚ إِنَّ فِی ذَ ٰلِكَ لَءَایَةࣰ لِّقَوۡمࣲ یَذَّكَّرُونَ
 
 | Details |  |

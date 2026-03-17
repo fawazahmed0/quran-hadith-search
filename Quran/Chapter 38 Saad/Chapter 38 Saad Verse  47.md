@@ -452,6 +452,18 @@ Wa 'Innahum 'Indanā Lamina Al-Muşţafayna Al-'Akhyāri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّهُمْ عِنْدَنَا لَمِنَ الْمُصْطَفَيْنَ الْأَخْيَارِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانهم عندنا لمن المصطفين الاخيار
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّهُمۡ عِندَنَا لَمِنَ ٱلۡمُصۡطَفَیۡنَ ٱلۡأَخۡیَارِ
 
 | Details |  |

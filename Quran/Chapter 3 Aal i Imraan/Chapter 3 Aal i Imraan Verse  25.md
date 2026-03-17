@@ -452,6 +452,18 @@ Fakayfa 'Idhā Jama'nāhum Liyawmin Lā Rayba Fīhi Wa Wuffiyat Kullu Nafsin Mā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكَيْفَ إِذَا جَمَعْنَاهُمْ لِيَوْمٍ لَا رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍ مَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكيف اذا جمعناهم ليوم لا ريب فيه ووفيت كل نفس ما كسبت وهم لا يظلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكَیۡفَ إِذَا جَمَعۡنَـٰهُمۡ لِیَوۡمࣲ لَّا رَیۡبَ فِیهِ وَوُفِّیَتۡ كُلُّ نَفۡسࣲ مَّا كَسَبَتۡ وَهُمۡ لَا یُظۡلَمُونَ
 
 | Details |  |

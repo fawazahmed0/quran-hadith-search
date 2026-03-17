@@ -452,6 +452,18 @@ Wa Yanqalibu 'IlÃ¡ 'Ahlihi MasrÅ«rÄan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَنْقَلِبُ إِلَى أَهْلِهِ مَسْرُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وينقلب الى اهله مسرورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَنقَلِبُ إِلَىٰۤ أَهۡلِهِۦ مَسۡرُورࣰا
 
 | Details |  |

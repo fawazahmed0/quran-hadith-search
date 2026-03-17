@@ -452,6 +452,18 @@ Dhū Mirratin Fāstawá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذُو مِرَّةٍ فَاسْتَوَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذو مرة فاستوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذُو مِرَّةࣲ فَٱسۡتَوَىٰ
 
 | Details |  |

@@ -452,6 +452,18 @@ Am Khalaqnā Al-Malā'ikata 'Ināthāan Wa Hum Shāhidūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ خَلَقْنَا الْمَلَائِكَةَ إِنَاثًا وَهُمْ شَاهِدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام خلقنا الملايكة اناثا وهم شاهدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ خَلَقۡنَا ٱلۡمَلَـٰۤئِكَةَ إِنَـٰثࣰا وَهُمۡ شَـٰهِدُونَ
 
 | Details |  |

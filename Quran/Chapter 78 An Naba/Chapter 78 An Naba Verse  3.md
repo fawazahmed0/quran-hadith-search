@@ -452,6 +452,18 @@ Al-Ladhī Hum Fīhi Mukhtalifūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي هم فيه مختلفون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِی هُمۡ فِیهِ مُخۡتَلِفُونَ
 
 | Details |  |

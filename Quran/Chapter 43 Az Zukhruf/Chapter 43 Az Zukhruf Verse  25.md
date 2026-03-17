@@ -452,6 +452,18 @@ Fāntaqamnā Minhum Fānžur Kayfa Kāna 'Āqibatu Al-Mukadhibīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَانْتَقَمْنَا مِنْهُمْ فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فانتقمنا منهم فانظر كيف كان عاقبة المكذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱنتَقَمۡنَا مِنۡهُمۡۖ فَٱنظُرۡ كَیۡفَ كَانَ عَـٰقِبَةُ ٱلۡمُكَذِّبِینَ
 
 | Details |  |

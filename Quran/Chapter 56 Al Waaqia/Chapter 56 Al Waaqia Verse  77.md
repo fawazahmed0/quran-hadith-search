@@ -452,6 +452,18 @@ Innahu Laqur'ānun Karīmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُ لَقُرْآنٌ كَرِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انه لقران كريم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُۥ لَقُرۡءَانࣱ كَرِیمࣱ
 
 | Details |  |

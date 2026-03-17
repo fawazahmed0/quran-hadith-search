@@ -452,6 +452,18 @@ Wa Jumi'a Ash-Shamsu Wa Al-Qamaru
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجُمِعَ الشَّمْسُ وَالْقَمَرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجمع الشمس والقمر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجُمِعَ ٱلشَّمۡسُ وَٱلۡقَمَرُ
 
 | Details |  |

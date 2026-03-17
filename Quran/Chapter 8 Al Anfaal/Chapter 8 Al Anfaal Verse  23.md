@@ -452,6 +452,18 @@ Wa Law 'Alima Allāhu Fīhim Khayrāan La'asma'ahum Wa Law 'Asma'ahum Latawallaw
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْ عَلِمَ اللَّهُ فِيهِمْ خَيْرًا لَأَسْمَعَهُمْ وَلَوْ أَسْمَعَهُمْ لَتَوَلَّوْا وَهُمْ مُعْرِضُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولو علم الله فيهم خيرا لاسمعهم ولو اسمعهم لتولوا وهم معرضون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡ عَلِمَ ٱللَّهُ فِیهِمۡ خَیۡرࣰا لَّأَسۡمَعَهُمۡۖ وَلَوۡ أَسۡمَعَهُمۡ لَتَوَلَّوا۟ وَّهُم مُّعۡرِضُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Inna Al-Ladhīna Lā Yu'uminūna Bil-'Ākhirati Zayyannā Lahum 'A'mālahum Fahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ زَيَّنَّا لَهُمْ أَعْمَالَهُمْ فَهُمْ يَعْمَهُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين لا يومنون بالاخرة زينا لهم اعمالهم فهم يعمهون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ لَا یُؤۡمِنُونَ بِٱلۡءَاخِرَةِ زَیَّنَّا لَهُمۡ أَعۡمَـٰلَهُمۡ فَهُمۡ یَعۡمَهُونَ
 
 | Details |  |

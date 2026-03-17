@@ -452,6 +452,18 @@ Anžur Kayfa Đarabū Laka Al-'Amthāla Fađallū Falā Yastaţī'ūna Sabīlāa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+انْظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انظر كيف ضربوا لك الامثال فضلوا فلا يستطيعون سبيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱنظُرۡ كَیۡفَ ضَرَبُوا۟ لَكَ ٱلۡأَمۡثَالَ فَضَلُّوا۟ فَلَا یَسۡتَطِیعُونَ سَبِیلࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Yawma Nusayyiru Al-Jibāla Wa Tará Al-'Arđa Bārizatan Wa Ĥasharnāhum Fal
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَوْمَ نُسَيِّرُ الْجِبَالَ وَتَرَى الْأَرْضَ بَارِزَةً وَحَشَرْنَاهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ أَحَدًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويوم نسير الجبال وترى الارض بارزة وحشرناهم فلم نغادر منهم احدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَوۡمَ نُسَیِّرُ ٱلۡجِبَالَ وَتَرَى ٱلۡأَرۡضَ بَارِزَةࣰ وَحَشَرۡنَـٰهُمۡ فَلَمۡ نُغَادِرۡ مِنۡهُمۡ أَحَدࣰا
 
 | Details |  |

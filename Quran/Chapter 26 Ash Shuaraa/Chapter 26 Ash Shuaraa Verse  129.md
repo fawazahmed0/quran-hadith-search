@@ -452,6 +452,18 @@ Wa Tattakhidhūna Maşāni'a La'allakum Takhludūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وتتخذون مصانع لعلكم تخلدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمۡ تَخۡلُدُونَ
 
 | Details |  |

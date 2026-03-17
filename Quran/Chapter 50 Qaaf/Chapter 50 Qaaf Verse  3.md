@@ -452,6 +452,18 @@ A'idhā Mitnā Wa Kunnā Turābāan Dhālika Raj'un Ba'īdun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَإِذَا مِتْنَا وَكُنَّا تُرَابًا ذَلِكَ رَجْعٌ بَعِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ااذا متنا وكنا ترابا ذلك رجع بعيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَءِذَا مِتۡنَا وَكُنَّا تُرَابࣰاۖ ذَ ٰلِكَ رَجۡعُۢ بَعِیدࣱ
 
 | Details |  |

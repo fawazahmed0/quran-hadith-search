@@ -452,6 +452,18 @@ Wa Mā Kāna Rabbuka Liyuhlika Al-Qurá Bižulmin Wa 'Ahluhā Muşliĥūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا كَانَ رَبُّكَ لِيُهْلِكَ الْقُرَى بِظُلْمٍ وَأَهْلُهَا مُصْلِحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما كان ربك ليهلك القرى بظلم واهلها مصلحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا كَانَ رَبُّكَ لِیُهۡلِكَ ٱلۡقُرَىٰ بِظُلۡمࣲ وَأَهۡلُهَا مُصۡلِحُونَ
 
 | Details |  |

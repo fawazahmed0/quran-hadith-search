@@ -452,6 +452,18 @@ Wa Qawmu 'Ibrāhīma Wa Qawmu Lūţin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَوْمُ إِبْرَاهِيمَ وَقَوْمُ لُوطٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقوم ابراهيم وقوم لوط
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَوۡمُ إِبۡرَ ٰهِیمَ وَقَوۡمُ لُوطࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Mā Qadarū Allāha Ĥaqqa Qadrihi 'Inna Allāha Laqawīyun 'Azīzun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما قدروا الله حق قدره ان الله لقوي عزيز
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدۡرِهِۦۤۚ إِنَّ ٱللَّهَ لَقَوِیٌّ عَزِیزٌ
 
 | Details |  |

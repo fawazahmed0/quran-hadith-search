@@ -452,6 +452,18 @@ Yaşlawnahā Yawma Ad-Dīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَصْلَوْنَهَا يَوْمَ الدِّينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يصلونها يوم الدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَصۡلَوۡنَهَا یَوۡمَ ٱلدِّینِ
 
 | Details |  |

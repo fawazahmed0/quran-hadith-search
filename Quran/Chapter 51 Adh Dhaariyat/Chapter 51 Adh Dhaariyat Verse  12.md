@@ -452,6 +452,18 @@ Yas'alūna 'Ayyāna Yawmu Ad-Dīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَسْأَلُونَ أَيَّانَ يَوْمُ الدِّينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يسالون ايان يوم الدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَسۡءَلُونَ أَیَّانَ یَوۡمُ ٱلدِّینِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Lammā Đuriba Abnu Maryama Mathalāan 'Idhā Qawmuka Minhu Yaşiddūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَمَّا ضُرِبَ ابْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولما ضرب ابن مريم مثلا اذا قومك منه يصدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَلَمَّا ضُرِبَ ٱبۡنُ مَرۡیَمَ مَثَلًا إِذَا قَوۡمُكَ مِنۡهُ یَصِدُّونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa 'Idhā Al-Jibālu Nusifat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا الْجِبَالُ نُسِفَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا الجبال نسفت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱلۡجِبَالُ نُسِفَتۡ
 
 | Details |  |

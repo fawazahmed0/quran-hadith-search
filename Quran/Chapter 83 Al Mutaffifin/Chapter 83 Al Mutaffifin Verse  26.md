@@ -452,6 +452,18 @@ Khitāmuhu Miskun Wa Fī Dhālika Falyatanāfasi Al-Mutanāfisūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+خِتَامُهُ مِسْكٌ وَفِي ذَلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ختامه مسك وفي ذلك فليتنافس المتنافسون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 خِتَـٰمُهُۥ مِسۡكࣱۚ وَفِی ذَ ٰلِكَ فَلۡیَتَنَافَسِ ٱلۡمُتَنَـٰفِسُونَ
 
 | Details |  |

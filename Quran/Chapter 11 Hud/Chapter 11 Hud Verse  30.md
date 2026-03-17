@@ -452,6 +452,18 @@ Wa Yāqawmi Man Yanşurunī Mina Allāhi 'In Ţaradtuhum 'Afalā Tadhakkarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيَا قَوْمِ مَنْ يَنْصُرُنِي مِنَ اللَّهِ إِنْ طَرَدْتُهُمْ أَفَلَا تَذَكَّرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويا قوم من ينصرني من الله ان طردتهم افلا تذكرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیَـٰقَوۡمِ مَن یَنصُرُنِی مِنَ ٱللَّهِ إِن طَرَدتُّهُمۡۚ أَفَلَا تَذَكَّرُونَ
 
 | Details |  |

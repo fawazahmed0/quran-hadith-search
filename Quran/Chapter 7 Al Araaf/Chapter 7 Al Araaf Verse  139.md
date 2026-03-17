@@ -452,6 +452,18 @@ Inna Hā'uulā' Mutabbarun Mā Hum Fīhi Wa Bāţilun Mā Kānū Ya'malūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ هَؤُلَاءِ مُتَبَّرٌ مَا هُمْ فِيهِ وَبَاطِلٌ مَا كَانُوا يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان هولاء متبر ما هم فيه وباطل ما كانوا يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ هَـٰۤؤُلَاۤءِ مُتَبَّرࣱ مَّا هُمۡ فِیهِ وَبَـٰطِلࣱ مَّا كَانُوا۟ یَعۡمَلُونَ
 
 | Details |  |

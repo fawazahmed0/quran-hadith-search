@@ -452,6 +452,18 @@ Qāla 'Anžirnī 'Ilá Yawmi Yub'athūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ أَنْظِرْنِي إِلَى يَوْمِ يُبْعَثُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال انظرني الى يوم يبعثون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ أَنظِرۡنِیۤ إِلَىٰ یَوۡمِ یُبۡعَثُونَ
 
 | Details |  |

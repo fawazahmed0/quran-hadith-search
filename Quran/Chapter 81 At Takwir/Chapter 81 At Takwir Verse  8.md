@@ -452,6 +452,18 @@ Wa 'Idhā Al-Maw'ūdatu Su'ilat
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا الْمَوْءُودَةُ سُئِلَتْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا الموءودة سيلت
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا ٱلۡمَوۡءُۥدَةُ سُئِلَتۡ
 
 | Details |  |

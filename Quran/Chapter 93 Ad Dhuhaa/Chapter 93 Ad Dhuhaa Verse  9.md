@@ -452,6 +452,18 @@ Fa'ammā Al-Yatīma Falā Taqhar
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاما اليتيم فلا تقهر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَمَّا ٱلۡیَتِیمَ فَلَا تَقۡهَرۡ
 
 | Details |  |

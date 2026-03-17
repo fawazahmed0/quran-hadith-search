@@ -452,6 +452,18 @@ Wa Aĥlul 'Uqdatan Min Lisānī
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واحلل عقدة من لساني
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱحۡلُلۡ عُقۡدَةࣰ مِّن لِّسَانِی
 
 | Details |  |

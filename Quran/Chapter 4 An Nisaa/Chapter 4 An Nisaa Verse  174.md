@@ -452,6 +452,18 @@ Yā 'Ayyuhā An-Nāsu Qad Jā'akum Burhānun Min Rabbikum Wa 'Anzalnā 'Ilaykum 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَا أَيُّهَا النَّاسُ قَدْ جَاءَكُمْ بُرْهَانٌ مِنْ رَبِّكُمْ وَأَنْزَلْنَا إِلَيْكُمْ نُورًا مُبِينًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يا ايها الناس قد جاءكم برهان من ربكم وانزلنا اليكم نورا مبينا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَـٰۤأَیُّهَا ٱلنَّاسُ قَدۡ جَاۤءَكُم بُرۡهَـٰنࣱ مِّن رَّبِّكُمۡ وَأَنزَلۡنَاۤ إِلَیۡكُمۡ نُورࣰا مُّبِینࣰا
 
 | Details |  |

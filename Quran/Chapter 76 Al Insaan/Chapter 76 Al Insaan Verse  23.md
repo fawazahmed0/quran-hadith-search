@@ -452,6 +452,18 @@ Innā Naĥnu Nazzalnā 'Alayka Al-Qur'āna Tanzīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ الْقُرْآنَ تَنْزِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا نحن نزلنا عليك القران تنزيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا نَحۡنُ نَزَّلۡنَا عَلَیۡكَ ٱلۡقُرۡءَانَ تَنزِیلࣰا
 
 | Details |  |

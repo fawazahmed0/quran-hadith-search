@@ -452,6 +452,18 @@ Wa Likullin Darajātun Mimmā 'Amilū Wa Mā Rabbuka Bighāfilin 'Ammā Ya'malū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلِكُلٍّ دَرَجَاتٌ مِمَّا عَمِلُوا وَمَا رَبُّكَ بِغَافِلٍ عَمَّا يَعْمَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولكل درجات مما عملوا وما ربك بغافل عما يعملون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلِكُلࣲّ دَرَجَـٰتࣱ مِّمَّا عَمِلُوا۟ۚ وَمَا رَبُّكَ بِغَـٰفِلٍ عَمَّا یَعۡمَلُونَ
 
 | Details |  |

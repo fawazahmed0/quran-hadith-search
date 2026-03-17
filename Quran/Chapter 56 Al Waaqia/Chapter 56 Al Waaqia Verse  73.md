@@ -452,6 +452,18 @@ Naĥnu Ja'alnāhā Tadhkiratan Wa Matā'āan Lilmuqwīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+نَحْنُ جَعَلْنَاهَا تَذْكِرَةً وَمَتَاعًا لِلْمُقْوِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+نحن جعلناها تذكرة ومتاعا للمقوين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 نَحۡنُ جَعَلۡنَـٰهَا تَذۡكِرَةࣰ وَمَتَـٰعࣰا لِّلۡمُقۡوِینَ
 
 | Details |  |

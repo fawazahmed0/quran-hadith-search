@@ -452,6 +452,18 @@ Illā 'Ajūzāan Fī Al-Ghābirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَّا عَجُوزًا فِي الْغَابِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الا عجوزا في الغابرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَّا عَجُوزࣰا فِی ٱلۡغَـٰبِرِینَ
 
 | Details |  |

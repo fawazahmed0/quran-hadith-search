@@ -452,6 +452,18 @@ Wa Laqad Kuntum Tatamannawn Al-Mawta Min Qabli 'An Talqawhu Faqad Ra'aytumūhu W
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ كُنْتُمْ تَمَنَّوْنَ الْمَوْتَ مِنْ قَبْلِ أَنْ تَلْقَوْهُ فَقَدْ رَأَيْتُمُوهُ وَأَنْتُمْ تَنْظُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد كنتم تمنون الموت من قبل ان تلقوه فقد رايتموه وانتم تنظرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ كُنتُمۡ تَمَنَّوۡنَ ٱلۡمَوۡتَ مِن قَبۡلِ أَن تَلۡقَوۡهُ فَقَدۡ رَأَیۡتُمُوهُ وَأَنتُمۡ تَنظُرُونَ
 
 | Details |  |

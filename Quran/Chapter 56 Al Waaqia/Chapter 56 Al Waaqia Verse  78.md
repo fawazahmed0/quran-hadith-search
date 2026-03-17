@@ -452,6 +452,18 @@ Fī Kitābin Maknūnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي كِتَابٍ مَكْنُونٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في كتاب مكنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِی كِتَـٰبࣲ مَّكۡنُونࣲ
 
 | Details |  |

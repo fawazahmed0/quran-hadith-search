@@ -452,6 +452,18 @@ Wa 'Innaka Latad'ūhum 'Ilá Şirāţin Mustaqīmin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّكَ لَتَدْعُوهُمْ إِلَى صِرَاطٍ مُسْتَقِيمٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانك لتدعوهم الى صراط مستقيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّكَ لَتَدۡعُوهُمۡ إِلَىٰ صِرَ ٰطࣲ مُّسۡتَقِیمࣲ
 
 | Details |  |

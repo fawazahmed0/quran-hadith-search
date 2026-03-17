@@ -452,6 +452,18 @@ Wa Ash-Shayāţīna Kulla Bannā'in Wa Ghawwāşin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالشَّيَاطِينَ كُلَّ بَنَّاءٍ وَغَوَّاصٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والشياطين كل بناء وغواص
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلشَّیَـٰطِینَ كُلَّ بَنَّاۤءࣲ وَغَوَّاصࣲ
 
 | Details |  |

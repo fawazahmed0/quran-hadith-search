@@ -452,6 +452,18 @@ Wa Laqad Fatannā Al-Ladhīna Min Qablihim Falaya'lamanna Allāhu Al-Ladhīna Ş
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ فَتَنَّا الَّذِينَ مِنْ قَبْلِهِمْ فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد فتنا الذين من قبلهم فليعلمن الله الذين صدقوا وليعلمن الكاذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ فَتَنَّا ٱلَّذِینَ مِن قَبۡلِهِمۡۖ فَلَیَعۡلَمَنَّ ٱللَّهُ ٱلَّذِینَ صَدَقُوا۟ وَلَیَعۡلَمَنَّ ٱلۡكَـٰذِبِینَ
 
 | Details |  |

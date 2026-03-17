@@ -452,6 +452,18 @@ Wa 'Annahu Huwa 'Amāta Wa 'Aĥyā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّهُ هُوَ أَمَاتَ وَأَحْيَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه هو امات واحيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحۡیَا
 
 | Details |  |

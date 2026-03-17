@@ -6,6 +6,8 @@
 
 [French](#french)
 
+[Turkish](#turkish)
+
 ## Arabic
 
 عَنْ مُعَاذِ بْنِ جَبَلٍ رَضِيَ اللهُ عَنْهُ قَالَ: قُلْت يَا رَسُولَ اللَّهِ! أَخْبِرْنِي بِعَمَلٍ يُدْخِلُنِي الْجَنَّةَ وَيُبَاعِدْنِي مِنْ النَّارِ، قَالَ: "لَقَدْ سَأَلْت عَنْ عَظِيمٍ، وَإِنَّهُ لَيَسِيرٌ عَلَى مَنْ يَسَّرَهُ اللَّهُ عَلَيْهِ: تَعْبُدُ اللَّهَ لَا تُشْرِكْ بِهِ شَيْئًا، وَتُقِيمُ الصَّلَاةَ، وَتُؤْتِي الزَّكَاةَ، وَتَصُومُ رَمَضَانَ، وَتَحُجُّ الْبَيْتَ، ثُمَّ قَالَ: أَلَا أَدُلُّك عَلَى أَبْوَابِ الْخَيْرِ؟ الصَّوْمُ جُنَّةٌ، وَالصَّدَقَةُ تُطْفِئُ الْخَطِيئَةَ كَمَا يُطْفِئُ الْمَاءُ النَّارَ، وَصَلَاةُ الرَّجُلِ فِي جَوْفِ اللَّيْلِ، ثُمَّ تَلَا: " تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ " حَتَّى بَلَغَ "يَعْمَلُونَ"،\[ 32 سورة السجدة / الأيتان : 16 و 17 \] ثُمَّ قَالَ: أَلَا أُخْبِرُك بِرَأْسِ الْأَمْرِ وَعَمُودِهِ وَذُرْوَةِ سَنَامِهِ؟ قُلْت: بَلَى يَا رَسُولَ اللَّهِ. قَالَ: رَأْسُ الْأَمْرِ الْإِسْلَامُ، وَعَمُودُهُ الصَّلَاةُ، وَذُرْوَةُ سَنَامِهِ الْجِهَادُ، ثُمَّ قَالَ: أَلَا أُخْبِرُك بِمَلَاكِ ذَلِكَ كُلِّهِ؟ فقُلْت: بَلَى يَا رَسُولَ اللَّهِ ! فَأَخَذَ بِلِسَانِهِ وَقَالَ: كُفَّ عَلَيْك هَذَا. قُلْت: يَا نَبِيَّ اللَّهِ وَإِنَّا لَمُؤَاخَذُونَ بِمَا نَتَكَلَّمُ بِهِ؟ فَقَالَ: ثَكِلَتْك أُمُّك وَهَلْ يَكُبُّ النَّاسَ عَلَى وُجُوهِهِمْ -أَوْ قَالَ عَلَى مَنَاخِرِهِمْ- إلَّا حَصَائِدُ أَلْسِنَتِهِمْ؟!" . رَوَاهُ التِّرْمِذِيُّ \[رقم:2616\] وَقَالَ: حَدِيثٌ حَسَنٌ صَحِيحٌ
@@ -47,6 +49,16 @@ On the authority of Muadh bin Jabal (may Allah be pleased with him) who said: I 
 ## French
 
 Selon Mou’adh ibn Jabal (qu’Allah l’agrée), qui a dit : J’ai dit : « Ô Messager d’Allah, indique-moi un acte qui me fera entrer au Paradis et m’éloignera de l’Enfer. » Il (ﷺ) répondit : « Tu demandes une grande chose, mais elle est facile pour celui à qui Allah la facilite : adore Allah sans rien Lui associer, accomplis la prière, donne la zakat, jeûne le Ramadan et fais le pèlerinage à la Maison. » Puis il (ﷺ) ajouta : « Veux-tu que je t’indique les portes du bien ? Le jeûne est un bouclier, l’aumône éteint les péchés comme l’eau éteint le feu, et la prière d’un homme au milieu de la nuit. » Ensuite il récita : « Ils délaissent leurs lits pour invoquer leur Seigneur, avec crainte et espoir, et dépensent de ce que Nous leur avons donné. Nul ne sait quelle joie leur est réservée en récompense de ce qu’ils faisaient. » \[as-Sajda, 16-17\] Il dit encore : « Veux-tu que je t’informe du sommet, du pilier et de la base de tout cela ? » J’ai répondu : « Oui, ô Messager d’Allah. » Il dit : « Le sommet est l’islam, son pilier est la prière, et son sommet est le jihad. » Puis il dit : « Veux-tu que je t’indique la clé de tout cela ? » J’ai répondu : « Oui, ô Messager d’Allah. » Il saisit sa langue et dit : « Retiens-la. » Je dis : « Ô Prophète d’Allah, serons-nous vraiment jugés pour ce que nous disons ? » Il répondit : « Que ta mère te perde, ô Mou’adh ! Qu’est-ce qui fait tomber les gens en Enfer sur leurs visages — ou sur leur nez — sinon les conséquences de leur langue ? » Rapporté par at-Tirmidhi, qui a dit qu’il est bon et authentique
+
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Arabic No | 29 |
+| Reference | Book 1 Hadith 29 |
+
+## Turkish
+
+Muaz bin Cebel (ra) anlatıyor: "Ey Allah’ın Resulü! Beni cennete sokacak ve ateşten uzaklaştıracak bir amel söyler misiniz?" dedim. Şöyle buyurdu: "Çok büyük bir şey sordun; ancak bu Allah’ın kolaylaştırdığı kimse için kolaydır: Allah’a ibadet eder ve O’na hiçbir şeyi ortak koşmazsın, namazı kılarsın, zekatı verirsin, Ramazan orucunu tutarsın ve Beytullah’ı haccetmemsin." Sonra ekledi: "Sana hayır kapılarını göstereyim mi? Oruç kalkandır; sadaka, suyun ateşi söndürdüğü gibi günahı siler; bir de kişinin gece yarısı kıldığı namaz." Sonra şu ayeti okudu: "Korku ve ümit içinde Rablerine ibadet etmek için yataklarından kalkarlar... (Secde, 16-17)". Ardından buyurdu: "Sana bu işin başını, direğini ve zirvesini haber vereyim mi? İşin başı İslam, direği namaz, zirvesi ise cihaddır." Sonra: "Sana bütün bunların temelini haber vereyim mi?" dedi. "Evet" dedim. Dilini tuttu ve "Şunu dizginle" buyurdu. "Biz konuştuklarımızdan da mı hesaba çekileceğiz?" diye sordum. "Anasız kalasıca Muaz! İnsanları yüzüstü cehenneme sürükleyen, dillerinin hasadından başka nedir ki?" buyurdu. \[Tirmizi\]
 
 | References: |  |
 | --- | --- |

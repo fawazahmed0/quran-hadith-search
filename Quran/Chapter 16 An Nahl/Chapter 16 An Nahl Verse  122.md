@@ -452,6 +452,18 @@ Wa 'Ātaynāhu Fī Ad-Dunyā Ĥasanatan Wa 'Innahu Fī Al-'Ākhirati Lamina Aş-
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَآتَيْنَاهُ فِي الدُّنْيَا حَسَنَةً وَإِنَّهُ فِي الْآخِرَةِ لَمِنَ الصَّالِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واتيناه في الدنيا حسنة وانه في الاخرة لمن الصالحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَءَاتَیۡنَـٰهُ فِی ٱلدُّنۡیَا حَسَنَةࣰۖ وَإِنَّهُۥ فِی ٱلۡءَاخِرَةِ لَمِنَ ٱلصَّـٰلِحِینَ
 
 | Details |  |

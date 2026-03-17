@@ -452,6 +452,18 @@ Alif-Lām-Rā Kitābun 'Uĥkimat 'Āyātuhu Thumma Fuşşilat Min Ladun Ĥakīmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الر كِتَابٌ أُحْكِمَتْ آيَاتُهُ ثُمَّ فُصِّلَتْ مِنْ لَدُنْ حَكِيمٍ خَبِيرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الر كتاب احكمت اياته ثم فصلت من لدن حكيم خبير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 الۤرۚ كِتَـٰبٌ أُحۡكِمَتۡ ءَایَـٰتُهُۥ ثُمَّ فُصِّلَتۡ مِن لَّدُنۡ حَكِیمٍ خَبِیرٍ
 
 | Details |  |

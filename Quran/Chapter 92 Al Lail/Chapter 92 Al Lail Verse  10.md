@@ -452,6 +452,18 @@ Fasanuyassiruhu Lil'usrá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَسَنُيَسِّرُهُ لِلْعُسْرَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فسنيسره للعسرى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَسَنُیَسِّرُهُۥ لِلۡعُسۡرَىٰ
 
 | Details |  |

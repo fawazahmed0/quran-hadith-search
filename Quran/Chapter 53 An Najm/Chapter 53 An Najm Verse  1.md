@@ -452,6 +452,18 @@ Wa An-Najmi 'Idhā Hawá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالنَّجْمِ إِذَا هَوَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والنجم اذا هوى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلنَّجۡمِ إِذَا هَوَىٰ
 
 | Details |  |

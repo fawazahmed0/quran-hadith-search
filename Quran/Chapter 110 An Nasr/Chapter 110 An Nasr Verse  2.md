@@ -452,6 +452,18 @@ Wa Ra'ayta An-Nāsa Yadkhulūna Fī Dīni Allāhi 'Afwājāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ورايت الناس يدخلون في دين الله افواجا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَرَأَیۡتَ ٱلنَّاسَ یَدۡخُلُونَ فِی دِینِ ٱللَّهِ أَفۡوَاجࣰا
 
 | Details |  |

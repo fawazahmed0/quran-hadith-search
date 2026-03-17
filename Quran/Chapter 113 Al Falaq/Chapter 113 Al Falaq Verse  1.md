@@ -452,6 +452,18 @@ Qul 'A'ūdhu Birabbi Al-Falaqi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل اعوذ برب الفلق
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ
 
 | Details |  |

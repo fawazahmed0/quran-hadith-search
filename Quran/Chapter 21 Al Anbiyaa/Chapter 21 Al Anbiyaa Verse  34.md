@@ -452,6 +452,18 @@ Wa Mā Ja'alnā Libasharin Min Qablika Al-Khulda 'Afa'īn Mitta Fahumu Al-Khāli
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا جَعَلْنَا لِبَشَرٍ مِنْ قَبْلِكَ الْخُلْدَ أَفَإِنْ مِتَّ فَهُمُ الْخَالِدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما جعلنا لبشر من قبلك الخلد افان مت فهم الخالدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا جَعَلۡنَا لِبَشَرࣲ مِّن قَبۡلِكَ ٱلۡخُلۡدَۖ أَفَإِی۟ن مِّتَّ فَهُمُ ٱلۡخَـٰلِدُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Anžur Kayfa Kadhabū 'Alá 'Anfusihim Wa Đalla 'Anhum Mā Kānū Yaftarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+انْظُرْ كَيْفَ كَذَبُوا عَلَى أَنْفُسِهِمْ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انظر كيف كذبوا على انفسهم وضل عنهم ما كانوا يفترون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱنظُرۡ كَیۡفَ كَذَبُوا۟ عَلَىٰۤ أَنفُسِهِمۡۚ وَضَلَّ عَنۡهُم مَّا كَانُوا۟ یَفۡتَرُونَ
 
 | Details |  |

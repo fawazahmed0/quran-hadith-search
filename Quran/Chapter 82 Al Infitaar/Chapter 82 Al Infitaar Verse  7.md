@@ -452,6 +452,18 @@ Al-Ladhī Khalaqaka Fasawwāka Fa'adalaka
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الذي خلقك فسواك فعدلك
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ٱلَّذِی خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ
 
 | Details |  |

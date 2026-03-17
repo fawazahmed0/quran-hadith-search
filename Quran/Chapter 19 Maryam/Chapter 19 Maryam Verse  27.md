@@ -452,6 +452,18 @@ Fa'atat Bihi Qawmahā Taĥmiluhu Qālū Yā Maryamu Laqad Ji'ti Shay'āan Farīy
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَتَتْ بِهِ قَوْمَهَا تَحْمِلُهُ قَالُوا يَا مَرْيَمُ لَقَدْ جِئْتِ شَيْئًا فَرِيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاتت به قومها تحمله قالوا يا مريم لقد جيت شييا فريا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَتَتۡ بِهِۦ قَوۡمَهَا تَحۡمِلُهُۥۖ قَالُوا۟ یَـٰمَرۡیَمُ لَقَدۡ جِئۡتِ شَیۡءࣰا فَرِیࣰّا
 
 | Details |  |

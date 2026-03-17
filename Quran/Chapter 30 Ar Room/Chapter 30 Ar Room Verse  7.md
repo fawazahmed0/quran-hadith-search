@@ -452,6 +452,18 @@ Ya'lamūna Žāhirāan Mina Al-Ĥayāati Ad-Dunyā Wa Hum 'Ani Al-'Ākhirati Hum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا وَهُمْ عَنِ الْآخِرَةِ هُمْ غَافِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يعلمون ظاهرا من الحياة الدنيا وهم عن الاخرة هم غافلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَعۡلَمُونَ ظَـٰهِرࣰا مِّنَ ٱلۡحَیَوٰةِ ٱلدُّنۡیَا وَهُمۡ عَنِ ٱلۡءَاخِرَةِ هُمۡ غَـٰفِلُونَ
 
 | Details |  |

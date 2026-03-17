@@ -452,6 +452,18 @@ Hal 'Atāka Ĥadīthu Đayfi 'Ibrāhīma Al-Mukramīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+هَلْ أَتَاكَ حَدِيثُ ضَيْفِ إِبْرَاهِيمَ الْمُكْرَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+هل اتاك حديث ضيف ابراهيم المكرمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 هَلۡ أَتَىٰكَ حَدِیثُ ضَیۡفِ إِبۡرَ ٰهِیمَ ٱلۡمُكۡرَمِینَ
 
 | Details |  |

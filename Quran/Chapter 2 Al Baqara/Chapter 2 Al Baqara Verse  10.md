@@ -452,6 +452,18 @@ Fī Qulūbihim Marađun Fazādahumu Allāhu Marađāan Wa Lahum 'Adhābun 'Alīm
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِي قُلُوبِهِمْ مَرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+في قلوبهم مرض فزادهم الله مرضا ولهم عذاب اليم بما كانوا يكذبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِی قُلُوبِهِم مَّرَضࣱ فَزَادَهُمُ ٱللَّهُ مَرَضࣰاۖ وَلَهُمۡ عَذَابٌ أَلِیمُۢ بِمَا كَانُوا۟ یَكۡذِبُونَ
 
 | Details |  |

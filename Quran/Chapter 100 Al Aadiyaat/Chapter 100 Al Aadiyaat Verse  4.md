@@ -452,6 +452,18 @@ Fa'atharna Bihi Naq'āan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَثَرْنَ بِهِ نَقْعًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاثرن به نقعا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَثَرۡنَ بِهِۦ نَقۡعࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Quli Ad'ū Al-Ladhīna Za'amtum Min Dūnihi Falā Yamlikūna Kashfa Ađ-Đurri '
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلِ ادْعُوا الَّذِينَ زَعَمْتُمْ مِنْ دُونِهِ فَلَا يَمْلِكُونَ كَشْفَ الضُّرِّ عَنْكُمْ وَلَا تَحْوِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل ادعوا الذين زعمتم من دونه فلا يملكون كشف الضر عنكم ولا تحويلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُلِ ٱدۡعُوا۟ ٱلَّذِینَ زَعَمۡتُم مِّن دُونِهِۦ فَلَا یَمۡلِكُونَ كَشۡفَ ٱلضُّرِّ عَنكُمۡ وَلَا تَحۡوِیلًا
 
 | Details |  |

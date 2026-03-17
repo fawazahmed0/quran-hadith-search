@@ -452,6 +452,18 @@ Wa Qālū 'A'ālihatunā Khayrun 'Am Huwa Mā Đarabūhu Laka 'Illā Jadalāan B
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا أَآلِهَتُنَا خَيْرٌ أَمْ هُوَ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًا بَلْ هُمْ قَوْمٌ خَصِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا االهتنا خير ام هو ما ضربوه لك الا جدلا بل هم قوم خصمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوۤا۟ ءَأَ ٰلِهَتُنَا خَیۡرٌ أَمۡ هُوَۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلَۢاۚ بَلۡ هُمۡ قَوۡمٌ خَصِمُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Marfū'atin Muţahharahin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَرْفُوعَةٍ مُطَهَّرَةٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+مرفوعة مطهرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَّرۡفُوعَةࣲ مُّطَهَّرَةِۭ
 
 | Details |  |

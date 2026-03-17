@@ -452,6 +452,18 @@ Falā Ta'jal 'Alayhim 'Innamā Na'uddu Lahum 'Addāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَا تَعْجَلْ عَلَيْهِمْ إِنَّمَا نَعُدُّ لَهُمْ عَدًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلا تعجل عليهم انما نعد لهم عدا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَا تَعۡجَلۡ عَلَیۡهِمۡۖ إِنَّمَا نَعُدُّ لَهُمۡ عَدࣰّا
 
 | Details |  |

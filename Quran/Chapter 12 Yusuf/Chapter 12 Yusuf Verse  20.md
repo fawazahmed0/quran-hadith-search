@@ -452,6 +452,18 @@ Wa Sharawhu Bithamanin Bakhsin Darāhima Ma'dūdatin Wa Kānū Fīhi Mina Az-Zā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ مَعْدُودَةٍ وَكَانُوا فِيهِ مِنَ الزَّاهِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وشروه بثمن بخس دراهم معدودة وكانوا فيه من الزاهدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَشَرَوۡهُ بِثَمَنِۭ بَخۡسࣲ دَرَ ٰهِمَ مَعۡدُودَةࣲ وَكَانُوا۟ فِیهِ مِنَ ٱلزَّ ٰهِدِینَ
 
 | Details |  |

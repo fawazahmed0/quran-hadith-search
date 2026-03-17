@@ -452,6 +452,18 @@ Wa 'Idhā Mariđtu Fahuwa Yashfīni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا مرضت فهو يشفين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا مَرِضۡتُ فَهُوَ یَشۡفِینِ
 
 | Details |  |

@@ -452,6 +452,18 @@ Ula'ika Al-Ladhina La'anahumu Allahu Wa Man Yal'ani Allahu Falan Tajida Lahu Nas
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ الَّذِينَ لَعَنَهُمُ اللَّهُ وَمَنْ يَلْعَنِ اللَّهُ فَلَنْ تَجِدَ لَهُ نَصِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك الذين لعنهم الله ومن يلعن الله فلن تجد له نصيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ ٱلَّذِینَ لَعَنَهُمُ ٱللَّهُۖ وَمَن یَلۡعَنِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ نَصِیرًا
 
 | Details |  |

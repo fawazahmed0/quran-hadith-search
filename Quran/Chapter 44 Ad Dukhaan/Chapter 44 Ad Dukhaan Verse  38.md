@@ -452,6 +452,18 @@ Wa Mā Khalaqnā As-Samāwāti Wa Al-'Arđa Wa Mā Baynahumā Lā'ibīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا لَاعِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وما خلقنا السماوات والارض وما بينهما لاعبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَا خَلَقۡنَا ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضَ وَمَا بَیۡنَهُمَا لَـٰعِبِینَ
 
 | Details |  |

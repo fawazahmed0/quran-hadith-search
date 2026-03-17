@@ -452,6 +452,18 @@ Wa Lā Yaĥsabanna Al-Ladhīna Kafarū Sabaqū 'Innahum Lā Yu'jizūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا يَحْسَبَنَّ الَّذِينَ كَفَرُوا سَبَقُوا إِنَّهُمْ لَا يُعْجِزُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا يحسبن الذين كفروا سبقوا انهم لا يعجزون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا یَحۡسَبَنَّ ٱلَّذِینَ كَفَرُوا۟ سَبَقُوۤا۟ۚ إِنَّهُمۡ لَا یُعۡجِزُونَ
 
 | Details |  |

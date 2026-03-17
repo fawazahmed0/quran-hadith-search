@@ -452,6 +452,18 @@ Falammā 'Aĥassū Ba'sanā 'Idhā Hum Minhā Yarkuđūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلَمَّا أَحَسُّوا بَأْسَنَا إِذَا هُمْ مِنْهَا يَرْكُضُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فلما احسوا باسنا اذا هم منها يركضون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلَمَّاۤ أَحَسُّوا۟ بَأۡسَنَاۤ إِذَا هُم مِّنۡهَا یَرۡكُضُونَ
 
 | Details |  |

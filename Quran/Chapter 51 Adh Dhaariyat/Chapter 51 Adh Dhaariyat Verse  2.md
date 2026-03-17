@@ -452,6 +452,18 @@ Fālĥāmilāti Wiqrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَالْحَامِلَاتِ وِقْرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالحاملات وقرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَٱلۡحَـٰمِلَـٰتِ وِقۡرࣰا
 
 | Details |  |

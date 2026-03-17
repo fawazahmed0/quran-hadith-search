@@ -452,6 +452,18 @@ Faja'alahum Ka'aşfin Ma'kūlin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فجعلهم كعصف ماكول
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَجَعَلَهُمۡ كَعَصۡفࣲ مَّأۡكُولِۭ
 
 | Details |  |

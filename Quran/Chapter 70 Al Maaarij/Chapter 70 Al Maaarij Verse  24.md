@@ -452,6 +452,18 @@ Wa Al-Ladhīna Fī 'Amwālihim Ĥaqqun Ma'lūmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَعْلُومٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين في اموالهم حق معلوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ فِیۤ أَمۡوَ ٰلِهِمۡ حَقࣱّ مَّعۡلُومࣱ
 
 | Details |  |

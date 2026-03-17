@@ -452,6 +452,18 @@ Jannāti 'Adnin Mufattaĥatan Lahumu Al-'Abwābu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+جَنَّاتِ عَدْنٍ مُفَتَّحَةً لَهُمُ الْأَبْوَابُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+جنات عدن مفتحة لهم الابواب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 جَنَّـٰتِ عَدۡنࣲ مُّفَتَّحَةࣰ لَّهُمُ ٱلۡأَبۡوَ ٰبُ
 
 | Details |  |

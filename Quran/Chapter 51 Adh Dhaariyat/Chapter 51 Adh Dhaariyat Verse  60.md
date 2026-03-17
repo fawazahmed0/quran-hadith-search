@@ -452,6 +452,18 @@ Fawaylun Lilladhīna Kafarū Min Yawmihimu Al-Ladhī Yū'adūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَوَيْلٌ لِلَّذِينَ كَفَرُوا مِنْ يَوْمِهِمُ الَّذِي يُوعَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فويل للذين كفروا من يومهم الذي يوعدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَوَیۡلࣱ لِّلَّذِینَ كَفَرُوا۟ مِن یَوۡمِهِمُ ٱلَّذِی یُوعَدُونَ
 
 | Details |  |

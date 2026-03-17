@@ -452,6 +452,18 @@ Innamā Yastajību Al-Ladhīna Yasma'ūna Wa Al-Mawtá Yab'athuhumu Allāhu Thum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّمَا يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ وَالْمَوْتَى يَبْعَثُهُمُ اللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انما يستجيب الذين يسمعون والموتى يبعثهم الله ثم اليه يرجعون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ إِنَّمَا یَسۡتَجِیبُ ٱلَّذِینَ یَسۡمَعُونَۘ وَٱلۡمَوۡتَىٰ یَبۡعَثُهُمُ ٱللَّهُ ثُمَّ إِلَیۡهِ یُرۡجَعُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Laya'lamanna Allāhu Al-Ladhīna 'Āmanū Wa Laya'lamanna Al-Munāfiqīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ آمَنُوا وَلَيَعْلَمَنَّ الْمُنَافِقِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وليعلمن الله الذين امنوا وليعلمن المنافقين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَیَعۡلَمَنَّ ٱللَّهُ ٱلَّذِینَ ءَامَنُوا۟ وَلَیَعۡلَمَنَّ ٱلۡمُنَـٰفِقِینَ
 
 | Details |  |

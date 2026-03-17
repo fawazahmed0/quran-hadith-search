@@ -452,6 +452,18 @@ Tanzīlu Al-Kitābi Lā Rayba Fīhi Min Rabbi Al-'Ālamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَنْزِيلُ الْكِتَابِ لَا رَيْبَ فِيهِ مِنْ رَبِّ الْعَالَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تنزيل الكتاب لا ريب فيه من رب العالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَنزِیلُ ٱلۡكِتَـٰبِ لَا رَیۡبَ فِیهِ مِن رَّبِّ ٱلۡعَـٰلَمِینَ
 
 | Details |  |

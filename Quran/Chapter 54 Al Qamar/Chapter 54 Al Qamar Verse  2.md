@@ -452,6 +452,18 @@ Wa 'In Yaraw 'Āyatan Yu'riđū Wa Yaqūlū Siĥrun Mustamirrun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ يَرَوْا آيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان يروا اية يعرضوا ويقولوا سحر مستمر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن یَرَوۡا۟ ءَایَةࣰ یُعۡرِضُوا۟ وَیَقُولُوا۟ سِحۡرࣱ مُّسۡتَمِرࣱّ
 
 | Details |  |

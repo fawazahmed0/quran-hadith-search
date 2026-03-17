@@ -452,6 +452,18 @@ Falyad'u Nādiyah
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَلْيَدْعُ نَادِيَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فليدع ناديه
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَلۡیَدۡعُ نَادِیَهُۥ
 
 | Details |  |

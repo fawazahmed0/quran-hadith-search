@@ -452,6 +452,18 @@ Wa Kāna Lahu Thamarun Faqāla Lişāĥibihi Wa Huwa Yuĥāwiruhu 'Anā 'Aktharu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَانَ لَهُ ثَمَرٌ فَقَالَ لِصَاحِبِهِ وَهُوَ يُحَاوِرُهُ أَنَا أَكْثَرُ مِنْكَ مَالًا وَأَعَزُّ نَفَرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكان له ثمر فقال لصاحبه وهو يحاوره انا اكثر منك مالا واعز نفرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَانَ لَهُۥ ثَمَرࣱ فَقَالَ لِصَـٰحِبِهِۦ وَهُوَ یُحَاوِرُهُۥۤ أَنَا۠ أَكۡثَرُ مِنكَ مَالࣰا وَأَعَزُّ نَفَرࣰا
 
 | Details |  |

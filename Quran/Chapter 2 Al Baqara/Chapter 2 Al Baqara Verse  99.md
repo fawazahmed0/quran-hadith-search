@@ -452,6 +452,18 @@ Wa Laqad 'Anzalnā 'Ilayka 'Āyātin Bayyinātin Wa Mā Yakfuru Bihā 'Illā Al-
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ أَنْزَلْنَا إِلَيْكَ آيَاتٍ بَيِّنَاتٍ وَمَا يَكْفُرُ بِهَا إِلَّا الْفَاسِقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد انزلنا اليك ايات بينات وما يكفر بها الا الفاسقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ أَنزَلۡنَاۤ إِلَیۡكَ ءَایَـٰتِۭ بَیِّنَـٰتࣲۖ وَمَا یَكۡفُرُ بِهَاۤ إِلَّا ٱلۡفَـٰسِقُونَ
 
 | Details |  |

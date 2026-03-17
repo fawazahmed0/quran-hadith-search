@@ -452,6 +452,18 @@ Faminhum Man 'Āmana Bihi Wa Minhum Man Şadda 'Anhu Wa Kafá Bijahannama Sa'īr
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمِنْهُمْ مَنْ آمَنَ بِهِ وَمِنْهُمْ مَنْ صَدَّ عَنْهُ وَكَفَى بِجَهَنَّمَ سَعِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فمنهم من امن به ومنهم من صد عنه وكفى بجهنم سعيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمِنۡهُم مَّنۡ ءَامَنَ بِهِۦ وَمِنۡهُم مَّن صَدَّ عَنۡهُۚ وَكَفَىٰ بِجَهَنَّمَ سَعِیرًا
 
 | Details |  |

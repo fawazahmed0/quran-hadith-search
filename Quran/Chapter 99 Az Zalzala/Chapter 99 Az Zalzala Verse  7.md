@@ -452,6 +452,18 @@ Faman Ya'mal Mithqāla Dharratin Khayrāan Yarahu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فمن يعمل مثقال ذرة خيرا يره
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَمَن یَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَیۡرࣰا یَرَهُۥ
 
 | Details |  |

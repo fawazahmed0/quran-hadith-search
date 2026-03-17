@@ -452,6 +452,18 @@ Kallā Bal Tuĥibbūna Al-'Ājilaha
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلا بل تحبون العاجلة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كَلَّا بَلۡ تُحِبُّونَ ٱلۡعَاجِلَةَ
 
 | Details |  |

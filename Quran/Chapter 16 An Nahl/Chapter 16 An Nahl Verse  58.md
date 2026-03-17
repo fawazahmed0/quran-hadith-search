@@ -452,6 +452,18 @@ Wa 'Idhā Bushira 'Aĥaduhum Bil-'Unthá Žalla Wajhuhu Muswaddāan Wa Huwa Kaž
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا بُشِّرَ أَحَدُهُمْ بِالْأُنْثَى ظَلَّ وَجْهُهُ مُسْوَدًّا وَهُوَ كَظِيمٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا بشر احدهم بالانثى ظل وجهه مسودا وهو كظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا بُشِّرَ أَحَدُهُم بِٱلۡأُنثَىٰ ظَلَّ وَجۡهُهُۥ مُسۡوَدࣰّا وَهُوَ كَظِیمࣱ
 
 | Details |  |

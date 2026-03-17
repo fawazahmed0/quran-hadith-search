@@ -452,6 +452,18 @@ Wa Kadhalika Nufaşşilu Al-'Āyāti Wa Litastabīna Sabīlu Al-Mujrimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَذَلِكَ نُفَصِّلُ الْآيَاتِ وَلِتَسْتَبِينَ سَبِيلُ الْمُجْرِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكذلك نفصل الايات ولتستبين سبيل المجرمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَذَ ٰلِكَ نُفَصِّلُ ٱلۡءَایَـٰتِ وَلِتَسۡتَبِینَ سَبِیلُ ٱلۡمُجۡرِمِینَ
 
 | Details |  |

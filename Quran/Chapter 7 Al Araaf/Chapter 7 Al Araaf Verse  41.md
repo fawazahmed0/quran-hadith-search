@@ -452,6 +452,18 @@ Lahum Min Jahannama Mihādun Wa Min Fawqihim Ghawāshin Wa Kadhalika Najzī Až-
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَهُمْ مِنْ جَهَنَّمَ مِهَادٌ وَمِنْ فَوْقِهِمْ غَوَاشٍ وَكَذَلِكَ نَجْزِي الظَّالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لهم من جهنم مهاد ومن فوقهم غواش وكذلك نجزي الظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَهُم مِّن جَهَنَّمَ مِهَادࣱ وَمِن فَوۡقِهِمۡ غَوَاشࣲۚ وَكَذَ ٰلِكَ نَجۡزِی ٱلظَّـٰلِمِینَ
 
 | Details |  |

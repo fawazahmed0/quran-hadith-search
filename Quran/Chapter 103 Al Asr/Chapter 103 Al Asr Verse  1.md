@@ -452,6 +452,18 @@ Wa Al-'Aşri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْعَصْرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والعصر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡعَصۡرِ
 
 | Details |  |

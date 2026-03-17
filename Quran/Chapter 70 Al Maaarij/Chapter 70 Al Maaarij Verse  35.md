@@ -452,6 +452,18 @@ Ula'ika Fi Jannatin Mukramuna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ فِي جَنَّاتٍ مُكْرَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك في جنات مكرمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ فِی جَنَّـٰتࣲ مُّكۡرَمُونَ
 
 | Details |  |

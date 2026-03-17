@@ -452,6 +452,18 @@ Lā Yus'alu 'Ammā Yaf'alu Wa Hum Yus'alūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا يُسْأَلُ عَمَّا يَفْعَلُ وَهُمْ يُسْأَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا يسال عما يفعل وهم يسالون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَا یُسۡءَلُ عَمَّا یَفۡعَلُ وَهُمۡ یُسۡءَلُونَ
 
 | Details |  |

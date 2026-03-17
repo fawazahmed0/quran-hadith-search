@@ -452,6 +452,18 @@ Wa Qāla Allāhu Lā Tattakhidhū 'Ilahayni Athnayni 'Innamā Huwa 'Ilahun Wāĥ
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالَ اللَّهُ لَا تَتَّخِذُوا إِلَهَيْنِ اثْنَيْنِ إِنَّمَا هُوَ إِلَهٌ وَاحِدٌ فَإِيَّايَ فَارْهَبُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقال الله لا تتخذوا الهين اثنين انما هو اله واحد فاياي فارهبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَقَالَ ٱللَّهُ لَا تَتَّخِذُوۤا۟ إِلَـٰهَیۡنِ ٱثۡنَیۡنِۖ إِنَّمَا هُوَ إِلَـٰهࣱ وَ ٰحِدࣱ فَإِیَّـٰیَ فَٱرۡهَبُونِ
 
 | Details |  |

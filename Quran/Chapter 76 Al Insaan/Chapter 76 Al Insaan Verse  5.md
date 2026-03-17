@@ -452,6 +452,18 @@ Inna Al-'Abrāra Yashrabūna Min Ka'sin Kāna Mizājuhā Kāfūrāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الْأَبْرَارَ يَشْرَبُونَ مِنْ كَأْسٍ كَانَ مِزَاجُهَا كَافُورًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الابرار يشربون من كاس كان مزاجها كافورا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلۡأَبۡرَارَ یَشۡرَبُونَ مِن كَأۡسࣲ كَانَ مِزَاجُهَا كَافُورًا
 
 | Details |  |

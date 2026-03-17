@@ -452,6 +452,18 @@ Wa 'Idhā Ĥushira An-Nāsu Kānū Lahum 'A'dā'an Wa Kānū Bi'ibādatihim Kāf
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذَا حُشِرَ النَّاسُ كَانُوا لَهُمْ أَعْدَاءً وَكَانُوا بِعِبَادَتِهِمْ كَافِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذا حشر الناس كانوا لهم اعداء وكانوا بعبادتهم كافرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذَا حُشِرَ ٱلنَّاسُ كَانُوا۟ لَهُمۡ أَعۡدَاۤءࣰ وَكَانُوا۟ بِعِبَادَتِهِمۡ كَـٰفِرِینَ
 
 | Details |  |

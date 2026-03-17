@@ -452,6 +452,18 @@ Ya'lamūna Mā Taf'alūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَعْلَمُونَ مَا تَفْعَلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يعلمون ما تفعلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَعۡلَمُونَ مَا تَفۡعَلُونَ
 
 | Details |  |

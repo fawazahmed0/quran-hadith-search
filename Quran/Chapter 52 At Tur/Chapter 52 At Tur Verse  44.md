@@ -452,6 +452,18 @@ Wa 'In Yaraw Kisfāan Mina As-Samā'i Sāqiţāan Yaqūlū Saĥābun Markūmun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ يَرَوْا كِسْفًا مِنَ السَّمَاءِ سَاقِطًا يَقُولُوا سَحَابٌ مَرْكُومٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان يروا كسفا من السماء ساقطا يقولوا سحاب مركوم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن یَرَوۡا۟ كِسۡفࣰا مِّنَ ٱلسَّمَاۤءِ سَاقِطࣰا یَقُولُوا۟ سَحَابࣱ مَّرۡكُومࣱ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fawajadā 'Abdāan Min 'Ibādinā 'Ātaynāhu Raĥmatan Min 'Indinā Wa 'Allamn�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَوَجَدَا عَبْدًا مِنْ عِبَادِنَا آتَيْنَاهُ رَحْمَةً مِنْ عِنْدِنَا وَعَلَّمْنَاهُ مِنْ لَدُنَّا عِلْمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فوجدا عبدا من عبادنا اتيناه رحمة من عندنا وعلمناه من لدنا علما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَوَجَدَا عَبۡدࣰا مِّنۡ عِبَادِنَاۤ ءَاتَیۡنَـٰهُ رَحۡمَةࣰ مِّنۡ عِندِنَا وَعَلَّمۡنَـٰهُ مِن لَّدُنَّا عِلۡمࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Innamā Al-Mu'uminūna 'Ikhwatun Fa'aşliĥū Bayna 'Akhawaykum Wa Attaqū Allā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انما المومنون اخوة فاصلحوا بين اخويكم واتقوا الله لعلكم ترحمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّمَا ٱلۡمُؤۡمِنُونَ إِخۡوَةࣱ فَأَصۡلِحُوا۟ بَیۡنَ أَخَوَیۡكُمۡۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمۡ تُرۡحَمُونَ
 
 | Details |  |

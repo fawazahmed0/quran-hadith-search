@@ -452,6 +452,18 @@ Innahu Man Ya'ti Rabbahu Mujrimāan Fa'inna Lahu Jahannama Lā Yamūtu Fīhā Wa
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُ مَنْ يَأْتِ رَبَّهُ مُجْرِمًا فَإِنَّ لَهُ جَهَنَّمَ لَا يَمُوتُ فِيهَا وَلَا يَحْيَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انه من يات ربه مجرما فان له جهنم لا يموت فيها ولا يحيى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُۥ مَن یَأۡتِ رَبَّهُۥ مُجۡرِمࣰا فَإِنَّ لَهُۥ جَهَنَّمَ لَا یَمُوتُ فِیهَا وَلَا یَحۡیَىٰ
 
 | Details |  |

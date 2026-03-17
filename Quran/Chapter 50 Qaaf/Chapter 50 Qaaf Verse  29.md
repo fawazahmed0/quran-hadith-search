@@ -452,6 +452,18 @@ Mā Yubaddalu Al-Qawlu Ladayya Wa Mā 'Anā Bižallāmin Lil'abīdi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا يُبَدَّلُ الْقَوْلُ لَدَيَّ وَمَا أَنَا بِظَلَّامٍ لِلْعَبِيدِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما يبدل القول لدي وما انا بظلام للعبيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا یُبَدَّلُ ٱلۡقَوۡلُ لَدَیَّ وَمَاۤ أَنَا۠ بِظَلَّـٰمࣲ لِّلۡعَبِیدِ
 
 | Details |  |

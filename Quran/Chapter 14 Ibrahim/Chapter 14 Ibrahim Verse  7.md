@@ -452,6 +452,18 @@ Wa 'Idh Ta'adhana Rabbukum La'in Shakartum La'azīdannakum Wa La'in Kafartum 'In
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ وَلَئِنْ كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واذ تاذن ربكم لين شكرتم لازيدنكم ولين كفرتم ان عذابي لشديد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِذۡ تَأَذَّنَ رَبُّكُمۡ لَئِن شَكَرۡتُمۡ لَأَزِیدَنَّكُمۡۖ وَلَئِن كَفَرۡتُمۡ إِنَّ عَذَابِی لَشَدِیدࣱ
 
 | Details |  |

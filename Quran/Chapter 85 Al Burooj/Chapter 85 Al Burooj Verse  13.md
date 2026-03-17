@@ -452,6 +452,18 @@ Innahu Huwa Yubdi'u Wa Yu'īdu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انه هو يبدي ويعيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهُۥ هُوَ یُبۡدِئُ وَیُعِیدُ
 
 | Details |  |

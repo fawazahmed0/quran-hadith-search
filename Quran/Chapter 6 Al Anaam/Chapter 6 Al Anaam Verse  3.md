@@ -452,6 +452,18 @@ Wa Huwa Allāhu Fī As-Samāwāti Wa Fī Al-'Arđi Ya'lamu Sirrakum Wa Jahrakum 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُوَ اللَّهُ فِي السَّمَاوَاتِ وَفِي الْأَرْضِ يَعْلَمُ سِرَّكُمْ وَجَهْرَكُمْ وَيَعْلَمُ مَا تَكْسِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهو الله في السماوات وفي الارض يعلم سركم وجهركم ويعلم ما تكسبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُوَ ٱللَّهُ فِی ٱلسَّمَـٰوَ ٰتِ وَفِی ٱلۡأَرۡضِ یَعۡلَمُ سِرَّكُمۡ وَجَهۡرَكُمۡ وَیَعۡلَمُ مَا تَكۡسِبُونَ
 
 | Details |  |

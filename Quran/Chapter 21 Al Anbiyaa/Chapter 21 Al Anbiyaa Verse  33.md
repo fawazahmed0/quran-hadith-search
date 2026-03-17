@@ -452,6 +452,18 @@ Wa Huwa Al-Ladhī Khalaqa Al-Layla Wa An-Nahāra Wa Ash-Shamsa Wa Al-Qamara Kull
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُوَ الَّذِي خَلَقَ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ كُلٌّ فِي فَلَكٍ يَسْبَحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهو الذي خلق الليل والنهار والشمس والقمر كل في فلك يسبحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُوَ ٱلَّذِی خَلَقَ ٱلَّیۡلَ وَٱلنَّهَارَ وَٱلشَّمۡسَ وَٱلۡقَمَرَۖ كُلࣱّ فِی فَلَكࣲ یَسۡبَحُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Jannātu 'Adnin Tajrī Min Taĥtihā Al-'Anhāru Khālidīna Fīhā Wa Dhalika J
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ مَنْ تَزَكَّى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+جنات عدن تجري من تحتها الانهار خالدين فيها وذلك جزاء من تزكى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 جَنَّـٰتُ عَدۡنࣲ تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ خَـٰلِدِینَ فِیهَاۚ وَذَ ٰلِكَ جَزَاۤءُ مَن تَزَكَّىٰ
 
 | Details |  |

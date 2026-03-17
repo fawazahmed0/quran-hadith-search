@@ -452,6 +452,18 @@ Qāla Khudh/hā Wa Lā Takhaf Sanu'īduhā Sīratahā Al-'Ūlá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ خُذْهَا وَلَا تَخَفْ سَنُعِيدُهَا سِيرَتَهَا الْأُولَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال خذها ولا تخف سنعيدها سيرتها الاولى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ خُذۡهَا وَلَا تَخَفۡۖ سَنُعِیدُهَا سِیرَتَهَا ٱلۡأُولَىٰ
 
 | Details |  |

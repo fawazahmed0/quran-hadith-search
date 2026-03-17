@@ -452,6 +452,18 @@ Wa Yukallimu An-Nāsa Fī Al-Mahdi Wa Kahlāan Wa Mina Aş-Şāliĥīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَيُكَلِّمُ النَّاسَ فِي الْمَهْدِ وَكَهْلًا وَمِنَ الصَّالِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ويكلم الناس في المهد وكهلا ومن الصالحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَیُكَلِّمُ ٱلنَّاسَ فِی ٱلۡمَهۡدِ وَكَهۡلࣰا وَمِنَ ٱلصَّـٰلِحِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Lahum 'Alayya Dhanbun Fa'akhāfu 'An Yaqtulūni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَهُمْ عَلَيَّ ذَنْبٌ فَأَخَافُ أَنْ يَقْتُلُونِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولهم علي ذنب فاخاف ان يقتلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَهُمۡ عَلَیَّ ذَنۢبࣱ فَأَخَافُ أَن یَقۡتُلُونِ
 
 | Details |  |

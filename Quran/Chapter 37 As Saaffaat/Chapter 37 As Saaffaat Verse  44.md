@@ -452,6 +452,18 @@ Alá Sururin Mutaqābilīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَلَى سُرُرٍ مُتَقَابِلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+على سرر متقابلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَلَىٰ سُرُرࣲ مُّتَقَـٰبِلِینَ
 
 | Details |  |

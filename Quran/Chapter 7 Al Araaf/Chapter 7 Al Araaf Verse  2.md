@@ -452,6 +452,18 @@ Kitābun 'Unzila 'Ilayka Falā Yakun Fī Şadrika Ĥarajun Minhu Litundhira Bihi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كِتَابٌ أُنْزِلَ إِلَيْكَ فَلَا يَكُنْ فِي صَدْرِكَ حَرَجٌ مِنْهُ لِتُنْذِرَ بِهِ وَذِكْرَى لِلْمُؤْمِنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كتاب انزل اليك فلا يكن في صدرك حرج منه لتنذر به وذكرى للمومنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كِتَـٰبٌ أُنزِلَ إِلَیۡكَ فَلَا یَكُن فِی صَدۡرِكَ حَرَجࣱ مِّنۡهُ لِتُنذِرَ بِهِۦ وَذِكۡرَىٰ لِلۡمُؤۡمِنِینَ
 
 | Details |  |

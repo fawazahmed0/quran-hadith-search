@@ -452,6 +452,18 @@ Wa 'Arsalnāhu 'Ilá Miā'ati 'Alfin 'Aw Yazīdūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَرْسَلْنَاهُ إِلَى مِائَةِ أَلْفٍ أَوْ يَزِيدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وارسلناه الى ماية الف او يزيدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَرۡسَلۡنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلۡفٍ أَوۡ یَزِیدُونَ
 
 | Details |  |

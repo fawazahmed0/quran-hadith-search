@@ -452,6 +452,18 @@ Wa Laqad 'Ātaynā 'Ibrāhīma Rushdahu Min Qablu Wa Kunnā Bihi 'Ālimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ آتَيْنَا إِبْرَاهِيمَ رُشْدَهُ مِنْ قَبْلُ وَكُنَّا بِهِ عَالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد اتينا ابراهيم رشده من قبل وكنا به عالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ وَلَقَدۡ ءَاتَیۡنَاۤ إِبۡرَ ٰهِیمَ رُشۡدَهُۥ مِن قَبۡلُ وَكُنَّا بِهِۦ عَـٰلِمِینَ
 
 | Details |  |

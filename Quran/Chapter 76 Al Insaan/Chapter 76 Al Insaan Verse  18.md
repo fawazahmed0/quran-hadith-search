@@ -452,6 +452,18 @@ Aynāan Fīhā Tusammá Salsabīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+عَيْنًا فِيهَا تُسَمَّى سَلْسَبِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+عينا فيها تسمى سلسبيلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 عَیۡنࣰا فِیهَا تُسَمَّىٰ سَلۡسَبِیلࣰا
 
 | Details |  |

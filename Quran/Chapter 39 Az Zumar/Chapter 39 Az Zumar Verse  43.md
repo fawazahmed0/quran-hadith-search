@@ -452,6 +452,18 @@ Ami Attakhadhū Min Dūni Allāhi Shufa'ā'a Qul 'Awalaw Kānū Lā Yamlikūna S
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمِ اتَّخَذُوا مِنْ دُونِ اللَّهِ شُفَعَاءَ قُلْ أَوَلَوْ كَانُوا لَا يَمْلِكُونَ شَيْئًا وَلَا يَعْقِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام اتخذوا من دون الله شفعاء قل اولو كانوا لا يملكون شييا ولا يعقلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمِ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ شُفَعَاۤءَۚ قُلۡ أَوَ لَوۡ كَانُوا۟ لَا یَمۡلِكُونَ شَیۡءࣰا وَلَا یَعۡقِلُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Yawma Yunfakhu Fī Aş-Şūri Fata'tūna 'Afwājāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ يُنْفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم ينفخ في الصور فتاتون افواجا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ یُنفَخُ فِی ٱلصُّورِ فَتَأۡتُونَ أَفۡوَاجࣰا
 
 | Details |  |

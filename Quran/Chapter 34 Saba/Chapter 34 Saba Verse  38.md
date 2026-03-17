@@ -452,6 +452,18 @@ Wa Al-Ladhīna Yas'awna Fī 'Āyātinā Mu'ājizīna 'Ūlā'ika Fī Al-'Adhābi 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ يَسْعَوْنَ فِي آيَاتِنَا مُعَاجِزِينَ أُولَئِكَ فِي الْعَذَابِ مُحْضَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين يسعون في اياتنا معاجزين اوليك في العذاب محضرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ یَسۡعَوۡنَ فِیۤ ءَایَـٰتِنَا مُعَـٰجِزِینَ أُو۟لَـٰۤئِكَ فِی ٱلۡعَذَابِ مُحۡضَرُونَ
 
 | Details |  |

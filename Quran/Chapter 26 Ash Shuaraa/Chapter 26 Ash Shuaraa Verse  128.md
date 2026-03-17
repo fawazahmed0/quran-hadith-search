@@ -452,6 +452,18 @@ Atabnūna Bikulli Rī'in 'Āyatan Ta'bathūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَتَبْنُونَ بِكُلِّ رِيعٍ آيَةً تَعْبَثُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اتبنون بكل ريع اية تعبثون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَتَبۡنُونَ بِكُلِّ رِیعٍ ءَایَةࣰ تَعۡبَثُونَ
 
 | Details |  |

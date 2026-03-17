@@ -452,6 +452,18 @@ Innahā Tarmī Bishararin Kālqaşri
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّهَا تَرْمِي بِشَرَرٍ كَالْقَصْرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انها ترمي بشرر كالقصر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّهَا تَرۡمِی بِشَرَرࣲ كَٱلۡقَصۡرِ
 
 | Details |  |

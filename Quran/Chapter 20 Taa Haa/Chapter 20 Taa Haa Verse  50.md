@@ -452,6 +452,18 @@ Qāla Rabbunā Al-Ladhī 'A'ţá Kulla Shay'in Khalqahu Thumma Hadá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ رَبُّنَا الَّذِي أَعْطَى كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال ربنا الذي اعطى كل شيء خلقه ثم هدى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ رَبُّنَا ٱلَّذِیۤ أَعۡطَىٰ كُلَّ شَیۡءٍ خَلۡقَهُۥ ثُمَّ هَدَىٰ
 
 | Details |  |

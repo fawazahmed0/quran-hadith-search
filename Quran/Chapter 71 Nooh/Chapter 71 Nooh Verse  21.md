@@ -452,6 +452,18 @@ Qāla Nūĥun Rabbi 'Innahum 'Aşawnī Wa Attaba'ū Man Lam Yazid/hu Māluhu Wa 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ نُوحٌ رَبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَنْ لَمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال نوح رب انهم عصوني واتبعوا من لم يزده ماله وولده الا خسارا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ نُوحࣱ رَّبِّ إِنَّهُمۡ عَصَوۡنِی وَٱتَّبَعُوا۟ مَن لَّمۡ یَزِدۡهُ مَالُهُۥ وَوَلَدُهُۥۤ إِلَّا خَسَارࣰا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Astami' Yawma Yunādi Al-Munādi Min Makānin Qarībin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَاسْتَمِعْ يَوْمَ يُنَادِ الْمُنَادِ مِنْ مَكَانٍ قَرِيبٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+واستمع يوم يناد المناد من مكان قريب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱسۡتَمِعۡ یَوۡمَ یُنَادِ ٱلۡمُنَادِ مِن مَّكَانࣲ قَرِیبࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Qihimu As-Sayyi'āti Wa Man Taqī As-Sayyi'āti Yawma'idhin Faqad Raĥimtahu 
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقِهِمُ السَّيِّئَاتِ وَمَنْ تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ رَحِمْتَهُ وَذَلِكَ هُوَ الْفَوْزُ الْعَظِيمُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقهم السييات ومن تق السييات يوميذ فقد رحمته وذلك هو الفوز العظيم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقِهِمُ ٱلسَّیِّءَاتِۚ وَمَن تَقِ ٱلسَّیِّءَاتِ یَوۡمَئِذࣲ فَقَدۡ رَحِمۡتَهُۥۚ وَذَ ٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِیمُ
 
 | Details |  |

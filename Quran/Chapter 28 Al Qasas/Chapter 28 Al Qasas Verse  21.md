@@ -452,6 +452,18 @@ Fakharaja Minhā Khā'ifāan Yataraqqabu Qāla Rabbi Najjinī Mina Al-Qawmi Až-
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَخَرَجَ مِنْهَا خَائِفًا يَتَرَقَّبُ قَالَ رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فخرج منها خايفا يترقب قال رب نجني من القوم الظالمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَخَرَجَ مِنۡهَا خَاۤئِفࣰا یَتَرَقَّبُۖ قَالَ رَبِّ نَجِّنِی مِنَ ٱلۡقَوۡمِ ٱلظَّـٰلِمِینَ
 
 | Details |  |

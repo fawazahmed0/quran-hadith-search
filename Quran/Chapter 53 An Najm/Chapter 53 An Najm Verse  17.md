@@ -452,6 +452,18 @@ Mā Zāgha Al-Başaru Wa Mā Ţaghá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَا زَاغَ الْبَصَرُ وَمَا طَغَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ما زاغ البصر وما طغى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَا زَاغَ ٱلۡبَصَرُ وَمَا طَغَىٰ
 
 | Details |  |

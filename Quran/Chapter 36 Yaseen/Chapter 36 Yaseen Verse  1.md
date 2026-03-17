@@ -452,6 +452,18 @@ Yā -Sīn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يس
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يس
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یسۤ
 
 | Details |  |

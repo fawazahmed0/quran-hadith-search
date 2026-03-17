@@ -452,6 +452,18 @@ Wa 'Amţarnā 'Alayhim Maţarāan Fānžur Kayfa Kāna 'Āqibatu Al-Mujrimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَمْطَرْنَا عَلَيْهِمْ مَطَرًا فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُجْرِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وامطرنا عليهم مطرا فانظر كيف كان عاقبة المجرمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَمۡطَرۡنَا عَلَیۡهِم مَّطَرࣰاۖ فَٱنظُرۡ كَیۡفَ كَانَ عَـٰقِبَةُ ٱلۡمُجۡرِمِینَ
 
 | Details |  |

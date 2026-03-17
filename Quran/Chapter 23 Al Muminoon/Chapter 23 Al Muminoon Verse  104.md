@@ -452,6 +452,18 @@ Talfaĥu Wujūhahumu An-Nāru Wa Hum Fīhā Kāliĥūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+تَلْفَحُ وُجُوهَهُمُ النَّارُ وَهُمْ فِيهَا كَالِحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+تلفح وجوههم النار وهم فيها كالحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 تَلۡفَحُ وُجُوهَهُمُ ٱلنَّارُ وَهُمۡ فِیهَا كَـٰلِحُونَ
 
 | Details |  |

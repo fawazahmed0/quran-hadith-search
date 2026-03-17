@@ -452,6 +452,18 @@ Wa 'Innahu Laĥasratun 'Alá Al-Kāfirīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّهُ لَحَسْرَةٌ عَلَى الْكَافِرِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه لحسرة على الكافرين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّهُۥ لَحَسۡرَةٌ عَلَى ٱلۡكَـٰفِرِینَ
 
 | Details |  |

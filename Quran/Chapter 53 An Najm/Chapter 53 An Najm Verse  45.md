@@ -452,6 +452,18 @@ Wa 'Annahu Khalaqa Az-Zawjayni Adh-Dhakara Wa Al-'Unthá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنَّهُ خَلَقَ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنْثَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانه خلق الزوجين الذكر والانثى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنَّهُۥ خَلَقَ ٱلزَّوۡجَیۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰ
 
 | Details |  |

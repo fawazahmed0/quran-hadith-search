@@ -452,6 +452,18 @@ Fa'immā Nadh/habanna Bika Fa'innā Minhum Muntaqimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَإِمَّا نَذْهَبَنَّ بِكَ فَإِنَّا مِنْهُمْ مُنْتَقِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فاما نذهبن بك فانا منهم منتقمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَإِمَّا نَذۡهَبَنَّ بِكَ فَإِنَّا مِنۡهُم مُّنتَقِمُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ A'idhā Kunnā 'Ižāmāan Nakhirahan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَإِذَا كُنَّا عِظَامًا نَخِرَةً
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ااذا كنا عظاما نخرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَءِذَا كُنَّا عِظَـٰمࣰا نَّخِرَةࣰ
 
 | Details |  |

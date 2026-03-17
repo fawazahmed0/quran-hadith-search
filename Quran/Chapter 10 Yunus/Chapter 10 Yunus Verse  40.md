@@ -452,6 +452,18 @@ Wa Minhum Man Yu'uminu Bihi Wa Minhum Man Lā Yu'uminu Bihi Wa Rabbuka 'A'lamu B
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمِنْهُمْ مَنْ يُؤْمِنُ بِهِ وَمِنْهُمْ مَنْ لَا يُؤْمِنُ بِهِ وَرَبُّكَ أَعْلَمُ بِالْمُفْسِدِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومنهم من يومن به ومنهم من لا يومن به وربك اعلم بالمفسدين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمِنۡهُم مَّن یُؤۡمِنُ بِهِۦ وَمِنۡهُم مَّن لَّا یُؤۡمِنُ بِهِۦۚ وَرَبُّكَ أَعۡلَمُ بِٱلۡمُفۡسِدِینَ
 
 | Details |  |

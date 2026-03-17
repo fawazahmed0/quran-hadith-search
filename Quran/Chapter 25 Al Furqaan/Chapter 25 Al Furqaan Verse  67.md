@@ -452,6 +452,18 @@ Wa Al-Ladhīna 'Idhā 'Anfaqū Lam Yusrifū Wa Lam Yaqturū Wa Kāna Bayna Dhāl
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِينَ إِذَا أَنْفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا وَكَانَ بَيْنَ ذَلِكَ قَوَامًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذين اذا انفقوا لم يسرفوا ولم يقتروا وكان بين ذلك قواما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِینَ إِذَاۤ أَنفَقُوا۟ لَمۡ یُسۡرِفُوا۟ وَلَمۡ یَقۡتُرُوا۟ وَكَانَ بَیۡنَ ذَ ٰلِكَ قَوَامࣰا
 
 | Details |  |

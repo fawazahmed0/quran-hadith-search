@@ -452,6 +452,18 @@ Laqad Kāna Fī Yūsufa Wa 'Ikhwatihi 'Āyātun Lilssā'ilīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَقَدْ كَانَ فِي يُوسُفَ وَإِخْوَتِهِ آيَاتٌ لِلسَّائِلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لقد كان في يوسف واخوته ايات للسايلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ لَّقَدۡ كَانَ فِی یُوسُفَ وَإِخۡوَتِهِۦۤ ءَایَـٰتࣱ لِّلسَّاۤئِلِینَ
 
 | Details |  |

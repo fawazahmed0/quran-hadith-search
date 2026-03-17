@@ -452,6 +452,18 @@ Ayaĥsabūna 'Annamā Numidduhum Bihi Min Mālin Wa Banīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُمْ بِهِ مِنْ مَالٍ وَبَنِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ايحسبون انما نمدهم به من مال وبنين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَیَحۡسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ مِن مَّالࣲ وَبَنِینَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Qālū 'In Hādhā 'Illā Siĥrun Mubīnun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَقَالُوا إِنْ هَذَا إِلَّا سِحْرٌ مُبِينٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وقالوا ان هذا الا سحر مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَقَالُوۤا۟ إِنۡ هَـٰذَاۤ إِلَّا سِحۡرࣱ مُّبِینٌ
 
 | Details |  |

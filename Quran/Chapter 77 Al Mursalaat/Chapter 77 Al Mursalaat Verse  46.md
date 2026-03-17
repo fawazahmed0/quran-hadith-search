@@ -452,6 +452,18 @@ Kulū Wa Tamatta'ū Qalīlāan 'Innakum Mujrimūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كُلُوا وَتَمَتَّعُوا قَلِيلًا إِنَّكُمْ مُجْرِمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كلوا وتمتعوا قليلا انكم مجرمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كُلُوا۟ وَتَمَتَّعُوا۟ قَلِیلًا إِنَّكُم مُّجۡرِمُونَ
 
 | Details |  |

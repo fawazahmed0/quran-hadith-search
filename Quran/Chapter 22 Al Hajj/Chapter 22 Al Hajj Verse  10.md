@@ -452,6 +452,18 @@ Dhālika Bimā Qaddamat Yadāka Wa 'Anna Allāha Laysa Bižallāmin Lil'abīdi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ بِمَا قَدَّمَتْ يَدَاكَ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِلْعَبِيدِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك بما قدمت يداك وان الله ليس بظلام للعبيد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ بِمَا قَدَّمَتۡ یَدَاكَ وَأَنَّ ٱللَّهَ لَیۡسَ بِظَلَّـٰمࣲ لِّلۡعَبِیدِ
 
 | Details |  |

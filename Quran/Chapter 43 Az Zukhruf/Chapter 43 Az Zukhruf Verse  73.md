@@ -452,6 +452,18 @@ Lakum Fīhā Fākihatun Kathīratun Minhā Ta'kulūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَكُمْ فِيهَا فَاكِهَةٌ كَثِيرَةٌ مِنْهَا تَأْكُلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لكم فيها فاكهة كثيرة منها تاكلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَكُمۡ فِیهَا فَـٰكِهَةࣱ كَثِیرَةࣱ مِّنۡهَا تَأۡكُلُونَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Fakhalafa Min Ba'dihim Khalfun 'Ađā'ū Aş-Şalāata Wa Attaba'ū Ash-Shahawā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَخَلَفَ مِنْ بَعْدِهِمْ خَلْفٌ أَضَاعُوا الصَّلَاةَ وَاتَّبَعُوا الشَّهَوَاتِ فَسَوْفَ يَلْقَوْنَ غَيًّا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فخلف من بعدهم خلف اضاعوا الصلاة واتبعوا الشهوات فسوف يلقون غيا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ فَخَلَفَ مِنۢ بَعۡدِهِمۡ خَلۡفٌ أَضَاعُوا۟ ٱلصَّلَوٰةَ وَٱتَّبَعُوا۟ ٱلشَّهَوَ ٰتِۖ فَسَوۡفَ یَلۡقَوۡنَ غَیًّا
 
 | Details |  |

@@ -452,6 +452,18 @@ Wa Kadhaba Bihi Qawmuka Wa Huwa Al-Ĥaqqu Qul Lastu 'Alaykum Biwakīlin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَكَذَّبَ بِهِ قَوْمُكَ وَهُوَ الْحَقُّ قُلْ لَسْتُ عَلَيْكُمْ بِوَكِيلٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وكذب به قومك وهو الحق قل لست عليكم بوكيل
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَكَذَّبَ بِهِۦ قَوۡمُكَ وَهُوَ ٱلۡحَقُّۚ قُل لَّسۡتُ عَلَیۡكُم بِوَكِیلࣲ
 
 | Details |  |

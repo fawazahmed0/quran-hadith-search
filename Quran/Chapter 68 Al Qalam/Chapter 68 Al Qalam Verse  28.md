@@ -452,6 +452,18 @@ Qāla 'Awsaţuhum 'Alam 'Aqul Lakum Lawlā Tusabbiĥūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ أَوْسَطُهُمْ أَلَمْ أَقُلْ لَكُمْ لَوْلَا تُسَبِّحُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال اوسطهم الم اقل لكم لولا تسبحون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ أَوۡسَطُهُمۡ أَلَمۡ أَقُل لَّكُمۡ لَوۡلَا تُسَبِّحُونَ
 
 | Details |  |

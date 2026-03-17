@@ -452,6 +452,18 @@ Dhālika Mablaghuhum Mina Al-'Ilmi 'Inna Rabbaka Huwa 'A'lamu Biman Đalla 'An S
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ مَبْلَغُهُمْ مِنَ الْعِلْمِ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيلِهِ وَهُوَ أَعْلَمُ بِمَنِ اهْتَدَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك مبلغهم من العلم ان ربك هو اعلم بمن ضل عن سبيله وهو اعلم بمن اهتدى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ مَبۡلَغُهُم مِّنَ ٱلۡعِلۡمِۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِیلِهِۦ وَهُوَ أَعۡلَمُ بِمَنِ ٱهۡتَدَىٰ
 
 | Details |  |

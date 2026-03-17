@@ -452,6 +452,18 @@ Wa 'Anbatnā 'Alayhi Shajaratan Min Yaqţīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأَنْبَتْنَا عَلَيْهِ شَجَرَةً مِنْ يَقْطِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانبتنا عليه شجرة من يقطين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأَنۢبَتۡنَا عَلَیۡهِ شَجَرَةࣰ مِّن یَقۡطِینࣲ
 
 | Details |  |

@@ -452,6 +452,18 @@ Am 'Ātaynāhum Kitābāan Min Qablihi Fahum Bihi Mustamsikūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَمْ آتَيْنَاهُمْ كِتَابًا مِنْ قَبْلِهِ فَهُمْ بِهِ مُسْتَمْسِكُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ام اتيناهم كتابا من قبله فهم به مستمسكون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أَمۡ ءَاتَیۡنَـٰهُمۡ كِتَـٰبࣰا مِّن قَبۡلِهِۦ فَهُم بِهِۦ مُسۡتَمۡسِكُونَ
 
 | Details |  |

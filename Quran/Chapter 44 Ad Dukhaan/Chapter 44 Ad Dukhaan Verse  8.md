@@ -452,6 +452,18 @@ Lā 'Ilāha 'Illā Huwa Yuĥyī Wa Yumītu Rabbukum Wa Rabbu 'Ābā'ikumu Al-'Aw
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا إِلَهَ إِلَّا هُوَ يُحْيِي وَيُمِيتُ رَبُّكُمْ وَرَبُّ آبَائِكُمُ الْأَوَّلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا اله الا هو يحيي ويميت ربكم ورب ابايكم الاولين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَاۤ إِلَـٰهَ إِلَّا هُوَ یُحۡیِۦ وَیُمِیتُۖ رَبُّكُمۡ وَرَبُّ ءَابَاۤئِكُمُ ٱلۡأَوَّلِینَ
 
 | Details |  |

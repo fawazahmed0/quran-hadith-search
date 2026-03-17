@@ -452,6 +452,18 @@ Wa Al-Jānna Khalaqnāhu Min Qablu Min Nāri As-Samūmi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالْجَانَّ خَلَقْنَاهُ مِنْ قَبْلُ مِنْ نَارِ السَّمُومِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والجان خلقناه من قبل من نار السموم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلۡجَاۤنَّ خَلَقۡنَـٰهُ مِن قَبۡلُ مِن نَّارِ ٱلسَّمُومِ
 
 | Details |  |

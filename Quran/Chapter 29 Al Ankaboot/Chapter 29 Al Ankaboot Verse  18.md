@@ -452,6 +452,18 @@ Wa 'In Tukadhibū Faqad Kadhaba 'Umamun Min Qablikum Wa Mā 'Alá Ar-Rasūli 'Il
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنْ تُكَذِّبُوا فَقَدْ كَذَّبَ أُمَمٌ مِنْ قَبْلِكُمْ وَمَا عَلَى الرَّسُولِ إِلَّا الْبَلَاغُ الْمُبِينُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وان تكذبوا فقد كذب امم من قبلكم وما على الرسول الا البلاغ المبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِن تُكَذِّبُوا۟ فَقَدۡ كَذَّبَ أُمَمࣱ مِّن قَبۡلِكُمۡۖ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلۡبَلَـٰغُ ٱلۡمُبِینُ
 
 | Details |  |

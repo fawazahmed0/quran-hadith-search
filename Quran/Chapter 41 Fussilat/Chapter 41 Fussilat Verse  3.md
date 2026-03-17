@@ -452,6 +452,18 @@ Kitābun Fuşşilat 'Āyātuhu Qur'ānāan 'Arabīyāan Liqawmin Ya'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+كِتَابٌ فُصِّلَتْ آيَاتُهُ قُرْآنًا عَرَبِيًّا لِقَوْمٍ يَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+كتاب فصلت اياته قرانا عربيا لقوم يعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 كِتَـٰبࣱ فُصِّلَتۡ ءَایَـٰتُهُۥ قُرۡءَانًا عَرَبِیࣰّا لِّقَوۡمࣲ یَعۡلَمُونَ
 
 | Details |  |

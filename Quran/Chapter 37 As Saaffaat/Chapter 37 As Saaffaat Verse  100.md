@@ -452,6 +452,18 @@ Rabbi Hab Lī Mina Aş-Şāliĥīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+رب هب لي من الصالحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 رَبِّ هَبۡ لِی مِنَ ٱلصَّـٰلِحِینَ
 
 | Details |  |

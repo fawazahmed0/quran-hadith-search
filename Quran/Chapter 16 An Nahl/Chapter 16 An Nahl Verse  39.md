@@ -452,6 +452,18 @@ Liyubayyina Lahumu Al-Ladhī Yakhtalifūna Fīhi Wa Liya'lama Al-Ladhīna Kafar�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِيُبَيِّنَ لَهُمُ الَّذِي يَخْتَلِفُونَ فِيهِ وَلِيَعْلَمَ الَّذِينَ كَفَرُوا أَنَّهُمْ كَانُوا كَاذِبِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ليبين لهم الذي يختلفون فيه وليعلم الذين كفروا انهم كانوا كاذبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِیُبَیِّنَ لَهُمُ ٱلَّذِی یَخۡتَلِفُونَ فِیهِ وَلِیَعۡلَمَ ٱلَّذِینَ كَفَرُوۤا۟ أَنَّهُمۡ كَانُوا۟ كَـٰذِبِینَ
 
 | Details |  |

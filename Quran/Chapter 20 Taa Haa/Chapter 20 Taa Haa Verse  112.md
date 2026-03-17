@@ -452,6 +452,18 @@ Wa Man Ya'mal Mina Aş-Şāliĥāti Wa Huwa Mu'uminun Falā Yakhāfu Žulmāan W
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَنْ يَعْمَلْ مِنَ الصَّالِحَاتِ وَهُوَ مُؤْمِنٌ فَلَا يَخَافُ ظُلْمًا وَلَا هَضْمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومن يعمل من الصالحات وهو مومن فلا يخاف ظلما ولا هضما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَن یَعۡمَلۡ مِنَ ٱلصَّـٰلِحَـٰتِ وَهُوَ مُؤۡمِنࣱ فَلَا یَخَافُ ظُلۡمࣰا وَلَا هَضۡمࣰا
 
 | Details |  |

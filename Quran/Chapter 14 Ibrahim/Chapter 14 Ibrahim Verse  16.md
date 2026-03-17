@@ -452,6 +452,18 @@ Min Warā'ihi Jahannamu Wa Yusqá Min Mā'in Şadīdin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مِنْ وَرَائِهِ جَهَنَّمُ وَيُسْقَى مِنْ مَاءٍ صَدِيدٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من ورايه جهنم ويسقى من ماء صديد
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مِّن وَرَاۤئِهِۦ جَهَنَّمُ وَیُسۡقَىٰ مِن مَّاۤءࣲ صَدِیدࣲ
 
 | Details |  |

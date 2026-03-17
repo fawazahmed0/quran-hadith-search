@@ -452,6 +452,18 @@ Sayaqūlūna Lillāhi Qul 'Afalā Tattaqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+سَيَقُولُونَ لِلَّهِ قُلْ أَفَلَا تَتَّقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+سيقولون لله قل افلا تتقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 سَیَقُولُونَ لِلَّهِۚ قُلۡ أَفَلَا تَتَّقُونَ
 
 | Details |  |

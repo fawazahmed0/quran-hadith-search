@@ -452,6 +452,18 @@ Yas'alu 'Ayyāna Yawmu Al-Qiyāmahi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَسْأَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يسال ايان يوم القيامة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَسۡءَلُ أَیَّانَ یَوۡمُ ٱلۡقِیَـٰمَةِ
 
 | Details |  |

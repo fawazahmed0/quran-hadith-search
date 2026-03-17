@@ -452,6 +452,18 @@ Wa Bil-Ĥaqqi 'Anzalnāhu Wa Bil-Ĥaqqi Nazala Wa Mā 'Arsalnāka 'Illā Mubashi
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَبِالْحَقِّ أَنْزَلْنَاهُ وَبِالْحَقِّ نَزَلَ وَمَا أَرْسَلْنَاكَ إِلَّا مُبَشِّرًا وَنَذِيرًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وبالحق انزلناه وبالحق نزل وما ارسلناك الا مبشرا ونذيرا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَبِٱلۡحَقِّ أَنزَلۡنَـٰهُ وَبِٱلۡحَقِّ نَزَلَۗ وَمَاۤ أَرۡسَلۡنَـٰكَ إِلَّا مُبَشِّرࣰا وَنَذِیرࣰا
 
 | Details |  |

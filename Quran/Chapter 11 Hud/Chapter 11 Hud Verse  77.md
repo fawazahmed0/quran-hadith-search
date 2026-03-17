@@ -452,6 +452,18 @@ Wa Lammā Jā'at Rusulunā Lūţāan Sī'a Bihim Wa Đāqa Bihim Dhar'āan Wa Q�
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَمَّا جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ هَذَا يَوْمٌ عَصِيبٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولما جاءت رسلنا لوطا سيء بهم وضاق بهم ذرعا وقال هذا يوم عصيب
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَمَّا جَاۤءَتۡ رُسُلُنَا لُوطࣰا سِیۤءَ بِهِمۡ وَضَاقَ بِهِمۡ ذَرۡعࣰا وَقَالَ هَـٰذَا یَوۡمٌ عَصِیبࣱ
 
 | Details |  |

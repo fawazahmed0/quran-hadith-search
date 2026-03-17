@@ -452,6 +452,18 @@ Bal Yurīdu Kullu Amri'in Minhum 'An Yu'utá Şuĥufāan Munasharahan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+بَلْ يُرِيدُ كُلُّ امْرِئٍ مِنْهُمْ أَنْ يُؤْتَى صُحُفًا مُنَشَّرَةً
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+بل يريد كل امري منهم ان يوتى صحفا منشرة
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 بَلۡ یُرِیدُ كُلُّ ٱمۡرِئࣲ مِّنۡهُمۡ أَن یُؤۡتَىٰ صُحُفࣰا مُّنَشَّرَةࣰ
 
 | Details |  |

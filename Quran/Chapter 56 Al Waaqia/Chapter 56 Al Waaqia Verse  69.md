@@ -452,6 +452,18 @@ A'antum 'Anzaltumūhu Mina Al-Muzni 'Am Naĥnu Al-Munzilūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أَأَنْتُمْ أَنْزَلْتُمُوهُ مِنَ الْمُزْنِ أَمْ نَحْنُ الْمُنْزِلُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اانتم انزلتموه من المزن ام نحن المنزلون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ءَأَنتُمۡ أَنزَلۡتُمُوهُ مِنَ ٱلۡمُزۡنِ أَمۡ نَحۡنُ ٱلۡمُنزِلُونَ
 
 | Details |  |

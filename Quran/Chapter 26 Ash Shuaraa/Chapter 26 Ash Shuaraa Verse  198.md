@@ -452,6 +452,18 @@ Wa Law Nazzalnāhu 'Alá Ba'đi Al-'A'jamīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَوْ نَزَّلْنَاهُ عَلَى بَعْضِ الْأَعْجَمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولو نزلناه على بعض الاعجمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَوۡ نَزَّلۡنَـٰهُ عَلَىٰ بَعۡضِ ٱلۡأَعۡجَمِینَ
 
 | Details |  |

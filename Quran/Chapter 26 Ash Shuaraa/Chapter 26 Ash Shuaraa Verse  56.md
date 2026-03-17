@@ -452,6 +452,18 @@ Wa 'Innā Lajamī'un Ĥādhirūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَإِنَّا لَجَمِيعٌ حَاذِرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وانا لجميع حاذرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَإِنَّا لَجَمِیعٌ حَـٰذِرُونَ
 
 | Details |  |

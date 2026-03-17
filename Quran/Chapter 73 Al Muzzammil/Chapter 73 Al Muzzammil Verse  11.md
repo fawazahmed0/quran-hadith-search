@@ -452,6 +452,18 @@ Wa Dharnī Wa Al-Mukadhibīna 'Ūlī An-Na'mati Wa Mahhilhum Qalīlāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وذرني والمكذبين اولي النعمة ومهلهم قليلا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَذَرۡنِی وَٱلۡمُكَذِّبِینَ أُو۟لِی ٱلنَّعۡمَةِ وَمَهِّلۡهُمۡ قَلِیلًا
 
 | Details |  |

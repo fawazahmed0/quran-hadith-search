@@ -452,6 +452,18 @@ Wa Huwa Al-Ghafūru Al-Wadūdu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَهُوَ الْغَفُورُ الْوَدُودُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وهو الغفور الودود
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَهُوَ ٱلۡغَفُورُ ٱلۡوَدُودُ
 
 | Details |  |

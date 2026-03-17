@@ -452,6 +452,18 @@ Inna Al-Ladhīna Sabaqat Lahum Minnā Al-Ĥusná 'Ūlā'ika 'Anhā Mub'adūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّ الَّذِينَ سَبَقَتْ لَهُمْ مِنَّا الْحُسْنَى أُولَئِكَ عَنْهَا مُبْعَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ان الذين سبقت لهم منا الحسنى اوليك عنها مبعدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّ ٱلَّذِینَ سَبَقَتۡ لَهُم مِّنَّا ٱلۡحُسۡنَىٰۤ أُو۟لَـٰۤئِكَ عَنۡهَا مُبۡعَدُونَ
 
 | Details |  |

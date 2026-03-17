@@ -452,6 +452,18 @@ Wa Al-Ladhī Qaddara Fahadá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَالَّذِي قَدَّرَ فَهَدَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+والذي قدر فهدى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَٱلَّذِی قَدَّرَ فَهَدَىٰ
 
 | Details |  |

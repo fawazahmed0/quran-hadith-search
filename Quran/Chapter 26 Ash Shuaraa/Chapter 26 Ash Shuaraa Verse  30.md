@@ -452,6 +452,18 @@ Qāla 'Awalaw Ji'tuka Bishay'in Mubīnin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ أَوَلَوْ جِئْتُكَ بِشَيْءٍ مُبِينٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال اولو جيتك بشيء مبين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ أَوَ لَوۡ جِئۡتُكَ بِشَیۡءࣲ مُّبِینࣲ
 
 | Details |  |

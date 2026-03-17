@@ -452,6 +452,18 @@ Ula'ika Ma'wahumu An-Naru Bima Kanu Yaksibuna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+أُولَئِكَ مَأْوَاهُمُ النَّارُ بِمَا كَانُوا يَكْسِبُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+اوليك ماواهم النار بما كانوا يكسبون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 أُو۟لَـٰۤئِكَ مَأۡوَىٰهُمُ ٱلنَّارُ بِمَا كَانُوا۟ یَكۡسِبُونَ
 
 | Details |  |

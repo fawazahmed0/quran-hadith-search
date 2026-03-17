@@ -452,6 +452,18 @@ Wa Makarū Makrāan Kubbārāan
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَمَكَرُوا مَكْرًا كُبَّارًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ومكروا مكرا كبارا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَمَكَرُوا۟ مَكۡرࣰا كُبَّارࣰا
 
 | Details |  |

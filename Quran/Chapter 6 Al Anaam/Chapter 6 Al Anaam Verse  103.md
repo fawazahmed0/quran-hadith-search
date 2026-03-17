@@ -452,6 +452,18 @@ Lā Tudrikuhu Al-'Abşāru Wa Huwa Yudriku Al-'Abşāra Wa Huwa Al-Laţīfu Al-K
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لَا تُدْرِكُهُ الْأَبْصَارُ وَهُوَ يُدْرِكُ الْأَبْصَارَ وَهُوَ اللَّطِيفُ الْخَبِيرُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+لا تدركه الابصار وهو يدرك الابصار وهو اللطيف الخبير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لَّا تُدۡرِكُهُ ٱلۡأَبۡصَـٰرُ وَهُوَ یُدۡرِكُ ٱلۡأَبۡصَـٰرَۖ وَهُوَ ٱللَّطِیفُ ٱلۡخَبِیرُ
 
 | Details |  |

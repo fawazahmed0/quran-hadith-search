@@ -452,6 +452,18 @@ Wa Laqad 'Ahlaknā 'Ashyā'akum Fahal Min Muddakirin
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ أَهْلَكْنَا أَشْيَاعَكُمْ فَهَلْ مِنْ مُدَّكِرٍ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد اهلكنا اشياعكم فهل من مدكر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ أَهۡلَكۡنَاۤ أَشۡیَاعَكُمۡ فَهَلۡ مِن مُّدَّكِرࣲ
 
 | Details |  |

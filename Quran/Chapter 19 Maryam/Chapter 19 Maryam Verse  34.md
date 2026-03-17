@@ -452,6 +452,18 @@ Dhālika 'Īsá Abnu Maryama Qawla Al-Ĥaqqi Al-Ladhī Fīhi Yamtarūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ عِيسَى ابْنُ مَرْيَمَ قَوْلَ الْحَقِّ الَّذِي فِيهِ يَمْتَرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك عيسى ابن مريم قول الحق الذي فيه يمترون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ عِیسَى ٱبۡنُ مَرۡیَمَۖ قَوۡلَ ٱلۡحَقِّ ٱلَّذِی فِیهِ یَمۡتَرُونَ
 
 | Details |  |

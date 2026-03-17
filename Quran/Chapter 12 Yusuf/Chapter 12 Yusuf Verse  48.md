@@ -452,6 +452,18 @@ Thumma Ya'tī Min Ba'di Dhālika Sab'un Shidādun Ya'kulna Mā Qaddamtum Lahunna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ثُمَّ يَأْتِي مِنْ بَعْدِ ذَلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًا مِمَّا تُحْصِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ثم ياتي من بعد ذلك سبع شداد ياكلن ما قدمتم لهن الا قليلا مما تحصنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ثُمَّ یَأۡتِی مِنۢ بَعۡدِ ذَ ٰلِكَ سَبۡعࣱ شِدَادࣱ یَأۡكُلۡنَ مَا قَدَّمۡتُمۡ لَهُنَّ إِلَّا قَلِیلࣰا مِّمَّا تُحۡصِنُونَ
 
 | Details |  |

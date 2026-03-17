@@ -452,6 +452,18 @@ Fakadhaba Wa 'Aşá
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَكَذَّبَ وَعَصَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فكذب وعصى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَكَذَّبَ وَعَصَىٰ
 
 | Details |  |

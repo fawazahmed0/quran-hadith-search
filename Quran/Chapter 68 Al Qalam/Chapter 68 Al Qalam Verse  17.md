@@ -452,6 +452,18 @@ Innā Balawnāhum Kamā Balawnā 'Aşĥāba Al-Jannati 'Idh 'Aqsamū Layaşrimun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِنَّا بَلَوْنَاهُمْ كَمَا بَلَوْنَا أَصْحَابَ الْجَنَّةِ إِذْ أَقْسَمُوا لَيَصْرِمُنَّهَا مُصْبِحِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+انا بلوناهم كما بلونا اصحاب الجنة اذ اقسموا ليصرمنها مصبحين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِنَّا بَلَوۡنَـٰهُمۡ كَمَا بَلَوۡنَاۤ أَصۡحَـٰبَ ٱلۡجَنَّةِ إِذۡ أَقۡسَمُوا۟ لَیَصۡرِمُنَّهَا مُصۡبِحِینَ
 
 | Details |  |

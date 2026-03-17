@@ -452,6 +452,18 @@ Ilá Fir'awna Wa Mala'ihi Fāstakbarū Wa Kānū Qawmāan 'Ālīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+إِلَى فِرْعَوْنَ وَمَلَئِهِ فَاسْتَكْبَرُوا وَكَانُوا قَوْمًا عَالِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الى فرعون ومليه فاستكبروا وكانوا قوما عالين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 إِلَىٰ فِرۡعَوۡنَ وَمَلَإِی۟هِۦ فَٱسۡتَكۡبَرُوا۟ وَكَانُوا۟ قَوۡمًا عَالِینَ
 
 | Details |  |

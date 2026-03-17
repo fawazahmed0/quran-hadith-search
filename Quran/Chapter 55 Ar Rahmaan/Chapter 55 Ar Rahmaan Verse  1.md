@@ -452,6 +452,18 @@ Ar-Raĥmānu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+الرَّحْمَنُ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+الرحمن
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ۞ ٱلرَّحۡمَـٰنُ
 
 | Details |  |

@@ -452,6 +452,18 @@ Man Kafara Fa'alayhi Kufruhu Wa Man 'Amila Şāliĥāan Fali'anfusihim Yamhadūn
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+مَنْ كَفَرَ فَعَلَيْهِ كُفْرُهُ وَمَنْ عَمِلَ صَالِحًا فَلِأَنْفُسِهِمْ يَمْهَدُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+من كفر فعليه كفره ومن عمل صالحا فلانفسهم يمهدون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 مَن كَفَرَ فَعَلَیۡهِ كُفۡرُهُۥۖ وَمَنۡ عَمِلَ صَـٰلِحࣰا فَلِأَنفُسِهِمۡ یَمۡهَدُونَ
 
 | Details |  |

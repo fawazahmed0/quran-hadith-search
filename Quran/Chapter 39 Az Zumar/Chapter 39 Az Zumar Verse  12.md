@@ -452,6 +452,18 @@ Wa 'Umirtu Li'n 'Akūna 'Awwala Al-Muslimīna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَأُمِرْتُ لِأَنْ أَكُونَ أَوَّلَ الْمُسْلِمِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وامرت لان اكون اول المسلمين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَأُمِرۡتُ لِأَنۡ أَكُونَ أَوَّلَ ٱلۡمُسۡلِمِینَ
 
 | Details |  |

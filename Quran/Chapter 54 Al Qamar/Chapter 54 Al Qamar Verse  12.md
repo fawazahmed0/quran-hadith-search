@@ -452,6 +452,18 @@ Wa Fajjarnā Al-'Arđa 'Uyūnāan Fāltaqá Al-Mā'u 'Alá 'Amrin Qad Qudira
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَفَجَّرْنَا الْأَرْضَ عُيُونًا فَالْتَقَى الْمَاءُ عَلَى أَمْرٍ قَدْ قُدِرَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وفجرنا الارض عيونا فالتقى الماء على امر قد قدر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَفَجَّرۡنَا ٱلۡأَرۡضَ عُیُونࣰا فَٱلۡتَقَى ٱلۡمَاۤءُ عَلَىٰۤ أَمۡرࣲ قَدۡ قُدِرَ
 
 | Details |  |

@@ -452,6 +452,18 @@ Liyas'ala Aş-Şādiqīna 'An Şidqihim Wa 'A'adda Lilkāfirīna 'Adhābāan 'Al
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+لِيَسْأَلَ الصَّادِقِينَ عَنْ صِدْقِهِمْ وَأَعَدَّ لِلْكَافِرِينَ عَذَابًا أَلِيمًا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ليسال الصادقين عن صدقهم واعد للكافرين عذابا اليما
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 لِّیَسۡءَلَ ٱلصَّـٰدِقِینَ عَن صِدۡقِهِمۡۚ وَأَعَدَّ لِلۡكَـٰفِرِینَ عَذَابًا أَلِیمࣰا
 
 | Details |  |

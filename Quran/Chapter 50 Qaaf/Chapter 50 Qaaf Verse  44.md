@@ -452,6 +452,18 @@ Yawma Tashaqqaqu Al-'Arđu 'Anhum Sirā'āan Dhālika Ĥashrun 'Alaynā Yasīrun
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَوْمَ تَشَقَّقُ الْأَرْضُ عَنْهُمْ سِرَاعًا ذَلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يوم تشقق الارض عنهم سراعا ذلك حشر علينا يسير
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَوۡمَ تَشَقَّقُ ٱلۡأَرۡضُ عَنۡهُمۡ سِرَاعࣰاۚ ذَ ٰلِكَ حَشۡرٌ عَلَیۡنَا یَسِیرࣱ
 
 | Details |  |

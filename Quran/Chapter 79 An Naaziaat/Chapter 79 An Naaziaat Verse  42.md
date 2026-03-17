@@ -452,6 +452,18 @@ Yas'alūnaka 'Ani As-Sā'ati 'Ayyāna Mursāhā
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+يسالونك عن الساعة ايان مرساها
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 یَسۡءَلُونَكَ عَنِ ٱلسَّاعَةِ أَیَّانَ مُرۡسَىٰهَا
 
 | Details |  |

@@ -452,6 +452,18 @@ Qāla Yā Hārūnu Mā Mana'aka 'Idh Ra'aytahum Đallū
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَالَ يَا هَارُونُ مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قال يا هارون ما منعك اذ رايتهم ضلوا
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَالَ یَـٰهَـٰرُونُ مَا مَنَعَكَ إِذۡ رَأَیۡتَهُمۡ ضَلُّوۤا۟
 
 | Details |  |

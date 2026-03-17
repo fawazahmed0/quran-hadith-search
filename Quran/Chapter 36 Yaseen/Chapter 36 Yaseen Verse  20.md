@@ -452,6 +452,18 @@ Wa Jā'a Min 'Aqşá Al-Madīnati Rajulun Yas'á Qāla Yā Qawmi Attabi'ū Al-Mu
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَجَاءَ مِنْ أَقْصَى الْمَدِينَةِ رَجُلٌ يَسْعَى قَالَ يَا قَوْمِ اتَّبِعُوا الْمُرْسَلِينَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وجاء من اقصى المدينة رجل يسعى قال يا قوم اتبعوا المرسلين
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَجَاۤءَ مِنۡ أَقۡصَا ٱلۡمَدِینَةِ رَجُلࣱ یَسۡعَىٰ قَالَ یَـٰقَوۡمِ ٱتَّبِعُوا۟ ٱلۡمُرۡسَلِینَ
 
 | Details |  |

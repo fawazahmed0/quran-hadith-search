@@ -452,6 +452,18 @@ Wa Lā Taqūlū Liman Yuqtalu Fī Sabīli Allāhi 'Amwātun Bal 'Aĥyā'un Wa La
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَا تَقُولُوا لِمَنْ يُقْتَلُ فِي سَبِيلِ اللَّهِ أَمْوَاتٌ بَلْ أَحْيَاءٌ وَلَكِنْ لَا تَشْعُرُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولا تقولوا لمن يقتل في سبيل الله اموات بل احياء ولكن لا تشعرون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَا تَقُولُوا۟ لِمَن یُقۡتَلُ فِی سَبِیلِ ٱللَّهِ أَمۡوَ ٰتُۢۚ بَلۡ أَحۡیَاۤءࣱ وَلَـٰكِن لَّا تَشۡعُرُونَ
 
 | Details |  |

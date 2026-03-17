@@ -452,6 +452,18 @@ Fīhimā Min Kulli Fākihatin Zawjāni
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فِيهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجَانِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فيهما من كل فاكهة زوجان
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فِیهِمَا مِن كُلِّ فَـٰكِهَةࣲ زَوۡجَانِ
 
 | Details |  |

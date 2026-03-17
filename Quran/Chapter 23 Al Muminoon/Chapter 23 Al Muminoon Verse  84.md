@@ -452,6 +452,18 @@ Qul Limani Al-'Arđu Wa Man Fīhā 'In Kuntum Ta'lamūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قُلْ لِمَنِ الْأَرْضُ وَمَنْ فِيهَا إِنْ كُنْتُمْ تَعْلَمُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قل لمن الارض ومن فيها ان كنتم تعلمون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قُل لِّمَنِ ٱلۡأَرۡضُ وَمَن فِیهَاۤ إِن كُنتُمۡ تَعۡلَمُونَ
 
 | Details |  |

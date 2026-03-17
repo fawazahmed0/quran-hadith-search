@@ -452,6 +452,18 @@ Fa'alqāhā Fa'idhā Hiya Ĥayyatun Tas'á
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+فَأَلْقَاهَا فَإِذَا هِيَ حَيَّةٌ تَسْعَى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+فالقاها فاذا هي حية تسعى
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 فَأَلۡقَىٰهَا فَإِذَا هِیَ حَیَّةࣱ تَسۡعَىٰ
 
 | Details |  |

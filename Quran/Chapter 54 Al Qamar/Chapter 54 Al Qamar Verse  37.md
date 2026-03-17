@@ -452,6 +452,18 @@ Wa Laqad Rāwadūhu 'An Đayfihi Faţamasnā 'A'yunahum Fadhūqū 'Adhābī Wa N
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَلَقَدْ رَاوَدُوهُ عَنْ ضَيْفِهِ فَطَمَسْنَا أَعْيُنَهُمْ فَذُوقُوا عَذَابِي وَنُذُرِ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ولقد راودوه عن ضيفه فطمسنا اعينهم فذوقوا عذابي ونذر
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَلَقَدۡ رَ ٰوَدُوهُ عَن ضَیۡفِهِۦ فَطَمَسۡنَاۤ أَعۡیُنَهُمۡ فَذُوقُوا۟ عَذَابِی وَنُذُرِ
 
 | Details |  |

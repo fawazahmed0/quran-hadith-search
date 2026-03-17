@@ -452,6 +452,18 @@ Qawma Fir'awna 'Alā Yattaqūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+قَوْمَ فِرْعَوْنَ أَلَا يَتَّقُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+قوم فرعون الا يتقون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 قَوۡمَ فِرۡعَوۡنَۚ أَلَا یَتَّقُونَ
 
 | Details |  |

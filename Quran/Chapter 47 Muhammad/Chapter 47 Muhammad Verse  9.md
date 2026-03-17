@@ -452,6 +452,18 @@ Dhālika Bi'annahum Karihū Mā 'Anzala Allāhu Fa'aĥbaţa 'A'mālahum
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+ذَلِكَ بِأَنَّهُمْ كَرِهُوا مَا أَنْزَلَ اللَّهُ فَأَحْبَطَ أَعْمَالَهُمْ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+ذلك بانهم كرهوا ما انزل الله فاحبط اعمالهم
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 ذَ ٰلِكَ بِأَنَّهُمۡ كَرِهُوا۟ مَاۤ أَنزَلَ ٱللَّهُ فَأَحۡبَطَ أَعۡمَـٰلَهُمۡ
 
 | Details |  |

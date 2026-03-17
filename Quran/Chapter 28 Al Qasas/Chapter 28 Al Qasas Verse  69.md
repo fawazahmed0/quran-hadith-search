@@ -452,6 +452,18 @@ Wa Rabbuka Ya'lamu Mā Tukinnu Şudūruhum Wa Mā Yu'linūna
 | --- | --- |
 | Author | Quran Soosi Non Unicode |
 
+وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled |
+
+وربك يعلم ما تكن صدورهم وما يعلنون
+
+| Details |  |
+| --- | --- |
+| Author | Quran Spelled No Diacritics |
+
 وَرَبُّكَ یَعۡلَمُ مَا تُكِنُّ صُدُورُهُمۡ وَمَا یُعۡلِنُونَ
 
 | Details |  |
