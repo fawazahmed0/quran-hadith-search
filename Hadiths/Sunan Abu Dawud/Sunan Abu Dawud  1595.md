@@ -150,6 +150,8 @@ Ebû Hureyre'den rivayet edildiğine göre, Resûlullah (s.a.v.): "Müslümana k
 
 ## Urdu
 
+ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : ” مسلمان پر اس کے غلام ، لونڈی اور گھوڑے میں زکاۃ نہیں ہے “ ۔
+
 | Grade |  |
 | --- | --- |
 | Sahih | Al-Albani |

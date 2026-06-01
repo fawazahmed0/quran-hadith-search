@@ -140,6 +140,8 @@ Abdullah (b. Mes'ud) (r.a) şöyle demiştir: Amde benzeyen öldürme(nin diyeti
 
 ## Urdu
 
+عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں شبہ عمد کی دیت پچیس حقہ ، پچیس جزعہ ، پچیس بنت لبون ، اور پچیس بنت مخاض ہے ۔
+
 | Grade |  |
 | --- | --- |
 | Daif Isnaad | Al-Albani |

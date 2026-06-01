@@ -148,6 +148,8 @@ er-Rubeyyi'den rivayet edildiğine göre: "Rasulullah (sallallahu aleyhi ve sell
 
 ## Urdu
 
+سیدہ ربيع ( ربيع بنت معوذ ) ؓ سے مروى ہے كہ نبی کریم ﷺ نے سر کا مسح کیا، اور اسی پانی سے کیا جو ان کے ہاتھوں میں (پہلے سے) بچا ہوا تھا۔
+
 | Grade |  |
 | --- | --- |
 | Hasan | Al-Albani |

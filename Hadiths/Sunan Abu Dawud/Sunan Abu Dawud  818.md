@@ -150,6 +150,8 @@ Ebu Said (el-Hudrî) (r.a.)'den; demiştir ki: Biz (namazda) Fatiha ile (beraber
 
 ## Urdu
 
+سیدنا ابوسعید ؓ بیان کرتے ہیں کہ ہمیں حکم دیا گیا کہ ہم (نماز میں) فاتحہ اور جو میسر ہو (یعنی قرآن میں سے) پڑھا کریں۔
+
 | Grade |  |
 | --- | --- |
 | Sahih | Al-Albani |

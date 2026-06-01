@@ -142,6 +142,8 @@ Aişe (r.anha)'dan rivayet edildiğine göre; "İbn Umm-i Mektum a'ma olduğu ha
 
 ## Urdu
 
+ام المؤمنین سیدہ عائشہ ؓ سے روایت ہے کہ سیدنا ابن ام مکتوم ؓ رسول اللہ ﷺ کے مؤذن تھے اور نابینا تھے۔
+
 | Grade |  |
 | --- | --- |
 | Sahih | Al-Albani |

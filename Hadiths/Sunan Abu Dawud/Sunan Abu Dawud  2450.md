@@ -150,6 +150,8 @@ Abdullah (b. Mes'ud) (r.a.)'den; demiştir ki; Rasûlullah (s.a.v.) üç gün -y
 
 ## Urdu
 
+عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم ہر مہینے کے شروع میں تین دن روزے رکھتے ۔
+
 | Grade |  |
 | --- | --- |
 | Hasan | Al-Albani |

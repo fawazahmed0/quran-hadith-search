@@ -142,6 +142,8 @@ Asım b. Damra. Hz. Ali (r.a)'in şöyle dediğini rivayet etmiştir: Hatâen ö
 
 ## Urdu
 
+علی رضی اللہ عنہ کہتے ہیں قتل خطا کی دیت میں چار قسم کے اونٹ ہوں گے : پچیس حقہ ، پچیس جزعہ ، پچیس بنت لبون ، اور پچیس بنت مخاض ۔
+
 | Grade |  |
 | --- | --- |
 | Daif | Al-Albani |

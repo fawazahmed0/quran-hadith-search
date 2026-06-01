@@ -142,6 +142,8 @@ Telah menceritakan kepada Kami \[Utsman bin Abu Syaibah\], telah menceritakan ke
 
 ## Urdu
 
+سیدنا ابن عباس ؓ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ”اسلام میں «صرورة» نہیں ہے۔“ (کوئی شخص باوجود استطاعت کے حج کرنے سے اعراض کر لے)۔
+
 | Grade |  |
 | --- | --- |
 | Daif | Al-Albani |
